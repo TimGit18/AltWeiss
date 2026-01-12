@@ -1,0 +1,14 @@
+[Event "The Ruy Lopez - Move by Move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "NeuWeiss"]
+[Black "Spanische Partie"]
+[Result "*"]
+[ECO "C77"]
+[Annotator "Neil McDonald"]
+[PlyCount "9"]
+[SourceVersionDate "2026.01.12"]
+
+{[%evp 0,9,19,22,22,22,22,22,30,10,10,10]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 $1 {Das ist der Start eines Kampfes um den starken Punkt e5 von Schwarz.} a6 {Die Morphy-Verteidigung gilt heute als genaueste Antwort auf die weiße Aggression.} 4. Ba4 {In der Regel tauscht Weiß den Läufer nicht ab (da dieser Abtausch sowieso keinen Bauern gewinnt), sondern zieht ihn zurück, um den Druck aufrecht zu erhalten.} Nf6 {Der Gegenangriff leitet die Moderne Spanische Partie ein.} ({Der voreilige Zug} 4... b5 {lockert zu sehr den schwarzen Damenflügel auf, jedenfalls jetzt, und bildet momentan eine Schwäche, die angegriffen werden kann. Daher verzögert Schwarz den Zug normalerweise solange wie es geht. Später kann dieser Zug allerdings Sinn machen. Nach} 5. Bb3 Na5 {erhält Schwarz natürlich die Gelegenheit, den weißen Königsläufer abzutauschen, ohne Zweifel eine gute Sache. Das Problem ist allerdings, dass dieses eine Menge Zeit kostet, zum Beispiel} 6. O-O d6 7. d4 f6 8. Nc3 Nxb3 9. axb3 {Schwarz hat keine einzige Figur entwickelt, und Weiß kann einen Angriff entwickeln, indem er Linien öffnet nach} Bb7 10. Qe2 g6 11. Be3 c6 12. dxe5 fxe5 13. Ng5 Be7 14. f4 $1 {wie in der Partie Pavlovic-Agdestein, Gibraltar Masters Catalan Bay 2003.}) {Das Anderssen-System} 5. d3 {in der Spanischen Partie wird auch manchmal Wilhelm Steinitz (seltener Rudolf Teichnmann) zugeschrieben. Es handelt sich um das zurückgehaltene Zentrum, mit dem Weiß auf ein schnelles d2-d4 verzichtet und sich ähnlich wie in der Modernen Italienischen Partie aufbaut. Zunächst wird Schwarz an schnellen Aktionen im Zentrum gehindert, aber auch nicht direkt unter Druck gesetzt. Der Wert dieses Zugs ist weniger ein theoretischer, sondern ein praktischer.} *
+
