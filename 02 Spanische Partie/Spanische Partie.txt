@@ -1,6 +1,7 @@
 ﻿==================================================================================================================================
 Spanische Partie
 ==================================================================================================================================
+Dariusz Swiercz:			The Modernized Ruy Lopez					(Thinkers Publishing)
 John Shaw:				Starting Out - The Ruy Lopez					(Everyman Chess)
 Neil McDonald: 				The Ruy Lopez - Move by Move	 				(Everyman Chess)
 ==================================================================================================================================
@@ -23,7 +24,8 @@ Geschlossene Verteidigung										(C92-C99)
 12 Moderne Verteidigung:		Anderssen-System						(C77)
 13 Moderne Verteidigung:		Averbakh-System							(C87)
 14 Moderne Verteidigung:		Anti-Marshall-System						(C89)
-----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------
+------------------------------------------------------
    Offene Verteidigung											(C80)
 ----------------------------------------------------------------------------------------------------------------------------------
 15 Offene Verteidigung:			Semi-Offene Verteidigung					(C80)
@@ -39,7 +41,7 @@ Geschlossene Verteidigung										(C92-C99)
 22 Morphy-Verteidigung:			Barendregt-Verteidigung						(C66)
 23 Morphy-Verteidigung:			Moderne Steinitz-Verteidigung					(C66)
 ----------------------------------------------------------------------------------------------------------------------------------
-   Klassische Verteidigung											(C64-C65)	
+   Klassische Verteidigung										(C64-C65)	
 ----------------------------------------------------------------------------------------------------------------------------------
 24 Klassische Verteidigung: 		Klassisches System						(C65)
 25 Klassische Verteidigung:		Berliner Mauer							(C65)			
@@ -52,7 +54,7 @@ Geschlossene Verteidigung										(C92-C99)
 29 Alternative Verteidigung:		Smyslov-Verteidigung						(C60)
 30 Alternative Verteidigung:		Cozio-Verteidigung						(C60)	
 31 Alternative Verteidigung:		Bird-Verteidigung						(C61)
-32 Alternative Verteidigung:		Steinitz-Verteidigung						(C62)
+32 Alternative Verteidigung:		Klassische Steinitz-Verteidigung				(C62)
 33 Alternative Verteidigung:		Alapin-Verteidigung						(C60)
 ==================================================================================================================================
 01 Geschlossene Verteidigung:		Chigorin-System

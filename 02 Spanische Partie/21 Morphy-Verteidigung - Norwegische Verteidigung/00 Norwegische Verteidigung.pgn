@@ -1,0 +1,14 @@
+[Event "The Modernized Ruy Lopez"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Morphy-Verteidigung"]
+[Black "Norwegische Verteidigung"]
+[Result "*"]
+[ECO "C70"]
+[Annotator "Dariusz Swiercz"]
+[PlyCount "18"]
+[SourceVersionDate "2026.01.12"]
+
+{[%evp 0,9,19,38,25,7,17,8,16,-2,0,8]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 {Das ist der Start eines Kampfes um den starken Punkt e5 von Schwarz.} a6 {Die Morphy-Verteidigung gilt heute als genaueste Antwort auf die weiße Aggression.} 4. Ba4 {In der Regel tauscht Weiß den Läufer nicht ab (da dieser Abtausch sowieso keinen Bauern gewinnt), sondern zieht ihn zurück, um den Druck aufrecht zu erhalten.} {Die Norwegische Verteidigung bildet der voreilige Zug} b5 {Sie lockert zu sehr den schwarzen Damenflügel auf, jedenfalls jetzt, und bildet momentan eine Schwäche, die angegriffen werden kann. Daher verzögert Schwarz den Zug normalerweise solange wie es geht. Später kann dieser Zug allerdings Sinn machen. Nach} 5. Bb3 Na5 {erhält Schwarz natürlich die Gelegenheit, den weißen Königsläufer abzutauschen, ohne Zweifel eine gute Sache. Das Problem ist allerdings, dass dieses eine Menge Zeit kostet, zum Beispiel} 6. O-O d6 7. d4 {Weiß nutzt den Entwicklungsvorsprung, um das schwarze Zentrum aufzubrechen.} exd4 {Dieser Zug bildet die Hauptvariante der Norwegischen Verteidigung. Weiß hat in dieser Stellung versichiedene interessante Optionen. Man folgt hier der Analyse von Ipatov und einer Partie von Ernesto Inarkiev gegen Vadim Moiseenko.} ({Die Abtauschvariante bildet der Zug} 7... Nxb3 8. axb3 f6 {Die Hauptidee dieses Systems ist es, das Läuferpaar zu behalten, um es später einzusetzen. Andererseits beinhaltet der Aufbau eine schwere Konzession, denn Schwarz liegt in der Entwicklung zurück und gibt bereits das Zentrum auf.} 9. Nc3 Bb7 10. Qd3 $5 {Dieser selten gespielte Zug ist ziemlich stark. Die Idee ist es Tf1-d1 zu spielen, gefolgt von Sc3-d5. Idealerweise will Weiß c2-c4 spielen.} Ne7 11. Rd1 {Schwarz hat in dieser Stellung verschiedene Optionen.}) 8. Re1 $1 {Mit diesem Zug scheint Inarkiev ziemlich einfach gewonnen zu haben.} Nxb3 {Das ist die logische Fortsetzung.} 9. axb3 c5 {Das ist der logische Schutz des Bauern d4.} *
+
