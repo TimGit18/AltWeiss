@@ -25,7 +25,7 @@ I. Moderne Verteidigung 		(Neo-Sizilianisch: Najdorf-System und Drachen-System)
 ----------------------------------------------------------------------------------------------------------------------------------
 8. Dd1-f3	h7-h6
 ----------------------------------------------------------------------------------------------------------------------------------
-9. Lg5-h4	g7-g5			08 Göteborg-System						(B98)
+9. Lg5-h4	g7-g5			08 G teborg-System						(B98)
 9. Lg5-h4	Dd8-c7			09 Browne-System 						(B98)	
 ==================================================================================================================================
 1. e2-e4	c7-c5 
@@ -111,7 +111,7 @@ III. Aggressive Verteidigung 		(Alt-Sizilianisch: Sveshnikov und Kalashnikov)
 ================================================================================================================================== 	
 4. Sf3xd4 	e7-e5			Kalashnikov-Verteidigung					(B32)
 ==================================================================================================================================
-5. Sd4-b5	a7-a6			25 Löwenthal-System						(B32)
+5. Sd4-b5	a7-a6			25 L wenthal-System						(B32)
 5. Sd4-b5	d7-d6			26 Kalashnikov-System						(B32)
 ==================================================================================================================================
 1. e2-e4 	c7-c5 
@@ -187,7 +187,7 @@ V. Alternative Verteidigung 		(Alt- und Franco-Sizilianisch)
 ----------------------------------------------------------------------------------------------------------------------------------
 5. Sb1-c3 	Lf8-b4 			44 Sizilianischer Angriff					(B41)
 5. Sb1-c3 	Sb8-c6			45 Sizilianisches Vierspringerspiel				(B41)
-5. Sb1-c3	Dd8-b6			46 Ga°-Pa°-System						(B41)
+5. Sb1-c3	Dd8-b6			46 Ga -Pa -System						(B41)
 ----------------------------------------------------------------------------------------------------------------------------------1. 1- e2-e4	c7-c5 
 2. Sg1-f3	d7-d6 
 3. d2-d4	c5xd4 
@@ -234,7 +234,7 @@ II. Moderne Verteidigung										(C78-C89)
 **********************************************************************************************************************************
 4. Lb5-a4 	Sg8-f6
 ----------------------------------------------------------------------------------------------------------------------------------
-5. O-O 		Lf8-c5			09 Möller-System						(C78)
+5. O-O 		Lf8-c5			09 M ller-System						(C78)
 5. O-O 		b7-b5			10 Archangelsk-System						(C78)
 5. O-O 		d7-d6			11 Russisches System						(C79)
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -313,10 +313,10 @@ V. Klassische Verteidigung										(C60-C65)
 3. Lf1-b5	d7-d6 			32 Steinitz-Verteidigung					(C62)
 3. Lf1-b5	Lf8-b4 			33 Alapin-Verteidigung						(C60)
 ##################################################################################################################################
-03 Französische Verteidigung	(C10-C19)
+03 Franz sische Verteidigung	(C10-C19)
 ##################################################################################################################################
 **********************************************************************************************************************************
-I. Französiche Winawer-Verteidigung									(C15-C19)
+I. Franz siche Winawer-Verteidigung									(C15-C19)
 **********************************************************************************************************************************
 1. e2-e4 	e7-e6 
 2. d2-d4 	d7-d5 
@@ -345,7 +345,7 @@ I. Französiche Winawer-Verteidigung									(C15-C19)
 ----------------------------------------------------------------------------------------------------------------------------------
 4. e4-e5 	b7-b6			07 Anti-Winawer-System						(C16)
 **********************************************************************************************************************************
-II. Französische Steinitz-Verteidigung									(C11)
+II. Franz sische Steinitz-Verteidigung									(C11)
 **********************************************************************************************************************************
 1. e2-e4 	e7-e6 
 2. d2-d4 	d7-d5 
@@ -374,7 +374,7 @@ II. Französische Steinitz-Verteidigung									(C11)
 ----------------------------------------------------------------------------------------------------------------------------------
 6. Sg1-f3 	Dd8-b6			13 Anti-Steinitz-System						(C11)
 **********************************************************************************************************************************
-III. Französische Rubinstein-Verteidigung								(C10)
+III. Franz sische Rubinstein-Verteidigung								(C10)
 **********************************************************************************************************************************
 1. e2-e4 	e7-e6 
 2. d2-d4 	d7-d5 
@@ -479,7 +479,7 @@ II. Alekhine-Verteidigung										(B04-B05)
 4. Sg1-f3	Lc8-g4			04 Klassisches System						(B05)
 4. Sg1-f3	g7-g6			05 Fianchetto-System						(B04)
 ##################################################################################################################################
-07 Pirc-Verteidigung 		(B07-B09)
+07 Pirc-Ufimcev-Verteidigung 		(B07-B09)
 ##################################################################################################################################
 1. e2-e4 	d7-d6 
 **********************************************************************************************************************************
@@ -488,7 +488,7 @@ III. Pirc- und Moderne Verteidigung									(B07-B09)
 2. d2-d4	Sg8-f6 
 3. Sb1-c3	g7-g6 
 ==================================================================================================================================
-4. f2-f4	Lf8-g7			Österreichischer Angriff 					(B09)
+4. f2-f4	Lf8-g7			 sterreichischer Angriff 					(B09)
 ==================================================================================================================================
 5. Sg1-f3	c7-c5 			01 Seirawan-System						(B09)
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -508,7 +508,7 @@ III. Pirc- und Moderne Verteidigung									(B07-B09)
 1. e2-e4 	g7-g6 
 2. d2-d4	Lf8-g7 
 ----------------------------------------------------------------------------------------------------------------------------------
-3. Sb1-c3	d7-d6			01 Österreichischer Angriff					(B06)
+3. Sb1-c3	d7-d6			01  sterreichischer Angriff					(B06)
 3. Sb1-c3	c7-c5			02 The Sniper							(B06)
 3. Sb1-c3	c7-c6			03 Gurgenidze-System						(B06)
 3. Sb1-c3	a7-a6			04 Tiger's Modern						(B06)
@@ -579,12 +579,12 @@ Buch 2: Spanische Partie
 ==================================================================================================================================
 I. 	Geschlossene Verteidigung:	Chigorin-System, Breyer-System,  Zaitsev-System, Karpov-System, Smyslov-System, 
 					Hybrid-System,   Cholmov-System, Keres-System  			
-II. 	Moderne Verteidigung:		Möller-System, Archangelsk-System, Russisches System, Averbakh-System, Anti-Marshall		
+II. 	Moderne Verteidigung:		M ller-System, Archangelsk-System, Russisches System, Averbakh-System, Anti-Marshall		
 III. 	Offene Verteidigung:		Modernes System, Klassisches System, Rigaer System, Pseudo-Dilworth-System
 IV. 	Morphy-Verteidigung:		Aronian-System	und Moderne Steinitz-Verteidigung
 V. 	Klassische Verteidigung:	Berliner Mauer, Cordel-System, Schliemann-System, Jaenisch-System, Cozio-System, 
 					Smyslov-System, Bird-System, Steinitz-Verteidigung		==================================================================================================================================
-Buch 3: Französische und Caro-Kann-Verteidigung
+Buch 3: Franz sische und Caro-Kann-Verteidigung
 ==================================================================================================================================
 I. 	Winawer-Verteidigung:		Klassisches System, Warschauer System, Eingorn-System, Portisch-Hook-System			
 					Semi-Winawer-System, Armenisches System, Anti-Winawer-System					II. 	Steinitz-Verteidigung: 		Modernes System, Vergifteter Bauer, Karjakin-System, Klassisches System,			
@@ -598,7 +598,7 @@ Buch 4: Alternative Verteidigungen, Halboffene und Offene Spiele
 ==================================================================================================================================
 I. 	Skandinavische Verteidigung:	Modernes, Shirov- und Bronstein-System		
 II. 	Alekhine-Verteidigung:		Klassische und Moderne Verteidigung		
-III. 	Pirc- und Moderne Verteidigung:	Tschechich-Pirc, Black Lion, Österreichischer Angriff, Sniper, Tiger's Modern, 			
+III. 	Pirc- und Moderne Verteidigung:	Tschechich-Pirc, Black Lion,  sterreichischer Angriff, Sniper, Tiger's Modern, 			
 					Hippopotamus	
 IV. 	Philidor-Verteidigung		Antoshin, Larsen, Hanham
 V. 	Russische Verteidigung:		Nimzowitsch-Angriff, Offene und Flankenspiele
