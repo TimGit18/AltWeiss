@@ -25,7 +25,7 @@ I. Moderne Verteidigung 		(Neo-Sizilianisch: Najdorf-System und Drachen-System)
 ----------------------------------------------------------------------------------------------------------------------------------
 8. Dd1-f3	h7-h6
 ----------------------------------------------------------------------------------------------------------------------------------
-9. Lg5-h4	g7-g5			08 G teborg-System						(B98)
+9. Lg5-h4	g7-g5			08 Göteborg-System						(B98)
 9. Lg5-h4	Dd8-c7			09 Browne-System 						(B98)	
 ==================================================================================================================================
 1. e2-e4	c7-c5 
@@ -429,7 +429,7 @@ V. Moderne Caro-Kann-Verteidigung									(B15-B17)
 1. e2-e4 	c7-c6 
 2. d2-d4	d7-d5
 3. Sb1-c3	d5xe4
-----------------------------------------------------------------------------------------------------------------------------------	
+----------------------------------------------------------------------------------------------------------------------------------
 4. Sc3xe4	Sb8-d7			04 Karpov-Smyslov-System					(B17)	
 4. Sc3xe4	Sg8-f6			05 Nimzowitsch-Flohr-System					(B16)
 ==================================================================================================================================
@@ -578,29 +578,30 @@ V. 	Alternative Verteidigung: 	Beschleunigter Drachen, Alt-Sizilianisch und Fran
 Buch 2: Spanische Partie
 ==================================================================================================================================
 I. 	Geschlossene Verteidigung:	Chigorin-System, Breyer-System,  Zaitsev-System, Karpov-System, Smyslov-System, 
-					Hybrid-System,   Cholmov-System, Keres-System  			
-II. 	Moderne Verteidigung:		M ller-System, Archangelsk-System, Russisches System, Averbakh-System, Anti-Marshall		
+					Hybrid-System, Cholmov-System, Keres-System  			
+II. 	Moderne Verteidigung:		Möller-System, Archangelsk-System, Russisches System, Averbakh-System, Anti-Marshall	
 III. 	Offene Verteidigung:		Modernes System, Klassisches System, Rigaer System, Pseudo-Dilworth-System
 IV. 	Morphy-Verteidigung:		Aronian-System	und Moderne Steinitz-Verteidigung
 V. 	Klassische Verteidigung:	Berliner Mauer, Cordel-System, Schliemann-System, Jaenisch-System, Cozio-System, 
-					Smyslov-System, Bird-System, Steinitz-Verteidigung		==================================================================================================================================
-Buch 3: Franz sische und Caro-Kann-Verteidigung
+					Smyslov-System, Bird-System, Steinitz-Verteidigung
 ==================================================================================================================================
-I. 	Winawer-Verteidigung:		Klassisches System, Warschauer System, Eingorn-System, Portisch-Hook-System			
-					Semi-Winawer-System, Armenisches System, Anti-Winawer-System					II. 	Steinitz-Verteidigung: 		Modernes System, Vergifteter Bauer, Karjakin-System, Klassisches System,			
+Buch 3: Französische und Caro-Kann-Verteidigung
+==================================================================================================================================
+I. 	Winawer-Verteidigung:		Klassisches System, Warschauer System, Eingorn-System, Portisch-Hook-System							Semi-Winawer-System, Armenisches System, Anti-Winawer-System				
+II. 	Steinitz-Verteidigung: 		Modernes System, Vergifteter Bauer, Karjakin-System, Klassisches System,		
 					Damenausfall-System, Anti-Steinitz-System						
-III. 	Alternative Verteidigung: 	Modernes Rubinstein-System, Klassisches Rubinstein-System, Fort-Knox-System			
+III. 	Alternative Verteidigung: 	Modernes Rubinstein-System, Klassisches Rubinstein-System, Fort-Knox-System		
 					Guimard-System
 IV. 	Capablanca-Verteidigung: 	Klassisches System, Modernes System, Anti-Capablanca-System
-V. 	Moderne Verteidigung: 		Karpov-Smyslov-System, Nimzowitsch-Flohr-System, Gipslis-System, Gurgenidze-Angriff		
+V. 	Moderne Verteidigung: 		Karpov-Smyslov-System, Nimzowitsch-Flohr-System, Gipslis-System, Gurgenidze-Angriff	
 ==================================================================================================================================
 Buch 4: Alternative Verteidigungen, Halboffene und Offene Spiele
 ==================================================================================================================================
 I. 	Skandinavische Verteidigung:	Modernes, Shirov- und Bronstein-System		
 II. 	Alekhine-Verteidigung:		Klassische und Moderne Verteidigung		
-III. 	Pirc- und Moderne Verteidigung:	Tschechich-Pirc, Black Lion,  sterreichischer Angriff, Sniper, Tiger's Modern, 			
-					Hippopotamus	
-IV. 	Philidor-Verteidigung		Antoshin, Larsen, Hanham
+
+III. 	Pirc- und Moderne Verteidigung:	Tschechich-Pirc, Black Lion, Österreichischer Angriff, Sniper, Tiger's Modern, Hippopotamus
+IV. 	Philidor-Verteidigung		Antoshin-System, Larsen-System, Hanham-System
 V. 	Russische Verteidigung:		Nimzowitsch-Angriff, Offene und Flankenspiele
 ==================================================================================================================================						
 
