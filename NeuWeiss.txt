@@ -556,15 +556,15 @@ V. Russische Verteidigung, Offene und Flankenspiele							(C41)
 ----------------------------------------------------------------------------------------------------------------------------------
 2. Sg1-f3	d7-d5			01 Elefanten-Gambit						(C40)
 2. Sg1-f3	f7-f5			02 Lettisches Gambit						(C40)	
-2. Sg1-f3	Dd8-e7			03 Gunderam-Verteidigung					(C40)
+2. Sg1-f3	Dd8-e7			03 Gunderam-System						(C40)
 2. Sg1-f3	f7-f6			04 Damiano-Verteidigung						(C40)
 2. Sg1-f3	Dd8-f6			05 Greco-Verteidigung						(C40)
 ##################################################################################################################################
 12 Flankenspiele 		(B00)
 ##################################################################################################################################
 1. e2-e4 	Sb8-c6			01 The Tango							(B00)	
-1. e2-e4	b7-b6			02 Owen-Verteidigung						(B00)
-1. e2-e4	a7-a6			03 Birmingham-Verteidigung					(B00)
+1. e2-e4	b7-b6			02 Owen-System							(B00)
+1. e2-e4	a7-a6			03 Birmingham-System						(B00)
 1. e2-e4	g7-g5			04 Borg-Verteidigung						(B00)
 ==================================================================================================================================
 Buch 1: Sizilianische Verteidigung
