@@ -1,0 +1,143 @@
+[Event "1.e4 vs Caro-Kann"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches Capablanca-System"]
+[Black "Simplifikation"]
+[Result "*"]
+[ECO "B19"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "69"]
+[EventDate "2011.10.03"]
+
+1. e4 c6 2. d4 d5 {Die Grundidee der Caro-Kann-Verteidigung besteht in ihrer
+Solidität. Schwarz platziert einen Posten im Zentrum, um mit einem Bauern
+zurückzuschlagen, ohne dass sein Damenläufer eingesperrt wird oder Weiß
+eine Mehrheit der Zentrumsbauern erhält.} 3. Nc3 {Weiß entwickelt eine Figur
+und verteidigt seinen Königsbauern. Außerdem übt der Damenspringer -
+ähnlich wie in der Französischen Verteidigung - einen gewissen Druck auf das
+schwarze Zentrum, d.h. den Bauern d5 aus. Wenn jetzt Schwarz - wie üblich -
+den Bauen auf e4 nimmt, dann hat Weiß bereits eine Figur in das Zentrum
+gebracht.} dxe4 {Der Sinn dieses Zuges ist es natürlich nicht, die Figuren
+von Weiß im Zentrum stehen zu lassen und sich selber hinter dem
+zurückhaltenden Bauern c6 zu entwickeln. Schwarz wird vielmehr versuchen, mit
+seinen Figuren das weiße Zentrum anzugreifen und im richtigen Moment seinen
+Bauernmehrheit dort einzusetzen.} 4. Nxe4 {Weiß hat eine etwas freiere
+Stellung und muss jetzt abwarten, wie sich die schwarzen Figuren aufstellen.
+In der Regel kann er eine leicht bessere Position erhalten, aber die schwarze
+Stellung ist sehr fest.} Bf5 {[%csl Yb1,Yc2,Yd3,Ye4,Yf5,Yg6,Yh7] Ein logischer
+Zug. Schwarz entwickelt seinen Läufer mit Tempogewinn auf die beste Diagonale.
+Mehr kann man von einem Zug nicht verlangen. Anschließend entwickelt er sich
+einfach so schnell wie möglich weiter. Sb8-d7, Sg8-f6, e7-e6 nebst Lf8-e7 und
+Dd8-c7 sind alles typische Züge, allerdings muss Schwarz meist h7-h6 spielen,
+wenn Weiß beginnt, den Läufer auf g6 zu belästigen. Schwarz kann sowohl
+lang als auch kurz rochieren und möchte seine Stellung mit c6-c5 befreien. In
+der Regel hat Schwarz weniger Raum, aber nur selten treten sich seine Figuren
+auf den Füßen. Ein typisches Motiv von Weiß ist daraufhin der Vormarsch des
+weißen h-Bauern, um Raum am Königsflügel zu gewinnen und den schwarzen
+Damenläufer abzutauschen. Dies ist ein sinnvoller Plan, denn ähnlich wie in
+der Skandinavischen Verteidigung ist der schwarze Damenläufer sehr stark und
+könnte den weißen König bedrohen, sollte dieser wie üblich lang rochieren.}
+5. Ng3 {[%csl Ya5,Ye4,Yf5,Yh5][%cal Rd8a5,Ga5f5] Da Weiß keine Möglichkeit
+hat, den Springer im Zentrum zu halten, zieht er ihn zurück, um den Läufer
+anzugreifen} Bg6 {Der Läufer ist eine starke Figur und soll nicht einfach
+gegen einen Springer abgetauscht werden. Schwarz könnte ihn auch stehen
+lassen und mit dem Damenschach auf a5 per Gabel die Figur zurückerobern. Der
+Nachteil dieses Zuges ist, dass der Läufer nach wie vor ein Angriffsobjekt
+bleibt.} 6. h4 {Dieser Zug bildet die alte, klassische Hauptvariante.
+Normalerweise rückt Weiß seinen h-Bauern vor, um Raum am Königsflügel zu
+schaffen und die weißfeldrigen Läufer abzutauschen. Ein anderes Konzept
+verfolgt die frühe Figurenentwicklung mit Lf1-c4 und Sg1-e2. Weiß will im
+Stile von Michail Tal Se2-f4 spielen und auf e6 opfern oder einen Angriff mit
+f2-f4 einleiten.} h6 {Das ist der präventive Zug, um den Läufer zu schützen}
+7. Nf3 {Das wichtigste strategische Ziel von Weiß ist es, einen starken
+Springer auf e5 zu etablieren} Nd7 {Bis vor kurzem hatte man geglaubt, dass
+dieser Zug notwendig ist, um Weiß daran zu hindern Sf3-e5 zu spielen. Die
+moderne Hauptvariante beginnt mit Sg8-f6} 8. h5 {Dieser Zug dient nur der
+Vorbereitung des Abtauschs. Er hat mehr Vor- als Nachteile, denn er räumt das
+Feld h4 für den Turm, obwohl der Bauer h5 schwach werden kann} Bh7 {Dies ist
+der einzige Zug} 9. Bd3 {Das gehört zur Strategie von Weiß. Der Läufer soll
+abgetauscht werden} Bxd3 10. Qxd3 {Mit diesem Zug zentralisiert Weiß seine
+Dame und bereitet die lange Rochade vor} e6 {Schwarz öffnet die Diagonale
+für den Läufer und kontrolliert ein weiteres Mal das Feld d5} 11. Bd2 {
+Das ist eindeutig der bekannteste Zug und die Hauptfortsetzung. Weiß will
+unverzüglich lang rochieren und hier steht der Läufer noch einigermaßen
+flexibel} Qc7 {[%csl Yc8,Yd8,Ye5][%cal Rd7e5,Rc7e5,Ge8c8] Schwarz kontrolliert
+ein weiteres Mal e5 und bereitet die lange Rochade vor} 12. O-O-O {Das ist die
+logische Fortsetzung. Weiß bringt seinen König auf dem Damenflügel in
+Sicherheit, da er weiß, dass Schwarz vermutlich in dieselbe Richtung rochiert.
+Außerdem kommt ein Turm in das Zentrum} O-O-O {Schwarz führt seinen
+Hauptplan aus} 13. Ne4 {Weiß zentralisiert seinen Springer} Ngf6 {Auch
+Schwarz entwickelt sich logisch weiter und unterminiert den starken Springer
+auf e4.} 14. g3 {Dieser Zug wird eigentlich immer automatisch gespielt. Weiß
+droht damit, den Läufer auf f4 zu aktivieren} Nc5 15. Nxc5 Bxc5 {[%csl Yb6,
+Yc5,Yc6,Yd4][%cal Rc5d4,Rd8d4,Gc5b6,Gc6c5] ist keine neue Idee, sondern wurde
+schon 1968 von Petrosian gespielt. Anders als in der Hauptvariante kann sich
+der Läufer auch nach b6 zurückziehen und c6-c5 durchsetzen. Auf jeden Fall
+ist d4 unter Druck und ein Ziel des schwarzen Spiels} 16. c4 {Weiß besetzt
+das Zentrum und kontrolliert das Feld d5. Schwarz hat hier zwei Optionen. Er
+kann den zweiten Turm heranholen oder die Dame nach e7 ziehen Die Idee} Qe7 {
+[%csl Yb4][%cal Gc5b4,Ge7b4,Ge7c5] ist in jüngster Zeit sehr beliebt. Schwarz
+möchte gerne die Stellung vereinfachen, indem er den schwarzen Läufer auf b4
+abtauscht, wenn der weiße Läufer auf c3 auftaucht. Andererseits steht die
+schwarze Dame nicht besonders gut auf e7, falls Weiß den Läufertausch
+vermeidet.} 17. Kb1 {[%csl Ya2,Yc1][%cal Gb1a2,Gd1c1] Dies ist immer ein guter
+Zug in der Caro-Kann-Verteidigung. Weiß bringt den König auf ein sichereres
+Feld und räumt c1 für den Turm} Rhe8 {Schwarz entwickelt seine letzte Figur
+und behält die Möglichkeit der Vereinfachung durch Läufertausch auf b4} ({
+(a) Es wurde auch schon gespielt} 17... Bb4 {, aber dies macht hier keinen
+besonderen Sinn, denn Weiß kann den Abtausch einfach vermeiden.} 18. Bc1) ({
+(b)} 17... Bb6 {erlaubt es Weiß zu seinem ursprünglichen Plan
+zurückzukommen.} 18. Bc3 Ng4 {Das beeindruckt nicht wirklich.} ({Aber Schwarz
+kann auch nicht spielen} 18... c5 {wegen} 19. d5 exd5 20. Rhe1 Qd7 21. Bxf6
+gxf6 22. cxd5 Qxd5) 19. Qe2 Rhe8 20. Nh4 Qg5 (20... Nf6 21. f4 {würde Weiß
+eine ideale Umklammerung geben. Weiß kann den Gegenstoß c6-c5 immer mit
+d4-d5 beantworten.}) 21. f3 Qe3 22. Qf1 Bxd4 23. Rxd4 Rxd4 24. Bxd4 Qxd4 25.
+fxg4 {Weiß sollte dieses Endspiel einfach gewinnen.}) 18. Qe3 $5 {Die Dame
+scheint auf e3 nicht gut zu stehen, aber er vermeidet den Figurentausch für
+den Moment. Sonst müsste er den Turm auf h4 deplatzieren. Außerdem
+verhindert die Dame auf e3 den Vorstoß c6-c5} Bb6 {Die Fesselung des Bauern
+d4 ist aufgehoben. Also muss sich der Läufer nach b6 zurückziehen} (18... Ng4
+19. Qe2 {bringt nichts für Schwarz und kann mit einer Variante des nächsten
+Zuges verglichen werden.}) 19. Bc3 {Jetzt, wo der Läufertausch auf b4
+ausgeschlossen ist, wirkt der weiße Läufer auf c3 viel aktiver auf das
+Zentrum} c5 {Schwarz versucht sich zu befreien} ({(a) Nach} 19... Kb8 20. Ne5 {
+läuft das weiße Spiel von selbst.}) ({(b)} 19... Ng4 20. Qe2 {Die Dame zieht
+sich auf ein normales Feld zurück, wohingegen der gegnerische Springer auf
+einem schlechten Feld steht. Früher oder später wird er sich zurückziehen
+müssen. Schwarz kann sich nun entscheiden, einen zentralen Durchbruch
+durchzuführen (für den er eigentlich nicht gerüstet ist) oder er
+manövriert mit seinen Figuren. In der Zwischenzeit kann Weiß die Stellung
+seiner Figuren verbesseren, insbesondere den Springer mit dem Manöver Se1-d3
+positionieren.} c5 21. a3 $5 {Das ist oft ein nützlicher Zug, speziell wenn
+b2-b4 eine Versuchung sein sollte.}) 20. Ne5 $1 {Auch die zweite Figur wird
+zentralisiert. Der Nachteil ist die komplette Liquidation und Simplifikation
+auf d4} cxd4 {Das ist die natürlichste Fortsetzung, die die Situation im
+Zentrum vereinfacht.} ({(a) Ein Wartezug wie} 20... Kb8 {würde Weiß
+erfolgreich mit} 21. dxc5 Bxc5 22. Qe2 {fortsetzen.}) ({(b) Eine vernünftige
+Alternative ist} 20... Nd7 {Weiß hat hier einige gute Optionen, die zu einem
+kleinen Stellungsvorteil führen, was praktisch einfacher zu behandeln ist.}
+21. Nxd7 Rxd7 22. dxc5 Rxd1+ 23. Rxd1 Bxc5 24. Qe2 f6 25. a3 {Die weißen
+Figuren stehen aktiver und er wird bald auf dem Damenflügel vorgehen. Schwarz
+wird lange unter Druck stehen, und sogar in einem reinen Läuferendspiel steht
+er schlechter, da seine Bauern auf den schwarzen Feldern fixiert sind.}) 21.
+Bxd4 Bxd4 22. Rxd4 Rxd4 23. Qxd4 Qc7 {Schwarz verteidigt indirekt den Bauern
+a7, da er den Springer auf e5 angreift.} ({Der Autopilot spielt} 23... a6 {
+, was es Weiß erlaubt, neue Bedrohungen zu erzeugen} 24. Rc1 {plant eine
+schnelle Attacke mit c4-c5-c6.} Rd8 ({Für} 24... Nxh5 {ist keine Zeit, denn}
+25. c5 {läßt Schwarz keine gute Verteidigung.}) 25. Qa7 Nd7 {Hier hat Weiß
+eine wichtige Ressource} 26. c5 Nxe5 27. c6 Nxc6 28. Rxc6+ Kd7 29. Qxb7+ Ke8
+30. Qxe7+ Kxe7 31. Rxa6 {In diesem Endspiel hat Weiß ausgezeichnete
+Gewinnchancen.}) 24. f4 {Weiß verteidigt den Springer und erneuert somit die
+Drohung gegen a7.} Kb8 ({Auf} 24... a6 {folgt} 25. Qa7 {mit Vorteil}) 25. Rd1 {
+Die Kontrolle über die d-Liniue ist wichtiger als der Bauer auf h5. Schwarz
+hat aber nichts besseres als ihn zu nehmen, denn Weiß dominiert die Stellung
+sowieso.} Nxh5 26. g4 Nf6 27. g5 hxg5 28. fxg5 Nh5 29. c5 {Schwarz ist in
+ernsthaften Schwierigkeiten, trotz seines Mehrbauern und des reduzierten
+Materials.} Rc8 30. Nd7+ Ka8 31. Qa4 Rh8 32. Rd6 {Die weiße Dominanz wird
+verstärkt, indem Dc6 verhindert wird.} Ng3 (32... e5 33. Rd3 {ist eine gute
+Variante für Weiß, denn nach} Qc6 34. Qxc6 bxc6 35. Nxe5 {mit Doppelangriff
+auf die Bauern c6 und f7 hat Weiß jede Chance auf den Gewinn des Endspiels.})
+33. g6 fxg6 34. Rxe6 a6 35. a3 {Es gibt keine Verteidigung gegen c5-c6 mit
+baldigem Matt.} *
+

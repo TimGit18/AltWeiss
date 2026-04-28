@@ -1,0 +1,92 @@
+[Event "1.e4 vs Caro-Kann"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches Capablanca-System"]
+[Black "Rochadeverzicht"]
+[Result "*"]
+[ECO "B19"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "55"]
+[EventDate "2011.10.03"]
+
+1. e4 c6 2. d4 d5 {Die Grundidee der Caro-Kann-Verteidigung besteht in ihrer
+Solidität. Schwarz platziert einen Posten im Zentrum, um mit einem Bauern
+zurückzuschlagen, ohne dass sein Damenläufer eingesperrt wird oder Weiß
+eine Mehrheit der Zentrumsbauern erhält.} 3. Nc3 {Weiß entwickelt eine Figur
+und verteidigt seinen Königsbauern. Außerdem übt der Damenspringer -
+ähnlich wie in der Französischen Verteidigung - einen gewissen Druck auf das
+schwarze Zentrum, d.h. den Bauern d5 aus. Wenn jetzt Schwarz - wie üblich -
+den Bauen auf e4 nimmt, dann hat Weiß bereits eine Figur in das Zentrum
+gebracht.} dxe4 {Der Sinn dieses Zuges ist es natürlich nicht, die Figuren
+von Weiß im Zentrum stehen zu lassen und sich selber hinter dem
+zurückhaltenden Bauern c6 zu entwickeln. Schwarz wird vielmehr versuchen, mit
+seinen Figuren das weiße Zentrum anzugreifen und im richtigen Moment seinen
+Bauernmehrheit dort einzusetzen.} 4. Nxe4 {Weiß hat eine etwas freiere
+Stellung und muss jetzt abwarten, wie sich die schwarzen Figuren aufstellen.
+In der Regel kann er eine leicht bessere Position erhalten, aber die schwarze
+Stellung ist sehr fest.} Bf5 {[%csl Yb1,Yc2,Yd3,Ye4,Yf5,Yg6,Yh7] Ein logischer
+Zug. Schwarz entwickelt seinen Läufer mit Tempogewinn auf die beste Diagonale.
+Mehr kann man von einem Zug nicht verlangen. Anschließend entwickelt er sich
+einfach so schnell wie möglich weiter. Sb8-d7, Sg8-f6, e7-e6 nebst Lf8-e7 und
+Dd8-c7 sind alles typische Züge, allerdings muss Schwarz meist h7-h6 spielen,
+wenn Weiß beginnt, den Läufer auf g6 zu belästigen. Schwarz kann sowohl
+lang als auch kurz rochieren und möchte seine Stellung mit c6-c5 befreien. In
+der Regel hat Schwarz weniger Raum, aber nur selten treten sich seine Figuren
+auf den Füßen. Ein typisches Motiv von Weiß ist daraufhin der Vormarsch des
+weißen h-Bauern, um Raum am Königsflügel zu gewinnen und den schwarzen
+Damenläufer abzutauschen. Dies ist ein sinnvoller Plan, denn ähnlich wie in
+der Skandinavischen Verteidigung ist der schwarze Damenläufer sehr stark und
+könnte den weißen König bedrohen, sollte dieser wie üblich lang rochieren.}
+5. Ng3 {[%csl Ya5,Ye4,Yf5,Yh5][%cal Rd8a5,Ga5f5] Da Weiß keine Möglichkeit
+hat, den Springer im Zentrum zu halten, zieht er ihn zurück, um den Läufer
+anzugreifen} Bg6 {Der Läufer ist eine starke Figur und soll nicht einfach
+gegen einen Springer abgetauscht werden. Schwarz könnte ihn auch stehen
+lassen und mit dem Damenschach auf a5 per Gabel die Figur zurückerobern. Der
+Nachteil dieses Zuges ist, dass der Läufer nach wie vor ein Angriffsobjekt
+bleibt.} 6. h4 {Dieser Zug bildet die alte, klassische Hauptvariante.
+Normalerweise rückt Weiß seinen h-Bauern vor, um Raum am Königsflügel zu
+schaffen und die weißfeldrigen Läufer abzutauschen. Ein anderes Konzept
+verfolgt die frühe Figurenentwicklung mit Lf1-c4 und Sg1-e2. Weiß will im
+Stile von Michail Tal Se2-f4 spielen und auf e6 opfern oder einen Angriff mit
+f2-f4 einleiten.} h6 {Das ist der präventive Zug, um den Läufer zu schützen}
+7. Nf3 {Das wichtigste strategische Ziel von Weiß ist es, einen starken
+Springer auf e5 zu etablieren} Nd7 {Bis vor kurzem hatte man geglaubt, dass
+dieser Zug notwendig ist, um Weiß daran zu hindern Sf3-e5 zu spielen. Die
+moderne Hauptvariante beginnt mit Sg8-f6} 8. h5 {Dieser Zug dient nur der
+Vorbereitung des Abtauschs. Er hat mehr Vor- als Nachteile, denn er räumt das
+Feld h4 für den Turm, obwohl der Bauer h5 schwach werden kann} Bh7 {Dies ist
+der einzige Zug} 9. Bd3 {Das gehört zur Strategie von Weiß. Der Läufer soll
+abgetauscht werden} Bxd3 10. Qxd3 {Mit diesem Zug zentralisiert Weiß seine
+Dame und bereitet die lange Rochade vor} e6 {Schwarz öffnet die Diagonale
+für den Läufer und kontrolliert ein weiteres Mal das Feld d5} 11. Bd2 {
+Das ist eindeutig der bekannteste Zug und die Hauptfortsetzung. Weiß will
+unverzüglich lang rochieren und hier steht der Läufer noch einigermaßen
+flexibel} Qc7 {[%csl Yc8,Yd8,Ye5][%cal Rd7e5,Rc7e5,Ge8c8] Schwarz kontrolliert
+ein weiteres Mal e5 und bereitet die lange Rochade vor} 12. O-O-O {Das ist die
+logische Fortsetzung. Weiß bringt seinen König auf dem Damenflügel in
+Sicherheit, da er weiß, dass Schwarz vermutlich in dieselbe Richtung rochiert.
+Außerdem kommt ein Turm in das Zentrum} {Auch hier ist der Zug} Ngf6 {eine
+Möglichkeit der Transposition} 13. Ne4 {Weiß zentralisiert wie in der
+Hauptvariante seinen Springer, auch wenn es gute Alternativen gibt} {Der
+Rochadeverzicht} Rd8 {scheint sinnvoll, aber Schwarz droht nichts im Zentrum.
+Daher macht es Sinn, wenn Weiß sich auf den Königsflügel konzentriert} 14.
+Nxf6+ Nxf6 15. Ne5 {Nachdem der Springer auf seinem Idealfeld steht, kann
+Weiß seinen Standardplan mit dem Vormarsch der f- und g-Bauern vorbereiten.
+Aber Weiß kann auch seine Figuren benutzen.} Be7 ({(a)} 15... Bd6 $6 16. Qg3 {
+ist unschön für Schwarz}) ({(b)} 15... c5 $6 {ist auch nicht viel besser} 16.
+Qb5+ Nd7 17. Bc3) 16. Qg3 Ne4 17. Qf3 Nf6 18. Bf4 Qa5 19. Kb1 O-O 20. Qg3 Kh8
+21. Rd3 {Das weiße Spiel macht einen starken Eindruck. Er fährt damit fort,
+seine Figuren auf die maximale Wirkung zu steigern, bevor er daran denkt, die
+Bauern vorzupreschen.} Qd5 ({Nach} 21... Nd5 {ist} 22. Bd2 {konsistent}) 22. f3
+{Weiß verhindert das Einsteigen der schwarzen Dame auf e4 und bereitet den
+Rückzug der eigenen Dame vor, um den g-Bauern vorzustoßen.} b5 23. a3 {
+Der weiße Angriff mit g2-g4 wird schneller sein als der schwarze Bauernsturm
+auf dem Damenflügel.} a5 24. Qe1 b4 25. Qe3 $1 {Es droht ein Einschlag auf h6.
+} Bd6 {Das ist eine witzige Verteidigung von Schwarz, aber es löst seine
+Probleme nicht.} 26. a4 $1 {blockiert den Damenflügel} ({Der Einschlag auf h6
+funktioniert hier nicht} 26. Bxh6 $6 gxh6 27. Qxh6+ Nh7 {Schwarz kann sich nun
+verteidigen} 28. Ng6+ fxg6 29. hxg6 Rd7) 26... Kg8 27. g4 Nh7 28. b3 {Nachdem
+Weiß den Damenflügel abgeriegelt hat, hat er nun freie Hand für den Angriff
+auf der anderen Flanke.} *
+
