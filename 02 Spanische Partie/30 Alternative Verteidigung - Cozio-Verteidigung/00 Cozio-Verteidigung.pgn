@@ -1,0 +1,16 @@
+[Event "The Modernized Ruy Lopez Vol. I"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alternative Verteidigung"]
+[Black "Cozio-Verteidigung"]
+[Result "*"]
+[Annotator "Darius Swiercz"]
+[ECO "C60"]
+[WhiteFideId "-1"]
+[BlackFideId "-1"]
+[PlyCount "24"]
+[SourceVersionDate "2026.05.25"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 {Die Cozio-Verteidigung ist eine interessante Zugfolge gegen die Spanische Partie. Die schwarze Idee ist es entweder g7-g6 und Lf8-g7 oder Se7-g6 und Lf8-e7 zu spielen. Die Hauptidee ist gegen ein weißes c2-c3 und d2-d4 gerichtet - ohne auf a7-a6 zurückzugreifen.} 4. Nc3 $1 {Dieser natürliche Entwicklungszug ist eher unangenehm für Schwarz.} g6 {Und dieser natürliche Zug ist die beste Anwort. Schwarz bereitet die Entwicklung des Königsläufers und die kurze Rochade vor.} ({Eine Steinitz-Aufstellung erfolgt nach} 4... d6 5. d4 {Weiß übernimmt die Kontrolle im Zentrum.} a6 {Schwarz macht sich jetzt gut daran, den weißen Läufer zu befragen.}) ({Eine konsistente Aufstellung lautet} 4... Ng6 {Weiß sollte hier mit zentralem Spiel fortsetzen.} 5. d4 exd4 6. Nxd4 {Hier hat Schwarz verschiedene Möglichkeiten, am aggressivsten scheint} Bb4) ({Eine verzögerte Morphy-Verteidigung entsteht nach} 4... a6 5. Bc4 $1 {Im Gegensatz zum Aronian-System, wo der Läufer bereits nach a4 abgedrängt wurde, steht er hier aktiver. Die Drohung lautet Sf3-g5.}) 5. d4 exd4 6. Nd5 Bg7 7. Bg5 h6 8. Bf6 Bxf6 9. Nxf6+ Kf8 10. Qd2 d5 ({Der zurückhaltende Zug} 10... d6 {erlaubt} 11. O-O-O {mit einfachem weißen Spiel.}) ({Der Königszug} 10... Kg7 {ist keine Drohung wegen} 11. Nxd4) 11. Bxc6 Nxc6 12. Nxd5 Bf5 {Das ist die Idee des schwarzen Spiels. Auf einmal wird das weiße Zentrum unterminiert.} *
+

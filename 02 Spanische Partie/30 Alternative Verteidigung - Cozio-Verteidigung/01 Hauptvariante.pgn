@@ -1,0 +1,17 @@
+[Event "The Modernized Ruy Lopez Vol. I"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Cozio-Verteidigung"]
+[Black "Hauptvariante"]
+[Result "*"]
+[Annotator "Darius Swiercz"]
+[ECO "C60"]
+[WhiteFideId "-1"]
+[BlackFideId "-1"]
+[PlyCount "47"]
+[GameId "2314155107549201"]
+[SourceVersionDate "2026.05.25"]
+
+{[%evp 0,24,19,38,33,27,39,16,48,48,51,24,21,46,43,46,52,64,56,64,49,0,95,91,97,81,67]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 {Die Cozio-Verteidigung ist eine interessante Zugfolge gegen die Spanische Partie. Die schwarze Idee ist es entweder g7-g6 und Lf8-g7 oder Se7-g6 und Lf8-e7 zu spielen. Die Hauptidee ist gegen ein weißes c2-c3 und d2-d4 gerichtet - ohne auf a7-a6 zurückzugreifen.} 4. Nc3 $1 {Dieser natürliche Entwicklungszug ist eher unangenehm für Schwarz.} g6 {Und dieser natürliche Zug ist die beste Anwort. Schwarz bereitet die Entwicklung des Königsläufers und die kurze Rochade vor.} 5. d4 exd4 6. Nd5 Bg7 7. Bg5 h6 8. Bf6 Bxf6 9. Nxf6+ Kf8 10. Qd2 d5 11. Bxc6 Nxc6 12. Nxd5 Bf5 {Das ist die Idee des schwarzen Spiels und die Hauptvariante. Auf einmal wird das weiße Zentrum unterminiert.} 13. Qf4 $1 {Ein wichtiger Zug, den man sich merken sollte.} Bxe4 {Das ist eine kleine fiese Taktik. Schwarz nutzt aus, dass Weiß noch nicht rochiert hat.} 14. Qxe4 Qd6 $1 {Schwarz droht mit Damenfang durch Ta8-e8. Weiß hat daher keine Zeit, den Springer zu retten.} ({Würde Schwarz sofort} 14... Kg7 {spielen, um mit dem Turm die Dame zu fesseln, so folgt} 15. O-O Re8 16. Qxe8 $1 {Ein überraschendes Damenopfer!} Qxe8 17. Nxc7 Qd8 ({Das "Opfer"} 17... Qe4 {verliert auch nach} 18. Nxa8 Qxc2 19. Nc7 {Material.}) 18. Nxa8 Qxa8 19. Rad1 {Die Stellung scheint für Schwarz schon verloren, denn die Dame ist sicherlich schlechter als die beiden Türme.}) 15. Nxc7 $1 ({Denn nach} 15. O-O-O Re8 {ist der Springer auf d5 auch weg.}) 15... Qxc7 16. O-O-O Re8 17. Qh4 {Wahrscheinlich hat Weiß in dieser Stellung die besseren Chancen. Der Bauer auf d4 wird fallen und der König auf f8 ist nicht wirklich bequem platziert.} Nb4 $5 {Das ist die widerstandsfähigste Verteidigung.} ({Etwas mehr Zugeständnis ist} 17... g5 18. Qg3 Qd7 {Schwarz verteidigt den d-Bauern.} ({Würde Schwarz in ein Endspiel einwilligen, so macht er keine gute Wahl, denn der d-Bauer wird fallen nach} 18... Qxg3 19. hxg3 Re2 20. Rhf1 Re4 21. Nd2 Re5 22. Nb3 Rd5 23. c3 d3 24. c4 Rd8 25. Nc5 {mit Doppelangriff auf b7 und d3.}) 19. h4 g4 20. Ne1 {Weiß hat zwar in dieser Stellung keinen Mehrbauern, aber er besitzt die volle strategische Kontrolle. Der Springer strebt nach d3 und verbessert die weiße Kontrolle über die Felder.}) ({Schwach ist} 17... Kg7 {wegen} 18. Nxd4 $18) 18. Nxd4 Nxa2+ 19. Kb1 Nb4 20. Qf6 Kg8 {Weiß steht sicherlich besser, doch wie setzt er fort?} 21. h4 {Dies scheint am besten.} Qe5 ({Schwächer scheint} 21... Re6 22. Qf3 Rd6 23. Qb3 Qc5 24. h5 g5 25. c3 Nc6 26. Qb5 {Wenn Weiß zum Damentausch kommt, dann erhält er wieder ein vorteilhaftes Endspiel.}) 22. Qf3 Qd5 23. Qxd5 Nxd5 24. Nb5 {Weiß wird einen Bauern gewinnen und Schwarz hat so gut wie kein Gegenspiel.} *
+

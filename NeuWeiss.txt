@@ -617,7 +617,10 @@ V. 	Moderne Verteidigung: 		* Karpov-Smyslov-System
 ==================================================================================================================================
 Buch 4: Alternative Verteidigungen, Halboffene und Offene Spiele
 ==================================================================================================================================
-I. 	Skandinavische Verteidigung:	Modernes, Shirov- und Bronstein-System		
+I. 	Skandinavische Verteidigung:	* Shirov-System
+					* Modernes System					
+					* Bronstein-System		
+----------------------------------------------------------------------------------------------------------------------------------
 II. 	Alekhine-Verteidigung:		Klassische und Moderne Verteidigung		
 III. 	Pirc- und Moderne Verteidigung:	Tschechich-Pirc, Black Lion, Österreichischer Angriff, Sniper, Tiger's Modern, Hippopotamus
 IV. 	Philidor-Verteidigung		Antoshin-System, Larsen-System, Hanham-System
