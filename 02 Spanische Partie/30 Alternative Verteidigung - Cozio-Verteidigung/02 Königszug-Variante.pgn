@@ -1,0 +1,17 @@
+[Event "The Modernized Ruy Lopez Vol. I"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Cozio-Verteidigung"]
+[Black "Königszug-Variante"]
+[Result "*"]
+[Annotator "Darius Swiercz"]
+[ECO "C60"]
+[WhiteFideId "-1"]
+[BlackFideId "-1"]
+[PlyCount "29"]
+[GameId "2314506549555218"]
+[SourceVersionDate "2026.05.25"]
+
+{[%evp 0,24,19,38,17,11,18,23,48,51,45,30,23,42,47,67,43,40,32,22,18,5,104,91,98,98,99]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 {Die Cozio-Verteidigung ist eine interessante Zugfolge gegen die Spanische Partie. Die schwarze Idee ist es entweder g7-g6 und Lf8-g7 oder Se7-g6 und Lf8-e7 zu spielen. Die Hauptidee ist gegen ein weißes c2-c3 und d2-d4 gerichtet - ohne auf a7-a6 zurückzugreifen.} 4. Nc3 $1 {Dieser natürliche Entwicklungszug ist eher unangenehm für Schwarz.} g6 {Und dieser natürliche Zug ist die beste Anwort. Schwarz bereitet die Entwicklung des Königsläufers und die kurze Rochade vor.} 5. d4 exd4 6. Nd5 Bg7 7. Bg5 h6 8. Bf6 Bxf6 9. Nxf6+ Kf8 10. Qd2 {Der Königszug} Kg7 {ist keine Drohung wegen} ({Ein origineller Verusch ist} 10... Nf5 {, um die ungedeckte Stellung des Springers f6 auszunutzen, doch es folgt} 11. Nd5 Ng7 12. Bc4 {Weiß erhält den Bauern auf d4 zurück und Druckspiel gegen die schwarze Königsstellung.}) 11. Nxd4 Ng8 ({Denn das vermeintliche Opfer} 11... Kxf6 {entpuppt sich als Boomerang} 12. Qc3 Ne5 13. f4 {und Weiß bekommt das geopferte Material mindestens zurück.}) 12. Nxg8 Rxg8 13. O-O-O {Weiß ist prächtig entwickelt.} Qf6 14. Bxc6 dxc6 15. Qe3 {Der mobile e-Bauer garantiert überlegenes Spiel.} *
+

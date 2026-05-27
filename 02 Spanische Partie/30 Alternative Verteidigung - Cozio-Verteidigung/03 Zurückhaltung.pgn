@@ -1,0 +1,17 @@
+[Event "The Modernized Ruy Lopez Vol. I"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Cozio-Verteidigung"]
+[Black "Zurückhaltung"]
+[Result "*"]
+[Annotator "Darius Swiercz"]
+[ECO "C60"]
+[WhiteFideId "-1"]
+[BlackFideId "-1"]
+[PlyCount "33"]
+[GameId "2314509833764929"]
+[SourceVersionDate "2026.05.25"]
+
+{[%evp 0,24,21,18,18,9,14,25,41,38,34,58,42,67,67,18,18,18,18,13,14,40,100,92,92,98,90]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 {Die Cozio-Verteidigung ist eine interessante Zugfolge gegen die Spanische Partie. Die schwarze Idee ist es entweder g7-g6 und Lf8-g7 oder Se7-g6 und Lf8-e7 zu spielen. Die Hauptidee ist gegen ein weißes c2-c3 und d2-d4 gerichtet - ohne auf a7-a6 zurückzugreifen.} 4. Nc3 $1 {Dieser natürliche Entwicklungszug ist eher unangenehm für Schwarz.} g6 {Und dieser natürliche Zug ist die beste Anwort. Schwarz bereitet die Entwicklung des Königsläufers und die kurze Rochade vor.} 5. d4 exd4 6. Nd5 Bg7 7. Bg5 h6 8. Bf6 Bxf6 9. Nxf6+ Kf8 10. Qd2 {Der zurückhaltende Zug} d6 {erlaubt} 11. O-O-O {mit einfachem weißen Spiel.} a6 ({Auch hier funktioniert der Königszug nicht.} 11... Kg7 12. Nxd4 Kxf6 13. Qc3 Nxd4 14. Rxd4 $1 {Es scheint, als habe Weiß einfach nur eine Figur verloren.} Ke6 15. Re1 {Weiß erhält einen zerstörerischen Angriff.} c6 16. Bc4+ Kd7 17. Red1 Kc7 18. Rxd6 {Weiß steht auf Gewinn.}) ({Der trickreiche Zug} 11... Nf5 {scheitert ebenso wie ein Zug zuvor.} 12. Nd5 Ng7 13. Be2 Ne6 14. h4 {Weiß besitzt die Initiative.}) 12. Bxc6 Nxc6 13. Nd5 Bg4 14. h3 {Das ist hier am einfachsten, obwohl Weiß auch andere starke Wahlmöglichkeiten hat.} Bxf3 15. gxf3 Qd7 16. Kb1 ({Möglich ist auch direkt} 16. h4 $5 f5 17. Rhg1 Qf7 18. c4 $16) 16... Kg7 17. h4 $16 {Weiß hat die besseren Angriffsmöglichkeiten in dieser Stellung aufgrund der geöffneten g-Linie.} *
+
