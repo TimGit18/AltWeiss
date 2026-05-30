@@ -1,0 +1,17 @@
+[Event "The Modernized Ruy Lopez Vol. I"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Cozio-Verteidigung"]
+[Black "Verzögerte Morphy-Verteidigung"]
+[Result "*"]
+[Annotator "Darius Swiercz"]
+[ECO "C60"]
+[WhiteFideId "-1"]
+[BlackFideId "-1"]
+[PlyCount "15"]
+[GameId "2315240412549137"]
+[SourceVersionDate "2026.05.25"]
+
+{[%evp 0,24,19,38,17,11,18,23,48,51,45,30,34,51,73,56,51,51,40,40,31,23,94,103,93,94,92]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 {Die Cozio-Verteidigung ist eine interessante Zugfolge gegen die Spanische Partie. Die schwarze Idee ist es entweder g7-g6 und Lf8-g7 oder Se7-g6 und Lf8-e7 zu spielen. Die Hauptidee ist gegen ein weißes c2-c3 und d2-d4 gerichtet - ohne auf a7-a6 zurückzugreifen.} 4. Nc3 $1 {Dieser natürliche Entwicklungszug ist eher unangenehm für Schwarz.} {Eine verzögerte Morphy-Verteidigung entsteht nach} a6 5. Bc4 $1 {Im Gegensatz zum Aronian-System, wo der Läufer bereits nach a4 abgedrängt wurde, steht er hier aktiver. Die Drohung lautet Sf3-g5.} d6 {Dieser Zug wird von Swiercz als beste Entgegnung bewertet.} ({Zu weißem Vorteil gereicht} 5... b5 6. Bb3 Ng6 {Um die Drohung Sf3-g5 abzuwehren.} 7. h4) ({Das direkte Verhindern von Sf3-g5 leistet auch} 5... Ng6 {, aber auch hier folgt} 6. h4 Be7 ({Nicht besser ist} 6... Nf4 7. d4 exd4 8. Bxf4 dxc3 9. bxc3 {mit analoger Stellung wie in der Variante.}) 7. h5 Nf4 8. h6 g6 9. d4 exd4 10. Bxf4 dxc3 11. bxc3 {mit weißem Stellungsvorteil.}) 6. d4 {Dieser Zug ist bereits befriedigend, wenn man eine überlegene Stellung erreichen will und sich nicht auf Abenteuer wie Sf3-g5 einlassen möchte.} exd4 7. Nxd4 Nxd4 8. Qxd4 {Weiß steht bereits etwas besser.} *
+
