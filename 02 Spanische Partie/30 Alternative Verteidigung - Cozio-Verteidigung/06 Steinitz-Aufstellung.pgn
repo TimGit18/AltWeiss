@@ -1,0 +1,17 @@
+[Event "The Modernized Ruy Lopez Vol. I"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Cozio-Verteidigung"]
+[Black "Steinitz-Aufstellung"]
+[Result "*"]
+[Annotator "Darius Swiercz"]
+[ECO "C60"]
+[WhiteFideId "-1"]
+[BlackFideId "-1"]
+[PlyCount "21"]
+[GameId "2315606901239825"]
+[SourceVersionDate "2026.05.25"]
+
+{[%evp 0,24,19,38,17,8,18,15,45,46,61,34,21,41,73,66,45,31,32,31,20,28,82,95,90,87,100]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 {Die Cozio-Verteidigung ist eine interessante Zugfolge gegen die Spanische Partie. Die schwarze Idee ist es entweder g7-g6 und Lf8-g7 oder Se7-g6 und Lf8-e7 zu spielen. Die Hauptidee ist gegen ein weißes c2-c3 und d2-d4 gerichtet - ohne auf a7-a6 zurückzugreifen.} 4. Nc3 $1 {Dieser natürliche Entwicklungszug ist eher unangenehm für Schwarz.} {Eine Steinitz-Aufstellung erfolgt nach} d6 5. d4 {Weiß übernimmt die Kontrolle im Zentrum.} a6 {Schwarz macht sich jetzt gut daran, den weißen Läufer zu befragen.} ({Nach} 5... Bd7 {steht Weiß bereits um einiges besser, wie etwa nach} 6. Be3) 6. Be2 {Das ist eine weitere Option von Weiß, keinesfalls notwendig.} Nxd4 7. Nxd4 exd4 8. Qxd4 Nc6 {Hier hat Weiß viele mögliche Aufbauten, die alle zu einem weißen Vorteil führen. Wie zum Beispiel.} 9. Qd2 $5 {Weiß vermeidet Tempozüge des Springers nach e5 oder b4 und bereitet das Damenfianchetto vor.} g6 10. b3 Bg7 11. Bb2 {Der Läufer auf g7 wird neutralisiert.} *
+
