@@ -313,6 +313,7 @@ V. Klassische Verteidigung										(C60-C65)
 3. Lf1-b5	Sc6-d4			31 Bird-Verteidigung						(C61)
 3. Lf1-b5	d7-d6 			32 Steinitz-Verteidigung					(C62)
 3. Lf1-b5	Lf8-b4 			33 Alapin-Verteidigung						(C60)
+3. Lf1-b5	Dd8-f6 			34 Frankfurter Verteidigung					(C60)
 ##################################################################################################################################
 03 Französische Verteidigung		(C10-C19)
 ##################################################################################################################################
@@ -571,9 +572,15 @@ V. Russische Verteidigung, Offene und Flankenspiele							(C41)
 ==================================================================================================================================
 Buch 1: Sizilianische Verteidigung
 ==================================================================================================================================
-I. 	Moderne Verteidigung: 		Najdorf-System und Drachen-System
-II. 	Klassische Verteidigung:	Richter-Rauzer-Angriff und Keres-Angriff
-III. 	Aggressive Verteidigung: 	Sveshnikov-System und Kalashnikov-System
+I. 	Moderne Verteidigung: 		* Najdorf-System 
+					* Drachen-System 
+----------------------------------------------------------------------------------------------------------------------------------
+II. 	Klassische Verteidigung:	* Richter-Rauzer-Angriff
+					* Scheveningen-Keres-Angriff
+----------------------------------------------------------------------------------------------------------------------------------
+III. 	Aggressive Verteidigung: 	* Sveshnikov-System 
+					* Kalashnikov-System
+----------------------------------------------------------------------------------------------------------------------------------
 IV. 	Positionelle Verteidigung: 	Taimanov-System und Kan-System
 V. 	Alternative Verteidigung: 	Beschleunigter Drachen, Alt-Sizilianisch und Franco-Sizilianisch
 ==================================================================================================================================
