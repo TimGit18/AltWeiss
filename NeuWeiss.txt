@@ -572,17 +572,34 @@ V. Russische Verteidigung, Offene und Flankenspiele							(C41)
 ==================================================================================================================================
 Buch 1: Sizilianische Verteidigung
 ==================================================================================================================================
-I. 	Moderne Verteidigung: 		* Najdorf-System 
-					* Drachen-System 
+I. 	Moderne Verteidigung: 			* Najdorf-System 
+						* Drachen-System 
+						* Sveshnikov-System 
+						* Kalashnikov-System
 ----------------------------------------------------------------------------------------------------------------------------------
-II. 	Klassische Verteidigung:	* Richter-Rauzer-Angriff
-					* Scheveningen-Keres-Angriff
+II. 	Klassische Verteidigung:		* Richter-Rauzer-Angriff
+						* Keres-Angriff
+						* Taimanov-System 
+						* Kan-System
+						* Kupreichik-System
 ----------------------------------------------------------------------------------------------------------------------------------
-III. 	Aggressive Verteidigung: 	* Sveshnikov-System 
-					* Kalashnikov-System
+III. 	Alt-Sizilianische Verteidigung 		* Beschleunigter Drachen
+						* Grivas-System
+						* Polgar-System
+						* Dirty Harry	
 ----------------------------------------------------------------------------------------------------------------------------------
-IV. 	Positionelle Verteidigung: 	Taimanov-System und Kan-System
-V. 	Alternative Verteidigung: 	Beschleunigter Drachen, Alt-Sizilianisch und Franco-Sizilianisch
+IV.	Franco-Sizilianische Verteidigung 	* Basman-Sale-System					
+						* Kveinys-System
+						* Scheveningen-System
+						* Sizilianischer Angriff
+						* Sizilianisches Vierspringerspiel
+						* Ga°-Pa°-System
+----------------------------------------------------------------------------------------------------------------------------------
+V. 	Alternative Verteidigung: 		* Nimzowitsch-System
+						* O'Kelly-System
+						* Pterodactyl-System
+						* Katalymov-System
+						* Polnisches Gambit
 ==================================================================================================================================
 Buch 2: Spanische Partie
 ==================================================================================================================================
