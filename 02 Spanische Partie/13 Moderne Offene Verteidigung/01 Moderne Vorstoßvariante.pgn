@@ -1,0 +1,73 @@
+[Event "The Modernized Ruy Lopez"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Moderne Offene Verteidigung"]
+[Black "Moderne Vorstoßvariante"]
+[Result "*"]
+[ECO "C80"]
+[Annotator "Darius Swiercz"]
+[PlyCount "75"]
+[EventDate "2011.08.31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 {Die Offene Verteidigung
+führt zu einem geöffneten Zentrum und zu sehr unausgeglichenen Stellungen,
+in denen Schwarz gute Chancen auf Gegenspiel hat.} 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 {Diese Fortsetzung bildet die klassische Wahl im Offenen Spanier.}
+Be7 10. c3 {In der Vorstoßvariante benutzt Schwarz den d-Bauern, um die
+gedrängten weißen Figuren auf der d-Linie anzugreifen.} Nc5 11. Bc2 {Diese
+Variante war Mitte der 2010er Jahre sehr beliebt. Es ist eine sehr
+komplizierte Variante, in der Schwarz ein erhebliches Risiko auf sich nimmt,
+um die Stellung sehr zu verwickeln.} d4 12. Nb3 d3 13. Bb1 {Das ist die
+prinzipielle Fortsetzung.} Nxb3 14. axb3 Bf5 {In dieser Stellung hat Weiß
+eine große Auswahl.} 15. Be3 O-O (15... Qd5 16. Bd4 O-O {transponiert.}) 16.
+Bd4 Qd5 17. Re1 {Das ist die Grundstellung der Vorstoßvariante. Weiß kann
+hier ohne Risiko auf Gewinn spielen, wohingegen Schwarz vorsichtig sein muss.}
+d2 {Dies ist der beliebteste Zug und die Moderne Vorstoßvariante.} 18. Re2 {
+Weiß schlägt den Bauern nicht direkt, weil er den Bauern b3 beschützen will.
+} Bxb1 19. Rxb1 Nxd4 20. Nxd4 Bg5 {Schwarz muss den Bauern d2 decken.} (20...
+c5 21. Nf3) 21. g3 c5 {Schwarz muss die Drohung f2-f4 abwehren.} 22. Nf5 Qd3 {
+Alles andere ist schlecht für Schwarz.} ({(a)} 22... Qe6 $2 23. Nd6 Rad8 24.
+f4 Be7 25. Ra1 $1 {Sehr instruktives Spiel von Weiß, die letzte Figur wird in
+das Spiel gebracht. Diese Idee ist sehr wichtig. Weiß steht klar besser.} f6 (
+25... Bxd6 26. Rxa6 c4 27. Rxd6 Rxd6 28. exd6 Qxd6 29. Qxd2) 26. f5 Qd7 (26...
+Qd5 27. Rxa6 Bxd6 28. Rxd6 Rxd6 29. exd6 Qxd6 30. Qxd2) 27. Rxa6 fxe5 28. Rxd2
+{mit besten Gewinnchancen} Bg5 29. Rd5 Rxf5 30. Qe2 Rf6 31. Nf5 Qxd5 32. Ne7+
+Kh8 33. Nxd5 Rxa6 34. Qxb5) ({(b)} 22... Rad8 23. f4 Qd3 (23... Qe6 24. Nd6 {
+transponiert in die Variante (a)}) 24. Nd6 Be7 25. Rxd2 Qe3+ 26. Kg2) 23. Nd6 {
+Weiß hat es geschafft, seinen Springer auf das Feld d6 zu platzieren, auf dem
+er sehr stark wirkt. In vielen Varianten dreht sich die komplette Strategie
+von Weiß um diesen Springer.} Qg6 {Der einzige Zug.} (23... f6 $2 {Weiß
+reagiert hier richtig.} 24. f4 $1 fxe5 25. Rxd2 Qe3+ 26. Rf2 $1 h6 (26... Kh8
+27. Qd5 Rad8 28. Qe4 Qxe4 29. Nxe4 Bh6 30. Nxc5 Rd6 31. Re1 exf4 32. gxf4 $16)
+27. Qd5+ Kh7 28. Nf5 Rxf5 29. Qxa8 exf4 30. Qf3 {Weiß gewinnt.} Qe6 31. Rbf1
+$18 {Am genauesten.}) 24. h4 $1 {Ein sehr starker und wichtiger Zug. Der Bauer
+auf d2 ist ägerlich und bedarf beharrlicher Pflege. Weiß muss den schwarzen
+Läufer aus der Diagonalen c1-h6 entfernen. Schwarz hat drei Möglichkeiten.}
+Bxh4 {Das ist die normale Reaktion, warum sollte man auch nicht den h-Bauern
+nehmen?} ({(a)} 24... Bf4 25. h5 $5 Qe6 26. Ne4 Bxe5 27. Rxd2 Qf5 28. Nd6 Bxd6
+29. Rxd6 Rae8 30. Ra1 {mit etwas Vorteil für Weiß.}) ({(b) Verdächtiger ist
+} 24... Bh6 $6 25. h5 Qxh5 26. Rxd2 Qxe5 27. Rd5 Qf6 (27... Qe6 $6 {Dieser
+scheinbar natürliche Zug läuft in} 28. Nf5 $1 Qe4 (28... Bg5 $2 29. Nxg7 $1)
+29. f3 $5 Qe6 30. f4 {Der Läufer steht hier sehr schlecht.}) 28. Qd3 {Weiß
+plant den Turm in das Zentrum zu entwickeln.} g6 29. Ne4 Qe7 30. Nxc5 Rfd8 31.
+Rd1 {Weiß hat einen schönen Druck im Zentrum.}) 25. Rxd2 Be7 (25... Rad8 $2
+26. Ra1 $1 {und wieder gelangt der Turm über die a-Linie in das Spiel} Bxg3 {
+Schwarz versucht noch im Trüben zu fischen.} (26... f5 27. Kh2 Be7 28. f4) 27.
+fxg3 Qxg3+ 28. Kh1 Qxe5 29. Rd5 {mit einer guten Mehrfigur für Weiß, Schwarz
+hat keine Kompensation.}) 26. Rd5 $5 f6 $1 {Schwarz muss das Zentrum
+unterminieren.} ({(a)} 26... Rad8 $2 27. Ra1) ({(b)} 26... h5 $2 27. Qd3 Qxd3
+28. Rxd3 {Das Endspiel ist besser für Weiß.}) 27. e6 f5 28. Qd3 Qxe6 29. Nxf5
+Bf6 {Das ist wahrscheinlich die beste Verteidigung.} (29... Rad8 $6 30. Nxe7+
+Qxe7 31. Rd1 Rde8 32. Kg2 $14 {Weiß steht hier etwas besser. Sein König
+steht sicher und seine Figuren sind sehr aktiv. Schwarz steht auch ordentlich,
+aber sein Damenflügel ist etwas durchgeschüttelt.}) 30. Rd1 Rad8 31. Ne3 {
+Weiß möchte die Damen auf dem Brett behalten.} Bg5 {Der energischste Zug.} ({
+Nach einem unkonkreten Zug wie} 31... Rfe8 {kann Weiß einigen Druck ausüben
+wie etwa} 32. Qc2 Rxd5 33. Rxd5 Be5 34. Kg2 Qc6 35. Qd3) 32. Rxd8 Rxd8 33. Nd5
+Rf8 {Weiß hat hier etwas Vorteil.} 34. Nc7 Qxb3 35. Qe2 Qf7 36. Nxa6 c4 37.
+Nc5 {Weiß hat den Bauern zurückgewonnen und sein Springer strebt auf das
+Feld e4.} Re8 38. Ne4 {Die weißen Chancen stehen hier ganz gut. Der Springer
+steht auf dem Feld e4 gut. Oft hat Weiß im Endspiel Vorteil, da der Springer
+besser als der Läufer ist.} *
+

@@ -1,0 +1,45 @@
+[Event "The Italian Renaissance I - Petroff"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Russische Verteidigung"]
+[Black "Anti-Nimzowitsch-Angriff"]
+[Result "*"]
+[ECO "C42"]
+[Annotator "Martyn Kravtsiv"]
+[PlyCount "22"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.12.28"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 ({(a) Eine scharfe Alternative bildet} 3... Qe7
+$5 4. d4 Nc6 5. Nc3 Nxe5 6. dxe5 Qxe5) ({(b) Die Damiano-Variante beginnt mit} 
+3... Nxe4 4. Qe2 Qe7 5. Qxe4 d6 6. d4 dxe5 7. dxe5 Nc6 {Weiß könnte
+versuchen den Bauern zu behalten oder sich einfach weiterentwickeln.}) ({
+(c) Zweifelhaft ist die Fortsetzung} 3... Nc6 4. Nxc6 dxc6 5. d3 Bc5 6. Be2 {
+Ein vernünftige Option.} ({Schwarz träumt von} 6. Bg5 $4 Nxe4 7. Bxd8 Bxf2+
+8. Ke2 Bg4#) 6... Ng4 {Der einzige aggressive Zug von Schwarz.} 7. Bxg4 Qh4 8.
+g3 Qxg4 9. Qxg4 Bxg4 10. Be3 {Weiß hat einen gesunden Mehrbauern und eine
+gute Struktur.}) ({(d) Die Jobava-Variante ist} 3... d5 4. exd5 Qxd5 5. d4 Nc6
+6. Nxc6 Qxc6 7. Qe2+ {So erzwingt Weiß den Damentausch.} Be7 8. Qb5 {Mit
+einem soliden Mehrbauern für Weiß.}) 4. Nf3 Nxe4 5. Nc3 Nf6 {stellt den
+Anti-Nimzowitsch-Angriff dar.} 6. d4 Be7 {Dieser Zug stellt hier die
+Hauptvariante dar.} ({(a) Etwas gekünstelt sieht} 6... g6 {aus.} 7. Qe2+ Qe7
+8. Be3 Bg7 9. O-O-O O-O 10. Qd2 {Weiß hat ein kleines, aber stabiles Plus.}) (
+{(b) Gegen den weißen Raum spielt} 6... d5 {, um den Läufer nach d6 zu
+bringen.} 7. Bd3 Bd6 8. O-O O-O 9. Bg5 Be6 10. Qd2 {Weiß hat einige Tempi
+Vorteil. Schwarz muss sich überlegen, ob er Sc3-b5 verhindern will oder
+zuerst den Springer entwickelt.}) 7. Bd3 O-O 8. O-O {mit einer etwas ruhigeren
+Stellung als in dem Nimzowitsch-Angriff.} Nc6 $5 {Dieser Springerzug hat die
+Aufmerksamkeit der meisten Großmeister geweckt. Yu Yangyi verteidigt ihn mit
+Schwarz.} ({(a) Der Turmzug} 8... Re8 {ist immer eine gute Idee.} 9. Re1 Nbd7 {
+Obwohl Weiß hier ohne h2-h3 auskommt erhält Schwarz eine sehr robuste
+Stellung.}) ({(b) Die Fesselung} 8... Bg4 {bildet eine wichtige Antwort im
+Anti-Nimzowitsch-Angriff.} 9. h3 Bh5 {Wenn Weiß hier Vorteil nachweisen will,
+dann muss er die Fesselung irgendwann mit g2-g4 loswerden. Für den Moment
+versucht er einfach die Stellung seiner Figuren zu verbessern.}) ({(c) Die
+symmetrische Fortsetzung} 8... d5 {ist nicht schlechter als die anderen.} 9.
+Re1 Re8) 9. d5 Ne5 {Das ist Yu's Fortsetzung} ({Von Lenderman stammt die
+Fortsetzung} 9... Nb4 10. Bc4 Bg4 {Anscheinend hat Schwarz seine Entwicklung
+erfolgreich beendet.}) 10. Nxe5 dxe5 11. Re1 Nd7 {Weiß hat mehr Raum und
+einen Vorteil im Zentrum.} *
+

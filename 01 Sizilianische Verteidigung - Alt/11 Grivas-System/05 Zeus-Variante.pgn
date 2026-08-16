@@ -1,0 +1,54 @@
+[Event "CBM 147"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Zeus-Variante"]
+[Black "Grivas-System"]
+[Result "*"]
+[ECO "B33"]
+[Annotator "Efstratios Grivas"]
+[PlyCount "34"]
+[EventDate "2011.08.17"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2012.03.16"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 {Das ist die
+Ausgangsstellung des sogenannten Grivas-Systems. Schwarz treibt den Springer
+nach b3 und hält seine Bauernstruktur so geschmeidig wie möglich} Nf6 6. Nc3
+{Die letzten beiden Züge werden auch schon einmal in anderer Zugfolge gespielt
+} e6 7. Be3 Qc7 8. Bd3 d6 9. f4 a6 10. Qf3 Be7 {Vielleicht ist dies die
+optimale Aufstellung für Weiß: die Läufer gehen nach d3 und e3 und die Dame
+nach f3, von wo sie nach g3 oder h3 gehen kann. Weiß kann nach zwei Seiten
+rochieren, wobei er meistens zum Damenflügel rochiert, da seine Absichten
+aggreissiver Natur sind. Schwarz versucht so flexibel wie möglich zu agieren:
+b7-b5, Sf6-d7, die kurze Rochade wird aufgeschoben und ebenso die Entwicklung
+des Damenläufers. Nach} 11. O-O-O b5 12. g4 {ist eine erste kritische
+Stellung auf dem Brett.} Nd7 {Das ist eine solide Alternative zur
+Hauptfortsetzung} 13. g5 Nb6 ({a)} 13... Nb4 14. Kb1 Nxd3 15. cxd3 b4 16. Ne2
+a5 17. Rc1 Qb7 18. Ng3 g6 19. h4 a4 20. Nd2 Qa6 21. Nc4 Bb7 $13 {Borisek,
+J-Kozul,Z Nova Gorica 2006.}) ({b)} 13... Bb7 14. Kb1 Nc5 15. h4 Nb4 (15...
+O-O-O 16. Rhe1 Kb8 17. Qf2 $14 {Guliyev,N-Santo Roman,M Sautron 2004}) (15...
+b4 16. Ne2 a5 17. Nxc5 dxc5 18. Qf2 $14 {Rakowiecki,T-Figiel,M Jachranka 1987})
+16. Nxc5 $1 dxc5 17. Be2 Nc6 18. f5 $14 {ist angenehm für Weiß}) ({c)} 13...
+O-O $2 {ist verfrüht} 14. e5 dxe5 15. f5 $16 {der typische Durchbruch} Nd4 $6
+16. Nxd4 exd4 17. f6 $18 {Beckemeier, W-Daverkausen,B Germany 1990.}) ({d)} 
+13... b4 14. Ne2 a5 15. Nbd4 Nxd4 16. Nxd4 $14 {Magem Badals,J-Sarmiento
+Alfonso,B Las Palmas 1989.}) ({e)} 13... Nc5 14. Nxc5 $1 dxc5 15. e5 Bb7 16.
+Be4 $14 {Tiviakov, S-Anastasian,A Frunze 1989. Die weißen Manöver mit Sxc5
+und e5 sind nur möglich, falls Kb1 und Lb7 noch nicht eingepflegt sind}) 14.
+Kb1 Na4 ({Andere Züge waren erfolglos für Schwarz: a)} 14... Rb8 15. h4 Nc4
+16. Bc1 O-O 17. h5 $14 {Tolnai,T-Vragoteris,A Katerini 1992.}) ({b)} 14... b4
+15. Ne2 e5 16. f5 a5 17. f6 $16 {Urday Caceres,H-Bellon Lopez,J Benasque 1993.}
+) ({c)} 14... Bd7 15. h4 b4 16. Ne2 a5 17. Nbd4 Nxd4 18. Bxd4 $14 {Rios Parra,
+A-Bakre,T Roque Saenz Pena 1997.}) 15. Ne2 Bd7 ({Schwarz hat auch andere
+Möglichkeiten: a)} 15... Bb7 16. Qh3 (16. c3 $5 O-O 17. h4 b4 18. c4 Nc5 19.
+Bc2 Nxb3 20. axb3 a5 $13) 16... Nc5 $1 (16... Qd7 17. Rhf1 $14 {Kotronias,
+V-Akopian,V Debrecen 1992}) (16... O-O-O 17. f5 Qd7 18. Rhf1 $14 {Caruana,
+F-Haznedaroglu,K Novi Sad 2009}) 17. Nxc5 (17. g6 fxg6 18. Rhg1 (18. Nxc5 dxc5
+19. Qxe6 Nd8 $17) 18... Nb4 $13) 17... dxc5 18. Ng3 c4 19. Be2 c3 20. b3 O-O
+$13 {.}) ({b)} 15... e5 $6 16. f5 Bb7 17. f6 gxf6 18. gxf6 Bf8 19. Rc1 Na5 20.
+Nxa5 Qxa5 21. c3 $16 {Van der Weide,K-Koster,R Groningen 2001.}) 16. f5 Ne5 (
+16... O-O-O 17. Nf4 Kb8 18. h4 Qb7 19. Qh3 Rhe8 $13 {Klerides, P-Grivas,E
+Ermioni 2005.}) 17. Qh3 Nc5 $13 {Kotronias,V-Grivas,E Iraklion 1992.} *
+

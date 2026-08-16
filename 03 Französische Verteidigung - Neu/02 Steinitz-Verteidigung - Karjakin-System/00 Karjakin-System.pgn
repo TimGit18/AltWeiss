@@ -1,0 +1,41 @@
+[Event "1.e4 vs. The French"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Französische Verteidigung"]
+[Black "Karjakin-System"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "23"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 {[%csl
+Yb4,Yb5][%cal Rb7b4] Das ist ein hochbeliebtes System. Der schwarze Plan ist
+einfach und direkt. Weiß hat eine breite Wahl von Optionen dagegen. Das
+weiße System wurde von Sergey Karjakin entwickelt} 8. Qd2 b5 9. dxc5 Bxc5 {
+Das ist die Hauptfortsetzung} ({Die Springervariante beginnt mit dem Schlagen} 
+9... Nxc5 10. Qf2 Ne4 {Dieser Zug hat gute praktische Resultate und ist
+prinzipiell genug, um diese Variante zu rechtfertigen} 11. Nxe4 dxe4 12. Bb6 {
+Dieser nette Zwischenzug widerlegt die schwarze Spielweise} Qd5 {Geht die Dame
+woanders hin, so geht der Bauer auf e4 verloren} 13. Nd4) 10. Bd3 $5 {Dieser
+faszinierende Zug stammt von Sergey Karjakin. Der weiße Plan basiert auf
+einem Gegenspiel gegen den schlechten weißfeldrigen Läufer von Schwarz. Das
+Ziel ist ein Endspiel mit dem Feld d4 als Basis für den weißen Springer} ({
+Die theoretische Hauptfortsetzung lautet} 10. Bxc5 Nxc5 11. Qf2 Qb6 12. Bd3)
+10... Qb6 {Dies ist die Hauptlinie} ({Die Zentralvariante lautet} 10... d4 $5 {
+Dieser Zug scheint eine Figur zu gewinnen} 11. Nxd4 $1 Nxd4 12. Ne4 $1 {
+Der überraschende Schlüsselzug} Qh4+ (12... Bb6 13. Nd6+ Kf8 14. Be4) 13. Bf2
+Qg4 14. Bxd4 Bxd4 15. Nd6+ Ke7 16. Be4 Bxb2 17. Rb1) 11. Bf2 $1 {Der Rückzug
+des Läufers hält die Spannung im Zentrum aufrecht} Bb7 $5 {Schwarz möchte
+eine verbesserte Version des Endspiels erreichen. Dieser Zug ist auch der
+nützlichste Wartezug und eine Empfehlung} ({(a) Die Abtauschvariante beginnt
+mit} 11... Bxf2+ 12. Qxf2 Qxf2+ 13. Kxf2 Nc5 {Der König marschiert jetzt in
+das Zentrum}) ({(b) Die Rochadevariante beginnt mit} 11... O-O 12. O-O Bxf2+
+13. Rxf2 {Weiß kann jetzt den anderen Turm auf e1 stellen und den Bauern
+decken}) ({(c) Die Vorstoßvariante beginnt mit} 11... b4 {Schwarz hofft
+darauf, dass der weiße Springer auf a4 deplatziert wirkt} 12. Na4 Bxf2+ 13.
+Qxf2 Qxf2+ 14. Kxf2 {Schwarz kann rochieren oder mit dem König im Zentrum
+bleiben. Auf jeden Fall wird Weiß einen Turm auf die c-Linie stellen und
+c2-c3 spielen} Ke7) 12. a3 {Was Schwarz kann, kann auch Weiß. Der Zug
+verhindert b5-b4 und auch irgendwelche Manöver schwarzer Figuren} *
+

@@ -1,0 +1,76 @@
+[Event "Beating Unusual Chess Defences"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Miles-System"]
+[Black "Semi-Kengis-System"]
+[Result "*"]
+[ECO "B04"]
+[Annotator "Andrew Greet"]
+[PlyCount "45"]
+[EventDate "2013.07.05"]
+
+1. e4 Nf6 2. e5 Nd5 {Es gibt zu diesem Zug eigentlich keine wirklichen
+Alternativen} 3. d4 d6 {Das ganze schwarze Konzept basiert auf der
+Unterminierung der zentralen weißen Bauern. Ohne diesen Zug kommt Schwarz im
+Grunde nicht aus} 4. Nf3 {Das ist der weiße Hauptzug. Er verteidigt den
+Bauern auf e5 und entwickelt eine Leichtfigur.} dxe5 {Der direkte Abtausch im
+Zentrum ist mehr oder weniger die aktuelle Hauptvariante der
+Alekhine-Verteidigung} 5. Nxe5 {Das ist die Grundstellung des Modernen Systems.
+Schwarz hat jetzt mehrere Möglichkeiten: 1. Die Stützung des Springer mit
+c7-c6 2. Das provokative Sb8-d7 3. Die Fianchetto-Variante mit g7-g6} c6 {
+Das ist die heute beliebtestes Fortsetzung. Schwarz will Sb8-d7 spielen, ohne
+das Opfer Se5xf7 zu erlauben. Der Damenläufer soll vielleicht nach g4
+entwickelt werden und sich eventuell nach h5 zurückziehen können. Außerdem
+schafft der Zug ein Fluchtfeld auf c7 für den Springer} 6. Be2 {Weiß
+entwickelt seinen Läufer und verhindert den Läuferzug nach g4. Außerdem
+bereitet er die kurze Rochade vor. Außerdem gefällt er den starken Spielern
+am besten.} {Der folgende Zug kennzeichnet die Semi-Kengis-Variante, in der
+Schwarz - nicht untypisch - bereits c7-c6 vor dem Fianchetto gezogen hat.} g6 {
+Da Schwarz bereits einen Zug investiert hat, so kann Weiß etwas aggressiver
+als üblich spielen. Zunächst muss der Springer aus dem Zentrum vertrieben
+werden.} 7. c4 Nc7 {Darin liegt der Sinn des fünften Zuges von Schwarz. Er
+möchte ein Rückzugsfeld für seinen Springer schaffen und es besetzen.} 8.
+Nc3 Bg7 9. Be3 O-O 10. f4 $5 {So ein Vorstoß sollte niemals leichtfertig
+gegen die Alekhine-Verteidigung eingesetzt werden. Dieser Zug stammt von Peter
+Svidler. Er ist ein gutes Beispiel für kontrollierte Aggression. Hier gibt es
+auch ruhigere Möglichkeiten.} ({Das ruhige} 10. O-O Nd7 11. Nf3 {sollte
+ebenfalls für ein geringes Plus reichen. Die kritische Fortsetzung lautet nun}
+e5 12. Qc2 exd4 13. Nxd4 {Weiß beabsichtigt Ta1-d1 und bhält ein kleines
+Plus.}) 10... Nd7 11. O-O Nxe5 (11... Ne6 {sollte mit} 12. Bg4 {begegnet
+werden, wonach Schwarz folgende zwei Züge hat:} Nb6 {und hier sollte in
+Durarbayli,V - Bulanov,D Sibenik 2007 Weiß mit} ({Oder} 12... Nxe5 {aus der
+Partie Vovk,Y- Miroshnichenko,E Cappelle-la-Grande 2009 und jetzt wäre} 13.
+fxe5 {die ehrgeizigste Fortsetzung gewesen. Vielleicht war Weiß besorgt über}
+c5 {, aber nach} 14. d5 Nd4 15. Bf4 {behält Weiß einen Vorteil.}) 13. b3 {
+fortsetzen und die Kontrolle über die Stellung behalten.}) 12. fxe5 c5 $6 {
+Es gehört zum Teil der schwarzen Strategie, das weiße Zentrum zu
+unterminieren. Aber hier sind die weißen Figuren viel zu gut platziert, um
+den Wechsel in der Stellung zu behandeln. Schwarz kann mit zwei anderen Zügen
+den Nachteil seiner Stellung minimieren:} ({(a)} 12... f6 13. exf6 exf6 14. d5
+Re8 15. Qd2 cxd5 16. cxd5 Bf8 {stammt aus der Partie Vovk,Y - Streit,H
+Vlissingen 2009. Jetzt wäre} 17. Bc4 Bd6 18. Bd4 {am besten für Weiß
+gewesen.}) ({(b) Die sicherste Fortsetzung ist wahrscheinlich} 12... Be6 13.
+Ne4 Bf5 {wie in der Partie Stepovaia,T-Chekhova Kostina,T Elista 1994 mit der
+möglichen Fortsetzung} 14. Bf3 {und einem kleinen Plus für Weiß.}) 13. dxc5
+$1 (13. d5 Bxe5 14. Bxc5 {ist gut genug für einen leichten Vorteil, aber die
+Fortsetzung von Svidler ist viel dynamischer und stärker.}) 13... Bxe5 14. Qe1
+{Hiernach hat Schwarz richtige Probleme seine Figuren zu koordinieren.} Bd4 $6
+{Dieses Abtauschmanöver kostet wertvolle Zeit.} ({Die beste Wahl war hier} 
+14... Ne6 15. Rd1 Qa5 16. Bf3 Bxc3 17. bxc3 {Das weiße Läuferpaar und die
+aktiven Figuren kompensieren die Bauernschwächen.}) 15. Bf3 e5 (15... Ne6 {
+löst die schwarzen Probleme nicht nach} 16. Rd1 Bxe3+ 17. Qxe3 Qa5 18. c6 bxc6
+19. Bxc6 Rb8 20. Nd5) 16. Rd1 {Ab diesem Punkt kann man Schwarz auch keine
+guten Ratschläge mehr geben.} a5 $6 {Dieser langsame Zug hilft auch nicht.} ({
+Nach dem überlegenen} 16... Ne6 {erhöht Weiß die Initiative mit einfachen
+Mitteln} 17. Nb5 Bxe3+ 18. Qxe3 Qe7 {Nun gewinnt Weiß forciert einen Bauern.}
+19. Nd6 f6 20. c6 bxc6 21. Bxc6 Rb8 22. Nxc8 Rfxc8 23. Rd7 Qc5 24. Qxc5 Nxc5
+25. Bd5+ Kh8 26. Rxa7 f5 27. b3 {Das Endspiel sollte einfach gewonnen sein.})
+17. Bxd4 exd4 18. Qe5 Ne6 19. Nb5 Qe7 20. Nd6 Qc7 ({Nach} 20... Qg5 21. Qxg5
+Nxg5 22. Rxd4 {hat Weiß einen Mehrbauern in einer überlegenen Stellung.}) 21.
+Bd5 Ra6 (21... Qxc5 {scheitert an} 22. Nxf7 Rxf7 23. Rxf7 Kxf7 24. Bxe6+ Bxe6
+25. Qxc5) 22. Kh1 {Schwarz ist vollkommen paralysiert. Svidler wählt einen
+prophylaktischen Zug bevor er den finalen Zug spielt.} h5 23. Rf6 {Jetzt
+verdoppelt Weiß die Türme in der f-Linie und die Partie ist vorbei in
+Svidler,P-Baburin,A Bunratty 2009.} *
+

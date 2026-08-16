@@ -1,0 +1,152 @@
+======================================================================================================
+Najdorf-Verteidigung:		Vergifteter Bauer
+======================================================================================================
+Kevin Goh Wei Ming: 		The Sicilian Najdorf 6.Lg5
+Parimarjan Negi:		1.e4 vs. The Sicilian I
+Garrik Kasparov:		Najdorf 01
+======================================================================================================
+1. e2-e4	c7-c5 
+2. Sg1-f3	d7-d6 
+3. d2-d4 	c5xd4 
+4. Sf3xd4 	Sg8-f6
+5. Sb1-c3	a7-a6 	
+6. Lc1-g5	Lf8-e7 
+------------------------------------------------------------------------------------------------------
+7. f2-f4 	Dd8-b6 
+8. Dd1-d2 	Db6xb2 
+9. Ta1-b1 	Db2-a3 
+------------------------------------------------------------------------------------------------------
+10.e4-e5 	d6xe5 		-->	10... 	Sf6-d5 		Ungenauigkeit
+				-->	10... 	Sf6-d7 		Rückzugsvariante
+------------------------------------------------------------------------------------------------------
+11.f4xe5 	Sf6-d7 
+12.Sc3-e4 	Da3xa2 
+13.Ta1-d1 	Da2-d5 
+14.Dd2-e3 	Dd5xe5 
+------------------------------------------------------------------------------------------------------
+15.Lf1-e2 	Lf8-c5 		-->	15... 	h7-h6		Läuferrückzug
+16.O-O				-->				Hauptvariante
+======================================================================================================
+Partien
+======================================================================================================
+------------------------------------------------------------------------------------------------------
+{Ein logischer
+Zug. Schwarz hebt die Fesselung des Springers auf und setzt die Entwicklung
+seines Königsflügels fort. Jetzt wäre der Vorstoß e4-e5 einfach verfrüht,
+denn Schwarz setzt seinen Springer in das Zentrum und der weiß Bauer auf e5
+wird zu einer Schwäche} 8. Qf3 {Weiß bereitet die lange Rochade vor, denn am
+Königsflügel will er einen Bauernsturm entfachen. Die Dame steht auf f3
+dafür sehr gut, sie muss nur aufpassen, dass Schwarz nicht unter günstigen
+Umständen zu dem Manöver Sd7-e5 gelangt. Weiterhin beschützt sie den Bauern
+e4, falls Schwarz diesen ein weiteres Mal angreifen würde oder den
+Verteidigungsspringer auf c3 vertreiben würde} h6 {Damit beginnt die
+berühmte Göteborg-Variante. Die Grundidee ist dieselbe wie in der
+Browne-Variante: Schwarz will durch ein Aufreißen seines Königsflügels das
+weiße Zentrum zerstören und die weißen Figuren auf schlechte Felder stellen.
+Beide Varianten können transponieren, aber die Göteborg-Variante hat einen
+entscheidenden taktischen Nachteil ("Argentinische Tragödie"), der sie sehr
+schlecht spielbar macht James} 9. Bh4 {Natürlich tauscht Weiß nicht seinen
+guten Damenläufer. Der schwarze Königsläufer würde auf f6 hervorragend
+stehen und ganz einfach e4-e5 verhindern} g5 {Dieser Zug macht eigentlich nur
+Sinn, wenn schon ein Springer auf d7 oder c6 steht (wie in der Browne-Variante)
+, der danach das Idealfeld e5 besetzen kann. Hier hingegen kann Weiß
+zunächst einmal beruhigt nehmen.} ({Die Alternative} 9... Qc7 10. O-O-O Nbd7
+11. Be2 {transponiert in die Browne-Variante}) 10. fxg5 Nfd7 {Das ist die
+Grundidee, leider verzögert. Der Springer zielt auf das zentrale Feld e5.
+Anscheinend hat er danach keine Probleme mehr. Weiß muss unverzüglich
+handeln und macht dies am besten kombinatorisch} 11. Nxe6 {Die schwarze
+Stellung schreit nach einem Figurenopfer auf e6, denn die Diagonale h5-e8 ist
+sehr geschwächt und der scharze König ist über diese Seite sehr anfällig} (
+{Kevin Goh Wei Ming empfiehlt die positionelle Fortsetzung} 11. Qh5) 11... fxe6
+{Schwarz hat keine andere Wahl und muss nehmen. Nun wird aber die Stellung
+rund um den schwarzen König sehr zugig. Es muss jetzt von Weiß sehr schnell
+gehandelt werden} 12. Qh5+ {Die weiße Dame besetzt natürlich direkt die
+vakante Diagonale vor dem schwarzen König und bringt sie in seine Nähe} Kf8 {
+Hier steht der König auch nicht besonders sicher. Alles, was Weiß benötigt,
+ist die kurze Rochade und dann Matt auf f7. Schwarz hat folgende Strategie, um
+dieses zu verhindern: Sd7-e5 deckt f7, Lh4-g3 greift den schwarzen Springer an,
+Sb8-c6 untermauert die Stellung des starken Springers e5. Weiß muss einen
+taktischen Schlag finden, um den Plan seines Gegners zu zerstören} 13. Bb5 {
+Die bestechende Logik hinter diesem argentinisch-tragischen Zug ist, dass
+Weiß damit die Springerwanderung nach e5 zwar nicht unterbindet, aber seine
+Deckung durch den anderen Springer. Wenn Schwarz andererseits schlägt, kann
+Weiß unter Tempogewinn rochieren und ein entcheidendes Schach auf f1 geben}
+Rh7 {Eine Idee von Bobby Fischer. Schwarz überdeckt das Feld f7 und die
+gesamte siebte Reihe mit seinem Turm. Vielleicht ist diese Fortsetzung auch
+die einzig spielbare in dieser Stellung} ({(a) Wenn Schwarz den Springer
+sofort nach e5 bringt, wird er natürlich hier auch sofort angegriffen} 13...
+Ne5 {Der Springer überdeckt das Einbruchsfeld f7} 14. Bg3 {Weiß führt seine
+ursprüngliche Idee aus und greift den Springer unverzüglich an} Rh7 {Nun
+muss der schwarze Turm doch auf die siebte Reihe, um das Schlimmste zu
+verhindern} 15. Bxe5 dxe5 16. Rd1 {Bevor Weiß auf der f-Linie Schach gibt,
+bringt er zunächst einmal seinen Damenturm mit Tempo in das Spiel} Nd7 {
+Schwarz kann die Dame nicht bewegen, denn es droht ein entscheidendes Schach
+auf e8} 17. Rf1+ {Die letzte schwere Figur wird in das Spiel gebracht} Kg8 18.
+g6 Rg7 {Schwarz ist zwar sehr eingeklemmt, scheint aber die Stellung zu halten}
+19. Bc4 {Ein schöner Umgruppierungszug. Weiß droht mit dem Einschlag auf e6}
+Qb6 {Schwarz deckt den Bauern e6 mit der Dame und hebt die unangenehme
+Fesselung des Springers auf d7 auf} 20. Nd5 {Ein sehr schönes und
+thematisches Opfer: Schwarz kann das Opfer nicht gut annehmen, aber auch nicht
+einfach ablehnen, denn der Springer greift neben der Dame auf b6 auch den
+Läufer auf e7 an}) ({(b) In den berühmten Stammpartien entstand die
+Argentinische Tragödie} 13... Kg7 {Weiß kann jetzt seinen ursprünglichen
+Plan ausführen, ohne direkt Gewaltmaßnahmen zu ergreifen} 14. O-O {Es droht
+wieder das entscheidende Schach auf f7} Ne5 {Schwarz überdeckt das Feld f7
+mit seinem Springer} 15. Bg3 {Der Springer wird sofort angegriffen. Schwarz
+kann diesen Springer nicht mit dem anderen Springer überdecken, da der
+Läufer auf b5 ganze Dienste versieht} Ng6 {Die einzige Möglichkeit, das Feld
+f7 zu sperren. Weiß hat trotzdem eine forcierte Möglichkeit fortzusetzen} 16.
+gxh6+ Rxh6 17. Rf7+ Kxf7 18. Qxh6 axb5 {Jetzt hat Schwarz zwar zwei
+Mehrfiguren, aber Weiß hat jetzt alle Figuren im Spiel} 19. Rf1+ Ke8 20. Qxg6+
+{Die erste Mehrfigur ist schon wieder weg} Kd7 {Schwarz versucht auf den
+Damenflügel zu entkommen} 21. Rf7 {Weiß bringt seinen Turm auf ein sehr
+aggressives Feld und bindet die gegnerischen Figuren} Nc6 {Schwarz muss in der
+Entwicklung mithalten} 22. Nd5 {Ein sehr schöner thematischer Zug und ein
+Opfer, das nicht angenommen werden darf} Rxa2 23. h4 {Weiß schafft ein
+Luftloch für seinen König und droht mit dem Vormarsch des h-Bauern auf die
+gegnerische Grundreihe}) 14. O-O+ {Weiß entwickelt sich unter Tempogewinn} Kg8
+{Schwarz will seinen König irgendwie auf dem Königsflügel verstecken, am
+liebsten auf h8} 15. g6 {Würde Weiß auf h6 schlagen, so könnte sich Schwarz
+tatsächlich auf h8 verstecken, denn dann stünde der weiße Bauer dem eigenen
+Angriff im Weg} Rg7 {Es ist für Schwarz wichtiger, das Feld f7 zu überdecken
+als den Bauern h6 zu halten} 16. Rf7 {Ein starker Zug, der zwar eine weitere
+Figur opfert, aber auch hohen Druck auf den schwarzen König ausübt} Bxh4 {
+Schwarz sichert sich die schwarzen Felder und hat großen Materialvorteil.
+Allerdings stehen seine meisten Figuren noch auf den Ausgangsfeldern. Weiß
+muss unverzüglich weiter bedingungslos angreifen} 17. Qxh6 {Jetzt droht
+Unheil auf g7} Rxf7 {Schwarz beseitigt die Bedrohung. Allerdings verliert er
+auch eine wichtige Verteidigungsfigur} 18. gxf7+ {Es wird jetzt um den
+schwarzen König sehr luftig, da er diesen Bauern schlagen muss} Kxf7 19. Rf1+
+{Die Alternative Dh7+ führt bloß zu Dauerschach. Es ist auch besser, den
+Turm mit Tempogewinn in das Spiel zu bringen.} Bf6 {Es ist der beste Zug für
+Schwarz, den abseitigen Läufer zur Verteidigung des Königs zurückzuholen}
+20. Qh7+ {Weiß muss weiter angreifen} Ke8 $1 {Dieser Zug sieht zwar etwas
+wagemutig aus, denn Schwarz stellt seinen König wieder in die Fesselung. Aber
+der Zug ist wohlbegründet und auch der einzige} ({Die Alternative} 20... Kf8 {
+verliert nach} 21. e5 dxe5 22. Be2 {mit entscheidendem Angriff} Qe7 23. Qh8+
+Kf7 24. Bh5#) 21. Qg6+ {Natürlich will Weiß den König wieder in die f-Linie
+zwingen} Kf8 {Schwarz hat keine andere Wahl} 22. e5 {Der entscheidensde Zug in
+dieser Stellung. Weiß greift die Verteidigungsfigur auf f6 an, so dass
+Schwarz nicht auf b5 nehmen kann} dxe5 {Schwarz muss verhindern, dass ein
+weißer Bauer auf f6 auftaucht.} 23. Bxd7 {Der angegriffene Läufer wird
+abgetauscht und eine weitere Verteidigungsfigur entfernt. Außerdem wird so
+der Druck auf f6 erhöht} ({Eine Alternative jüngeren Datums, was aber auch
+nur zum Remis geführt hat, lautet} 23. Ne4 Qb6+ 24. Kh1 axb5 25. Nxf6 Ke7 26.
+Qh7+ Kd8 27. Qg8+ Kc7 28. Ne8+ Kd8 29. Nd6+ Kc7 30. Ne8+ Kd8 31. Ng7+ Kc7)
+23... Nxd7 {Schwarz muss mit dem Springer zurücknehmen, obwohl er auf c6
+sicherlich besser platziert wäre. Der Läufer d7 bleibt weiter eingesperrt}
+24. Ne4 {Das ist das thematische Feld für den Springer, denn er kann neben f6
+auch d6 anvisieren} Qe8 {Schwarz muss die Stellung vereinfachen, da er sonst
+den Druck nicht los wird. Dafür ist er auch bereit, Material zurückzugeben}
+25. Qh6+ {Weiß vermeidet auf jeden Fall den Damentausch. Er will auf jeden
+Fall den gegnerischen König beunruhigen und das Endspiel mit Vorteil zu
+erreichen} Ke7 {Der König wählt die Flucht nach vorn. Alle anderen Felder
+sind schlechter} 26. Nxf6 {Weiß wählt den Übergang in das Endspiel mit
+leichten Vorteilen} Nxf6 27. Qxf6+ {Weiß hat eine Figur zurückerobert. Er
+muss jetzt seine bessere Entwicklung unter Beweis stellen} Kd7 28. Rd1+ Kc6 29.
+Qxe5 {Diese Stellung ist möglicherweise Remis. Weiß hat als Kompensation
+für die Minusfigur zwei sehr starke Freibauern auf dem Königsflügel. Sein
+König steht viel sicherer als der schwarze. Außerdem hat Schwarz noch
+Schwierigkeiten seine Figuren zu entwickeln. Er muss b7-b5 und Lc8-b7 nebst
+Ta8-d8 spielen} *
+

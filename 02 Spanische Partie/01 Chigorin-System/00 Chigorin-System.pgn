@@ -1,0 +1,210 @@
+[Event "The Ruy Lopez Main Linie"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Spanische Partie"]
+[Black "Chigorin-System"]
+[Result "*"]
+[ECO "C99"]
+[Annotator "Glenn Flear"]
+[PlyCount "36"]
+[EventDate "2011.08.31"]
+[SourceDate "2011.08.31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 {Hiernach entsteht die Spanische Partie. Weiß übt
+sofort Druck auf den Verteidigungsspringer auf c6 auf und damit auch weiteren
+Druck auf den Bauern e5.} a6 {Die Morphy-Verteidigung ist eine der
+flexibelsten und beliebtesten Antworten. Der weiße Damenläufer muss sich
+erklären, ob er abgetauscht werden soll oder zurückgezogen wird} 4. Ba4 {
+Weiß behält vorerst das Läuferpaar und läßt den Druck nicht nach.
+Allerdings hat Schwarz immer wieder einmal die Option, selber b7-b5 zu spielen
+und den weißen Läufer ganz von seinem Verteidigungsspringer zu vertreiben}
+Nf6 {Schwarz leitet ein Gegenspiel gegen den weißen Königsbauern ein und
+entwickelt sich} 5. O-O {Weiß ignoriert die Drohung. Er bietet dem Schwarzen
+an, mit Sf6 x e4 in die Offene Verteidigung überzugehen} Be7 {In der
+Geschlossenen Verteidigung verzichtet Schwarz auf das Schlagen des weißen
+Königsbauern. Er will sich vielmehr in Ruhe entwickeln und sein Zentrum
+verteidigen} 6. Re1 {Weiß deckt den angegriffenen e-Bauern und droht
+seinerseits damit nach Tausch auf c6 den Bauern e5 zu nehmen.} b5 {Dieser Zug
+ist jetzt notwendig. Schwarz schüttelt den lästigen Läufer ab. Außerdem
+gewinnt der Bauernvorstoß Raum auf dem Damenflügel, so dass Weiß praktisch
+nie Sb1-c3 spielen kann. Das Feld b7 kann als Entwicklungsfeld für den oft
+bescheidenen Läufer c8 benutzt werden} 7. Bb3 {Auf diesem Feld besetzt der
+Läufer die schöne Diagonale a2-g8. Er verhindert mit Druck auf d5 den
+typischen schwarzen Befreiungszug mit dem Damenbauern} d6 {Schwarz öffnet die
+Diagonale für den Damenläufer und schützt den Königsbauern. Damit wird der
+Damenspringer von der Deckungsaufgabe befreit und kann zum Manövrieren
+benutzt werden} 8. c3 {Weiß bereitet mit diesem Zug ein starkes Bauernzentrum
+auf d4 vor und schafft ein weiteres Rückzugsfeld für seinen Königsläufer}
+O-O {Schwarz bringt seinen König in Sicherheit und wartet mit dem
+Fesselungszug Lc8-g4 bis Weiß d2-d4 gespielt hat} 9. h3 {Mit diesem
+prophylaktischen Zug verhindert Weiß die ärgerliche Fesselung. Der Bauernzug
+kann sich oft als nützlich erweisen, wenn Weiß einen Angriff auf dem
+Königsflügel entfacht} Na5 {Dieser Zug kennzeichnet die Chigorin-Variante.
+Schwarz verwirklicht seinen beliebtesten Plan und führt einen Angriff auf dem
+Damenflügel durch} 10. Bc2 {Der Läufer wird gerettet und sichert noch ein
+weiteres Mal den eigenen Königsbauern} c5 {Schwarz erobert weiteren Raum auf
+dem Damenflügel. Er übt noch mehr Druck auf d4 aus, so dass im Falle von
+d2-d4 immer die c-Linie für Schwerfigurenspiel geöffnet werden kann} ({Das
+Gajewski-Gambit beginnt mit der Zugfolge} 10... d5 {Am besten nimmt Weiß das
+Gambit nicht an, sondern versucht selber auf Angriff zu spielen.} 11. d4 dxe4
+12. Nxe5 c5 13. Nd2 {Weiß gibt das Zentrum auf, um offene Linien und
+Entwicklungsvorsprung zu erhalten.} cxd4 14. Nxe4 dxc3 15. Qf3 $1 {Ein starker
+Zug, der die schwarze Verteidigung auf den weißen Feldern unterminiert.
+Außerdem gerät der schwarze Läufer auf e7 in Gefahr.}) 11. d4 {Weiß fährt
+logisch fort und meldet seinen Anspruch im Zentrum an. Er greift ein weiteres
+Mal den Königsbauern des Schwarzen an. Außerdem öffnet er die Diagonale
+für seinen Damenläufer und das Feld d2 wird für den Damenspringer frei} Qc7
+{Die schwarze Dame steht hier ideal. Sie deckt den eigenen e-Bauern und meldet
+Gegenspiel auf der c-Linie an} ({(a) Die Keres-Verteidigung beginnt mit} 11...
+Nd7 {und will die Spannung im Zentrum halten. Aber dieser Umstand kann auch
+Weiß begünstigen} 12. Nbd2 {Weiß entwickelt sich logisch weiter} cxd4 {Das
+ist die dynamischste Antwort von Schwarz. Er macht sich zunutze, dass Weiss
+jetzt nach zurückschlagen auf d4 nicht mehr den Springer nach c3 entwickeln
+kann} 13. cxd4 {Weiß muss um den Punkt d4 kämpfen} Nc6 {Schwarz
+rezentralisiert seinen Damenspringer und übt weiter Druck auf d4 aus,
+eventuell auch nach Le7-f6} 14. Nb3 {Weiß festigt den Punkt d4 ein weiteres
+Mal und achtet auf das Zentrum} a5 {Schwarz möchte das imposante Zentrum von
+Weiß angreifen und nimmt dazu auch Schwächen auf dem Damenflügel in Kauf}
+15. Bd3 {Das ist der anspruchsvollste Zug von Weiß, weil er den b-Bauern von
+Schwarz angreift} Ba6 {Schwarz entwickelt seinen Damenläufer und verteidigt
+den angegriffenen b-Bauern} 16. d5 {Damit gewinnt Weiß Raum. Der schwarze
+Damenspringer muss entweder auf ein passives Feld oder sich riskant platzieren}
+) ({(b) Die Romanishin-Verteidigung startet mit} 11... Bb7 {Normalerweise wird
+dieser Läufer einen Zug später gespielt.} 12. Nbd2 {Es ist eigentlich eine
+Geschmacksfrage, ob Weiß d4-d5 spielt und das Zentrum abschließt, wonach der
+Läufer auf b7 und der Springer auf a5 nicht ideal platziert sind. Der Textzug
+ist für diejenigen, die eine eher offene Schlacht vevorzugen} cxd4 {Schwarz
+öffnet die c-Linie und will das weiße Zentrum zerstören} 13. cxd4 {Weiß
+gelingt es noch, sein Zentrum für einen weiteren Zug zu halten. Allerdings
+steht jetzt sein Läufer luftig und d4 wird schwach} exd4 {Mit seinem übrig
+gebliebenen Bauern auf e5 beseitigt Schwarz den zweiten Bauern auf d4.
+Allerdings hat dieser Zug auch Nachteile} 14. Nxd4 {[%csl Yc2,Yc6,Ye6,Yf5] Der
+Springer kommt sehr schön in das Zentrum. Er überdeckt alle weißen Felder
+im Zentrum und kann nicht mehr vertrieben werden. Außerdem macht er den Weg
+für die weiße Dame frei} Re8 {Schwarz will das Druckspiel gegen den weißen
+Bauern auf e4 erhöhen und einen Rückzugsort für seinen Königsläufer
+schaffen} 15. b3 {[%csl Ra5,Yb7,Yc6,Yd5,Rd6,Ye4,Ye8][%cal Rb7e4,Re8e4] Es
+entsteht eine typische Bauernstruktur. Die Öffnung des Zentrums gibt Schwarz
+etwas Druckspiel auf der Diagonale und der e-Linie gegen den Bauern e4. Der
+Nachteil besteht in der Aufgabe des Zentrums e5, einem isolierten Bauern auf
+d6 und einem deplatzierten Springer auf a5} Bf8 {Das ist die solideste
+Fortsetzung. Der Läufer leistet auf e7 sowieso nicht viel und soll
+fianchettiert werden} 16. Bb2 {Ein weiterer Sinn des Zugs b2-b3 ist neben der
+Überdeckung des Feldes c4 die Entwicklung des weißen Damenläufers auf der
+langen Diagonalen} g6 {Schwarz will seinen Königsläufer auf derselben
+Diagonalen fianchettieren, um den Druck abzufedern} 17. Qf3 {Weiß bringt die
+Dame auf ein aktives Feld und bedroht mittelbar den Springer auf f6} Bg7 {
+Schwarz verteidigt den Springer und bringt den Läufer auf ein wirksames Feld}
+18. Rad1 {Weiß entwickelt seine letzte Figur und verstärkt den Griff im
+Zentrum.}) ({(c) Von Hebden stammt sieses spekulative Bauernopfer auf e5} 11...
+Re8 {Es ist nicht ganz klar, ob es ausreicht} 12. Nbd2 {Klugerweise lehnt
+Weiß das Bauernopfer ab und entwickelt sich} Bf8 {Somit deckt Schwarz wieder
+den Bauern auf e5, da ja der Turm jetzt nicht mehr die Dame decken muss} 13.
+Nf1 {Weiß kompiliert seinen Standardplan} cxd4 {Schwarz verfolgt ein
+ehrgeiziges Ziel. Er möchte sein Zentrum aufgeben, um Weiß leichter
+anzugreifen.} 14. cxd4 {Weiß versucht so lange wie möglich sein Zentrum zu
+halten} exd4 {Hiermit öffnet Schwarz seine e-Linie und übt Druck auf den
+Punkt e4 aus} 15. Nxd4 {Weiß platziert eine Fuigur auf ein attraktives Feld
+und übt Druck auf die weißen rund um das Zentrum aus}) ({(d) Die
+Borisenko-Variante lautet} 11... Nc6 {Sie ist die einfachste Form der
+Chigorin-Variante. Schwarz deckt einfach wieder seinen Königsbauern mit dem
+ausgerückten Springer} 12. d5 {Dies ist ein bequemer Moment für Weiß das
+Zentrum abzuschließen, da er eine Menge Zeit gewinnt} Na5 {Auf diesem Feld
+behält der Springer den Damenflügel im Auge, aber er gerät in Gefahr, aus
+dem Spiel genommen zu werden} 13. Nbd2 {Weiß entwickelt sich wie üblich
+weiter} g6 {Schwarz möchte seinen Läufer auf e7 umgruppieren und auf g7 auf
+ein aktiveres Feld stellen. Eventuell kommt auch einmal f7-f5 in Frage} 14. b3
+{Dieser Standardzug im Geschlossenen Spanier passt auch hier. Der Springer auf
+a5 kann nie mehr nach c4 und der weiße Damenläufer eventuell nach a3 oder b2}
+Bd7 {Schwarz entwickelt seine letzte Leichtfigur. Auf b7 würde der Läufer
+bloß dem Springer die Rückkehr verwehren und auf die Bauernkette d5-e4 auf
+Granit beißen} 15. Nf1 {Weiß kompiliert seinen Standardplan}) 12. Nbd2 {Da
+noch nicht klar ist, wo der der Damenläufer am besten platziert ist, setzt
+Weiß erst einmal die Entwicklung der Springer fort. Der Damenspringer soll
+nach f1, von wo aus er nach e3 oder g3 gehen kann} cxd4 {Schwarz löst die
+Spannung im Zentrum und öffnet die Stellung} ({(a) Dieser Zug kennzeichnet
+das Rauzer-System.} 12... Nc6 {Er ist der traditionelle Zug in der Klassischen
+Chigorin-Verteidigung: Schwarz übt Druck auf das Feld d4 aus} 13. dxc5 {Weiß
+kann nicht einfach Sd2-f1 spielen, weil dann Schwarz dreimal auf d4 schlagen
+könnte und sich dann auf c2 bediente} dxc5 {Schwarz löst seine
+Bauernschwäche auf d6 auf, aber er behält eine Schwäche auf dem Feld d5} 14.
+Nf1 {Weiß kompiliert seinen Standardplan und versucht via e3 auf d5
+einzusteigen} Be6 {Das ist der normalerweise populärste und beste Zug im
+Rauzer-System für Schwarz. Er entwickelt seine letzte Figur und verbindet die
+Türme} 15. Ne3 {Weiß strebt mit dem Springer nach f5, da d5 zu sehr
+überdeckt ist} Rad8 {Schwarz besetzt die offene d-Linie und befragt die Dame}
+16. Qe2 {Die Dame macht Platz auf dem Feld d1 für den eigenen Damenturm} c4 {
+Das ist ein wichtiger Zug für Schwarz: er übernimmt die Kontrolle auf dem
+Feld d3, so dass immer wieder einmal der Vorstoß Sc6-d4 eine Option werden
+kann} 17. Nf5 {Weiß verhindert das Scheinopfer und greift seinerseits den
+Läufer e7 an}) ({(b) Von Smyslov und anderen aus den 1950er Jahren stammt die
+Idee} 12... Bd7 {Die letzte Leichtfigur wird gemäßigt auf ein Feld
+entwickelt.} 13. Nf1 {Weiß setzt seinen Standardplan fort} Nc4 {Die moderne
+Behandlung dieser Variante: Da der schwarze Damenläufer auf d7 steht, hat
+Weiß doppelten Anlaß seinen eigenen Damenspringer nach d5 zu bringen.
+Zunächst ist weniger Druck auf dem Bauern e4. Außerdem ist das Feld d5 von
+Schwarz nicht mehr so gut überdeckt. Daher will Schwarz mit dem Springer auf
+c4 das Feld e3 beobachten. Falls der Springer zurückweichen muss, kann er von
+b6 aus das Feld d5 unter Kontrolle nehmen} 14. b3 {Wie in vielen Varianten der
+Geschlossenen Spanischen Partie ist auch hier das Vorgehen mit dem b-Bauern am
+stärksten. Weiß vertreibt den vorgerückten Damenspringer und öffnet eine
+weitere Diagonale für seinen Damenläufer} Nb6 {Von diesem Punkt aus
+überwacht Schwarz d5. Aber er steht auch etwas der schwarzen Dame im Weg} 15.
+Ne3 {Weiß platziert seinen Springer auf das beste Feld, bereit ihn irgendwann
+nach d5 zu stellen} c4 {Schwarz will aggressiv fortsetzen. Ein Tausch auf c4
+käme nur ihm entgegen. Daher sollte Weiß den vorgerückten c-Bauern
+zunächst einmal ignorieren} 16. Ba3 {Weiß nutzt aus, dass die Diagonale
+a3-f8 jetzt geschwächt ist und identifiziert mit dem Bauern d6 ein weiteres
+Angriffsziel}) 13. cxd4 {Weiß muss sein Zentrum halten} Rd8 {Dieser beliebte
+Zug bereitet die Befreiung der schwarzen Stellung mit d6-d5 vor, nachdem
+Schwarz ein weiteres Mal auf d4 getauscht hat} ({(a) Die Panov-Variante} 13...
+Bb7 {in der Chigorin-Verteidigung ist nicht mehr in Mode} 14. d5 {Ein
+logischer Zug, nach dem der Läufer auf b7 und der Springer auf a5 sich
+gegenseitig im Weg stehen} Rac8 {[%csl Yc2][%cal Gc7c2] Schwarz entwickelt
+seine Schwerfiguren aggressiv und stellt eine einfache Drohung auf (Dxc2).
+Weiß muss erst einmal den Läufer in Sicherheit bringen} 15. Bd3 {Weiß kann
+den Läufer auch nach b1 stellen. Aber auf d3 steht er aktiver und überdeckt
+außerdem noch das Feld c4} Nd7 {Der Sinn von diesem Zug ist es, den Springer
+auf den Damenflügel zu überführen. Außerdem soll das weiße Zentrum mit
+f7-f5 unterminiert werden. Der schwarze Turm auf der f-Linie kann aktiviert
+werden und der Bauer d5 wird schwach} 16. Nf1 {Der weiße Standardzug: Der
+Springer wird auf den Königsflügel überführt, von wo aus der Druck auf den
+weißen Feldern ausüben kann}) ({(b) Eine moderate Rückzugsvariante ist} 
+13... Nc6 {Schwarz zieht seinen Springer zurück, um den Druck auf d4 zu
+erhöhen. Jetzt kann Weiß den eigenen Springer nicht nach f1 zurückziehen}
+14. Nb3 {Weiß hält d4 und öffnet die Diagonale für seinen Läufer} a5 {Der
+logische Gegenschlag gegen den Springer b3} 15. Be3 {Ein logischer
+Entwicklungszug, der die letzte weiße Leichtfigur in das Spiel bringt und ein
+weiteres Mal den Bauern d4 deckt} a4 {Schwarz geht verstärkt auf dem
+Damenflügel vor und erobert Raum} 16. Nbd2 Bd7 {Dieser vernünftige Zug ist
+auch sehr beliebt} 17. Rc1 {Die letzte weiße Figur wird in das Spiel gebracht}
+Qb7 {Die Dame geht dem weißen Turm aus dem Weg, bleibt aber auf dem
+Damenflügel} 18. Qe2 {Weiß massiert seine Figuren im Zentrum} Rfe8 {Auch
+Schwarz versucht Druck auf den Bauern e4 auszuüben}) ({(c) Der folgende Zug
+will einen Damenflügelangriff einleiten} 13... Bd7 {Schwarz macht das Feld c8
+frei, um einen Turm auf der c-Linie zu platzieren und den Druck auf der Linie
+weiter zu erhöhen} 14. Nf1 {Weiß bleibt bei seinem Standardplan und
+verbessert die Stellung seines Damenspringers} Rac8 {Schwarz wählt meistens
+den Damenturm, weil er den Königsturm gerne auf der e-Linie verwenden möchte}
+15. Ne3 {Der Springer kommt in das Zentrum und deckt den Läufer. Eine andere
+Möglichkeit den Läufer zu decken besteht in Te1 nach e2} Nc6 {Schwarz
+rezentralisiert seinen Springer und will Weiß zu d4-d5 provozieren} 16. Bb3 {
+Die theoretische Hauptfortsetzung lautet d4-d5. Aber der Textzug reaktiviert
+den Läufer und übt mehr Druck auf das schwarze Zentrum aus}) 14. b3 {Dieser
+Zug ist fast immer ein guter Zug in der Chigorin-Verteidigung, denn er nimmt
+dem schwarzen Springer das Feld c4 und bereitet die Entwicklung des weißen
+Damenläufers vor} Nc6 {Schwarz rezentralisiert den Springer und droht mit
+baldigem d6-d5} 15. Bb2 {Weiß entwickelt sich und übt weiter Druck auf das
+schwarze Zentrum aus} exd4 {Schwarz gibt sein Zentrum temporär auf, denn er
+will sich schnell mit d6-d5 befreien} 16. Nxd4 {Weiß schlägt den Bauern mit
+dem Springer und zentralisiert seine Figuren nur Zugumstellung ist und in die
+Hauptvariante transponiert} Nxd4 {Schwarz will die Wirkung seiner
+Schwerfiguren auf der c-Linie und der d-Linie vergrößern und schreckt daher
+vor Vereinfachung nicht zurück - auch wenn Weiß seine Figuren im Zentrum
+platziert} 17. Bxd4 {Hier hat der weiße Damenläufer maximale Wirkung} Be6 {
+Schwarz entwickelt seine letzte Leichtfigur und überdeckt ein weiteres Mal
+das Feld d5} 18. Rc1 {Der weiße Damenturm kommt auf ein ideales Feld und
+bedroht verdeckt die schwarze Dame} Qa5 {Die schwarze Dame entzieht sich der
+weißen Drohung. Allerdings steht sie auf a5 auch etwas abseits} *
+

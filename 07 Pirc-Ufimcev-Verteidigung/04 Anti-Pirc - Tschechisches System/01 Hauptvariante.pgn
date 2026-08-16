@@ -1,0 +1,77 @@
+[Event "Beating unusual Chess Defences"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Tschechisches System"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "B07"]
+[Annotator "Andrew Greet"]
+[PlyCount "37"]
+[EventDate "2013.09.26"]
+[SourceDate "2013.09.26"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 {Diese Eröffnung ist als Tschechisches
+Pirc-System bekannt. Schwarz behält eine flexible Stellung im Zentrum und
+wartet darauf, dass Weiß einen Springer nach f3 stellt, um diesen mit Lc8-g4
+zu fesseln. Abhängig von der weißen Reaktion wird Schwarz gegen das weiße
+Zentrum mit d5 oder mit c5 zuschlagen} 4. f4 {Wie gegen den Klassischen
+Pirc-Aufbau und wie gegen die Moderne Verteidigung spielt Weiß am besten
+diesen aggressiven, raumgewinnenden Zug} Qa5 {Schwarz macht eine guten
+Gebrauch von seinen vorhergehenden Zügen. Er versucht, den Bauern e4
+anzugreifen und den Vorstoß e7-e5 durchzusetzen, ohne einen Damentausch
+zuzulassen} 5. Bd3 {Weiß verteidigt den Bauern und entwickelt seinen
+Königsläufer} e5 {Jetzt kann Schwarz diesen befreienden Zug spielen und den
+Bauern e5 letztlich auch mit der Dame verteidigen} 6. Nf3 {Weiß sollte sein
+schönes Zentrum jetzt nicht auflösen, sondern lieber die Spannung
+aufrechterhalten, auch wenn das bedeutet, dass er die Fesselung auf g4
+zulassen muss} Bg4 {Schwarz fesselt den Springer und untergräbt damit die
+Verteidigung von d4. Außerdem wird der Damenflügel entwickelt} 7. Be3 {Auch
+Weiß entwickelt seine Leichtfiguren zuende und verteidigt sein Zentrum} Nbd7 {
+Wieder einmal stellt dieser natürliche Entwicklungszug die beliebteste
+Fortsetzung dar. Aber hier wurden auch schon andere Fortsetzungen versucht,
+unter denen der Damenrückzug Da5-b6 am beliebtesten war} 8. O-O Be7 {Die
+schwarzen Hauptalternativen hängen mit der Eroberung der Bauern d4 und b2
+zusammen, bringen aber alle nicht viel} ({(a)} 8... Qb4 {ist nutzlos wegen} 9.
+a3 Qxb2 10. Na4 {und die Dame ist gefangen}) ({(b)} 8... Qb6 {kann mit} 9. Qe1
+exf4 10. Na4 Qc7 11. Bxf4 {erwidert werden, wonach Weiß die Kontrolle übernimmt
+}) ({(c)} 8... exd4 9. Bxd4 Qb4 10. Ne2 {gibt den festen Halt von Schwarz im
+Zenbtrum auf und Weiß behält die Ordnung}) ({(d) Wenn Schwarz das Zentrum
+aufgibt, dann macht das nur Sinn, wenn er einen Angriff auf den Bauern d4
+starten kann} 8... exf4 9. Bxf4 Qb4 (9... Qb6 10. Na4 Qa5 11. c4 Nb6 {Hiernach
+sind Dame und Springer deplatziert} 12. Nc3 Be7 13. Rb1) 10. a3 $1 {Weiß
+opfert einen Bauern} Qxb2 (10... Qb6 {ist am sichersten, aber nach} 11. Na4 {
+hat Weiß eine verbesserte Version der vorhergehenden Variante}) 11. Qd2 Qb6 12.
+Rab1 Qc7 13. e5 Nh5 14. exd6 Bxd6 15. Bxd6 Qxd6 16. Ne4 Qe7 17. Rxb7 Bxf3 (
+17... O-O 18. Ne5 Be6 19. Qe2 g6 20. g4 {gewinnt eine Figur nach} Ng7 21. Nxd7
+Bxd7 22. Rxd7 Qxd7 23. Nf6+) 18. Rxf3 O-O {Das einfachste für Weiß wäre nun}
+19. Rf5 {, denn der Springer ist nun gefangen} g6 20. Rxh5 gxh5 21. Rxd7 Qxd7
+22. Nf6+) 9. h3 Bxf3 {Das scheint eine automatische Wahl zu sein} (9... Bh5 10.
+Qe1 Bxf3 (10... exf4 11. Bxf4 Bg6 {ist sehr riskant} 12. e5 dxe5 13. dxe5 Nd5
+14. e6 Qb6+ 15. Kh1) 11. Rxf3 {Diese Stellung ähnelt der Partie, allerdings
+mit dem Unterschied, dass der Turm auf f3 steht} O-O 12. a3 {verhindert alle
+Ideen mit Db4} Qc7 (12... Nh5 {ist ziemlich riskant} 13. fxe5 dxe5 14. Rf5 g6
+15. Rxh5 gxh5 16. Bh6 {mit unmittelbarer Mattdrohung} Bf6 17. Bxf8 Rxf8 18. d5
+{mit Materialgleichheit, aber geschwächtem schwarzen Königsflügel}) 13. Qf2
+exd4 14. Bxd4 Nc5 15. Bxc5 dxc5 16. e5 Nd7 ({Nach} 16... Nd5 17. Ne4 {ist die
+Situation ähnlich wie im Text}) 17. Ne4 b5 18. c4 f5 19. exf6 Nxf6 20. Ng5 bxc4
+21. Bxc4+ Kh8 22. Ne6 {und Weiß gewinnt die Qualität}) 10. Qxf3 O-O ({(a)
+Manchmal versucht Schwarz} 10... exd4 11. Bxd4 O-O 12. Rae1 {aber hiernach hat
+Weiß Vorteil}) ({(b)} 10... O-O-O {ist ziemlich selten und nach} 11. Rab1 {hat
+Weiß starken Angriff}) 11. Ne2 {Ein wichtiger Umgruppierungszug. Weiß bereitet
+c2-c3 vor, um das Zentrum zu stützen und überführt seinen Springer auf den
+Königsflügel} c5 ({Mit} 11... Rfe8 12. c3 c5 13. dxe5 dxe5 {läuft die Partie
+in ähnlichen Bahnen wie in der Hauptvariante, am stärksten scheint nun} 14. f5
+{mit einem Bauernsturm auf dem Königsflügel} h6 15. g4 Nh7 16. Ng3 Qd8 17. Bf2
+{, wonach die schwarze Blockade des Königsflügels nicht richtig funktioniert
+und Weiß die Entwicklung mit Tad1 komplettieren kann. Weiß bringt den Springer
+nach f3 und die Bauern nach h4 und g5}) 12. dxe5 dxe5 13. Nc3 {Der Springer
+macht einen Rückzug, um das Feld c3 auszunutzen} Bd6 (13... Rac8 14. Bb5 c4 15.
+Rad1 Rfd8 16. Nd5 Nxd5 17. Rxd5 Nf6 18. Rxd8+ Rxd8 19. Bxc4 {mit einem
+gesunden Mehrbauern für Weiß}) 14. f5 Nb6 15. Qe2 {Hält die Blockade aufrecht}
+Rfd8 (15... Rac8 {wird mit} 16. Nb5 {begegnet und es droht} -- 17. Bd2) 16. a3
+Rac8 17. Bc4 Nxc4 18. Qxc4 a6 ({Von Yudasin stammt die Variante} 18... Bf8 19.
+Bg5 Rd4 20. Qe2 Ne8 21. Be3 Rd7 22. Rad1 Rxd1 23. Rxd1 Qb6 24. Qb5 Qxb5 25.
+Nxb5 a6 26. Nc3 {mit Stellungsvorteil für Weiß}) 19. Bg5 {Erzwingt einen
+günstigen Leichtfigurenabtausch} *
+

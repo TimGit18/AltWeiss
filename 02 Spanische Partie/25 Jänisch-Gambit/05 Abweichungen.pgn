@@ -1,0 +1,90 @@
+[Event "The Ruy Lopez Revisited"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Jaenisch-Gambit"]
+[Black "Abweichungen"]
+[Result "*"]
+[ECO "C63"]
+[Annotator "Ivan Sokolov"]
+[PlyCount "45"]
+[EventDate "2011.08.22"]
+[SourceDate "2011.08.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 {Das Jänisch-Gambit ist eine scharfe und
+riskante Variante von Schwarz, mit der er dem Weißen die Initiative entreißen
+will. Er attackiert von der Seite den weißen Königsbauern und will mit Sg8-f6
+und d7-d5 nachsetzen. Wenn Weiß hier einen Vorteil erlangen will und den
+frühreifen Vorstoß von Schwarz bestrafen will, dann muss er sich auf eine
+prinzipielle Auseinandersetzung einlassen.} 4. Nc3 {Das ist die prinzipielle
+Wahl von Weiß. Er entwickelt eine Figur, überdeckt seinen wichtigen
+Zentrumsbauern und verhindert zunächst d7-d5. Tatsächlich kann Schwarz aber
+ein großes Zentrum aufbauen, das Weiß mit Hilfe einiger scharfer Taktiken
+allerdings auch wieder zerstören kann} Nf6 {Nach dem letzten weißen Zug liegt
+Schwarz in der Entwicklung zurück und es scheint eine logische Idee zu sein,
+eine weitere Figur in das Spiel zu bringen} ({Die Zugumstellung} 4... Nd4 {ist
+ungenau, denn nach} 5. exf5 c6 {hielt man dies viele Jahre für eine mögliche
+Option von Schwarz, sie scheint allerdings widerlegt} ({Der Versuch mit} 5...
+Nf6 {in die Hauptvariante zu gelangen, scheitert nach} 6. O-O Bc5 7. b4 {mit
+der Idee} Nxf3+ 8. Qxf3 Bxb4 9. Rb1 Be7 10. Ba6) 6. Nxd4 exd4 7. Qh5+ Ke7 8.
+O-O dxc3 (8... Nf6 {verliert nach} 9. Re1+ Kd6 10. Ne4+ Nxe4 11. Rxe4 cxb5 12.
+d3 Kc6 13. Bg5 Qc7 14. Qe8 b6 15. f6 Bb7 16. fxg7 Bxg7 17. Re6+ Kd5 18. Qf7
+Raf8 19. Re5+ Kd6 20. Be7+ Kxe5 21. f4#) 9. d4 {Diese wichtige Neuerung
+widerlegt den ganzen schwarzen Aufbau, vor allem wird das Feld c5 dem
+schwarzen König genommen} d5 10. Re1+ Kd7 11. Qf7+ Ne7 {Diese Verteidigung
+hilft auch nicht} ({Nach} 11... Be7 {folgt ebenfalls} 12. Bf4 cxb2 13. Rab1 Nf6
+14. Re6 Ne4 15. Rxc6 bxc6 16. Qxd5+ Ke8 17. Bxc6+ Bd7 18. Bxd7+ Qxd7 19. Qxa8+
+Kf7 20. Qxe4 {mit Gewinnstellung}) 12. f6 gxf6 13. Bf4 cxb2 14. Rab1 Qe8 15.
+Qxf6 Qg6 16. Qxh8 Qf5 17. Bg3 cxb5 18. Rxb2 {und der weiße Angriff sollte
+durchschlagen}) 5. exf5 {Der Hauptzug, denn die Alternativen sind für Schwarz
+nicht beunruhigend} Nd4 ({(a)} 5... e4 {ist eine interessante Idee von
+Shabalov und wird von der Theorie offensichtlich unterschätzt} 6. Ng5 d5 7. d3
+h6 8. Ne6 Bxe6 9. fxe6 Qd6 10. dxe4 Qxe6 11. O-O dxe4 {Die bisherigen Züge
+haben noch keinen Vorteil für Weiß gebracht} 12. Nxe4 {Das Scheinopfer bringt
+Schwarz in eine ungünstige Variante} Nxe4 13. Re1 Bc5 14. Qf3 {Der Springer
+geht wieder verloren} O-O-O 15. Rxe4 Qd5 16. Bd3 Bd4 17. Qe2 Rhf8 18. Be3 Bxb2
+19. Rd1 {Weiß droht nun c2-c4, so dass Schwarz den Läufer ziehen muss} Be5 20.
+c4 Qa5 21. c5 {Mit dem Läuferpaar und dem sicheren König steht Weiß besser}) ({
+(b) Schwarz kann auch} 5... Bc5 {versuchen.} 6. Nxe5 Nxe5 {führt zu einer
+schlechteren Stellung für Schwarz} ({Hingegen führt} 6... Nd4 {transponiert in
+die Hauptvariante}) 7. d4 Bxd4 8. Qxd4 O-O 9. Bf4 Nc6 10. Bxc6 dxc6 11. O-O-O
+Bxf5 12. Qc4+ Nd5 13. Nxd5 Be6 14. Qc3 Bxd5 15. Qg3 Qf6 16. Be5 Qh6+ 17. f4 {
+Dank seiner besseren Bauernstruktur hat Weiß offenischtlich einen Vorteil}) 6.
+Nxe5 {Weiß gewinnt einen Bauern und er führt immer noch in der Enbtwicklung}
+Bc5 {Schwarz versucht, in der Entwicklung mitzuhalten} (6... c6 {ist eine
+brauchbare Option, aber sie gibt Schwarz nicht genügend Kompensation} 7. Be2
+Qe7 8. Nc4 d5 9. Ne3 Qf7 10. Bd3 Bd6 11. Ne2 Nxe2 12. Qxe2 O-O 13. O-O Bd7 14.
+b3 Rae8 15. Bb2 {Schwarz hat nicht genügend Kompensation für das geopferte
+Material}) 7. O-O O-O {Das ist die Hauptfortsetzung und die kritische Stellung.
+Schwarz hat etwas Initiative. Diese Verteidigung wurde schon von vielen
+Großmeistern mit Schwarz gespielt, aber objektiv scheint die Kompensation
+ungenügend} 8. Nf3 {Der Springer hat einen lebenden Zentrumsbauern
+eingesammelt und kehrt nun um, um den aktiven Springer von Schwarz auf d4
+abzutauschen} c6 {Dieser Zug wird am häufigsten gespielt. Die Idee dabei ist
+es, den Läufer auf das Feld d3 zu treiben, wo er den Entwicklungszug d2-d4
+behindert} ({(a) Der eigene Abtausch} 8... Nxf3+ 9. Qxf3 d5 {ist mangelhaft}
+10. Bd3 {Nun wird es sehr schwer für Schwarz, den weißen Bauern auf f5 zu
+eliminieren. Dieser Bauer muss aber weg, wenn Schwarz zu einem
+Königsflügel-Angriff kommen will} c6 11. b3 Nd7 12. Qg3 Qf6 13. Bb2 Bd4 14.
+Rae1 Nc5 15. Ba3 Nxd3 16. cxd3 Bxf5 {Endlich ist der weiße Bauer auf f5
+verschwunden. Und Schwarz ist nun bereit, Operationen auf dem Königsflügel zu
+starten - aber um welchen Preis? Schwarz wird eine Qualität und einen Bauern
+weniger haben und nichts dafür bekommen}) ({(b)} 8... d5 {sieht auf den ersten
+Blick logisch aus, aber nach} 9. Nxd4 Bxd4 10. Ne2 Bb6 11. d4 {wird
+offensichtlich, dass Schwarz den weißen Läufer besser vor d2-d4 nach d3
+geschickt hätte. Weiß ist harmonisch entwickelt und hat einen klaren Vorteil
+nach} Bxf5 12. Bd3 Ne4 13. Be3 Qd7 14. Ng3 Nxg3 15. hxg3) ({(c)} 8... Nxb5 {
+ist auch möglich, aber nicht oft gespielt. Schwarz muss hier schon um das
+Remis kämpfen} 9. Nxb5 d5 10. d4 Bb6 11. Qd3 c6 12. Nc3 Ng4 13. Bg5 Qd6 14. f6
+Nxf6 15. Rae1 {und Schwarz muss jetzt kämpfen}) 9. Nxd4 Bxd4 10. Ba4 $1 {Ein
+sehr guter Zug. Weiß wird sich harmonisch entwickeltn und dieser Läufer wird
+nach c2 gebracht werden} d5 11. Ne2 {Alle weißen Züge zielen nur darauf ab,
+die Aktivität der schwarzen zentralen Figuren zu beschränken} Bb6 12. d4 Bxf5
+13. Bf4 Qd7 ({Ein Gegenspiel am Königsflügel mit} 13... Nh5 14. Be5 Qg5 {
+bietet Schwarz ebenfalls nicht genügend Kompensation für den fehlenden Bauern
+nach} 15. Ng3 Bg4 16. Qd3 Nf4 17. Bxf4 Rxf4 18. c3 {Wieder hat Schwarz zuwenig
+für seinen Bauern}) 14. c3 Rae8 15. Ng3 Bg6 16. Bc2 Bxc2 17. Qxc2 {Nach den
+Täuschen sieht man die mangelnde Kompensation} Ng4 18. Qd2 Re6 19. f3 Ne5 20.
+Bxe5 Rxe5 21. Rae1 Rxe1 22. Rxe1 Bc7 23. Nf1 {Weiß kann jetzt seinen
+Mehrbauern in einen Gewinn transformieren} *
+

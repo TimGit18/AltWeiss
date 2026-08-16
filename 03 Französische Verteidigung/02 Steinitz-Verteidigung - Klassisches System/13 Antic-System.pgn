@@ -1,0 +1,28 @@
+[Event "1.e4 vs. The French"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches Steinitz-System"]
+[Black "Antic-System"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "18"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 {Das Antic-System
+beginnt mit dem Zug} Be7 {, vorgeschlagen im Yearbook 109. Der Aufbau sieht
+wie folgt aus:} 7. Be3 b6 {Das ist ein schlauer Zug. Indem er die Entwicklung
+des Springers auf b8 verzögert, möchte er sich die Option des Abtauschs der
+Läufer auf a6 offenhalten.} 8. Qd2 {Damit bleibt Weiß in der Spur, falls
+Schwarz doch noch einmal Sb8-c6 spielt.} O-O (8... Ba6 {verschwendet zuviel
+Zeit, insbesondere, da Weiß noch nicht seinen Läufer auf f1 bewegt hat. Die
+energischste Antwort lautet} 9. f5 O-O 10. O-O-O Bxf1 11. Rhxf1 {Der
+Läufertausch hat nur die weiße Entwicklung beschleunigt und sein Angriff ist
+bereits unterwegs.}) 9. Nd1 {Das scheint am zweckmäßigsten.} Ba6 ({(a)} 9...
+cxd4 10. Nxd4 Nc5 11. Nf2 Bb7 12. Be2 Nc6 13. O-O {transponiert in das frühe
+Damenfianchetto.}) ({(b)} 9... a5 $5 10. c3 Ba6 11. Bxa6 Nxa6 12. Qe2 {Das
+hält den b-Bauern zumindest zeitweise zurück.} Qb8 13. O-O b5 14. Bf2 {
+Weiß ist bereit für Sd1-e3 und f4-f5. Falls Schwarz mit b4 vorstößt, kann
+Weiß dies ignorieren oder mit c3-c4 entsprechend der Umstände beantworten.})
+*
+

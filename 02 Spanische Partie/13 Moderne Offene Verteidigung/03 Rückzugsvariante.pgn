@@ -1,0 +1,31 @@
+[Event "The Modernized Ruy Lopez"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Moderne Offene Verteidigung"]
+[Black "Rückzugsvariante"]
+[Result "*"]
+[ECO "C80"]
+[Annotator "Darius Swiercz"]
+[PlyCount "59"]
+[EventDate "2011.08.31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 {Die Offene Verteidigung
+führt zu einem geöffneten Zentrum und zu sehr unausgeglichenen Stellungen,
+in denen Schwarz gute Chancen auf Gegenspiel hat.} 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 {Diese Fortsetzung bildet die klassische Wahl im Offenen Spanier.}
+Be7 10. c3 {In der Vorstoßvariante benutzt Schwarz den d-Bauern, um die
+gedrängten weißen Figuren auf der d-Linie anzugreifen.} Nc5 11. Bc2 {Diese
+Variante war Mitte der 2010er Jahre sehr beliebt. Es ist eine sehr
+komplizierte Variante, in der Schwarz ein erhebliches Risiko auf sich nimmt,
+um die Stellung sehr zu verwickeln.} d4 12. Nb3 d3 13. Bb1 {Das ist die
+prinzipielle Fortsetzung.} Nxb3 14. axb3 Bf5 {In dieser Stellung hat Weiß
+eine große Auswahl.} 15. Be3 {Der Zug} Bg6 {wurde einige Male gespielt, ist
+aber einfach nur schlecht.} 16. Nd4 Nxe5 (16... Nxd4 17. cxd4 c5 18. dxc5) 17.
+f4 c5 18. fxe5 cxd4 19. Bxd4 {Der Bauer auf d3 fällt.Trotzdem ist hier noch
+Genauigkeit notwendig.} Qd5 (19... O-O 20. Bxd3 Bxd3 21. Qxd3) 20. Bxd3 Bxd3
+21. Qxd3 Qxb3 (21... O-O 22. b4 $18) 22. e6 $1 {Weiß hat einen
+zerstörerischen Angriff im Zentrum.} O-O 23. exf7+ Rxf7 24. Rxf7 Qxf7 25. Qxb5
+axb5 26. Rxa8+ Qf8 27. Rxf8+ Bxf8 28. Kf2 Kf7 29. Ke3 Ke6 30. Ke4 {mit einem
+gewonnenen Endspiel.} *
+

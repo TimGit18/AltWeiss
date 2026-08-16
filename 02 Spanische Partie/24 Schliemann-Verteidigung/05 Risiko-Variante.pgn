@@ -1,0 +1,63 @@
+[Event "The Ruy Lopez Revisited"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Schliemann-Verteidigung"]
+[Black "Risiko-Variante"]
+[Result "*"]
+[ECO "C64"]
+[Annotator "Ivan Sokolov"]
+[PlyCount "23"]
+[EventDate "2011.08.24"]
+[SourceDate "2011.08.24"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 {Vielleicht ist dieser Zug die solideste
+Alternative zu a7-a6. Schwarz entwickelt sich logisch weiter und kontrolliert
+mit d4 einen Teil des Zentrums. Die Variante war früher sehr populär, aber
+sie verspricht eigentlich dem Weißen eher Vorteil.} 4. c3 {[%csl Rd4][%cal
+Gd2d4] Dieser Zug ist vielleicht der beste in der Stellung. Weiß bereitet die
+Bildung eines starken und idealen Zentrums vor. Außerdem verhindert dieser
+Zug alle Vereinfachungsideen wie Sc6-d4.} f5 {[%csl Ye8,Yf7,Yg6,Yh5] Das ist
+ein interessanter Versuch von Schwarz, den Gegner zu überraschen und das
+Spiel von Anfang an in unbekannte Bahnen zu lenken. Obwohl diese Variante
+spielbar ist, ist der Nachteil, dass der gut vorbereitete Spieler hier einen
+Eröffnungsvorteil erlangt. Außerdem ist der Bauernzug riskant, denn er
+öffnet eine seitliche Diagonale gegen den schwarzen König.} 5. d4 {Dieser
+Zug wird heute als die Hauptfortsetzung betrachtet. Weiß erhebt sofort seinen
+Anspruch auf das Zentrum. Er sollte nicht zögern den Flankenangriff mit einem
+zentralen Konter zu begegnen.} exd4 $6 {Diese Fortsetzung ist zumindest sehr
+riskant, da Weiß eine starke Initiative entwickelt.} 6. e5 $1 {Und das ist
+die stärkste Fortsetzung von Weiß. Er schnürt die schwarze Stellung ein, so
+dass Schwarz den Springer nicht mehr nach f6 ziehen kan und läßt den Bauern
+auf f5 etwas überflüssig aussehen. Außerdem wird jeder Versuch von Schwarz,
+den d-Bauern vorzuziehen, mit der Öffnung der e-Linie bestraft.} dxc3 {
+Schwarz entscheidet sich dafür, das Bauernopfer anzunehmen. Somit erhält er
+zumindest noch etwas materielle Kompensation für den Stellungsnachteil} 7. O-O
+$1 {Weiß opfert noch einen zweiten Bauern, um wie im Nordischen Gambit, zu
+Entwicklungsvorsprung und offenen Linien zu kommen.} ({Auch gut für Weiß ist
+} 7. Nxc3 Nge7 8. O-O O-O 9. Na4 Bb6 10. Nxb6 axb6 11. Re1 {und die weiße
+Initiative wiegt den geopferten Bauern auf}) 7... Nge7 {Klugerweise lehnt
+Schwarz den weiteren Bauerngewinn ab und kümmert sich zunächst einmal um
+seine Entwicklung und darum, den König in Sicherheit zu bringen.} ({Nach} 7...
+cxb2 8. Bxb2 Nge7 9. Nbd2 {hat Schwarz gewaltigen Entwicklungsrückstand und
+sein König ist immer noch nicht in Sicherheit}) 8. Qe2 {[%csl Yc4,Yd3,Yd5,Ye2,
+Ye6,Yf7,Rg5,Yg8][%cal Ge2c4,Gc4f7,Gf3g5] Weiß verstärkt den Druck auf der
+e-Linie und droht mit der Überführung der Dame nach c4. Dort greift sie den
+schwarzen Läufer auf c5 an und verhindert die Rochade des schwarzen Königs.}
+d5 {Obwohl Schwarz in Entwicklungsrückstand ist, öffnet er die Stellung, da
+er sich befreien muss.} ({Die Rochade würde direkt den Läufer verlieren} 8...
+O-O 9. Qc4+) 9. exd6 {Natürlich öffnet Weiß die Stellung selber, denn das
+kommt nur ihm zugute.} cxd6 {Schwarz könnte auch mit dem Läufer schlagen.
+Aber dieser stünde dann etwas passiver und Weiß hätte die Kontrolle über
+das Feld e5} 10. Nxc3 {[%csl Yd5][%cal Gc3d5] Weiß holt sich einen der beiden
+geopferten Läufer zurück und bringt den Springer auf ein ideales Feld. Er
+droht nach d5 einzusteigen.} O-O {Endlich bringt Schwarz seinen König in
+Sicherheit. Weiß muss sich jetzt beeilen, weiter Druck auszuüben, damit
+Schwarz sich nicht konsolidieren kann.} 11. Bg5 {Weiß fesselt den anderen
+Springer auch noch und droht unmittelbar mit dem Gewinn von Material nach
+Lb5xc6, der die Deckung des zweiten Springers eliminiert.} Qc7 {Schwarz hebt
+die Fesselung auf und rettet damit den Springer. Die Stellung bleibt immer
+noch sehr unbequem für Schwarz.} 12. Rfe1 {mit sehr starker Initiative für
+Weiß, denn dieser Zug entwickelt nicht nur eine Figur, sondern bedroht auch
+wieder den Springer auf e7} *
+

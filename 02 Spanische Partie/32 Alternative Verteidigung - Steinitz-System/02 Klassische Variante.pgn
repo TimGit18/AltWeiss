@@ -1,0 +1,77 @@
+[Event "Offbeat Spanish"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Steinitz-Verteidigung"]
+[Black "Klassische Variante"]
+[Result "*"]
+[ECO "C62"]
+[Annotator "Glenn Flear"]
+[PlyCount "29"]
+[EventDate "2012.07.12"]
+[SourceDate "2012.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 {[%cal Rd6e5] Mit diesem Zug entscheidet sich
+Schwarz für ein sehr defensives Konzept. Er stützt den zentralen Bauern e5 und
+verbindet diese Verteidigung mit einem Gegenangriff auf den weißen
+Zentralbauern e4. Dafür erhält er eine feste, aber passive Stellung} 4. d4 {
+[%csl Yd5][%cal Rd4e5,Rd4d5] Der beste weiße Zug erneuert den Angriff auf e5
+und nimmt ein weiteres Zentrumsfeld unter Kontrolle. Es kommt erschwerend
+hinzu, dass mit dem vorhergehenden schwarzen Zug zwar der Bauer e5 gestützt
+wurde, aber sein Damenspringer auch automatisch gefesselt wurde. Weiterhin
+droht jetzt auch der Vorstoß d4-d5, der sehr unangenehm für Schwarz sein kann}
+Bd7 {Dieser Zug ist der einzige, der das schwarze Zentrum hält und beiden
+Drohungen begegnet.} 5. Nc3 {Weiß verteidigt mit diesem Zug den potentiell
+gefährdeten Königsbauern und erneuert die Drohung, den schwarzen Bauern auf e5
+nach Tausch auf c6 einzunehmen} ({Weiß kann diesen Bauern nicht direkt erobern,
+denn nach} 5. Bxc6 Bxc6 6. dxe5 dxe5 7. Nxe5 Bxe4 {steht Schwarz sehr gut. Das
+Zentrum hat sich aufgelöst und Schwarz hat das Läuferpaar in seinem Besitz})
+5... exd4 {Unter praktischen Gesichtspunkten ist die Aufgabe des Zentrums die
+einzige spielbare Fortsetzung. Schwarz kann in der orthodoxen Fortsetzung
+versuchen, den Bauern auf e5 weiter zu halten und mit Sg8-f6 weiter in den
+Gegenangriff zu gehen, er gerät aber in eine unangenehme Stellung} 6. Nxd4 {
+[%csl Ye4] Weiß hat jetzt sehr gute Felder im Zentrum besetzt. Schwarz kann
+nicht so einfach die weißen Figuren auf d4 und b5 beseitigen, denn er würde
+nur die anderen weißen Figuren auf gute Felder locken. Schwarz muss daher eine
+Art solides Gegenspiel entwickeln und darauf hoffen, den leichten weißen Raum-
+und Entwicklungsvorteil zu neutralisieren. In dieser Stellung dominiert der
+weiße Königsbauer das Zentrum, aber er kann auch schwach werden} Nf6 {Schwarz
+entwickelt sich nach klassischen Prinzipien weiter und übt Druck auf das weiße
+Zentrum aus. Andererseits ist das schwarze Spiel sehr beengt und ausrechenbar}
+7. O-O {Weiß bringt seinen König in Sicherheit und beginnt damit, im Zentrum
+für Raumvorteil zu sorgen. Schwarz kann aufgrund seines Königs in der Mitte
+noch nicht die Stellung öffnen und muss erst noch seine Entwicklung
+vervollständigen} Be7 {Schwarz hat eine Leichtfiguren entwickelt, sie stehen
+aber sehr beengt. Andererseits ist die Stellung seines Königs sicher und Weiß
+kann nur langsam Fortschritte machen} 8. Re1 {[%cal Ye1e4] Das ist die
+anspruchvollstde Fortsetzung. Weiß wendet sich mit diesem Zug gegen die
+Öffnung des schwarzen Spiels mit d6-d5, nachdem die e-Linie vorteilhaft für
+den weißen Turm geöffnet wird. Außerdem wird ein weiteres Mal der Bauer e4
+gedeckt} O-O {Schwarz bringt jetzt seinen König in Sicherheit. Er wird jetzt
+mit Tf8-e8 und Le7-f8 manövrieren wollen} 9. Bxc6 {Wieder ist jetzt der
+richtige Zeitpunkt den aktiven Springer zu tauschen und Schwarz eine
+geschwächte Bauernstruktur zu verschaffen. Er kann zwar das Läuferpaar nutzen,
+muss dazu aber zunächst einmal die Stellung öffnen} bxc6 {[%csl Yc5,Yd5,Ye5]
+Wieder entsteht die charateristische Bauernstruktur im Zentrum - diesmal
+jedoch mit Nachteilen für Schwarz, da der Läufer auf e7 das schwarze Zentrum
+nicht unterstützt} 10. Qd3 {[%cal Yd3a6,Yd3g3] Die Dame steht hier ideal, da
+sie auf beiden Flügeln operieren kann. Außerdem räumt sie d1 für den weißen
+Damenturm} Re8 {Schwarz bleibt bei seinem klassischen Plan. Er versucht gegen
+e4 ein Druckspiel aufzuziehen} 11. b3 {Dieser Zug erfüllt zwei Funktionen:
+Einerseits soll der Damenläufer auf b2 entwickelt werden, andererseits wird
+der schwarze Druck auf der b-Linie durch den vorgezogenen Bauern abgemildert}
+Bf8 {Der Läufer auf e7 hatte sowieso keine Wirkung. Hier erfüllt er zumindest
+defensive Aufgaben} 12. Bb2 {Weiß hat alle Leichtfiguren aktiv und optimal
+aufgestellt. Schwarz kann jetzt nicht mehr einfach abwarten, sondern muss
+selber seine Pläne zeigen} c5 {Schwarz versucht seinen Einfluß auf das Zentrum
+zu vergrößern und den Springer aus seiner dominierenden Stellung im Zentrum zu
+vertreiben} 13. Nf3 {Hier steht der Springer zwar nicht so aktiv wie auf d4,
+aber er kontrolliert die wichtigen Felder e5 und g5} Bc6 {Schwarz setzt die
+Strategie des Gegendrucks gegen e4 fort. Hier steht der weißfeldrige Läufer
+aktiver, aber die schwarze Dame ist auch gefährdeter} 14. Rad1 {Weiß bringt
+seine letzte Figur in das Spiel. Er ist jetzt bereit im Zentrum loszuschlagen}
+h6 {Mit diesem Zug nimmt Schwarz zwar dem weißen Springer das Feld g5, aber er
+leistet nichts für die Zentrumskontrolle. Weiß hat ein musterhaftes Manöver
+vorbereitet} 15. e5 {Der typische Durchbruch: Weiß erhält andauernden Vorteil
+dank seiner besseren Bauernstruktur und seinen aktiven Figuren} *
+

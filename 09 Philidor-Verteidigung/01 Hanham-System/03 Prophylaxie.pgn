@@ -1,0 +1,72 @@
+[Event "1.e4 vs The Philidor"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hanham-System"]
+[Black "Prophylaxie"]
+[Result "*"]
+[ECO "C41"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "33"]
+[EventDate "2017.08.08"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 {Dies ist die übliche Zugumstellung, um in die
+Hanham-Verteidigung zu gelangen. Schwarz vermeidet die Fallstricke der
+Klassischen Philidor-Verteidigung} 4. Nf3 Nbd7 5. Bc4 {Weiß lenkt in das
+Hanham-System ein. Es ist sicherlich das beliebteste und am meisten
+respektierte System der Philidor-Verteidigung. Es ist ein sehr solides System
+und eine praktische Herausforderung für Weiß sind die vielen praktischen
+Möglichkeiten, die Schwarz hat. Daher sollte man eine Zugfolge finden, die
+die schwarzen Möglichkeiten einschränkt.} Be7 {Hiermit lenkt Schwarz in eine
+normale Hanham-Variante der Philidor-Verteidigung ein. Normalerweise folgt die
+kurze Rochade, jedoch gibt es auch eine genauere Fortsetzung.} 6. a4 $1 {
+Die ist eine sehr geschickte Zugumstellung von Weiß, der vor allem gegen
+a7-a6 von Schwarz gerichtet ist. Er möchte Schwarz aus seinem Auto-Piloten
+bringen.} O-O {Das ist die Hauptvariante.} 7. O-O {[%csl Ya6,Yb5,Yc6][%cal
+Gc7c6,Ga7a6,Rb7b5] Dies ist die traditionelle Tabiya-Stellung des
+Hanham-Systems. Hier teilt sich das Spiel ein weiteres Mal in zwei Systeme.
+Der schwarze Standardplan besteht nun darin, auf dem Damenflügel mit b7-b5 zu
+expandieren. Dies kann er auf zwei Arten vorbereiten.} c6 {Dies ist die meist
+verbreiteteste Fortsetzung für Schwarz} 8. h3 $5 {Dieser Zug stellt eine
+leichte Abweichung von dem Standardaufbau mit Tf1-e1 dar. Er vermeidet einige
+Vereinfachungen, die Schwarz zur Verfügung stünden, falls der Turm zöge, so
+etwa die Auflösung des Zentrums mit exd4.} {Eine Prophylaxie stellt der Zug}
+h6 {dar. Er ist auch eine Art Abwartezug. Allerdings sollte der Einschub der
+Randbauernzüge Weiß bevorzugen. Vor allem das Manöver Sf3-h4 ist hier viel
+stärker.} 9. Re1 {Falls Schwarz ganz normal weiterspielt, wird Weiß eine
+bessere Version der Hanham-Verteidigung erhalten. Stattdessen kann Schwarz
+auch den sogenannten Jobava-Aufbau mit Tf8-e8, Dd8-c7 und dann Sd7-f8 spielen.}
+Re8 {Der Aufbau mit Dc7 und Sd7-f8 verspricht sehr solide zu sein.} ({(a) Eine
+Untervariante ist} 9... exd4 10. Nxd4 Ne5 11. Ba2 {Hier wiegt der Einschub der
+h-Bauernzüge sogar besser für Weiß.}) ({(b) Das wird selten gespielt,
+obwohl es nützlich ist, um zu sehen, wie Weiß h2-h3 und h7-h6 verarbeitet.} 
+9... b6 10. d5 Bb7 (10... cxd5 11. Nxd5 Bb7 (11... Nxd5 12. Bxd5 {ergibt eine
+leicht bessere Stellung für Weiiß.}) 12. Nxe7+ Qxe7 {Nun kann Weiß
+Komplikationen provozieren, die in seinem Sinne liegen.} 13. Nh4 $1 Bxe4 14.
+Rxe4 Nxe4 15. Qg4 {gegen e4 und h6 gerichtet.} Ng5 16. Ng6 Qd8 (16... Qf6 17.
+Nxf8 Nxf8 18. Bxg5 hxg5 19. Ra3) 17. Nxf8 Nxf8 18. h4 {Die weiße Initiative
+und das Läuferpaar geben ihm ausgezeichnete Kompensation.}) 11. dxc6 Bxc6 12.
+Bb5 Bb7 (12... Bxb5 13. axb5 {ist offensichtlich gut für Weiß.}) 13. Nh4 $1 {
+Weiß vermeidet hiermit alle Tricks auf Sf6xe4. Sh4-f5 ist eine große Drohung.
+} a6 (13... Nxe4 14. Nxe4 Bxh4 15. Nxd6 {zeigt, wie man die Tricks stoppt.})
+14. Bd3 $14) 10. Be3 Qc7 11. a5 $1 {Weiß erobert Raum auf dem Damenflügel.}
+Nf8 {Vergleicht man die Stellung mit der Praxis, so sollte hier Weiß am
+besten den Damenbauern vorschieben.} ({Die weiße Idee sieht man sehr schön in
+} 11... Bf8 12. d5 {Dies ist sogar besser als Sf8 für Weiß, denn der
+Springer hat einige Probleme, wohingegen die weißen Bauern eine nützliche
+Bauernstruktur auf dem Damenflügel aufgebaut hat.} Nc5 13. Nd2 Bd7 14. b4 cxd5
+15. Nxd5 Nxd5 16. Bxd5 Ne6 17. c4 {Weiß hat einen bequemen Vorteil wie in
+einer Partie von Kramnik.}) 12. d5 $5 {Hier wird Weiß langsam auf dem
+Damenflügel manövrieren, um seine Stellung zu verbesseren. Der Bauer auf a5
+verspricht einen klaren Raumvorteil und erlaubt es Weiß, sich frei zu bewegen.
+} Ng6 13. Bb3 c5 {Das sieht solide aus, aber Weiß erhält eine ausgezeichnete
+Stellung.} ({Mit} 13... Bd7 $5 {versucht Schwarz die Spannung in der Stellung
+zu halten.} 14. Qd3 {plannt Te1-d1, Sf3-d2 und vielleicht Dc4. Schwaz kann
+seinen Turm a8 nicht gut bewegen, so dass das weiße Spiel viel einfacher ist.}
+) 14. a6 $1 b6 {Nun sind die Felder b5 und c4 ausgezeichnete Vorposten für
+die Springer. Wohingegen der Bauer auf a7 schwach bleibt.} (14... bxa6 15. Bc4
+Nh5 16. Bxa6 Nhf4 17. Kh2 Bd7 18. Ng1 Rab8 19. b3 {ergibt einen
+Standardvorteil für Weiß.}) 15. Nd2 Bd7 16. Bc4 Nh7 17. Bb5 {Weiß hat einen
+schönen Vorteil. Er kann nun mit Sd2-f1-g3 manövrieren und versuchen, einen
+Vorteil zu erlangen.} *
+

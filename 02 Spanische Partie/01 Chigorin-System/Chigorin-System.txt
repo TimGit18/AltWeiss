@@ -1,0 +1,56 @@
+=======================================================================================================================
+Spanische Partie: 		Chigorin-System (C96 - C99)
+=======================================================================================================================
+Glenn Flear:			The Ruy Lopez Main Line			[Flear]
+Neil McDonald:			Ruy Lopez: Move by Move			[McDonald]
+John Shaw:			Starting Out: The Ruy Lopez		[Shaw]
+Paul Keres:			Vierspringerspiel bis Spanisch		[Keres]
+Max Euwe:			Spanisch, Drei- und Vierspringerspiel	[Euwe]
+Martin Breutigam:		CBM 148-149 (Keres-Verteidigung)	[CBM 148/149]
+Manfred Van Fondern:		Schach-Eröffnungen			[VanFondern]
+Ivan Sokolov/Ivan Salgado:	The Chigorin Bible			[SokolovSalgado]
+=======================================================================================================================
+1. e2-e4 	e7-e5 
+2. Sg1-f3 	Sb8-c6 
+3. Lf1-b5 	a7-a6 
+4. Lb5-a4 	Sg8-f6 
+5. O-O 		Lf8-e7 
+6. Tf1-e1 	b7-b5 
+7. La4-b3	d7-d6
+8. c2-c3 	O-O 
+9. h2-h3 	Sc6-a5	
+----------------------------------------------------------------------------------------------------------------------
+10.Lb3-c2 	c7-c5 	-->	10...		d6-d5		11 Gajewski-Gambit			(C96)
+11.d2-d4 	Dd8-c7 	-->	11...		Sb8-c6		10 Borisenko-Variante			(C96)	
+			-->	11...		Tf8-e8		09 Hebden-Variante			(C96)
+			-->	11...		Lc8-b7		08 Romanishin-Variante			(C96)
+			-->	11...		Sf6-d7		07 Keres-Verteidigung
+-----------------------------------------------------------------------------------------------------------------------
+12.Sb1-d2 	c5xd4 	-->	12...		Lc8-d7		06 Smyslov-Variante			(C98)
+			-->	12...		Sb8-c6		05 Rauzer-Variante			(C98)
+13.c5xd4	Tf8-d8	-->	13...		Lc8-d7		04 Damenflügelangriff			(C99)
+			-->	13...		Sb8-c6		03 Rückzugsvariante			(C99)
+			-->	13...		Lc8-b7 		02 Panov-Variante			(C99)	
+			-->					01 Hauptvariante			(C99)
+=======================================================================================================================
+Partien
+=======================================================================================================================
+1. e2-e4 	e7-e5 
+2. Sg1-f3 	Sb8-c6 
+3. Lf1-b5 	a7-a6 
+4. Lb5-a4 	Sg8-f6 
+5. O-O 		Lf8-e7	-->	 				2016-04-22 Schmitz - Mai		  0-1
+-----------------------------------------------------------------------------------------------------------------------
+1. e2-e4 	e7-e5 
+2. Sg1-f3 	Sb8-c6 
+3. Lf1-b5 	a7-a6 
+4. Lb5-a4 	Sg8-f6 
+5. O-O 		Lf8-e7 
+6. Tf1-e1 	b7-b5 
+7. La4-b3	d7-d6
+8. c2-c3 	O-O 
+9. h2-h3 	Sc6-a5	
+10.Lb3-c2 	c7-c5 	
+11.d2-d4 	c5xd4 	-->					2019-08-22 Schmitz-Mattersberger	  1/2-1/2
+----------------------------------------------------------------------------------------------------------------------
+

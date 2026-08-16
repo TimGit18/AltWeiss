@@ -1,0 +1,76 @@
+[Event "The Scandinavian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Shirov-Angriff"]
+[Black "Kupreichik-Variante"]
+[Result "*"]
+[ECO "B01"]
+[Annotator "John Emms"]
+[PlyCount "36"]
+[EventDate "2010.11.21"]
+[SourceDate "2010.11.21"]
+
+1. e4 d5 2. exd5 Qxd5 {Der Grund für die vorschnelle Entwicklung der Dame
+liegt in der Verhinderung des weißen Idealzentrums e4 und d4. Außerdem kann
+der "skandinavische" Läufer auf c8 sehr gut entwickelt werden} 3. Nc3 {Das ist
+der beste weiße Zug, denn er entwickelt eine Figur unter Tempogewinn} Qa5 {Das
+ist das aktivste Feld für die Dame. Hier kontrolliert sie das Zentrum und kann
+nicht so einfach angegriffen werden.} 4. d4 {Weiß besetzt das Zentrum und
+kontrolliert e5} Nf6 {Dies gilt als der beste schwarze Zug. Schwarz kann auch
+mit c7-c6 den Einfluss auf d5 vergrößern, aber in manchen Varianten soll der
+Damenspringer nach c6 entwickelt werden.} 5. Nf3 {[%csl Re5][%cal Gf3e5]
+Dieser Zug sieht unbedeutend aus, ist er aber nicht. Zunächst legt er die
+weiße Figurenaufstellung fest. Außerdem droht er in vielen aggressiven
+Varianten mit dem Einstieg nach e5, gefolgt von einem Bauernsturm auf dem
+Königsflügel.} Bg4 {In dieser Variante entwickelt Schwarz den Läufer noch
+früher als sonst (also vor dem weißen Läuferzug nach c4) auf das aggressive
+Feld g4. Weiß muss in der gewohnten Manier handeln und einen Bauernsturm auf
+dem Königsflügel mit h2-h3 und g2-g4 entfachen. Das ist für ihn aber
+umsovorteilhafter, als dass der weißfeldrige Läufer noch nicht auf das Feld c4
+entwickelt wurde, sondern auch auf g2 auf der langen Diagonalen Platz nehmen
+kann} 6. h3 {Der schwarze Damenläufer wird sofort befragt} Bh5 {Auch hier
+zieht Schwarz in der Regel zurück. Er ist noch nicht bereit, das Läuferpaar
+aufzugeben. Allerdings wird sein Läufer jetzt verjagt} (6... Bxf3 7. Qxf3 c6 8.
+Bd2 Nbd7 (8... Qb6 9. O-O-O Qxd4 10. Nb5 Qb6 11. Be3 c5 12. Bxc5) 9. O-O-O e6
+10. Kb1 Qc7 11. g4 Bd6 12. g5 Nd5 13. Ne4 b5 14. h4) 7. g4 {Weiß setzt sofort
+hinterher. Er ist bereit, seinen Königsflügel zu schwächen, um den schwarzen
+Läufer auf ein schlechtes Feld zu treiben und abzutauschen} Bg6 {Der Läufer
+steht wieder auf dem Feld, von dem aus er gut abgetauscht werden klann} 8. Ne5
+{Weiß zentralisiert mit diesem Zug seinen Königsspringer und kann ihn
+jederzeit auf g6 abtauschen} e6 {Ungeachtet der weißen Spielanlage muss
+Schwarz versuchen, seine Entwicklung zu vervollständigen} (8... Nc6 9. Nc4 Qa6
+10. Nd6+) 9. Bg2 {Hier hat der Läufer jetzt sein optimales Feld gefunden. Er
+strahlt sehr schön über die ganze Diagonale über das Brett und bedroht den
+schwachen Punkt b7} c6 {Schwarz verteidigt b7 und befestigt den Punkt d5.
+Außerdem schafft er eine Rückzugsdiagonale für die eigene Dame.} 10. h4 {Weiß
+hat Entwicklungsvorsprung und das Zentrum unter Kontrolle. Er kann es sich
+daher erlauben, auf dem Königsflügel seinen Angriff fortzusetzen} Nbd7 ({(a)} 
+10... Be4 {Dieser Zug musste ohnehin irgendwann kommen. Schwarz nutzt noch die
+Fesselung des Springers c3 aus} 11. Bxe4 {Schade, dass Weiß diesen schönen
+Läufer tuaschen muss, aber der schwarze Läufer stand zu stark im Zentrum} Nxe4
+12. Qf3 {Dieser Zug hat eine wichtige Doppelfunktion: er greift den Springer
+e4 an und verteidigt gleichzeitig den eigenen Springer c3. Wenn Schwarz auf c3
+tausch, hat er gar keine Figuren mehr entwickelt.} Nd6 {Schwarz rettet den
+Springer und seinen Zentrumseinfluss, aber hier steht er den eigenen Figuen im
+Weg} 13. Bf4 {Ein weiterer guter Entwicklungszug von Weiß. Er bereitet die
+lange Rochade vor und überwacht die Felder e5 und d6} f6 {Ein etwas hilfloser
+Versuch von Schwarz, das Zentrum wieder unter seine Kontrolle zu bekommen. Er
+vertreibt zwar den mächtigen Springer von e3, schwächt aber gleichzeitig auch
+e6 und die weißen Felder um seinen König.} (13... Nb5 14. Nxf7 Nxd4 15. Qe4
+Nxc2+ 16. Qxc2 Kxf7 17. O-O-O) 14. Nd3 {Der Springer behält das Zentrum im
+Auge und auch c5} Nd7 {Schwarz muss endlich seine Entwicklung vervollständigen}
+(14... Nb5 15. O-O Nxd4 16. Qe4 e5 17. Nxe5 fxe5 18. Bxe5 Ne6 19. Bg3 Kf7 20.
+Rfe1 Nc5 21. Qc4+ Kg6 22. Re6+) 15. O-O-O O-O-O {Beide Seiten bringen ihre
+Könige in Sicherheit und einen Turm in die Mitte. Aber Weiß ist schon viel
+weiter} 16. Rhe1 {Die weiße Stellung macht einen sehr harmonischen und runden
+Eindruck. Die Figuren kooperieren sehr gut miteinander. Dagegen ist Schwarz in
+der Entwicklung zurück und der Bauer e6 wird zur lästigen Schwäche. Die
+Springer stehen nicht gut und auch die Dame hat auf a5 kein rechtes Ziel} Re8
+17. Kb1) ({(b)} 10... Bb4 11. Bd2 Qb6 12. h5 Qxd4 13. Nf3 Qxg4 14. hxg6 Qxg2 (
+14... Qxg6 15. Bf1) 15. gxf7+ Ke7 16. Rg1 Qh3 17. Rxg7 Qh1+ 18. Rg1 Qh5 19. Qe2
+) 11. Nxd7 Kxd7 (11... Nxd7 12. h5) 12. d5 exd5 ({(a)} 12... cxd5 13. h5 Be4
+14. f3) ({(b)} 12... Nxd5 13. h5) 13. h5 Re8+ (13... Be4 14. f3 Bb4 15. Bd2 Qc7
+16. fxe4 Qg3+ 17. Kf1 Kd8 18. Ne2) 14. Kf1 Qa6+ 15. Kg1 Be4 16. f3 Bc5+ 17. Kh2
+Bd6+ 18. Kh3 Bg6 *
+

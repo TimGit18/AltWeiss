@@ -1,0 +1,51 @@
+[Event "French Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Guimard-System"]
+[Black "Rozentalis-Variante"]
+[Result "*"]
+[ECO "C10"]
+[Annotator "Lev Psakhis"]
+[PlyCount "25"]
+[EventDate "2011.10.02"]
+[SourceDate "2011.10.02"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 {Ohne Zweifel die beliebteste Fortsetzung der
+Nebenvarianten. Schwarz will gar nicht den weißen e-Bauern direkt angreifen,
+sondern das Spiel für längere Zeit geschlossen halten} 4. Nf3 {Weiß entwickelt
+sich erst einmal und entscheidet dann über die Struktur der Partie.} Nf6 {
+Schwarz holt den versäumten Angriff gegen den Bauern e4 nach} (4... Bb4 5. e5
+f6 6. a3 Bxc3+ 7. bxc3 fxe5 8. dxe5 Nge7 9. Bd3 h6 10. O-O O-O 11. Qe2) 5. Bg5
+{Man könnte jetzt auch - im Sinne des Steinitz-Systems - die Stellung mit
+e4-e5 schließen, aber hier scheint die Klassische Fortsetzung sinnvoller. Weiß
+hofft auf seinen Entwicklungsvorsprung und auf Zentrumskontrolle. Außerdem
+droht er nach wie vor mit e4-e5, was nicht einfach so zu parieren ist.} Be7 {
+Schwarz wählt einen defensiven Verteidigungszug. Er läßt keine weitere
+Verschlechterung der Stellung zu.} (5... Bb4 6. e5 h6 7. Bh4 g5 8. Nxg5 Ne4 9.
+Ngxe4 Qxh4 10. Nf6+ Kd8 11. g4) 6. Bxf6 {Weiß tauscht eine der besten Figuren
+von Schwarz ab. Er macht sich keine Sorgen darüber, dass Schwarz gegen d4
+drücken kann} Bxf6 {Auf diesem Feld steht der Läufer trotz des Angriffs auf
+den Bauern d4 nicht gut platziert} 7. Bb5 {Weiß entwickelt seine letzte
+Leichtfigur und fesselt den gegnerischen Springer, was den Druck auf d4 mindert
+} O-O {Schwarz hebt die Fesselung auf und erneuert damit die Bedrohung gegen d4
+} 8. Qd2 {Weiß bereitet die lange Rochade vor und verteidigt auch weiter den
+Bauern d4. Denn wenn Schwarz auf e4 zuerst nimmt und dann auf d4, dann kann
+Weiß immer auf f6 oder c6 zwischentauschen} Na5 {Schwarz unterbindet die lange
+Rochade, denn er könnte er einen Angriff auf dem Damenflügel mit c7-c5
+einleiten} (8... dxe4 9. Nxe4 Bd7) 9. O-O {Weiß rochiert kurz, bringt seinen
+König in Sicherheit und verbindet seine Türme. Jetzt kann er Aktionen im
+Zentrum und auf dem Königsflügel starten} a6 {Schwarz vertreibt den störenden
+Läufer von seinem eigenen Damenflügel und bereitet eine Art Bauernvormarsch
+auf dem Damenflügel vor} 10. Bd3 {Weiß zentriert seinen Läufer und achtet auf
+eine gute Koordination seiner Figuren (die besser ist als die der schwarzen
+Figuren)} b6 {Das ist ein eher seltsamer Zug. Schwarz will sicher seinen
+Damenläufer entwickeln, aber der Zug passt nicht in das Gesamtbild (wie etwa
+b7-b5)} 11. Rfe1 {Weiß spielt ganz unaufgeregt und ist dazu bereit, das Spiel
+zu öffnen} Bb7 {Der Läufer ist zwar jetzt entwickelt, aber die schwarzen
+Figuren sind trotzdem immer noch schlecht verbunden} 12. e5 {Weiß schließt
+jetzt positionsgemäß die Stellung: er hat einen guten Läufer und Schwarz zwei
+schlechte} Be7 {Der Läufer muss sich zurückziehen und spielt nun keine große
+Rolle mehr} 13. Ne2 $1 {Das ist ein sehr guter weißer Zug. Er überführt den
+weißen Springer auf den Königsflügel und mobilisiert den c-Bauern} *
+

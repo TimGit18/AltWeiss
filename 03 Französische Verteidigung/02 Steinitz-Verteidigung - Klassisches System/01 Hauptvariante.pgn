@@ -1,0 +1,117 @@
+[Event "1.e4 vs. The French"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches Steinitz-System"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "53"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 {
+Dies ist die Ausgangslage des Klassischen Steinitz-Systems. Der Läuferzug
+wirkt zwar sehr bescheiden, ist aber völlig logisch} 8. Qd2 O-O {Die kurze
+Rochade stellt die Hauptfortsetzung dar} 9. dxc5 Bxc5 {Das Zurücknehmen mit
+dem Läufer ist die beliebteste Art des Nehmens} 10. O-O-O Qa5 {Nach diesem
+Zug entsteht eine der theoretischen Schlüsselstellungen dieses Systems.
+Schwarz droht ganz einfach mit Lc5-b4, um den Abtausch auf c5 zu provozieren.
+Danach möchte Schwarz den schlechten Damenläufer gerne mit Lc8-d7 entwickeln.
+Gegen diesen Plan muss man konkret arbeiten} 11. a3 {[%csl Yb4,Yb5][%cal Rb7b5,
+Rb5b4] Dieser Zug schwächt zwar die weiße Königsstellung, aber danach hat
+Schwarz einfach keinen vernünftigen Entwicklungszug mehr. Also muss er
+irgendein Zugeständnis machen. Andererseits hat Weiß immer noch die Option
+auf c5 zu einem späteren Zeitpunkt zu tauschen. Offensichtlich wird Schwarz
+versuchen, den geschwächten Punkt mit b7-b5-b4 anzugreifen} a6 {Das ist der
+offensichtliche Zug, um b7-b5 vorzubereiten} 12. Bxc5 {Weiß wird dieselbe
+Methode anwenden wie nach Ta8-b8, obwohl Schwarz in dieser Hauptvariante etwas
+besser steht} Qxc5 {Dieser Zug macht hier sicher mehr Sinn, denn Schwarz kann
+hier Pläne mit b7-b5-b4 und Sd7-b6-a4 entwickeln und die Schwächung durch
+a2-a3 ausnutzen.} 13. Bd3 {Die Drohung von Ld3xh7+ kostet Schwarz ein Tempo}
+Re8 {Schwarz macht Platz für den Springer auf f8, um den Bauern auf h7 zu
+verteidigen.} ({(a) Wenn Schwarz diese Drohung ignoriert, dann kann Weiß in
+aller Ruhe den Läufer opfern.} 13... b5 14. Bxh7+ Kxh7 15. Ng5+ Kg8 {Weiß
+erhält zwar nur einen Bauern für den Läufer, aber er hat jetzt sehr starken
+Angriff} 16. Qd3 {[%csl Yh3,Yh7][%cal Rd3h7,Rd3h3]} g6 {Schwarz kann nicht mit
+dem f-Bauern zwischenziehen, weil der weiße Springer nach e6 gelangt und dort
+Dame und Turm gabelt} 17. Qh3 {Weiß hat eine Gewinnstellung erreicht}) ({(b)} 
+13... h6 {sollte man vermeiden, denn der Plan mit g2-g4-g5 ist so stark, dass
+man ihn nicht provozieren sollte.} 14. g4 b5 15. g5 h5 16. g6 f6 17. Qe2 {
+Die schwarze Stellung sieht bereits sehr zweifelhaft aus.}) ({(c)} 13... Rd8 {
+Es sieht natürlciher aus, den Turm auf die d-Linie zu stellen statt auf die
+e-Linie. Allerdings ist der Textzug die Hauptvariante.} 14. Ne2 b5 15. Ned4
+Nxd4 16. Nxd4 {Die beiden hauptsächlichen Optionen führen nun zu den selben
+Stellungen wie in der Hauptvariante.} Rb8 (16... Nb6 {kann mit} 17. c3 {
+beantwortet werden.}) 17. c3 Qb6 18. Qc2 Nf8 19. h4 Bd7 20. b4 $1 {Das Spiel
+entwickelt sich jetzt nun wie in der Hauptvariante.}) 14. Ne2 {Der Springer
+bewegt sich prophylaktisch zurück. Er überdeckt ein weiteres Mal das Feld d4
+und läßt den Bauernvorstoß b7-b5 in die Leere laufen} b5 {Das ist der
+einzige aktive Plan von Schwarz. Er möchte gerne b5-b4 spielen, die b-Linie
+öffnen und den weißen a-Bauer tauschen} 15. Ned4 {[%csl Yc6][%cal Rd4c6]
+Dieser Zug verhindert die schwarze Idee. Schwarz kann nicht den b-Bauern
+vorschieben, weil Weiß auf c6 tauscht und den Bauern auf b4 einfach schlägt.
+Andererseits kann Schwarz auch nicht den Springer auf d4 einkassieren, weil
+Weiß nach zweimaligem Schlagen ein Abzugsschach hat} Rb8 {Dies ist die
+Hauptvariante des Klassischen Steinitz-Systems. Schwarz erneuert die Drohung
+des Bauernvorstoßes und bringt seinen Damenturm auf eine aggressive Linie} ({
+(a)} 15... Nb6 $2 16. b4 {verliert eine Figur.}) ({(a)} 15... Nxd4 16. Nxd4 Nb6
+{Anfangs sieht dies nach einem verbesserten Setup für Schwarz aus. Allerdings
+kann Weiß diesem gut begegnen.} 17. c3 Nc4 (17... Bd7 18. Qc2 h6 19. g4 {
+Wieder einmal ist Weiß schneller am Königsflügel.} a5 20. g5 hxg5 21. Rhg1 {
+mit weißem Vorteil.}) 18. Qc2 h6 (18... Ne3 {scheitert an} 19. Bxh7+ Kh8 20.
+Qe2 Nxd1 21. Qh5) 19. Bxc4 dxc4 ({Offensichtlich ist} 19... bxc4 20. g4 {
+gut für Weiß, denn der schwarze Damenläufer ist tot.}) 20. g4 Bb7 (20... a5
+21. g5 h5 (21... hxg5 22. Rhg1 {erlaubt Weiß einen starken Angriff.}) 22. g6 {
+Wieder einmal ist der weiße Angriff viel schneller. Zufälligerweise stünde
+der Turm hier auf d8 viel besser als auf e8, aber das ändert nicht viel an
+der Bwertung der Stellung.}) 21. Rhg1 {Weiß hat ausgezeichnete
+Angriffsaussichten mit dem nachfolgenden Zug g4-g5.}) 16. c3 {Das ist ein
+starker Zug, der am Brett nicht so einfach zu finden ist. Würde Schwarz jetzt
+wieder b5-b4 spielen, dann könnte Weiß auf c6 tauschen und den Bauern
+schlagen.} Nxd4 ({(a) Das verlockende} 16... b4 {funktioniert hier wieder
+nicht wegen} 17. Nxc6 Qxc6 18. axb4 Rxb4 {Auf die Fesselung in der c-Linie hat
+sich Schwarz verlassen} 19. Qc2 {[%csl Yb4,Yc2,Yd3,Yh7][%cal Rc3b4,Rd3h7]
+Dieser Zug stellt eine Doppeldrohung auf. Weiß entfesselt seinen König und
+droht über die Dame-Läufer-Batterie mit einem Einschlag auf h7}) ({(b) Eine
+andere Möglichkeit ist} 16... Nf8 17. b4 Nxd4 18. Nxd4 Qc7 19. Kb2 {Weiß hat
+einen idealen Aufbau erreicht. Solche Stellungen sind in der Hauptvariante
+ausanalysiert. Aber einige Ideen sind hier auch interessant.} Bd7 20. h4 Rec8
+21. h5 a5 22. h6 g6 23. Rh3 {Wie in der Hauptvariante beschützt der Turm auf
+h3 die Bauern a3 und c3, so dass der a5xb4 mit c3xb4 beantwortet werden kann.}
+Ra8 (23... Be8 {ist etwas schlaff wegen} 24. Qe1 Ra8 25. Be2 {mit weißem
+Vorteil.}) 24. Qe1 Qa7 25. Be2 {Das ist der Schlüsselzug in dieser Stellung.
+Er befähigt die bereits vorher angemerkte Verteidigungsstrategie von Weiß
+auf der dritten Reihe und erstickt quasi das gesamte schwarze Gegenspiel.
+Weiß kontrolliert die Stellung und droht mit De1-h4.}) 17. Nxd4 Qb6 {Schwarz
+bereitet sich gegen die Batterie von Läufer auf c2 und die Dame auf d3 vor,
+denn dagegen wäre Sd7-c5 sehr stark} ({(a) Zu langsam ist} 17... Nb6 {wegen}
+18. Bc2 {, eine wichtige Idee in solchen Stellungen. Nach Dd2-d3 muss Schwarz
+seinen Königsflügel schwächen.} Nc4 19. Qd3 g6 20. h4) ({(b)} 17... a5 {
+wird begegnet mit} 18. b4 {, eine andere thematische Idee in dieser Variante.}
+Qb6 (18... Qc7 {erlaubt} 19. Nxb5 {, wonach weniger der Bauerngewinn als das
+nachfolgende Sb5-d6 von Belang ist.}) 19. Kb2 {Die schwarzen Figuren sind
+nachteilig platziert und Weiß wird einen Königsangriff lancieren.}) 18. Qc2
+Nf8 {Schwarz hat etwas Gegenspiel auf dem Damenflügel (mit Ld7, a5 und b4),
+aber die weiße Kontrolle auf den schwarzen Feldern ist sehr stark. In der
+Zwischenzeit kann Weiß den h-Bauern nach h6 vorantreiben, um weitere
+Schwächen auf den schwarzen Fleden zu erzeugen. Diese können mit Dd2-f2-h4
+ausgebeutet werden, nachdem ein Damenabtausch durch Dd8 eingeleitet Weiß ein
+angenehmes Endspiel erlaubt.} 19. h4 Bd7 20. b4 $1 {Das ist der Schlüsselzug
+des gesamten weißen Aufbaus. Er blockiert den Damenflügel vollständig,
+indem er den Bauern c3 verteidigt, wonach er auf den Königsflügel
+überschwenkt.} Rec8 (20... a5 21. h5 Ra8 22. h6 g6 23. Kb2 Ra6 24. Qf2 axb4
+25. axb4 Rea8 26. Ra1 {Das ist am einfachsten.} Qa7 (26... Rxa1 27. Rxa1 Rxa1
+28. Kxa1 {scheint für Weiß gewonnen.}) 27. Rxa6 Qxa6 28. Nc2 {verhindert das
+weitere Gegenspiel.} Qa2+ 29. Kc1 Qb3 30. Kd2) 21. Kb2 a5 ({Was passiert, wenn
+Schwarz die c-Linie stattdessen besetzt?} 21... Rc7 22. Qf2 Rbc8 23. Rc1 {
+Was macht Schwarz nun? Es ist erstaunlich, wie wenig Gegenspiel Schwarz hier
+gegen den weißen Aufbau hat.} Be8 (23... a5 24. h5 h6 25. g4 {mit weißem
+Vorteil.}) 24. h5 a5 25. h6 g6 26. g4 {dito.}) 22. h5 Ra8 23. h6 g6 24. Qf2 {
+Wieder ist das weiße Spiel geschmeidig und einfach zu verstehen.} Be8 (24...
+Qa7 25. Ra1 Qc7 26. Rhc1 Qd8 27. g4 {ist ausgezeichnet für Weiß.}) 25. Be2 $1
+{Ein Aufbau mit Ta1 und Thc1 ist ebenso möglich, aber die Verteidigung auf
+der dritten Reihe ist viel stärker. Ein Turm auf h3 verteidigt sowohl a3 als
+auch c3 zur selben Zeit, denn axb4 kann immer mit cxb4 beantwortet werden.} Qa7
+26. Rh3 axb4 (26... Nd7 27. Qh4 {mit weißem Vorteil.}) 27. cxb4 {Weiß ist
+vollständig Herr der Stellung.} *
+

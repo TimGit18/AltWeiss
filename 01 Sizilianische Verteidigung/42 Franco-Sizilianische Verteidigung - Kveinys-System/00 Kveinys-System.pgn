@@ -1,0 +1,14 @@
+[Event "1.e4 vs The Sicilian III"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Franco-Sizilianische Verteidigung"]
+[Black "Kveinys-System"]
+[Result "*"]
+[ECO "B40"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "8"]
+[SourceVersionDate "2024.08.04"]
+
+{[%evp 0,8,19,21,49,49,56,27,27,32,35]} 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Qb6 *
+

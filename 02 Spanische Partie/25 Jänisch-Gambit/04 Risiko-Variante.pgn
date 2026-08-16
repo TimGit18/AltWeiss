@@ -1,0 +1,58 @@
+[Event "The Ruy Lopez Revisited"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Jaenisch-Gambit"]
+[Black "Risiko-Variante"]
+[Result "*"]
+[ECO "C63"]
+[Annotator "Ivan Sokolov"]
+[PlyCount "40"]
+[EventDate "2011.08.22"]
+[SourceDate "2011.08.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 {Das Jänisch-Gambit ist eine scharfe und
+riskante Variante von Schwarz, mit der er dem Weißen die Initiative entreißen
+will. Er attackiert von der Seite den weißen Königsbauern und will mit Sg8-f6
+und d7-d5 nachsetzen. Wenn Weiß hier einen Vorteil erlangen will und den
+frühreifen Vorstoß von Schwarz bestrafen will, dann muss er sich auf eine
+prinzipielle Auseinandersetzung einlassen.} 4. Nc3 {Das ist die prinzipielle
+Wahl von Weiß. Er entwickelt eine Figur, überdeckt seinen wichtigen
+Zentrumsbauern und verhindert zunächst d7-d5. Tatsächlich kann Schwarz aber
+ein großes Zentrum aufbauen, das Weiß mit Hilfe einiger scharfer Taktiken
+allerdings auch wieder zerstören kann} fxe4 {Schwarz öffnet die Stellung und
+forciert damit das Spiel. Das ist der ganze Sinn der Gambitvariante mit f7-f5}
+5. Nxe4 {Weiß bringt seinen Springer in das Zentrum. Er macht ihn aber dort
+auch angreifbar. Schwarz kann jetzt seine Zentrumsbauern in Bewegung setzen.}
+Be7 {Diese Variante wird selten gespielt und hat auch keinen guten Ruf, obwohl
+sie noch nicht klar widerlegt werden kann} 6. d4 {Andere Züge sind für Schwarz
+nicht so gefährlich} exd4 {Schwarz stehen hier auch zwei andere Züge zur
+Auswahl} ({(a) Eine schlecht gewählte forcierte Variante ist} 6... Nxd4 {wegen}
+7. Nxe5 Nxb5 8. Qh5+ g6 9. Nxg6 hxg6 10. Qxh8 Kf7 11. Qh7+ Kf8 12. Bh6+ Nxh6
+13. Qxh6+ Kf7 14. Qh7+ Kf8 15. O-O-O {mit einem gewinnbringenden Angriff}) ({
+(b) Weiß steht viel besser nach} 6... d5 7. Neg5 exd4 ({Nach} 7... h6 8. Bxc6+
+bxc6 9. Nf7 Kxf7 10. Nxe5+ {sollte Weiß gewinnen}) 8. Nxd4) 7. O-O d5 (7... Nf6
+{ist schlecht, denn hier kann Weiß gut schlagen} 8. Nxf6+ Bxf6 9. Re1+ {Nach}
+Ne7 {folgt} ({Auch} 9... Kf7 {hilft nicht wirklich} 10. c3 d5 11. cxd4 {und
+Weiß steht klar besser}) 10. Ng5 O-O 11. Nxh7 Kxh7 12. Qh5+ Kg8 13. Bd3 Re8 14.
+g4) 8. Neg5 h6 (8... Nf6 {ist auch hier schlecht wegen} 9. Nxd4 Qd6 10. Re1 Ng4
+11. Bxc6+ bxc6 12. f4 O-O 13. Nge6 Nh6 14. Nxf8 {und Weiß hat eine saubere
+Mehrqualität}) 9. Bxc6+ bxc6 10. Nf7 Kxf7 11. Ne5+ Kf6 ({Schlecht ist} 11...
+Ke6 12. Re1) 12. Qxd4 c5 {Das ist der einzige Zug. In der Theorie gilt die
+Stellung als schlecht für Schwarz oder sogar verloren. Obwohl Schwarz bisher
+keine guten Züge gespielt hat, ist die Bewertung eigentlich noch nicht so klar}
+13. Nd7+ Kf7 ({Von Khalifman stammt die Variante} 13... Ke6 14. Qg4+ Kd6 15.
+Bf4+ Kc6 16. Qe6+ Bd6 17. Ne5+ Kb6 18. Qxd5 Bxe5 19. Qxd8 Bxf4 20. Qd5 c6 21.
+Qb3+ Kc7 22. Qf7+ {und Weiß hat jetzt gewinnbringenden Materialvorteil}) 14.
+Qxd5+ Ke8 15. Qxa8 Qxd7 {Das schwarze Problem ist, dass sein König in der
+Mitte stecken geblieben ist. Er verliert auch einige Bauern im Laufe der Partie
+} ({Nach} 15... Bxd7 {steht Weiß jedoch klar besser} 16. Qxa7 Nf6 17. Be3 Kf7
+18. Bxc5 {und übernimmt auch materiell das Kommando}) 16. Bf4 Nf6 {Diese
+Stellung ist beinahe erzwungen und wichtig für die Bewertung der ganzen
+Variante. Weiß wird wahrscheinlich die Bauern a7 und c7 gewinnen, während
+Schwarz zunächst einmal seine Figuren koordnieren muss und etwas Gegenspiel
+entwickeln kann} ({Wenn Schwarz den a-Bauern retten will mit} 16... a6 {so
+verliert er nach} 17. Rad1 Qf5 18. Rd5) 17. Qxa7 Kf7 18. Qxc7 Qxc7 19. Bxc7 Nd5
+20. Be5 Nb4 {Weiß hat einen materiellen Vorteil, aber Schwarz kann etwas
+Gegenspiel aufrechterhalten} *
+

@@ -1,0 +1,34 @@
+[Event "The Ruy Lopez move by move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Verzögerungen"]
+[Black "Siesta-Variante"]
+[Result "*"]
+[ECO "C63"]
+[Annotator "Neil McDonald"]
+[PlyCount "45"]
+[EventDate "2011.08.22"]
+[SourceDate "2011.08.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 {Der Einschub der Züge a7-a6 und
+Lb5-a4 macht einen fundamentalen Unterschied im Vergleich zur normalen
+Steinitz-Verteidigung aus} 5. c3 {Weiß plant den Aufbau eines starken
+Bauernzentrums mit d4-d5 und c3-c4} f5 {Der Zug stammt aus dem Jaenisch-Gambit
+und repräsentiert die Siesta-Variante} 6. exf5 {Die Idee ist es, das schwarze
+Zentrum aufzubrechen} Bxf5 7. d4 ({Die übliche Fortsetzung lautet} 7. O-O {,
+aber nach} Bd3 {ist der weiße Damenbauer blockiert. Kasparov hat eine andere
+Idee}) 7... e4 8. d5 {Falls Weiß seinen Springer von f3 wegzieht, würde er die
+Gelegenheit verlieren, den Angriff fortzuführen} exf3 9. Qxf3 Qe7+ ({Kann
+Schwarz hier nicht einfach mit} 9... Bxb1 {eine Figur gewinnen? Schon, aber
+Kasparov hat in seiner Vorbereitung gezeigt, dass Weiß hier Kompensation erhält
+} 10. dxc6 b5 11. Bb3 Bg6 {Der schwarze König ist in der Mitte gefangen. Es
+gibt keine Möglichkeit für ihn zu entkommen} 12. O-O Nf6 13. Bh6 $1 {Ein sehr
+starker Zug, der die Entlastung der schwarzen Stellung verhindert} d5 14. Rfe1+
+Be4 15. Rad1 Be7 16. Rxe4 dxe4 17. Rxd8+ Bxd8 18. Qg3 gxh6 19. Qe5+ Be7 20.
+Qxc7 Rd8 21. Qb7 Nd5 22. c7 Nxc7 23. Qxc7) 10. Kd1 Be4 11. Qh3 Qf7 (11... Bxd5
+12. Re1 Be4 13. Nd2 d5 14. f3 Nf6 15. fxe4 dxe4 16. Nxe4 Nxe4 17. Bxc6+ bxc6
+18. Kc2 Kf7 19. Qf5+ Qf6 20. Qxe4 Qg6) 12. dxc6 Bxc6 13. Re1+ Be7 14. Bxc6+
+bxc6 15. Nd2 Nf6 16. Nf3 O-O 17. Ng5 Qd5+ 18. Kc2 Rae8 19. Bd2 h6 20. Ne6 Ne4
+21. Qd3 Qxe6 22. Rxe4 Qf7 23. Rae1 *
+

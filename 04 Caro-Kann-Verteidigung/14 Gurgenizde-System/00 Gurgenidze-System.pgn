@@ -1,0 +1,28 @@
+[Event "Caro-Kann Geheimnisse"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Caro-Kann-Verteidigung"]
+[Black "Gurgenidze-System"]
+[Result "*"]
+[ECO "B15"]
+[Annotator "Joe Gallagher"]
+[PlyCount "21"]
+[SourceDate "2017.08.26"]
+
+1. e4 c6 2. d4 d5 3. Nc3 g6 {Über diesen Zug muss sich Weiß keine Sorgen
+machen. Eigentlich gehört dieser Zug zum System der Modernen Verteidigung} 4.
+Nf3 Bg7 {Hiernach spielt Weiß den halb-abwartenden Zug} 5. h3 {Weiß weiß
+noch nicht, wo er seine Läufer hinstellt und so spielt er einen nützlichen
+Zug, der die Fesselung auf g4 unterbindet. Nach dem nächsten schwarzen Zug
+sollte Weiß eine bessere Vorstellung davon haben, wie er sich entwickelt} Nf6
+{Das ist ein provokanter Zug. Es gibt eine Reihe von Alternativen} ({(a)} 5...
+dxe4 {ist eine solide Alternative. Nach} 6. Nxe4 Nd7 7. Bc4 Ngf6 8. Nxf6+ Nxf6
+9. O-O O-O 10. Re1 {hat Weiß ein kleines Plus}) ({(b)} 5... Nh6 {ist eine
+etwas exzentrische Entscheidung. Nach} 6. Bd3 O-O 7. O-O {muss Schwarz sich
+entscheiden, wie er seinen Springer auf h6 in das Spiel bringen will} dxe4 8.
+Nxe4 Nf5 9. c3 {Hiernach ist die weiße Stellung etwas besser}) 6. e5 {Weiß
+nimmt die Herausforderung an} Ne4 7. Nxe4 dxe4 8. Ng5 c5 {Schwarz muss schnell
+im Zentrum zuschlagen} 9. Bc4 O-O 10. Nxe4 cxd4 11. f4 {Weiß hat in einem
+komplizierten Kampf die besseren Chancen} *
+

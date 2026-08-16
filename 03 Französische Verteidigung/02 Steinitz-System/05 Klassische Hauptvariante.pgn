@@ -1,0 +1,50 @@
+[Event "French Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Steinitz-System"]
+[Black "Klassische Hauptvariante"]
+[Result "*"]
+[ECO "C18"]
+[Annotator "Lev Psakhis"]
+[PlyCount "31"]
+[EventDate "2011.10.01"]
+[SourceDate "2011.10.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 {Weiß verteidigt den angegriffenen Bauern e4 und
+übt mit dem Springerzug Druck auf das schwarze Zentrum auf d5 aus} Nf6 {
+In der Klassischen Verteidigung übt Schwarz mit einem gesunden
+Entwicklungszug erst Druck auf den Punkt e4 aus, um die weißen Bauern nach
+vorne zu locken und sie dann später anzugreifen. Dies geschieht im Sinne von
+Nimzowitsch. Dabei spielen vor allem die Bauernhebel c7-c5 und f7-f6 eine
+entscheidende Rolle} 4. e5 {Weiß erobert Raum im Zentrum und treibt den
+aktiven Springer von f6 auf ein defensives Feld} Nfd7 ({Eine schlechte Wahl ist
+} 4... Ne4 {, denn nach} 5. Nxe4 dxe4 6. Bc4 {hat Weiß die Kontrolle im
+Zentrum übernommen und gute Chancen auf Mittelspielinitiative}) 5. f4 {
+Normalerweise polstert Weiß seinen Bauern mit diesem Zug, denn er erwartet
+den Angriff auf den Bauern d4 mit dem Flankenzug c7-c5. Weiß kann diesen
+Bauern - im Gegensatz zur Tarrasch-Verteidigung - nicht mit c2-c3 decken.
+Daher muss er ihn mit Figuren abfedern, was seine Struktur festlegt. In der
+Hauptvariante wird Schwarz mit Dd8-b6 und seinen Leichtfiguren gegen d4
+spielen, manchmal auch mit dem Bauernsturm a7-a6 und b7-b5. Weiß kann
+versuchen, in ein besseres Endspiel (mit dem Springer gegen den französischen
+Läufer) abzutauschen oder einen Angriff gegen den kurz rochierten König auf
+dem Königsflügel lancieren} c5 {Schwarz greift sofort mit diesem logischen
+Bauernzug die Basis des weißen Bauernzentrums an} 6. Nf3 {Weiß entwickelt
+sich weiter und verteidigt den Bauern d4} Nc6 {Schwarz übt weiteren Druck auf
+die weiße Stellung aus und zwingt Weiß zu einer Konzession} 7. Be3 {Der
+weiße Damenläufer ist sicher die Problemfigur in der weißen Stellung und
+nimmt auf e3 erst einmal eine defensive Funktion ein. Andererseits greift er
+auch den Bauern auf c5 an und neutralisiert so den Druck auf der neuralgischen
+Diagonalen a7-g1} Be7 {Die klassische Behandlung des Steinitz-Systems, die von
+Morozevich gepflegt wurde} 8. dxc5 {Dieser Zug muss irgendwann einmal kommen,
+denn sonst wird der Läufer auf e3 einbetoniert. Weiß kann dann auch nicht
+mehr gut lang rochieren, denn c5-c4 schließt das Zentrum ab und der Angriff
+auf den weißen König wird recht einseitig} Nxc5 ({Der Zug} 8... Bxc5 {
+verliert zumindest ein Tempo}) 9. Qd2 O-O 10. a3 $5 {Das ist ein interessanter
+Abwartezug. Weiß kann auch den Königsläufer entwickeln oder lang rochieren}
+({Im letzteren Fall kann erfolgen} 10. Be2 b6 11. O-O Ba6 $1 12. Bxa6 Nxa6 13.
+f5 $5 {mit Chancen auf weiße Initiative}) 10... b6 11. Bb5 Bb7 12. O-O Rc8 13.
+Rad1 Qc7 14. Qe1 Rfd8 15. Bxc6 Bxc6 16. Nd4 {Weiß hat die Initiative und
+Schwarz den schlechten Läufer} *
+

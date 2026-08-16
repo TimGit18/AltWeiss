@@ -1,0 +1,24 @@
+[Event "The Ruy Lopez Revisited"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Cozio-System"]
+[Black "Larsen-Variante"]
+[Result "*"]
+[ECO "C60"]
+[Annotator "Ivan Sokolov"]
+[PlyCount "37"]
+[EventDate "2011.08.27"]
+[SourceDate "2011.08.27"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 {Das sehr solide aussehende Springermanöver
+kennzeichnet die Cozio-Variante. Mit diesem Verteidigungszug konsolidiert er
+den Königsbauern. Andererseits versperrt er dem Königsläufer den Weg. Somit
+wird er diesen vermutlich nach g7 entwickeln. Einige Varianten gehen daher in
+das Smyslov-System über. Eine interessante Option bleibt für Schwarz immer der
+Zug d7-d5} 4. O-O {Weiß entwickelt sich erst einmal ruhig weiter und wartet ab,
+wie sich Schwarz aufstellt} a6 5. Bc4 Ng6 6. d4 exd4 7. Nxd4 Bc5 8. Nf5 O-O 9.
+Qh5 d6 10. Bg5 Qe8 11. Nd2 Qe5 12. Nf3 Qxb2 13. Rab1 Qc3 (13... Qxc2 14. Nxg7
+Qxc4 15. Bf6) 14. Rb3 Qxc4 15. Nd2 Qxc2 16. Rh3 Nh4 (16... h6 17. Nxh6+ gxh6
+18. Qxh6 Bxh3 19. Bf6) 17. g4 Bxf5 18. gxf5 f6 19. Rxh4 *
+

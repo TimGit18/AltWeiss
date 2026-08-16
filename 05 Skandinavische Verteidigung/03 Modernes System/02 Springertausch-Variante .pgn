@@ -1,0 +1,84 @@
+[Event "Starting Out: The Scandinavian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Modernes System"]
+[Black "Springertausch-Variante"]
+[Result "*"]
+[ECO "B01"]
+[Annotator "Jovanka Houska"]
+[PlyCount "48"]
+[EventDate "2010.11.21"]
+[SourceDate "2010.11.21"]
+
+1. e4 d5 2. exd5 Nf6 {Dieser Zug ändert den Charakter der Eröffnung ganz
+wesentlich. Indem Schwarz nicht auf d5 mit der Dame schlägt, erlaubt es
+Schwarz dem Weißen "hypermodern" ein Bauernzentrum aufzubauen. Erst später
+möchte er mit Konterzügen wie e7-e5 oder c7-c5 zurückschlagen. Diese Variante
+ist nicht so beliebt wie das Klassische System, überzeugt aber durch seine
+Einfachheit. Schwarz hofft darauf, dass Weiß sein Zentrum überdehnt und will
+dann zurückschlagen. Im Prinzip hat er zwei Möglichkeiten: Die
+Fianchetto-Variante drückt mit dem Köngisläufer gegen den Bauern d4 und
+versucht mit e7-e5 das weiße Zentrum zu zerstören. Die Klassische Variante
+spielt mit der Fesselung und e7-e6 verhaltener und solider gegen den weißen
+Aufbau} 3. Nf3 Nxd5 {Schwarz nimmt am besten jetzt den Bauern, denn ein Gambit
+würde ihm wohl keinen Vorteil versprechen} 4. d4 {Weiß platziert jetzt einen
+Bauern im Zentrum und kontrolliert die schwarzen Felder. Damit ist die
+Ausgangsstellung des Modernen Systems erreicht} g6 {[%cal Gc7c5,Ge7e5] Das
+Fianchetto-System ist die beliebteste Antwort auf den weißen Aufbau im
+Modernen System. Alles im schwarzen Spiel ist dafür vorgesehen, mit e7-e5 oder
+c7-c5 das weiße Zentrum anzugreifen. Der weiße Aufbau mit c2-c4 ist der
+prinzipiellste Aufbau} 5. c4 {Weiß vertreibt den mächtigen Springer aus dem
+Zentrum und erobert Raum für seine eigenen Figuren hinter den beiden Bauern.
+Der Nachteil ist allerdings seine potentielle Schwäche} Nb6 {Auf b6 versucht
+der schwarze Springer noch den Einfluß auf das weiße Zentrum zu wahren, indem
+er den weißen Bauern auf c4 angreift} 6. Nc3 {Weiß entwickelt sich logisch
+weiter und erhöht den Druck auf das schwarze Zentrum} Bg7 {Diese Stellung ist
+die Schlüsselstellung in der Fianchetto-Variante. Die Stellung und das
+folgende Spiel werden durch die folgenden Merkmale bestimmt: Weiß nimmt dem
+schwarzen Spiel Raum durch den Vormarsch c4-c5 und versucht auch den
+Befereiungszug e7-e5 zu unterbinden. Gleichzeitig ist er bestrebt, den
+weißfeldrigen Läufer von Schwarz einzugrenzen durch Bindung an die
+Verteidigung von b7 oder durch Feldkontrolle} ({Es wird nicht empfohlen, die
+verschiedenen Verteidigungssysteme von Schwarz zu vermischen} 6... Bg4 7. c5
+Nd5 8. Qb3 {Schwarz hat hier bereits Probleme} Nxc3 9. bxc3 Bxf3 10. gxf3 b6
+11. Bc4 e6 12. d5 {sieht sehr stark aus}) 7. c5 {Das ist die aggressivste
+Antwort auf die Fianchetto-Variante. Es ist beängstigend für Schwarz und
+beinahe eine Widerlegung der Fianchetto-Variante. Seitdem Khalifman diesen Zug
+empfohlen hat, ist seine Popularität gewachsen. Auf den ersten Blick sieht
+dieser Zug seltsam aus, denn Weiß gibt nicht nur das Feld d5 auf, sondern
+treibt den schwarzen Springer wieder zurück in das Zentrum! Das hat folgende
+Gründe: 1. Weiß kompromittiert zwar seine Bauernstruktur, erhält aber
+beträchtliche Figurenaktivität. Der schwarze Damenflügel leidet an
+Überbevölkerung. 2. Weiß will die schwarzen Figuren an die Verteidigung des
+Springers d5 binden. Er kann nicht gut mit dem Läufer verteidigt werden wegen
+Springer g5 und verhindert auch die Entwicklung der Figuren nach d7.3. Weiß
+will seine Figuren auf die weichen Ziele in der schwarzen Stellung richten:
+den Bauern e7, der auf der halboffenen e-Linie unter Druck gerät, den Bauern
+f7 und den Bauern b7. Weiß will Druck auf der Diagonalen a2-g8 und auf der
+e-Linie entwickeln} Nd5 {Der Rückzug nach d7 wäre viel zu passiv} 8. Bc4 {Weiß
+entwickelt seine Figuren mit Tempo und verfolgt somit seine skizzierten Ziele}
+Nxc3 9. bxc3 {Schwarz kann die weiße Bauernkette auf zwei Arten brechen:
+entweder mit b7-b6 oder mit Sb8-c6 und e7-e5} O-O 10. O-O b6 {Das löst zwar
+nicht die schwarzen Probleme, ist aber wohl der beste Zug} (10... Nc6 {ist die
+wichtigste Alternative und die Hauptvariante lautet} 11. Re1 Bg4 12. Bg5 {Es
+ist schwierig für Schwarz, den Bauern e7 zu verteidigen, denn wenn er den Turm
+zieht wird der Bauer f7 schwach} h6 (12... Qd7 13. h3 Bxf3 14. Qxf3 e5 ({Oder} 
+14... e6 15. Rab1 Rab8 16. h4 h6 17. Bf6 {und Weiß hat ein klares Plus}) 15.
+Rad1 {und Weiß hat den Vorteil des Läuferpaars und eine feste Kontrolle des
+Zentrums}) 13. Bh4 g5 {unternimmt eine direkte Aktion, um den Druck auf den
+Bauern e7 zu mindern} 14. Bg3 e5 ({(a)} 14... e6 {ist zu passiv} 15. Qe2 Na5
+16. Bd3 b6 17. Rad1 Qe7 18. cxb6 axb6 19. h3 Bh5 20. Be5 {ist besser für Weiß})
+({(b) Weiß hat ebenfalls Vorteil nach} 14... b6 15. h3 Bh5 16. Be2 bxc5 17. Qa4
+Nb8 18. Rad1) 15. d5 {Dieser natürliche Vorstoß zerstört die Koordination
+zwischen den schwarzen Figuren} Na5 16. Bf1 c6 17. d6 f6 18. h3 Bd7 19. h4 b6)
+11. Re1 {Weiß konzentriert sich darauf, die Initiative auf der e-Linie zu
+behalten} Bb7 {Schwarz muss vorsichtig agieren} (11... Nd7 12. Bg5 Nf6 13. Ne5
+bxc5 14. Qf3 Be6 15. Nc6 Qd6 16. Bf4 Qd7 17. d5 Bg4 18. Nxe7+ Qxe7 19. Rxe7
+Bxf3 20. gxf3 {würde Weiß unbedenklichen Vorteil einbringen}) 12. Bg5 Bf6 13.
+Bxf6 exf6 14. d5 {Gemäß dem Angriffsspiel müsste dieser Zug jetzt kommen} bxc5
+15. Rb1 Bc8 16. d6 Bf5 (16... Nc6 {verliert zwei Figuren für einen Turm} 17.
+Qd5 Qxd6 18. Qxd6 cxd6 19. Bd5 Bd7 20. Rb7 Rad8 21. Rxd7 Rxd7 22. Bxc6) 17. Rb7
+Qxd6 18. Qxd6 cxd6 19. Ree7 Nc6 20. Rxf7 Rxf7 21. Rxf7 d5 22. Bxd5 Rd8 23. Rd7+
+Kf8 24. Rxd8+ Nxd8 *
+

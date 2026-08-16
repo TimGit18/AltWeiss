@@ -1,0 +1,34 @@
+[Event "The Philidor Files"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Antoshin-System"]
+[Black "Scheinopfervariante"]
+[Result "*"]
+[ECO "C41"]
+[Annotator "Christian Bauer"]
+[PlyCount "29"]
+[EventDate "2009.??.??"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 {Diese Variante ist nach
+dem russischen Großmeister Vladimir Antoshin benannt, der sie in den 1950er
+bekannt machte. Statt den Läufer auf eine aktive Diagonale zu stellen,
+entscheidet sich Schwarz zu einem soliden, aber weniger ehrgeizigem Aufbau.
+Dafür erhält er Gegenchancen durch ein mögliches d6-d5, da die schwarze Dame
+jetzt auch doppelt gedeckt ist.} 6. Bc4 O-O 7. O-O {In dieser Stellung hat
+Schwarz mehrere Optionen. Er kann a6, c6 oder Sc6 spielen. Oder er spielt
+direkt das Scheinopfer Sxe4, was aber als nicht so gut gilt} Nxe4 {Das sollte
+eigentlich nicht zum Ausgleich reichen} (7... c6 8. a4 Nxe4 9. Nxe4 d5 10. Bd3
+dxe4 11. Bxe4 Na6 12. c3 Nc5 13. Bc2) 8. Nxe4 d5 9. Bd3 dxe4 10. Bxe4 Bf6 11.
+c3 Nd7 (11... Bxd4 12. cxd4 Nd7 {war auch eine Überlegung wert}) 12. Bf4 Nb6 ({
+Mit} 12... Nc5 {opfert Schwarz einen Bauern für Gegenspiel} 13. Bxh7+ Kxh7 14.
+Qh5+ Kg8 15. Qxc5 Bxd4 16. cxd4 c6 {nebst Le6-d5. Die ungleichfarbigen Läufer
+reduzieren die weißen Gewinnchancen, aber Weiß hat auf jeden Fall Vorteil}) 13.
+Qc2 g6 ({(a)} 13... Nd5 $6 {will Weiß verlocken auf h7 zu nehmen, wonach
+Schwarz wegen der Doppeldrohung g6 und Sxf4 auf jeden Fall eine Figur gewinnt}
+14. Bg3 Bxd4 15. Rad1 $1) ({(b)} 13... Bxd4 14. Rad1 Qf6 15. Rxd4 c5 16. Bxh7+
+Kh8 17. Re4 {und Schwarz kann den weißen Königsläufer immer noch nicht nehmen.
+Weiß kann dann den Damen- und danach einfach den Königsläufer zurückziehen und
+steht besser}) 14. Rad1 Qe7 15. Rfe1 {Die schwarze Dame hat kein
+zufriedenstellendes Feld und Weiß steht einfach besser} *
+

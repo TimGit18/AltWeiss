@@ -1,0 +1,14 @@
+[Event "The Modernized Ruy Lopez Volume 1"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Aronian-System"]
+[Black "Fianchetto-Variante"]
+[Result "*"]
+[ECO "C70"]
+[Annotator "Darius Swiercz"]
+[PlyCount "35"]
+[SourceVersionDate "2019.07.09"]
+
+{[%evp 0,35,27,-4,38,18,18,12,17,-8,39,-9,33,17,19,30,42,48,25,25,35,16,3,32,29,47,64,53,58,67,38,29,29,29,29,29,22,22]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nge7 {Die Empfehlung von Darius Swiercz lautet} 5. c3 g6 6. d4 exd4 7. cxd4 b5 8. Bc2 $1 {Ein wichtiger Zug. Früher hat man auch La4-b3 gespielt, aber dies ist viel genauer, da Schwarz jetzt mit dem Ausfall Sc6-a5 kein Tempo gewinnt.} d5 {Der einzige vernünftige Zug für Schwarz.} 9. exd5 Nxd5 10. O-O {Die Fianchetto-Variante beginnt mit} Bg7 11. Bg5 Qd6 ({Eine Schwächung der Diagonalen a2-g8 stellt} 11... f6 {dar und bevorteilt Weiß} 12. Re1+ Nce7 13. Bd2 O-O 14. Nc3 {Aufgrund seiner fürchterlichen Bauernstruktur ist Schwarz auf strategisch verlorenem Posten.} c6 ({Nach} 14... Nxc3 15. bxc3 Bb7 16. a4 Qd7 17. Bd3 {stand Weiß viel besser in der Partie Baron-Popov, Petersburg 2013 mit der möglichen Folge} Bc6 18. h4 $16) 15. Ne4 g5 16. Nc5 Ng6 {Das ist ein aggressiver Plan für Schwarz aus der Partie Najer-Morozevich, Moscow 2014, wogegen Weiß} 17. h3 $1 {spielen kann. Hiernach hat Schwarz keinen Angriff und Weiß steht besser.}) 12. Nbd2 Nce7 ({Beliebt, aber schlecht für Schwarz ist} 12... O-O {wegen} 13. Ne4 Qd7 14. Re1 {und der Zug Se4-c5 kommt mit Tempo. Auch gute Ideen sind Ta1-c1 und Lc2-b3.}) 13. Ne4 Qb6 14. Re1 O-O 15. Nc5 Nf5 16. Be4 c6 {Hier kann Weiß wie folgt fortsetzen} 17. Bxd5 cxd5 18. Rc1 {mit guten Chancen auf Vorteil.} *
+

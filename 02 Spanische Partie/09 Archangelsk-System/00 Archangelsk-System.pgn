@@ -1,0 +1,45 @@
+[Event "The Ruy Lopez Move by Move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Spanische Partie"]
+[Black "Archangelsk-System"]
+[Result "*"]
+[ECO "C78"]
+[Annotator "Neil McDonald"]
+[PlyCount "27"]
+[EventDate "2011.08.30"]
+[SourceDate "2011.08.30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 (4... b5 5. Bb3 Na5 {In der
+Norwegischen Verteidigung jagt Schwarz den weißen Läufer über das Brett und
+versucht erst gar nicht, einen subtilen Plan zu entwickeln} 6. O-O {Dieser
+einfache Zug ist wohl der beste} d6 {Da der Verteidigungsspringer zu einer
+Angriffsfigur geworden ist, muss Schwarz den Königsbauern anders verteidigen}
+7. d4 {Weiß, der die bessere Entwicklung hat, öffnet die Stellung} Nxb3 {
+Damit führt Schwarz seinen Plan zuende und tauscht den weißen Königsläufer
+aus. Jedoch gerät er im Zentrum unter Druck und muss noch seine Entwicklung
+vervollständigen} 8. axb3 {Weiß öffnet die a-Linie und bereitet die Bildung
+eines starken Zentrums vor} f6 {Schwarz massiert den Verteidigungswall rund um
+e-Bauern} 9. c4 {Ein starker Zug, der sofort den Bauern b5 angreift und das
+Zentrum unter Kontrolle nimmt. Schwarz muss reagieren, da sein a-Bauer
+gefesselt ist} b4 {Schwarz entscheidet sich dazu, die Stellung zu schließen.
+Das ist aufgrund der zurückgebliebenen Entwicklung gerechtfertigt, aber das
+Läuferpaar ist in einer offenen Stellung besser} 10. Be3 {Weiß entwickelt
+den Damenläufer auf das beste Feld, denn woanders hat er keine Zukunft} Bb7 {
+Dies ist der einzige aggressive Entwicklungszug von Schwarz} 11. Nbd2 {Weiß
+entwickelt seinen Damenspringer auf das beste Feld und verteidigt seinen
+wichtigen e-Bauern} c5 {Schwarz errichtet eine Barrikade auf den schwarzen
+Feldern. Damit lädt er Weiß ein, das Zentrum zu schließen} 12. d5 {Weiß
+schließt das Zentrum. Er will in Zukunft auf dem Königsflügel angreifen}) 5.
+O-O b5 6. Bb3 Bb7 {Der Archangelsk-Aufbau ist ungewöhnlich, aber nicht
+schlecht. Schwarz entwickelt seinen Damenläufer auf ein natürliches Feld und
+wartet mit der Entwicklung des Königsläufers ab} 7. d3 {Die Grundidee dieses
+Zuges ist es, die Diagonale des schwarzen Damenläufers zu schließen. Schwarz
+kann das Spiel nicht so ohne weiteres mit d7-d5 öffnen} Bc5 (7... Be7 8. a4
+O-O 9. Re1 d6 10. c3 h6 11. Nbd2 Re8 12. Nf1 Bf8 13. Ng3 Qd7 14. d4) 8. Nc3 {
+Damit verfolgt Weiß eine Strategie, in der auf c2-c3 zunächst verzichtet wird
+} d6 (8... O-O 9. a4 Na5 10. axb5 Nxb3 11. cxb3 axb5 12. Rxa8 Bxa8 13. Nxe5 d5
+14. Bg5 dxe4 15. dxe4 Qxd1 16. Rxd1 b4 17. Bxf6 bxc3 18. bxc3 gxf6 19. Nd7) 9.
+a4 Na5 10. Ba2 b4 11. Ne2 O-O 12. Ng3 Bc8 13. c3 bxc3 14. bxc3 *
+

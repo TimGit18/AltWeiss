@@ -1,0 +1,28 @@
+[Event "The Philidor Files"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Philidor-Verteidigung"]
+[Black "Modernes System"]
+[Result "*"]
+[ECO "C41"]
+[Annotator "Christian Bauer"]
+[PlyCount "19"]
+[EventDate "2009.??.??"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 {Im Modernen System aktiviert Schwarz seine
+Figuren auf Kosten einer etwas labilen Stellung} 4. dxe5 Nxe4 (4... dxe5 $4 {
+verliert Bauern und Rochade} 5. Qxd8+ Kxd8 6. Nxe5) 5. Qd5 {Nach anderen Zügen
+hat Schwarz überhaupt keine Schwierigkeiten} Nc5 (5... f5 {möchte den Springer
+auf e4 zementieren} 6. Bc4 Qe7 7. O-O c6 8. exd6 {Damit unterbindet Weiß die
+schwarze Idee} Qxd6 (8... Nxd6 9. Qd4 {und es folgt Tf1-e1}) 9. Qxd6 Bxd6 10.
+Nbd2 {mit einem leichten Vorteil}) 6. Bg5 {Nun hat Schwarz zwei Möglichkeiten}
+Be7 {Das ist der Hauptzug, aber auch nicht sehr erfolgreich} (6... Qd7 {Dieser
+merkwürdige Zug blockiert zwar den Läufer auf c8, soll aber die Stützung c6
+und d5 vorbereiten. Anders als in der Hauptvariante soll der Läufer auf d6
+wiedernehmen} 7. exd6 Bxd6 8. Nc3 Qe6+ 9. Be3 Qxd5 10. Nxd5 {Es droht nun
+sowohl Sxc7 mit Schach als auch Lxc5}) 7. exd6 Qxd6 8. Nc3 {Weiß entwickelt
+sich ohne Zeitverlust} c6 {Der Zug schwächt das Feld d6, verhindert aber den
+Springerzug nach b5} ({Möglich ist auch} 8... Qe6+ 9. Be3 c6) 9. Qxd6 Bxd6 10.
+O-O-O *
+

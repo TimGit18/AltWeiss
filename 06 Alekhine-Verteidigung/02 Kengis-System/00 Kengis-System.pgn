@@ -1,0 +1,64 @@
+[Event "Beating Unusual Chess Defences"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alekhine-Verteidigung"]
+[Black "Kengis-System"]
+[Result "*"]
+[ECO "B04"]
+[Annotator "Andrew Greet"]
+[PlyCount "29"]
+[EventDate "2013.07.05"]
+
+1. e4 Nf6 2. e5 Nd5 {Es gibt zu diesem Zug eigentlich keine wirklichen
+Alternativen} 3. d4 d6 {Das ganze schwarze Konzept basiert auf der
+Unterminierung der zentralen weißen Bauern. Ohne diesen Zug kommt Schwarz im
+Grunde nicht aus} 4. Nf3 {Das ist der weiße Hauptzug. Er verteidigt den Bauern
+auf e5 und entwickelt eine Leichtfigur.} dxe5 {Der direkte Abtausch im Zentrum
+ist mehr oder weniger die aktuelle Hauptvariante der Alekhine-Verteidigung} 5.
+Nxe5 {Das ist die Grundstellung des Modernen Systems. Schwarz hat jetzt
+mehrere Möglichkeiten: 1. Die Stützung des Springer mit c7-c6 2. Das
+provokative Sb8-d7 3. Die Fianchetto-Variante mit g7-g6} g6 {Diese Variante
+ist nach dem litauischen Großmeister Edvins Kengins benannt, der sie in den
+1990er Jahren entwickelte} 6. Bc4 {Das ist die beliebteste Wahl von Weiß. Die
+Alternative ist das Königsläufer-Fianchetto nach g2, was sehr solide, aber
+nicht besonders aggressiv ist. Der Läuferzug nach c4 - in Verbindung mit dem
+Springer auf e5 gegen f7 gerichtet - ist schon thematischer.} c6 ({(a) Schwarz
+sollte} 6... Bg7 {vermeiden wegen} 7. Nxf7 Kxf7 8. Qf3+ Ke8 9. Bxd5 Rf8 10. Qb3
+c6 11. Bf3 Qxd4 12. O-O {mit offensichtlichem weißen Vorteil}) ({(b)} 6... Be6
+{ist spielbar, aber Weiß spielt wie in der Textvariante} 7. O-O Bg7 8. Re1 O-O
+9. Bb3 Nd7 10. Nf3 N7f6 11. c4 Nb6 12. Rxe6 fxe6 13. Qe1 {mit
+vielversprechender Kompensation}) 7. O-O {Erst einmal entwickelt sich Weiß und
+bereitet die Besetzung der halboffenen e-Linie vor} Bg7 {Schwarz nimmt den
+weißen Springer unter die Lupe und bereitet daselbst die kurze Rochade vor} 8.
+Re1 {Weiß besetzt die halboffene Linie und festigt die Stellung des Springers}
+O-O {Das ist eine normale Stellung, in der Weiß dank seines Bauern d4 etwas
+mehr Platz und Zentrumskontrolle hat. Andererseits muss Weiß schon mit
+Überzeugung spielen, denn sonst kann Schwarz den leichten weißen Vorteil mit
+c7-c5 neutralisieren} 9. Bb3 {Weiß zieht den Läufer aus der leicht exponierten
+Stellung zurück und wartet ab, wie Schwarz seine Figuren entwickelt} {Nun ist}
+Be6 {der genaueste und meistgespielte Zug. Schwarz will die weißfeldrigen
+Läufer abtauschen.} ({(a)} 9... a5 10. c4 {Weiß kann sich diesen Zug erlauben,
+da Schwarz keine Figur entwickelt hat} Nb6 11. Nc3 Be6 12. d5 Bf5 13. Bf4 cxd5
+14. cxd5 Na6 {Weiß hat sich logisch entwickelt und muss nun aggressiv
+weiterspielen}) ({(b)} 9... Nd7 {Schwarz verfügt noch über andere Züge} 10. Nf3
+{Das ist der übliche Rückzug von Weiß} N7f6 ({Eine andere Fortsetzung lautet} 
+10... Re8 11. Bg5 N7f6 12. Nbd2 h6 13. Bh4 Bg4 14. h3 Bxf3 15. Nxf3 {Weiß hat
+das Läuferpaar und ein angenehmes Spiel}) 11. c4 {Das ist wieder ein
+thematischer Zug, der Raum im Zentrum erobert} Nc7 {Schwarz zieht den Springer
+auf das zuvor freigeräumte Feld} ({Auch möglich ist} 11... Nb6 {mit der
+Fortsetzung} 12. h3 Bf5 13. Nc3 Qc7 14. Bg5 Be6 15. Qe2) 12. h3 $1 {Es ist
+nützlich für Weiß, die Fesselung auf g4 zu unterbinden} c5 ({Als interessante
+Alternative wurde} 12... b5 {vorgeschlagen} 13. Ne5 Bb7 14. Nc3 Nd7 15. Ng4 e6
+16. c5) 13. Nc3 {Es gibt auch Alternativen, aber der Zug von Kasparov überzeugt
+} cxd4 14. Nxd4 {Weiß hat eine sehr aktive Figurenstellung und er ist fähig,
+die Damenflügelmehrheit in Bewegung zu setzen} Ne6 (14... Qd6 {reicht nicht
+zum Ausgleich nach} 15. Be3 Rd8 16. Ndb5 Nxb5 17. Nxb5) 15. Be3 {Weiß
+entwickelt eine Figur und überdeckt das wichtige Feld d4. Der Läufer auf e3
+kann nicht von den schwarzen Springern angegriffen werden} Nxd4 {Schwarz
+versucht mit Abtäuschen die Stellung zu vereinfachen} 16. Qxd4 Be6 {Jetzt hat
+Weiß eine sehr aktive Möglichkeit} 17. Qh4) 10. Nd2 Nd7 (10... Nc7) 11. Nef3 {
+Wie so oft in der Alekhine-Verteidigung zieht Weiß den Springer zurück} Nc7 12.
+Ne4 Bxb3 {Vielleicht sollte Schwarz diesen Abtausch vermeiden} 13. axb3 Ne6 14.
+c3 Re8 15. h4 *
+

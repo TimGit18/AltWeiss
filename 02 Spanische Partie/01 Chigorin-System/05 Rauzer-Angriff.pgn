@@ -1,0 +1,96 @@
+[Event "The Ruy Lopez Main Line"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chigorin-System"]
+[Black "Rauzer-Variante"]
+[Result "*"]
+[ECO "C98"]
+[Annotator "Glenn Flear"]
+[PlyCount "41"]
+[EventDate "2011.09.01"]
+[SourceDate "2011.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 {Hiernach entsteht die Spanische Partie. Weiß übt
+sofort Druck auf den Verteidigungsspringer auf c6 auf und damit auch weiteren
+Druck auf den Bauern e5.} a6 {Die Morphy-Verteidigung ist eine der
+flexibelsten und beliebtesten Antworten. Der weiße Damenläufer muss sich
+erklären, ob er abgetauscht werden soll oder zurückgezogen wird} 4. Ba4 {Weiß
+behält vorerst das Läuferpaar und läßt den Druck nicht nach. Allerdings hat
+Schwarz immer wieder einmal die Option, selber b7-b5 zu spielen und den weißen
+Läufer ganz von seinem Verteidigungsspringer zu vertreiben} Nf6 {Schwarz
+leitet ein Gegenspiel gegen den weißen Königsbauern ein und entwickelt sich} 5.
+O-O {Weiß ignoriert die Drohung. Er bietet dem Schwarzen an, mit Sf6 x e4 in
+die Offene Verteidigung überzugehen} Be7 {In der Geschlossenen Verteidigung
+verzichtet Schwarz auf das Schlagen des weißen Königsbauern. Er will sich
+vielmehr in Ruhe entwickeln und sein Zentrum verteidigen} 6. Re1 {Weiß deckt
+den angegriffenen e-Bauern und droht seinerseits damit nach Tausch auf c6 den
+Bauern e5 zu nehmen.} b5 {Dieser Zug ist jetzt notwendig. Schwarz schüttelt
+den lästigen Läufer ab. Außerdem gewinnt der Bauernvorstoß Raum auf dem
+Damenflügel, so dass Weiß praktisch nie Sb1-c3 spielen kann. Das Feld b7 kann
+als Entwicklungsfeld für den oft bescheidenen Läufer c8 benutzt werden} 7. Bb3
+{Auf diesem Feld besetzt der Läufer die schöne Diagonale a2-g8. Er verhindert
+mit Druck auf d5 den typischen schwarzen Befreiungszug mit dem Damenbauern} d6
+{Schwarz öffnet die Diagonale für den Damenläufer und schützt den Königsbauern.
+Damit wird der Damenspringer von der Deckungsaufgabe befreit und kann zum
+Manövrieren benutzt werden} 8. c3 {Weiß bereitet mit diesem Zug ein starkes
+Bauernzentrum auf d4 vor und schafft ein weiteres Rückzugsfeld für seinen
+Königsläufer} O-O {Schwarz bringt seinen König in Sicherheit und wartet mit
+dem Fesselungszug Lc8-g4 bis Weiß d2-d4 gespielt hat} 9. h3 {Mit diesem
+prophylaktischen Zug verhindert Weiß die ärgerliche Fesselung. Der Bauernzug
+kann sich oft als nützlich erweisen, wenn Weiß einen Angriff auf dem
+Königsflügel entfacht} Na5 {Dieser Zug kennzeichnet die Chigorin-Variante.
+Schwarz verwirklicht seinen beliebtesten Plan und führt einen Angriff auf dem
+Damenflügel durch} 10. Bc2 {Der Läufer wird gerettet und sichert noch ein
+weiteres Mal den eigenen Königsbauern} c5 {Schwarz erobert weiteren Raum auf
+dem Damenflügel. Er übt noch mehr Druck auf d4 aus, so dass im Falle von d2-d4
+immer die c-Linie für Schwerfigurenspiel geöffnet werden kann} 11. d4 {Weiß
+fährt logisch fort und meldet seinen Anspruch im Zentrum an. Er greift ein
+weiteres Mal den Königsbauern des Schwarzen an. Außerdem öffnet er die
+Diagonale für seinen Damenläufer und das Feld d2 wird für den Damenspringer
+frei} Qc7 {Die schwarze Dame steht hier ideal. Sie deckt den eigenen e-Bauern
+und meldet Gegenspiel auf der c-Linie an} 12. Nbd2 {Da noch nicht klar ist, wo
+der der Damenläufer am besten platziert ist, setzt Weiß erst einmal die
+Entwicklung der Springer fort. Der Damenspringer soll nach f1, von wo aus er
+nach e3 oder g3 gehen kann} Nc6 {Der traditionelle Zug in der Klassischen
+Chigorin-Verteidigung: Schwarz übt Druck auf das Feld d4 aus} 13. dxc5 {Dieser
+Zug kennzeichnet das Rauzer-System. Weiß kann nicht einfach Sd2-f1 spielen,
+weil dann Schwarz dreimal auf d4 schlagen könnte und sich dann auf c2 bediente}
+dxc5 {Schwarz löst seine Bauernschwäche auf d6 auf, aber er behält eine
+Schwäche auf dem Feld d5} 14. Nf1 {Weiß kompiliert seinen Standardplan und
+versucht via e3 auf d5 einzusteigen} Be6 {Das ist der normalerweise populärste
+und beste Zug im Rauzer-System für Schwarz. Er entwickelt seine letzte Figur
+und verbindet die Türme} ({Etwas defensiv ist} 14... Bd6 {Der Läufer leistet
+hier nicht viel und der Bauer e5 ist auch nicht bedroht} 15. Nh4 {Dieses
+Manöver von Bobby Fischer will Spiel auf dem Königsflügel initiieren} Ne7 {
+Schwarz zieht eine weitere Figur zur Verteidigung des Königs zurück und
+verhindert den Zug des Springers nach f5} 16. Qf3 {Hier unterstützt die weiße
+Dame den Einstieg des Springers auf f5} Rd8 {Ein Verbesserungsversuch von Filip
+} 17. Ne3 Qb7 18. Ng4 Nxg4 19. hxg4) 15. Ne3 {Weiß strebt mit dem Springer
+nach f5, da d5 zu sehr überdeckt ist} Rad8 {Schwarz besetzt die offene d-Linie
+und befragt die Dame} 16. Qe2 {Die Dame macht Platz auf dem Feld d1 für den
+eigenen Damenturm} c4 {Das ist ein wichtiger Zug für Schwarz: er übernimmt die
+Kontrolle auf dem Feld d3, so dass immer wieder einmal der Vorstoß Sc6-d4 eine
+Option werden kann} ({Das ältere} 16... g6 {gleicht nicht aus, zum Beispiel}
+17. Ng5 Bc8 18. a4 Qb7 19. axb5 axb5 20. h4 Bd6 21. Nd5 Nh5 22. Nf3 f6 23. Bh6
+Rf7 24. Red1) 17. Nf5 {Weiß verhindert das Scheinopfer und greift seinerseits
+den Läufer e7 an} Bxf5 {Schwarz beseitigt den lästigen Springer auf f5 und
+verschafft Weiß einen Doppelbauern, der nicht so leicht aufzulösen ist.
+Allerdings kann er auch in Verbindung mit g2-g4 zu einem Angriffsobjekt werden}
+({Eine andere Möglichkeit ist} 17... Rfe8 18. Bg5 Nd7 19. Bxe7 Nxe7 20. Ng5 Nf8
+21. Rad1 f6 22. Nxe6 Nxe6 23. Qg4) 18. exf5 {Weiß vergrößert den Einfluß
+seines Königsläufers und strahlt auf die weißen Felder des schwarzen
+Königsflügels. Allerdings gibt er damit auch die Kontrolle über d5 ab} Rfe8 {
+Schwarz beordert seinen zweiten Turm in die Mitte und schafft ein Rückzugsfeld
+für seinen Läufer} 19. Bg5 {Die letzte weiße Leichtfigur wird auf ein
+aggressives Feld gebracht. Gleichzeitig werden die Türme verbunden} h6 {
+Schwarz befragt sofort den weißen Läufer. Außerdem verwehrt er dem weißen
+Springer damit den Zugang zu g5} 20. Bxf6 {Da Weiß kein geeignetes Feld für
+den Läufer hat, tauscht er diesen gegen den gut platzierten Köngisspringer von
+Schwarz. Der Kampf geht um das Feld e4} Bxf6 {Schwarz sichert den Stützpunkt
+e5. Es ist ein Spiel mit ungleichfarbigen Läufern entstanden, was auf
+Angriffschancen im Mittelspiel deutet} 21. Nd2 {[%csl Ye4] Der weiße Springer
+soll auf das Feld e4, von dem aus er die schwarzen Felder im Zentrum
+kontrollieren kann. Der Springer auf e4 ist stark, da er nie vertrieben werden
+kann} *
+

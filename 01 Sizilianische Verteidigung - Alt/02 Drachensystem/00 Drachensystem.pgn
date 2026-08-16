@@ -1,0 +1,269 @@
+﻿[Event "The Sicilian Dragon"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sizilianische Verteidigung"]
+[Black "Drachensystem"]
+[Result "*"]
+[ECO "B78"]
+[Annotator "David Vigorito"]
+[PlyCount "33"]
+[EventDate "2011.07.09"]
+[SourceDate "2011.07.09"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 {Der sizilianische
+Drachenaufbau ist eine der besten und aggressivsten Antworten für Schwarz und
+schon lange bekannt. Die Bauernstruktur erinnert an einen Drachenaufbau. Der
+russische Meister und Astronom Fedor Dus-Chotimirsky (1879-1965) hat die
+Bauernstruktur an ein Sternensystem, das nach einem mythischen, feuerspeienden
+Drachen benannt wurde, erinnert und den Aufbau 1901 so getauft. Die Idee der
+Eröffnung ist einfach: Schwarz entwickelt seinen Königsläufer so aktiv wie
+möglich und versucht Druck auf den weißen Damenflügel auszuüben. In der
+Praxis entsteht ein heftiger Zusammentoß zwischen beiden Parteien} 6. Be3 {
+[%csl Yd4,Ye3,Yg7][%cal Ge3d4,Rf8g7,Rg7d4] Weiß gefällt die Vorstellung
+nicht, dass auf g7 der Königsläufer auftaucht. Daher bereitet dieser Zug den
+Läufertausch auf h6 vor, um den schwarzen Königsflügel zu schwächen.
+Andererseits ist der Läuferzug auch ein zentralisierender Entwicklungszug,
+der den Punkt d4 sehr gut überdeckt und die lange Rochade vorbereitet} Bg7 {
+Dieser Zug bildet de logische Fortsetzung, obwohl es momentan auch andere
+Züge gibt. Schwarz kann sich überlegen, ob er die Läuferentwicklung nicht
+etwas verzögern kann. Allerdings steht der König in dem Zentrum nicht
+besonders sicher und möchte sich auf dem Königsflügel verstecken. Obwohl er
+in den weißen Angriff hineinrochiert, steht er auf dem Königsflügel sehr
+sicher. Meistens verwendet er die halboffene c-Linie für einen Gegenangriff
+mit den Türmen und opfert eine Qualität auf c3.} ({Der scheinbar sehr gute
+Angriffszug} 6... Ng4 {funktioniert hier anders als in der entsprechenden
+Variante des Englischen Angriffs überhaupt nicht. Weiß kontert einfach mit}
+7. Bb5+ {und gewinnt Material, denn Schwarz muss eine Figur zur Abwehr
+bereitstellen} Nc6 {Andere Züge erlauben einfach das Schlagen des Springers
+auf g4. Im Gegensatz dazu verliert Schwarz mit diesem Zug "nur" einen Bauer
+und die Qualität. Die Stellung ist natürlich trotzdem für Schwarz sehr
+schlecht}) 7. f3 {[%csl Yb3,Yc4,Yd5,Ye4,Yf3][%cal Gf1c4,Gc4b3] Dieser Zug
+stellt eine enorme Verstärkung des weißen Zentrums dar, denn er verhindert
+das lästige Sf6-g4 und bereitet andererseits den Zug g2-g4 vor. Weiß
+errichtet eine Dominanz auf den weißen Feldern, so dass der Königsläufer
+nach c4 bzw. nach b3 gebracht werden kann, um unangenehmen Druck auf der
+Diagonale a2-g8 aufzubauen und den eigenen König, der lang rochiert wird, zu
+verteidigen} Nc6 {Dieser Zug stellt den flexibelsten Weg dar, denn dieser
+aktive Springer harmonisiert sehr schön mit dem Läufer auf g7, um Druck auf
+d4 auszuüben. In einigen Varianten tauscht Schwarz diesen Springer auf d4 ab,
+um das Spiel positioneller zu gestalten. Auf der anderen Seite würde die
+sofortige Rochade zu früh die Absichten von Schwarz offenbaren} ({(a) Der Zug
+} 7... a6 {[%csl Yb4,Yb5][%cal Rb7b5,Rb5b4] stellt eine Verbindung zum
+Najdorf-System her. Daher wird dieses hybride System auch Dragondorf genannt.
+Es stellt eine gute Wahl dar, wenn man die große Theorie vermeiden will. Der
+Nachteil des Planes b7-b5-b4 ist aber offensichtlich, dass er Schwarz nicht
+dabei hilft, die Kontrolle über das Feld d5 zu erlangen} 8. Qd2 {Dieser Zug
+stellt eine Empfehlung des ukrainischen GM Mikhail Golubev dar. Einerseits, um
+den Läuferabtausch auf h6 vorzubereiten, aber auch, um die lange Rochade
+vorzubereiten.} Nbd7 $1 {Ein frühes a7-a6 kann nur durch eine
+Najdorf-ähnliche Vorgehensweise gerechtfertigt werden. Die Entwicklung des
+Springers nach c6 ist sehr fragwürdig in Systemen mit a7-a6, da Schwarz
+niemals b7-b5 spielen kann.} 9. Bc4 $5 {Einige ältere Quellen (GM Efim Geller
+in der Enzyklopedia of Chess Openings 1984) bewerten dies als den besten Zug
+in der Stellung, da in anderen Varianten der Läufer passiv bleibt.} b5 {Das
+ist der stellungsgemäße Zug, obwohl auch der Damenzug nach c7 eine gute
+Option ist} 10. Bb3 {[%csl Ya2,Yb3,Yc4,Yd5,Ye6,Yf7][%cal Gb3f7] Der Läufer
+bleibt natürlich auf der wichtigen Diagonalen a2-g8} Bb7 {Der entstandene
+Stellungstyp wird in der Praxis häufig erreicht und wurde zum ersten Mal von
+Mikahil Botvinnik gespielt.} 11. Bh6 {Laut Botvinnik ist dies der beste Zug.
+Durch den Abtausch auf g7 schwächt Weiß die schwarzen Felder rund um den
+König.} O-O {Wenn Schwarz nicht rochiert, dann bleibt der schwarze König in
+der Mitte. Weiß kann die Stellung dann öffnen und ein gewaltige Druckspiel
+aufbauen} 12. Bxg7 Kxg7 {[%csl Yh4,Yh5][%cal Gh2h4,Gh4h5] Nach dem Abtausch
+der schwarzen Figuren kann der weiße Angriff auf der h-Linie durchdringen}) ({
+(b) Der Zug} 7... O-O {geht in vielen Fällen in die Hauptvariante über. Eine
+eigenständige Variante für Schwarz lautet} 8. Qd2 d5 $6 {Schwarz will es
+ausnutzen, dass Weiß noch nicht den Königsläufer auf c4 platziert hat} 9. e5
+$1 {Am besten tauscht Weiß nicht auf d5, wonach nur die schwarzen Figuren im
+Zentrum zu gutem Spiel kommen sondern verschafft sich Raumgewinn und vertreibt
+den Springer auf f6} Ne8 10. f4 f6 {Schwarz muss sofort die Speerspitze der
+weißen Bauern auf e5 angreifen} 11. Nf3 {[%csl Yd5,Ye5][%cal Gd2d5,Gf3e5] Das
+ist die Empfehlung von Mikhail Golubev. Weiß verteidigt den Bauern e5 und
+greift gleichzeitig den Bauern auf d5 an.} fxe5 12. Nxe5 {Weiß hat einen
+starken Zentralspringer auf e5. Nach der langen Rochade muss Schwarz auch noch
+den d-Bauern sichern}) 8. Qd2 {Der Zug vervollständigt die weiße Batterie
+und ermöglicht die lange weiße Rochade} O-O {Die kurze Rochade ist die
+Hauptfortsetzung in dieser Stellung. Schwarz hält sich die Möglichkeit offen,
+d6-d5 zu spielen, um sich im Zentrum zu befreien und Raum zu erobern} (8... Bd7
+{Das ist die moderne Idee. Schwarz belässt den König so lange wie möglich
+im Zentrum, wenn auch nur für einen Zug. Nach dem folgenden weißen Zug muss
+er praktisch schon rochieren} 9. Bc4 {Das ist die große Idee von Weiß und
+die wichtigste weiße Fortsetzung. Der Läufer geht auf ein sehr aggressives
+Feld und verhindert jede schwarze Befreiung mit d6-d5. Außerdem beobachtet er
+f7 und unterstützt die weißen Angriffsideen auf dem Königsflügel} {Eine
+mögliche Alternative ist} Rc8 {Wenn Schwarz auf die Rochade verzichtet, dann
+ist diese Fortsetzung die normale.} 10. Bb3 {Weiß zieht vorsorglich seinen
+Läufer zurück} Ne5 {Aber jetzt muss Schwarz rochieren und in die
+Hauptvarianten transformieren. Anders als im Najdorf-System steht der schwarze
+König im Zentrum nicht sicher} 11. Bh6 {Ein ausgezeichneter Zug in dieser
+Lage, der den wertvollen fianchettierten Läufer abtauscht und den schwarzen
+Königsflügel ruiniert} Bxh6 {Nach diesem Zug kann Schwarz nicht mehr
+rochieren} 12. Qxh6 {Die Dame steht hier für Schwarz sehr unangenehm} Nc4 {
+Das typische Manöver an dieser Stelle führt nicht dazu, dass der Springer
+abgetauscht wird} 13. O-O-O {So deckt Weiß den angegriffenen Bauern und
+bringt seinen König in Sicherheit} Qa5 14. Nd5 {Weiß opfert einen Bauern, um
+Jagd auf den zentralisierten König zu machen. Kein Schwarz-Spieler möchte in
+solch einer Stellung enden}) 9. Bc4 {[%csl Yc3,Yc4,Yd5,Ye4][%cal Gc4d5,Gc3d5,
+Ge4d5] Das ist die große Idee von Weiß und die wichtigste weiße Fortsetzung.
+Der Läufer geht auf ein sehr aggressives Feld und verhindert jede schwarze
+Befreiung mit d6-d5. Außerdem beobachtet er f7 und unterstützt die weißen
+Angriffsideen auf dem Königsflügel} Bd7 {Schwarz beendet mit diesem Zug die
+Entwicklung seiner Leichtfiguren und verbindet seine Schwerfiguren.} 10. O-O-O
+{Ein Königsflügelangriff zeichnet sich ab und Weiß verbindet mit diesem Zug
+seine beiden Türme. Der König steht auf dem Damenflügel trotz der
+halboffenen c-Linie noch ziemlich sicher solange der schwarze Turm sich nicht
+auf c3 opfert} Rc8 {[%csl Yc3][%cal Rc8c3] Dieser Zug bildet heute die
+Standardfortsetzung und geht in die neue Hauptfortsetzung, die Soltis-Variante,
+über. Die Idee dieses Zuges ist sehr einfach. Schwarz möchte ein Druckspiel
+auf der c-Linie aufbauen und im geeigneten Moment ein Qualitätsopfer auf dem
+Feld c3 vollziehen. Daher ist der Zug auch weniger gegen den Läufer auf c4
+gerichtet, der sowieso wegzieht als vielmehr gegen Springer und König} ({(a)
+Früher wurde hautpsächlich} 10... Qa5 {[%csl Ya2,Yc3][%cal Ra5c3,Ra5a2]
+gespielt, womit der Klassische Jugoslawische Angriff eingeleitet wurde. Die
+Dame wird als beste Angriffsfigur sofort auf den Damenflügel gebracht und
+beobachtet den Springer auf c3 und den Bauern auf a2} 11. Bb3 {Weiß
+stabilisiert mit diesem Zug seine Stellung, da der schwarze Damenspringer
+nicht mehr nach a5 ziehen kann, um den weißen Königsläufer zu bedrohen.}
+Rfc8 {Schwarz bringt mit diesem Zug eine weitere Schwerfigur in das
+Angriffspiel. Er wählt den Königsturm, da der Damenturm vielleicht noch auf
+der a-Linie gebraucht wird. Im übrigen verhindert der Zug auch die weiße
+Idee Le3-h6, denn er könnte mit dem eigenen Läufer auf das Feld h8
+zurückziehen, wonach er den wichtigen Königsläufer rettet und der weiße
+Läufer nur im Weg steht.} 12. Kb1 {Dieser prophylaktische Zug ist in allen
+Varianten des Drachensystems sinnvoll} Ne5 {[%csl Yc4][%cal Gc6e5,Ge5c4]
+Dieser Zug stammt ebenfalls aus der Hauptvariante. Schwarz will den Springer
+auf das aktive Feld c4 platzieren, auf dem er das weiße Läuferpaar halbieren
+will} 13. Bg5 $1 {Weiß verhindert die schwarze Idee und bringt den eigenen
+Damenläufer auf ein aktives Feld} Nc4 {[%csl Yb2,Yd2][%cal Rc4b2,Rc4d2]} 14.
+Bxc4 {Weiß muss tauschen. Zieht er die Dame weg, so schlägt der Springer auf
+b2 und anschließend wird der eigene Springer auf c3 verloren gehen} Rxc4 15.
+Nb3 {Weiß errichtet eine Defensivbarriere auf dem Damenflügel und sichert so
+den eigenen König besser ab.} Qe5 16. Rhe1 {In dieser Stellung muss Schwarz
+schon praktisch eine Qualität opfern, um im Zentrum nicht unter die Räder zu
+kommen. Weiß hat seine Figuren gut koordiniert und zentralisiert.}) ({(b) Der
+Chinesische Drachen startet mit} 10... Rb8 {und stammt von dem Spieler
+Xiangzhi Bu. Der Meister Luc Henris lebte in China und publizierte die
+Analysen 2002. Angewendet wurde sie auch von Magnus Carlsen, Vassily Ivanchuk
+und Teimur Radjabov. Schwarz will mit b7-b5 und Sc6-a5-c4 fortsetzen. Wenn
+Weiß den Springer auf c4 schlägt, dann kann Schwarz auf c4 mit dem Bauern
+zurückschlagen und die Turmlinie öffnen. Der Plan ist allerdings etwas
+eindimensional.} 11. Bb3 {Dieser Zug stellt die flexibelste, prinzipiellste
+und beste Fortsetzung dar. Weiß sichert mit diesem Rückzug weiter den
+eigenen Damenflügel ab.} Na5 {[%csl Yb3,Yb5,Yc4][%cal Rd7b5,Rb7b5,Ra5c4,Ra5b3]
+Schwarz bleibt bei dem angesprochenen Plan. Er überdeckt das Feld b5 und
+bereitet die Überführung des Springers nach c4 vor. Der Zug ist besser als
+die Überführung des Springers nach e5, weil ihm dort die Option des
+Schlagens auf b3 fehlte} 12. Bh6 {Das ist die Hauptvariante. Weiß entfernt
+den Drachenläufer und entscheidet erst später, ob er das Spiel in
+positionelle Bahnen leiten wird oder einen direkten Königsangriff startet.}
+Bxh6 {Dieses Standardantwort ist der beliebteste Zug. Die weiße Dame kann
+alleine nicht mattsetzen, also hofft Schwarz darauf, dass sie deplatziert ist}
+13. Qxh6 b5 {Das ist der Schlüsselzug der gesamten Variante.} 14. g4 {Dieser
+Zug sieht so aus als sei er am gefährlichsten für Schwarz. Außerdem punktet
+er am besten}) ({(c) Eine ähnliche Idee verfolgt man mit} 10... Qb8 {Der Zug
+stammt von den sowjetischen Meistern Leonid Sacharovich Stein und Eduard
+Efimovich Gufeld. Schwarz will einen Bauernsturm auf dem Damenflügel
+entfesseln will.} 11. Nd5 $1 {[%csl Yc6,Ye7][%cal Gd5e7,Gd4c6] Das ist sehr
+genauer Zug von Weiß. Er nutzt es aus, dass Schwarz die Deckung von e7
+vernachlässigt, denn der Springer auf c6 kann auch jederzeit abgetauscht
+werden} Nxd5 {Schwarz muss mehr oder weniger tauschen} 12. Bxd5 {Natürlich
+schlägt Weiß nicht mit dem Bauern, wonach der Läufer seine Wirkung verliert}
+Rc8 {Schwarz massiert seine Schwerfiguren auf dem Damenflügel} 13. h4 {Weiß
+macht seinen ursprünglichen Plan weiter.} e6 {Schwarz möchte natürlich den
+aktiven Läufer aus dem Zentrum vertreiben. Aber dieser Zug schwächt seine
+Bauernstruktur} 14. Bxc6 {Eine faszinierender Zug von Peter Leko. Die
+Entscheidung. geht in positionelle Bahnen} bxc6 15. Nb3 $1 {[%csl Yb3,Yd6]
+[%cal Rb8b3,Gd2d6] Der Springer plombiert die b-Linie und mindert den Druck
+auf b2. Gleichzeitig übt Weiß Druck auf der d-Linie und im Zentrum aus}) 11.
+Bb3 {Vorsorglich zieht Weiß seinen Königsläufer zurück.} ({Ein grober
+Fehler wäre es, in dieser Stellung den Läufer nicht zu sichern} 11. h4 $4 {
+Falls Weiß einen sorglosen Zug spielt, dann kann Schwarz mit dem folgenden
+Abzugsangriff Material gewinnen} Nxd4 12. Qxd4 Ng4 {Weiß verliert Material})
+11... Ne5 {[%csl Yb2,Yc4,Yc6][%cal Rc6e5,Re5c4] Das ist die Kernidee des
+gesamten Drachensystems in der modernen Version des Jugoslawischen Angriffs.
+Der Springer steht im Zentrum sehr aktiv und aggressiv. Er wird in vielen
+Fällen über das Zentrum nach c4 gebracht, von wo aus er unangenehmen Druck
+auf die weiße Stellung ausübt. In der Regel tauscht Weiß seinen
+Königsläufer gegen den Springer, da der wirkungslos auf b3 wird} ({Eine
+interessante Idee verfolgt der Figurentausch} 11... Nxd4 12. Bxd4 b5 {Schwarz
+vermeidet die zentralisierende Variante mit Sc6-e5 und wählt einen komplett
+anderen Ansatz. Die Variante wurde von Großmeister Vesselin Topalov
+eingeführt. Schwarz wird seine Damenflügel-Bauern vormarschieren lassen, um
+Gegenspiel zu erzeugen. Diese Idee ist nicht neu, aber wurde immer mit dem
+Damenturm auf a8 verwirklicht. Weiß könnte nämlich einen Bauern stehlen mit
+Ld4xa7, aber dies könnte auch die Linien für die schwarzen Schwerfiguren
+öffnen. Er könnte natürlich mit h2-h4 sehr aggressiv fortsetzen, aber
+Sc3-d5 ist die positionelle Hauptfortsetzung. Weiß hat keine Angst vor
+Figurentäuschen, denn er hat mehr Raum im Zentrum und besitzt immer noch
+Angriffschancen. Schwarz ist dazu verpflichtet, einen Bauern zu opfern, um
+Initiative auf dem Damenflügel zu erlangen.} 13. Nd5 {[%csl Yd4,Yd5][%cal
+Gd5b6,Gd5c7,Gd5e7,Gd5f6,Gd4f6] Diese positionelle Fortsetzung ist die
+Hauptvariante. Weiß begegnet dem schwarzen Flankenangriff mit einem Spiel im
+Zentrum.} Nxd5 14. Bxg7 Kxg7 15. exd5 {[%csl Ye1,Ye7][%cal Gh1e1,Ge1e7] Weiß
+spielt positionell weiter, wonach Schwarz ein Bauernopfer bringen muss. Er
+schlägt mit dem Bauern, da er ein Druckspiel auf der e-Linie starten will.} a5
+16. a3 b4 {Dieses Bauernopfer ist die zentrale Idee der Topalov-Variante.
+Weiß hat Raumvorteil, also muss Schwarz handeln und darf nicht zu passiv
+spielen. Obwohl die Stellung vereinfacht ist, bleibt sie mit den
+entgegesetzten Königen immer noch kompliziert. Schwarz sollte daher ein
+Bauernopfer bringen bevor er eingequetscht wird.} 17. axb4 axb4 {In dieser
+Stellung kann Weiß den Bauern entweder mit der Dame nehmen oder er startet
+mit h2-h4 einen eigenen Angriff und platziert die Dame im Zentrum}) 12. h4 {
+Der h-Bauer wird nach vorne geschickt, um sich auf h5 zu opfern und die
+h-Linie für den Turm aufzureißen. Wenn dort ein schwarzer Springer erscheint,
+dann wird einfach auf h5 die Qualität geopfert} h5 {[%csl Yg4,Yh4][%cal Gg2g4,
+Gh4h5] Dieser Zug bildet den Ausgangspunkt der Soltis-Variante. Es ist ein
+sehr gesundes und ehrgeiziges System für Schwarz und wurde von dem Amerikaner
+Andrew Soltis entwickelt. Garry Kasparov verwendete sie 1995 in der
+Weltmeisterschaft gegen Vishwanatan Anand. Wenn Weiß hier etwas erreichen
+will, muss er mindestens mit g2-g4 einen Bauern opfern. Schwarz kann auf
+materielle Überlegenheit hoffen oder einen Gegenangriff einleiten} ({Die
+Parma-Variante beginnt mit dem Manöver} 12... Nc4 {, was den ursprünglichen
+Plan von Schwarz realisiert. Sie stammt von dem Jugoslawen Bruno Parma aus den
+1960er Jahren und ist heute nicht mehr so beliebt wie früher.} 13. Bxc4 {
+Natürlich tauscht Weiß den gefährlichen Bauern mit dem Königsläufer ab}
+Rxc4 {Der Turm steht hier sehr aktiv und bedroht die beiden weißen Springer
+d4 und c3} 14. h5 {[%csl Yg6,Yh5][%cal Gh5g6] Weiß opfert einen Bauern auf h5,
+um die h-Linie zu öffnen und später den Läufer auf h6 abzutauschen. Dann
+kann die Dame nach h6 gehen, und es muss nur noch der Springer f6 abgetauscht
+werden, um Schwarz auf h7 matt zu setzen} Nxh5 {Schwarz muss den Bauern
+schlagen, denn sonst nimmt Weiß selber auf g6. Schwarz kann den Bauerntausch
+nicht vermeiden} 15. g4 {Den Springer muss Weiß sofort vertreiben, denn er
+plombiert die Angriffslinie} Nf6 16. Kb1 $1 {Jetzt kann Weiß immer Sc3-d5
+spielen, wenn Schwarz Dd8-a5 zieht. Außerdem bewacht der König den Bauern a2}
+) 13. Bg5 $1 {[%csl Yd5,Yf6][%cal Gg5f6,Gc3d5] Die Erfahrung hat gezeigt, dass
+dieser Zug am gefährlichsten für Schwarz ist. Weiß übt zusätzlichen Druck
+auf den Springer f6 aus und droht mit Schlagen und der Besetzung des Feldes d5}
+Rc5 $1 {[%csl Yb4,Yb5,Yb7,Yc5,Yg5][%cal Rc5b5,Rc5g5,Rb7b5,Rb5b4] Diese Idee
+des Niederländers Gennadi Sosonko hat sich seit drei Jahrzehnten als die
+beste schwarze Antwort herausgestellt. Der Turm besetzt ein sehr schönes
+Angriffsfeld auf der fünften Reihe. Er kann sich auch gegen den Läufer auf
+g5 oder einen Springer auf d5 qualitätsopfern. Hinter ihm können die anderen
+schwarzen Schwerfiguren aufgebaut werden. Zudem überdeckt er noch das Feld b5,
+so dass die schwarzen Bauern ungehindert vorrücken können.} 14. Kb1 $1 {Wie
+vorher gesehen ist dieser Zug fast immer nützlich für Weiß. Er festigt
+nicht nur die Defensive, sondern ist auch ein hochklassiger Abwartezug. Nun
+kann Schwarz auf dem Damenflügel aktiv werden oder selbst einen
+prophylaktischen Zug machen.} b5 {Das ist der aggressivste Vorstoß. Schwarz
+vertraut auf seine defensive Formation und startet einen Gegenangriff.} 15. g4
+{Weiß hat keine nützlichen Züge mehr, so dass nun die Zeit zum Handeln
+gekommen ist.} a5 {Dieser Zug ist sehr konsistent und konsequent.} ({Die
+Alternative} 15... hxg4 {gilt als ziemlich riskant, aber das gilt für das
+Drachensystem überhaupt} 16. h5 {Dieser Zug muss immer kommen, wenn Schwarz
+auf g4 schlägt. Weiß muss jetzt um jeden Preis angreifen und dafür
+beträchtliche Opfer bringen} Nxh5 17. Nd5 {[%csl Yd5,Ye7,Yg5][%cal Rd5e7,
+Rg5e7] Bevor Weiß das Opfer auf h5 vollzieht verbessert er die Stellung
+seiner Figuren und greift den Bauern auf e7 an}) 16. gxh5 {Das ist die
+aggressivste und beste Fortsetzung für Weiß. Er muss versuchen, die Stellung
+auf dem Königsflügel zu öffnen} Nxh5 {Dieser Zug scheint heute die
+zuverlässigste Fortsetzung zu sein. Edward Dearing hatte diesen Zug noch
+nicht berücksichtigt. Aber in der Analyse von Yuri Yakovich schneidet dieser
+Zug am besten ab.} ({Der Bauernvorstoß} 16... a4 {ist konsistent, aber jetzt
+kann Weiß seinen h-Bauern sehr gut verwenden.} 17. h6 $1 {Der h-Bauer
+marschiert voran und erzeugt Unruhe im schwarzen Lager} Bh8 18. h7+ $1 {Der
+Bauer opfert sich selbst, um die schwarzen Figuren zu verwirren und
+diskoordinieren} Nxh7) 17. Nd5 {Weiß zentralisiert seinen Springer. Alle
+Leichtfiguren sind jetzt harmonisch platziert und besitzen eine gute
+Koordination} *
+

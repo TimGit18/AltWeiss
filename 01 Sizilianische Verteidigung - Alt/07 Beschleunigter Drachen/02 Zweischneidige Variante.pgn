@@ -1,0 +1,52 @@
+[Event "1.e4 vs The Sicilian II"]
+[Site "?"]
+[Date "2017.03.12"]
+[Round "?"]
+[White "Beschleunigter Drachen"]
+[Black "Zweischneidige Variante"]
+[Result "*"]
+[ECO "B35"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "60"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.03.12"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 {Diese Zugfolge leitet den
+Beschleunigten Drachen ein. Schwarz möchte ein Druckspiel gegen den weißen
+Springer auf d4 einleiten. Weiß kann natürlich mit c2-c4 den Maroczy-Aufbau
+einleiten} 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O {Das ist der Hauptzug} 8. Bb3 {
+Das ist ein ganz wichtiger und notwendiger Zug. Aber er kostet ein Tempo, das
+Schwarz für sich nutzen kann} d6 {Das ist die Hauptfortsetzung, die in eine
+Art Jugoslawischen Angriff führt. Der Hauptunterschied zum Standard-Drachen
+besteht allerdings darin, dass Weiß bereits den Läufer nach b3
+zurückgezogen hat, ohne dass ihn Schwarz mit Ta8-c8 dazu gewzungen hat} 9. f3
+Bd7 10. Qd2 {Wenn sich jetzt beide Seiten normal entwickeln, dann erhält man
+wieder den Standard-Drachen} Nxd4 11. Bxd4 b5 {Das ist die große Idee im
+Beschleunigten Drachen. Schwarz kommt schnell zu b7-b5.} 12. a4 {Jetzt ist das
+optimale Timing für diesen Bauernzug} b4 {Dieser Zug galt lange als
+zweifelhaft, hat aber zuletzt ein Revival erlebt} 13. Nd5 {Weiß zentralisiert
+seinen Springer. Der Nachteil des Zuges ist, dass Schwarz mit einigen langen,
+forcierten Varianten Material vom Brett nehmen kann} Nxd5 14. exd5 {Indem
+Weiß eine Figur auf d4 belässt, verhindert er den Plan mit Dd8-b6. Nachteil
+ist, dass er den König von Schwarz nicht nach außen locken kann} ({Nach} 14.
+Bxg7 Kxg7 15. exd5 Qb6 $1 {wird die schwarze Idee deutlich. Weiß soll zur
+langen Rochade gezwungen werden, wonach Schwarz die Dame nach a5 stellt und
+den a-Bauern abholt. Das ganze Spiel wird sehr forciert und hat viele lange
+Varianten mit Remis-Charakter}) 14... Bxd4 15. Qxd4 Qa5 (15... a5 {ist weniger
+ehrgeizig wegen} 16. h4 e5 17. dxe6 Bxe6 18. O-O-O Bxb3 19. cxb3 {mit einer
+typischen Struktur für diese Variante} Re8 20. Kb1 {[%csl Ya2,Yb1][%cal Gb1a2]
+Weiß erhält ein gutes Endspiel gegen die schwachen Bauern a5 und d6, wohin
+sein König auf a2 einen sicheren Platz findet}) 16. h4 e5 ({(a)} 16... h5 17.
+g4 e5 18. dxe6 Bxe6 19. O-O-O {mit guten Angriffschancen für Weiß}) ({(b)} 
+16... Rfc8 17. h5 Bf5 18. Qd2 gxh5 19. Rxh5 Bg6 20. Rh4 Qb6 {Die Stellung ist
+für Weiß einfacher zu spielen}) 17. dxe6 Bxe6 18. O-O-O Bxb3 19. cxb3 Rfe8
+20. Kb1 {Schon wieder entsteht dieses Endspiel. Die Struktur sollte Weiß
+bevorzugen, aber Schwarz kann etwas Aktivität generieren} Re2 21. Qxd6 Qf5+
+22. Ka2 Rxg2 (22... Qc2 23. Rb1 Qd2 {führt zu einer anderen Struktur, in der
+Schwarz gute Verteidigungschancen hat, aber viele Spieler möchten so eine
+Stellung ungern spielen}) 23. h5 gxh5 ({(a)} 23... a5 24. h6 {wäre sehr
+unangenehm}) ({(b)} 23... Qxf3 24. hxg6 {forciert zu} Rxg6 {, wonach der
+schwarze König sehr geschwächt ist}) 24. Rd5 Qe6 25. Qxe6 fxe6 26. Rb5 Rf8
+27. Rhxh5 Rxf3 28. Rxb4 Rf7 29. Re4 Rff2 30. Rxe6 Rxb2+ {Obwohl das Material
+sehr reduziert ist kann Weiß hier auf Gewinn spielen} *
+

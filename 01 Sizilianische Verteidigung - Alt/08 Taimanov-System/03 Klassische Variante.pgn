@@ -1,0 +1,58 @@
+[Event "Experten vs. Sizilianisch"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Taimanov-System"]
+[Black "Klassische Variante"]
+[Result "*"]
+[ECO "B48"]
+[Annotator "Sune Berg Hansen"]
+[PlyCount "35"]
+[EventDate "2011.10.03"]
+[SourceDate "2011.10.03"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 {Im Taimonov-System stellt Schwarz
+den Springer von Beginn an auf c6, was bedeutet, dass Weiß den Springer auf d4
+entweder durch die Dame d1 oder den Läufer auf e3 gedeckt halten muss} 5. Nc3 {
+Dieser Zug stellt wieder die bevorzugte Aufstellung gegen das Taimanov-System
+dar. Weiß entwickelt einfach seine Figuren und zentralisiert diese.} Qc7 {Das
+beste Feld für die schwarze Dame. Sie kontrolliert das Feld e5 und übt Druck
+auf der c-Linie aus. Sie kann zwar von einem Springer auf b5 angegriffen
+werden, aber dann geht sie einfach nach b8 zurück} 6. Be3 {Weiß stellt jetzt
+einfach seine Leichtfiguren in die Mitte} a6 {Dieser Zug muss früher oder
+später kommen - womit eine Parallelität zum Kan-System erreicht ist.
+Allerdings hat sich Schwarz mit der Springerentwicklung nach c6 schon früh
+festgelegt und Weiß noch nicht den Königsläufer nach d3 entwickelt hat} 7. Bd3
+{Das holt er jetzt nach. Laut Hansen ist dies eines der aggressivsten weißen
+Systeme. Weiß vervollständigt seine Entwicklung und steht zu aktiven
+Handlungen bereit} Nf6 {Auch Schwarz fährt mit seiner Entwicklung fort. Die
+prinzipielle Alternative ist b7-b5} 8. O-O {Weiß bringt seinen König in
+Sicherheit und bereitet die Zentralisierung der Schwerfiguren vor} d6 {Mit
+diesem Zug versucht Schwarz in die Gefilde des Scheveningen-Systems zu kommen}
+9. f4 {Weiß verstärkt die Kontrolle über das Zentrum und droht bisweilen mit
+Öffnung der f-Linie} Be7 {Schwarz entwickelt sich logisch weiter und
+beabsichtigt die kurze Rochade} 10. Qf3 {Weiß verbindet die beiden Türme und
+bringt seine Dame in eine schöne Angriffsposition} O-O {Schwarz bringt seinen
+König in Sicherheit und hofft auf Gegenspiel auf dem Damenflügel} 11. Kh1 {In
+der Praxis wird Schwarz in dieser Stellung oft verlieren, denn Weiß erhält
+eine sehr verheißungsvolle Variante des klassischen Scheveninger Systems. Der
+Läufer steht auf d3 sehr gut und die Dame hat auf f3 bereits eine sehr aktive
+Position bezogen} Bd7 ({(a) Auf} 11... e5 {gefällt} 12. Nde2 {zum Beispiel} Nb4
+13. Rac1 {mit folgendem} -- 14. a3) ({(b)} 11... Re8 12. Rae1 Bf8 13. Qg3 Nb4
+14. e5 Nd7 15. Ne4 Nxd3 16. cxd3 dxe5 17. f5 $1) ({(c)} 11... Nxd4 12. Bxd4 b5
+13. e5 Nd5 14. exd6 Bxd6 15. Nxd5 exd5 16. Qxd5 Be6 17. Qh5 g6 18. Qh6 f5 19.
+Rae1 {und Weiß hat einen gesunden Mehrbauern, den er im Endspiel verwerten kann
+}) 12. Rae1 {Weiß hat jetzt alle seine Figuren zentralisiert} b5 {Schwarz
+beginnt mit seinem Angriff auf dem Damenflügel} (12... Nb4 {ist etwas
+hinterlistig. Weiß kann rasch zum Angriff kommen} 13. Be2 e5 14. fxe5 dxe5 15.
+Qg3 Ne8 16. Nf5 Bxf5 17. exf5 f6 18. Qh4 Nd6 19. Rf3 {und Schwarz hat schon
+sehr große Probleme in der Verteidigung}) 13. Qg3 {Dies ist wiederum ein
+Standard-Angriffszug. Schwarz muss schon sehr aufpassen, und selbst das könnte
+nicht mehr reichen} b4 {Schwarz muss auf dem Damenflügel dagegenhalten} ({Die
+allzu offensichtliche Prophylaxe} 13... Kh8 {scheitert an} 14. Nxc6 Bxc6 15.
+Bd4 b4 16. e5 Ne8 17. Qh3) 14. Nce2 {Der angegriffene Springer wird geschützt
+und auf den Königsflügel gebracht} Kh8 {Jetzt geht der prophylaktische Zug.
+Aber Weiß führt denselben Plan aus} 15. Nxc6 Bxc6 16. Bd4 {Jetzt hat Weiß eine
+schöne Angriffsstellung, zum Beispiel} Rg8 (16... Rad8 17. e5 dxe5 18. Bxe5 Qa5
+19. Nd4 Bd5 20. f5 {mit schönem Angriff}) 17. e5 Ne4 18. Qh3 *
+

@@ -1,0 +1,33 @@
+[Event "Spanisch II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Steinitz-Verteidigung"]
+[Black "Gegenangriff"]
+[Result "*"]
+[ECO "C62"]
+[Annotator "Rolf Schwarz"]
+[PlyCount "25"]
+[EventDate "2012.07.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 {[%cal Rd6e5] Mit diesem Zug entscheidet sich
+Schwarz für ein sehr defensives Konzept. Er stützt den zentralen Bauern e5 und
+verbindet diese Verteidigung mit einem Gegenangriff auf den weißen
+Zentralbauern e4. Dafür erhält er eine feste, aber passive Stellung} 4. d4 {
+[%csl Yd5][%cal Rd4e5,Rd4d5] Der beste weiße Zug erneuert den Angriff auf e5
+und nimmt ein weiteres Zentrumsfeld unter Kontrolle. Es kommt erschwerend
+hinzu, dass mit dem vorhergehenden schwarzen Zug zwar der Bauer e5 gestützt
+wurde, aber sein Damenspringer auch automatisch gefesselt wurde. Weiterhin
+droht jetzt auch der Vorstoß d4-d5, der sehr unangenehm für Schwarz sein kann}
+Bg4 {Der Zug ist zwar schon versucht worden, aber nicht gut. Schwarz ignoriert
+den Angriff auf e5 und greift seinerseits den weißen Springer an} 5. d5 $1 {
+Das ist der beste weiße Zug. Um sofort großen Materialverlust zu vermeiden,
+muss Schwarz erhebliche Zugeständnisse machen} ({Nach dem schwächeren} 5. dxe5
+dxe5 6. Qxd8+ Rxd8 7. Bxc6+ bxc6 8. Be3 f5 9. exf5 Bd6 10. Nbd2 Ne7 {steht
+Schwarz gut wie Duras gegen Marshall in Nürnberg 1906 erfuhr.}) 5... a6 {
+Sonst verliert er den Springer auf c6} 6. Ba4 b5 7. dxc6 bxa4 8. c4 {Schwarz
+verliert ohne Kompensation den Bauern a4. Die berühmte Partie von Reti gegen
+Spielmann ging so weiter} Ne7 9. Qxa4 Bxf3 10. gxf3 Ng6 11. Be3 Be7 12. Nc3 O-O
+13. O-O-O {Weiß hat seine Entwicklungsprobleme beendet und verfügt über
+einen gesunden Mehrbauern.} *
+

@@ -1,0 +1,56 @@
+[Event "Beating Unusual Chess Defences"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Provokationssystem"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "B04"]
+[Annotator "Andrew Greet"]
+[PlyCount "29"]
+[EventDate "2013.07.05"]
+
+1. e4 Nf6 2. e5 Nd5 {Es gibt zu diesem Zug eigentlich keine wirklichen
+Alternativen} 3. d4 d6 {Das ganze schwarze Konzept basiert auf der
+Unterminierung der zentralen weißen Bauern. Ohne diesen Zug kommt Schwarz im
+Grunde nicht aus} 4. Nf3 {Das ist der weiße Hauptzug. Er verteidigt den
+Bauern auf e5 und entwickelt eine Leichtfigur.} dxe5 {Der direkte Abtausch im
+Zentrum ist mehr oder weniger die aktuelle Hauptvariante der
+Alekhine-Verteidigung} 5. Nxe5 {Das ist die Grundstellung des Modernen Systems.
+Schwarz hat jetzt mehrere Möglichkeiten: 1. Die Stützung des Springer mit
+c7-c6 2. Das provokative Sb8-d7 3. Die Fianchetto-Variante mit g7-g6} Nd7 {
+Der Zug ist heute sehr selten geworden, da er eine Menge von theoretischer
+Erinnerung voraussetzt. Schwarz muss mit dem Opfer Se5xf7 rechnen, was
+allerdings heute eher selten geworden ist} 6. Nf3 $1 {Der einfache Rückzug
+sollte zu einem kleinen weißen Vorteil führen und ist die pragmatische Wahl}
+e6 {Das ist der natürliche und beliebteste Zug von Schwarz} 7. c4 {Weiß
+vertreibt den Springer aus dem Zentrum} N5f6 8. Nc3 {Weiß entwickelt seinen
+Damenspringer und kontrolliert die weißen Felder im Zentrum} c5 {Schwarz darf
+die weiße Dominanz im Zentrum nicht zu lange hinnehmen und schlägt gegen das
+Zentrum auf d4 zurück} 9. Be2 {Weiß entwickelt sich ganz ruhig weiter und
+bereitet die kurze Rochade vor} cxd4 {Schwarz zerstört das weiße Zentrum,
+auch wenn er in Kauf nimmt, dass die weißen Figuren dorthin gelangen} 10. Nxd4
+{Hier hat der Springer eine sehr schöne Position und strahlt weit in die
+schwarze Stellung} Be7 {Diese Entwicklungsmethode sind am besten aus} 11. O-O {
+Beide Seiten bringen nun ihren König in Sicherheit} O-O {Die Partei wäre
+hier ausgeglichen, hätte Weiß nicht eine Damenflügelmehrheit von Bauern.
+Zwar hat Schwarz eine Bauernmehrheit im Zentrum, aber der potentiell
+wichtigere e-Bauer kann zur Zeit noch nicht mobilisiert werden.} 12. Be3 {
+Das ist ein weiterer sinnvoller Entwicklungszug für Weiß, der auch schön
+den zentralen Springer im Zentrum überdeckt} a6 {Die schwarze Dame gehört
+nach c7 und soll dort nicht von den weißen Springern belästigt werden} 13.
+Qd2 $1 {Der stärkste Zug, nach dem Weiß einen Vorteil erhält. Er verbindet
+die Türme und stellt die Dame auf ein aktives Feld, wo sie den
+schwarzfeldrigen Läufer unterstützt.} Qc7 {Schwarz muss seinen Figuren in
+das Spiel bringen} ({(a)} 13... Bb4 {sollte mit} 14. Qc2 {beantwortet werden,
+um Sf6-e4 zu verhindern. Danach kann er den Läufer auf b4 mit a2-a3
+vertreiben.}) ({(b)} 13... Ne5 14. Rfd1 Bd7 {und nun hat Weiß die angenehme
+Wahl zwischen Sd4-f3 oder Sd4-b3. In beiden Fällen hat er das leicht bessere
+Spiel und behält ein kleines, aber definitives Plus.} (14... Neg4 {erreicht
+nach} 15. Bg5 {gar nichts.})) 14. Bf4 $5 {Weiß vertreibt die Dame aus der
+aktiven Stellung.} ({Eine gute Alternative ist} 14. Rfd1) 14... Qb6 (14... e5 {
+wird mit} 15. Nf5 {beantwortet}) 15. Nf3 {Weiß plant Tf1-d1 zu spielen und
+später b2-b4, wonach Weiß ein gutes Timing hat. In allen Variante wird klar,
+dass Schwarz seinen zusätzlichen Zentrumsbauern überhaupt nicht nutzen kann.}
+*
+

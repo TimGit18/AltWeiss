@@ -1,0 +1,77 @@
+[Event "French Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Steinitz-System"]
+[Black "Bauernopfervariante"]
+[Result "*"]
+[ECO "C18"]
+[Annotator "Lev Psakhis"]
+[PlyCount "51"]
+[EventDate "2011.10.01"]
+[SourceDate "2011.10.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 {Weiß verteidigt den angegriffenen Bauern e4 und übt
+mit dem Springerzug Druck auf das schwarze Zentrum auf d5 aus} Nf6 {In der
+Klassischen Verteidigung übt Schwarz mit einem gesunden Entwicklungszug erst
+Druck auf den Punkt e4 aus, um die weißen Bauern nach vorne zu locken und sie
+dann später anzugreifen. Dies geschieht im Sinne von Nimzowitsch. Dabei
+spielen vor allem die Bauernhebel c7-c5 und f7-f6 eine entscheidende Rolle} 4.
+e5 {Weiß erobert Raum im Zentrum und treibt den aktiven Springer von f6 auf
+ein defensives Feld} Nfd7 ({Eine schlechte Wahl ist} 4... Ne4 {, denn nach} 5.
+Nxe4 dxe4 6. Bc4 {hat Weiß die Kontrolle im Zentrum übernommen und gute
+Chancen auf Mittelspielinitiative}) 5. f4 {Normalerweise polstert Weiß seinen
+Bauern mit diesem Zug, denn er erwartet den Angriff auf den Bauern d4 mit dem
+Flankenzug c7-c5. Weiß kann diesen Bauern - im Gegensatz zur
+Tarrasch-Verteidigung - nicht mit c2-c3 decken. Daher muss er ihn mit Figuren
+abfedern, was seine Struktur festlegt. In der Hauptvariante wird Schwarz mit
+Dd8-b6 und seinen Leichtfiguren gegen d4 spielen, manchmal auch mit dem
+Bauernsturm a7-a6 und b7-b5. Weiß kann versuchen, in ein besseres Endspiel 
+(mit dem Springer gegen den französischen Läufer) abzutauschen oder einen
+Angriff gegen den kurz rochierten König auf dem Königsflügel lancieren} c5 {
+Schwarz greift sofort mit diesem logischen Bauernzug die Basis des weißen
+Bauernzentrums an} 6. Nf3 {Weiß entwickelt sich weiter und verteidigt den
+Bauern d4} Nc6 {Schwarz übt weiteren Druck auf die weiße Stellung aus und
+zwingt Weiß zu einer Konzession} 7. Be3 {Der weiße Damenläufer ist sicher die
+Problemfigur in der weißen Stellung und nimmt auf e3 erst einmal eine
+defensive Funktion ein. Andererseits greift er auch den Bauern auf c5 an und
+neutralisiert so den Druck auf der neuralgischen Diagonalen a7-g1} cxd4 {Das
+ist jetzt der richitge Zeitpunkt für Schwarz, die Spannung im Zentrum
+aufzulösen. Weiß wird so an der optimalen Koordination seiner Figuren
+gehindert und muss sein Zentrum auflösen} 8. Nxd4 {Obwohl Weiß den starken
+Bauern d4 aufgeben musste, kann sein Springer ein zentrales Feld besetzen und
+in die schwarze Stellung hineinwirken} Qb6 {Dieser Zug stellt eine scharfe,
+interessante und riskante Fortsetzung dar. Schwarz benötigt nicht nur ein
+exzellentes Gedächtnis, sondern auch ein eisernes Nervensystem. Die
+Alternative Lf8-c5 ist viel beliebter} (8... Nxd4 9. Bxd4 Nb8 10. Bd3 Nc6 11.
+Bf2 Be7 12. Qh5 Qa5 13. O-O g6 14. Qh6 Bf8 15. Qh3) 9. Qd2 {Weiß spielt
+praktisch ein Gambit und das gerne.} Qxb2 {Schwarz spielt diese Variante im
+Stile der Najdorf-Verteidigung. Jedenfalls muss er sich jetzt auf einen
+Gegenangriff einlassen} 10. Rb1 {Eigentlich der einzige konsistente Zug} Qa3 {
+Auch hier ist das Feld a3 das einzige Feld, auf das die Dame zurückkann} 11.
+Bb5 $1 {Praktisch ist dies der einzige Zug. Nach anderen Zügen erlahmt die
+Attacke} Nxd4 {Schwarz vermeidet Bauernverlust und versucht den Druck auf
+seine Stellung durch Abtausch zu verringern} (11... Ndb8 12. O-O a6 13. Bxc6+
+bxc6 14. Rb3 Qa5 15. Rxb8 Rxb8 16. Nxc6 Qc7 17. Nxb8 Qxb8 18. f5 Qxe5 19. Bd4
+Qc7 20. Qe3) 12. Bxd4 {Weiß achtet darauf, dass seine Figuren im Zentrum aktiv
+stehen. Natürlich nimmt er mit dem Läufer zurück, weil die Dame auf d2 besser
+steht und nicht angegriffen werden kann} Bb4 {Schwarz muss sich schleunigst
+weiterentwickeln und den Gegendruck aufrechterhalten} 13. O-O {Weiß bringt
+seinen König in Sicherheit und seine letzte Figur in das Spiel. Er hat auf
+jeden Fall mehr Entwicklungsvorsprung} a6 {Schwarz möchte die störenden
+Figuren aus seinem Lager vertreiben und seine eigene Entwicklung beenden} (
+13... O-O 14. Rb3 Qa5 15. Qe3 Nb6 16. Qg3 Nc4 17. f5 Rd8 18. Rf4 Bf8 19. f6 g6
+20. Rh4) 14. Rb3 {Das ist ein schönes Manöver von Weiß. Mit diesem Zwischenzug
+bringt Weiß die schwarze Dame in Bedrängnis} Qa5 {Hier steht die Dame nur
+pseudoaktiv. Weiß verfügt über eine zusätzliche Nuance} 15. Rfb1 {Weiß
+ignoriert die Bedrohung des eigenen Läufers und greift den gegnerischen Läufer
+an} Be7 {Wenn Schwarz den Läufer tauscht gegen den Springer auf c3, dann nimmt
+Weiß mit dem Läufer zurück und greift die schwarze Dame an. Diese kann nicht
+auf b5 nehmen durch die Doppeldeckung des Turms} ({(a)} 15... Qxb5 16. Rxb4 Qc6
+17. f5 h6 18. f6 gxf6 19. exf6 Qd6 20. a4) ({(b)} 15... Ba3 16. f5 axb5 17.
+Rxa3 Qxa3 18. Nxb5 Qxa2 19. Nd6+ Kf8 20. Ra1 Qxa1+ 21. Bxa1 Rxa1+ 22. Kf2 Nxe5
+23. Qc3 Ra8 24. Qxe5 f6 25. Qc3) 16. Bxd7+ {Jetzt, wo der Läufer angegriffen
+ist, muss Weiß tauschen. Dafür erobert er den Bauern d7} Bxd7 17. Rxb7 Rc8 18.
+Qe3 Rc4 (18... Bc5 19. Ne2 Bxd4 20. Nxd4 Qc5 21. f5) 19. f5 exf5 20. Rxd7 Kxd7
+21. Rb7+ Ke8 22. e6 Qd8 23. exf7+ Kxf7 24. Nxd5 Re8 25. Qe5 Rxd4 26. Qxd4 *
+

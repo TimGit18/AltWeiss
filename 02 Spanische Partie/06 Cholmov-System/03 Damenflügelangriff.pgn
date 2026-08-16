@@ -1,0 +1,50 @@
+[Event "The Ruy Lopez Main Line"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Cholmov-System"]
+[Black "Damenflügelangriff"]
+[Result "*"]
+[ECO "C92"]
+[Annotator "Glenn Flear"]
+[PlyCount "40"]
+[EventDate "2011.09.01"]
+[SourceDate "2011.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 {Hiernach entsteht die Spanische Partie. Weiß übt
+sofort Druck auf den Verteidigungsspringer auf c6 auf und damit auch weiteren
+Druck auf den Bauern e5.} a6 {Die Morphy-Verteidigung ist eine der
+flexibelsten und beliebtesten Antworten. Der weiße Damenläufer muss sich
+erklären, ob er abgetauscht werden soll oder zurückgezogen wird} 4. Ba4 {
+Weiß behält vorerst das Läuferpaar und läßt den Druck nicht nach.
+Allerdings hat Schwarz immer wieder einmal die Option, selber b7-b5 zu spielen
+und den weißen Läufer ganz von seinem Verteidigungsspringer zu vertreiben}
+Nf6 {Schwarz leitet ein Gegenspiel gegen den weißen Königsbauern ein und
+entwickelt sich} 5. O-O {Weiß ignoriert die Drohung. Er bietet dem Schwarzen
+an, mit Sf6 x e4 in die Offene Verteidigung überzugehen} Be7 {In der
+Geschlossenen Verteidigung verzichtet Schwarz auf das Schlagen des weißen
+Königsbauern. Er will sich vielmehr in Ruhe entwickeln und sein Zentrum
+verteidigen} 6. Re1 {Weiß deckt den angegriffenen e-Bauern und droht
+seinerseits damit nach Tausch auf c6 den Bauern e5 zu nehmen.} b5 {Dieser Zug
+ist jetzt notwendig. Schwarz schüttelt den lästigen Läufer ab. Außerdem
+gewinnt der Bauernvorstoß Raum auf dem Damenflügel, so dass Weiß praktisch
+nie Sb1-c3 spielen kann. Das Feld b7 kann als Entwicklungsfeld für den oft
+bescheidenen Läufer c8 benutzt werden} 7. Bb3 {Auf diesem Feld besetzt der
+Läufer die schöne Diagonale a2-g8. Er verhindert mit Druck auf d5 den
+typischen schwarzen Befreiungszug mit dem Damenbauern} d6 {Schwarz öffnet die
+Diagonale für den Damenläufer und schützt den Königsbauern. Damit wird der
+Damenspringer von der Deckungsaufgabe befreit und kann zum Manövrieren
+benutzt werden} 8. c3 {Weiß bereitet mit diesem Zug ein starkes Bauernzentrum
+auf d4 vor und schafft ein weiteres Rückzugsfeld für seinen Königsläufer}
+O-O {Schwarz bringt seinen König in Sicherheit und wartet mit dem
+Fesselungszug Lc8-g4 bis Weiß d2-d4 gespielt hat} 9. h3 {Mit diesem
+prophylaktischen Zug verhindert Weiß die ärgerliche Fesselung. Der Bauernzug
+kann sich oft als nützlich erweisen, wenn Weiß einen Angriff auf dem
+Königsflügel entfacht} a5 10. d4 a4 11. Bc2 Bd7 (11... exd4 12. Nxd4 Nxd4 13.
+cxd4 d5 14. e5 Ne4 15. Nd2 Nxd2 16. Bxd2 Be6 17. Bh6 gxh6 18. Qd3 f5 19. exf6
+Rxf6 20. Qxh7+ Kf8 21. Bg6) 12. Nbd2 Re8 13. Nf1 h6 (13... Bf8 14. d5 Na5 15.
+b3 Nxb3 16. axb3 axb3 17. Rxa8 bxc2 18. Rxd8 cxd1=Q 19. Rxe8 Qd3 20. Rd8 h6)
+14. Ng3 Bf8 15. Bd2 Na5 16. b3 axb3 17. axb3 c5 ({(a)} 17... b4 18. cxb4 Nc6
+19. d5) ({(b)} 17... c6 18. Be3 Qc7 19. Nd2 c5 20. d5) 18. d5 Qc7 19. Nh2 c4
+20. b4 Nb7 *
+

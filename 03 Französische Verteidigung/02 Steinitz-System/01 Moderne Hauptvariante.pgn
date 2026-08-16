@@ -1,0 +1,72 @@
+[Event "French Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Steinitz-System"]
+[Black "Moderne Hauptvariante"]
+[Result "*"]
+[ECO "C18"]
+[Annotator "Lev Psakhis"]
+[PlyCount "36"]
+[EventDate "2011.10.01"]
+[SourceDate "2011.10.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 {Weiß verteidigt den angegriffenen Bauern e4 und übt
+mit dem Springerzug Druck auf das schwarze Zentrum auf d5 aus} Nf6 {In der
+Klassischen Verteidigung übt Schwarz mit einem gesunden Entwicklungszug erst
+Druck auf den Punkt e4 aus, um die weißen Bauern nach vorne zu locken und sie
+dann später anzugreifen. Dies geschieht im Sinne von Nimzowitsch. Dabei
+spielen vor allem die Bauernhebel c7-c5 und f7-f6 eine entscheidende Rolle} 4.
+e5 {Weiß erobert Raum im Zentrum und treibt den aktiven Springer von f6 auf
+ein defensives Feld} Nfd7 ({Eine schlechte Wahl ist} 4... Ne4 {, denn nach} 5.
+Nxe4 dxe4 6. Bc4 {hat Weiß die Kontrolle im Zentrum übernommen und gute
+Chancen auf Mittelspielinitiative}) 5. f4 {Normalerweise polstert Weiß seinen
+Bauern mit diesem Zug, denn er erwartet den Angriff auf den Bauern d4 mit dem
+Flankenzug c7-c5. Weiß kann diesen Bauern - im Gegensatz zur
+Tarrasch-Verteidigung - nicht mit c2-c3 decken. Daher muss er ihn mit Figuren
+abfedern, was seine Struktur festlegt. In der Hauptvariante wird Schwarz mit
+Dd8-b6 und seinen Leichtfiguren gegen d4 spielen, manchmal auch mit dem
+Bauernsturm a7-a6 und b7-b5. Weiß kann versuchen, in ein besseres Endspiel 
+(mit dem Springer gegen den französischen Läufer) abzutauschen oder einen
+Angriff gegen den kurz rochierten König auf dem Königsflügel lancieren} c5 {
+Schwarz greift sofort mit diesem logischen Bauernzug die Basis des weißen
+Bauernzentrums an} 6. Nf3 {Weiß entwickelt sich weiter und verteidigt den
+Bauern d4} Nc6 {Schwarz übt weiteren Druck auf die weiße Stellung aus und
+zwingt Weiß zu einer Konzession} 7. Be3 {Der weiße Damenläufer ist sicher die
+Problemfigur in der weißen Stellung und nimmt auf e3 erst einmal eine
+defensive Funktion ein. Andererseits greift er auch den Bauern auf c5 an und
+neutralisiert so den Druck auf der neuralgischen Diagonalen a7-g1} cxd4 {Das
+ist jetzt der richitge Zeitpunkt für Schwarz, die Spannung im Zentrum
+aufzulösen. Weiß wird so an der optimalen Koordination seiner Figuren
+gehindert und muss sein Zentrum auflösen} 8. Nxd4 {Obwohl Weiß den starken
+Bauern d4 aufgeben musste, kann sein Springer ein zentrales Feld besetzen und
+in die schwarze Stellung hineinwirken} Bc5 {Das ist der bei weitem beliebteste
+Zug. Schwarz entwickelt eine Leichtfigur und bereitet die kurze Rochade vor} 9.
+Qd2 {Auch Weiß entwickelt sich logisch weiter und bereitet die lange Rochade
+vor} O-O {Schwarz vollendet vorerst seine Entwicklung auf dem Königsflügel und
+bringt seinen König in Sicherheit} 10. O-O-O {Weiß bringt seinen König auf die
+entgegengesetzte Seite in Sicherheit} a6 {Der Textzug grenzt sehr gut die
+Sphären der gegenseitigen Einflßnahme ab. Weiß wird natürlich auf dem
+Königsflügel angreifen, Schwarz wird Weiß auf dem entgegengesetzten Flügel
+beunruhigen} (10... Bxd4 11. Bxd4 a6 12. Be3 b5 13. Ne2 b4 14. Nd4 Nxd4 15.
+Bxd4 a5 16. g4 Ba6 17. Bg2 Qc7 18. Kb1 Rfc8 19. Rc1 Rab8 20. f5) 11. Qf2 {Das
+ist ein sehr guter Zug. Befor er irgendwelche aktiven Handlungen startet, wird
+Weiß die Spannung im Zentrum auflösen und droht mit Druck gegen c5} Nxd4 {In
+der Praxis tauscht Schwarz auch schon einmal mit dem Läufer auf d4} (11... Bxd4
+12. Bxd4 b5 13. Be3 b4 14. Na4 f6 15. Nb6) 12. Bxd4 {Es ist doch ganz klar,
+dass Weiß den Punkt d4 behaupten kann und darüber hinaus einen starken Druck
+gegen c5 ausübt} Qc7 {Schwarz muss seinen Läufer verteidigen und seine Dame
+entwickeln. Er will nicht einfach den Einfluß auf das Feld d4 verloren geben}
+13. Bd3 {Weiß nutzt seinen Druck, um seine Entwicklung zu vervollstängigen und
+die eigenen Türme zu verbinden} Bxd4 {Schwarz gibt dem weißen Druck nach, um
+seine Figuren etwas zu befreien und wieder beweglich zu machen.} (13... b5 14.
+Qh4 h6 15. Ne2 f6 16. Qg4 Bxd4 17. Nxd4 Nc5 18. Qg6) 14. Qxd4 {Schwarz hat den
+übelsten Druck abgeschüttelt, aber er musste die weißen Figuren auf sehr gute
+Felder lassen, während seine eigene Entwicklung noch gar nicht abgeschlossen
+ist. Das Endspiel oder das weitere Mittelpsiel ist daher sehr vorteilhaft für
+Weiß} Qc5 (14... b5 15. Rhe1 Nc5 16. f5 exf5 17. Nxd5 Nxd3+ 18. Rxd3 Qa5 19. b4
+Qxa2 20. Nf6+ gxf6 21. Rg3+ Kh8 22. Qh4 Qa1+ 23. Kd2 Rd8+ 24. Ke2 Qxe5+ 25. Kf1
+) 15. Ne2 b5 ({(a)} 15... b6 16. Kb1 Bb7 17. c3) ({(b)} 15... Qxd4 16. Nxd4 Nb8
+17. h4 Bd7 18. h5 Nc6 19. Nf3 h6 20. c3) 16. Kb1 b4 17. Rc1 a5 (17... Qxd4 18.
+Nxd4 Nc5 19. Rhd1 f6 20. c3) 18. c3 Qe7 *
+

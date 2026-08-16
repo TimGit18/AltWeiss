@@ -1,0 +1,28 @@
+[Event "The Ruy Lopez Move by Move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Möller-Angriff"]
+[Black "Rückzugsvariante"]
+[Result "*"]
+[ECO "C78"]
+[Annotator "Neil McDonald"]
+[PlyCount "23"]
+[EventDate "2011.08.30"]
+[SourceDate "2011.08.30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 {In der
+Möller-Verteidigung weicht Schwarz den theoretischen Hauptvarianten aus, ohne
+eine schlechte Verteidigung wählen zu müssen. Der Läuferzug auf c5 ist sehr
+aktiv und manchmal wirkt er zusammen mit dem anderen Läufer auf b7 zusammen} 7.
+a4 {Oft ist es für Weiß nützlich, diesen Zwischenzug zu schalten. Schwarz muss
+reagieren, da der a-Bauer gefesselt ist} Rb8 {Würde Schwarz den Damenläufer zu
+früh nach b7 ziehen, so könnte Weiß mit d2-d3 diesen Läufer auf Granit beißen
+lassen} 8. c3 {Weiß bereitet das übliche Zentrum vor. Das geht hier einfacher
+als in anderen Varianten, weil der Läufer auf c5 ein Angriffsobjekt ist. Weiß
+muss allederdings aufpassen, dass d4 nicht zu sehr unter Druck gerät} d6 {
+Schwarz stützt sein Zentrum und öffnet die Diagonale für den Damenläufer} 9. d4
+{Weiß führt konsequent seinen Plan durch zunächst einmal erobert er Raum im
+Zentrum} Ba7 10. axb5 axb5 (10... Rxb5 11. d5 Ne7 12. Ba4) 11. Bd5 Nxd5 12.
+exd5 {und Schwarz verliert eine Figur} *
+

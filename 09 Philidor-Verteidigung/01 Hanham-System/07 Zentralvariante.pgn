@@ -1,0 +1,49 @@
+[Event "1.e4 vs The Philidor"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hanham-System"]
+[Black "Zentralvariante"]
+[Result "*"]
+[ECO "C41"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "25"]
+[EventDate "2017.08.08"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 {Dies ist die übliche Zugumstellung, um in die
+Hanham-Verteidigung zu gelangen. Schwarz vermeidet die Fallstricke der
+Klassischen Philidor-Verteidigung} 4. Nf3 Nbd7 5. Bc4 {Weiß lenkt in das
+Hanham-System ein. Es ist sicherlich das beliebteste und am meisten
+respektierte System der Philidor-Verteidigung. Es ist ein sehr solides System
+und eine praktische Herausforderung für Weiß sind die vielen praktischen
+Möglichkeiten, die Schwarz hat. Daher sollte man eine Zugfolge finden, die
+die schwarzen Möglichkeiten einschränkt.} Be7 {Hiermit lenkt Schwarz in eine
+normale Hanham-Variante der Philidor-Verteidigung ein. Normalerweise folgt die
+kurze Rochade, jedoch gibt es auch eine genauere Fortsetzung.} 6. a4 $1 {
+Die ist eine sehr geschickte Zugumstellung von Weiß, der vor allem gegen
+a7-a6 von Schwarz gerichtet ist. Er möchte Schwarz aus seinem Auto-Piloten
+bringen. Zum einen droht a4-a5-a6 mit Einschnüren von Schwarz auf dem
+Damenflügel, zum anderen wird ein Rückzugsfeld für den Läufer auf c4
+freigemacht.} O-O {Das ist die Hauptvariante.} 7. O-O {[%csl Ya6,Yb5,Yc6][%cal
+Gc7c6,Ga7a6,Rb7b5] Dies ist die traditionelle Tabiya-Stellung des
+Hanham-Systems. Hier teilt sich das Spiel ein weiteres Mal in zwei Systeme.
+Der schwarze Standardplan besteht nun darin, auf dem Damenflügel mit b7-b5 zu
+expandieren. Dies kann er auf zwei Arten vorbereiten.} {Die Alternative} a6 $5
+{hat an Popularität gewonnen.} 8. a5 $5 {Das ist die konsequentesteste
+Antwort. Weiß läßt überhaupt nicht zu, dass Schwarz zu b7-b6 und Lc8-b7
+kommt.} exd4 {Die Zentralvariante ist der eine Hauptzug in dieser Stellung.} 9.
+Qxd4 $1 (9. Nxd4 {scheint natürlicher zu sein auf den ersten Blick, aber in
+diesen Varianten ist der Damenzug gewöhnlich stärker, um Sd7-e5 zu vermeiden.
+Schwarz wird trotzdem oft den Springerzug sowieso spielen (ein Bauernopfer und
+die eigentliche Idee nach h7-h6). Aber hier ist dies nicht gut. Der Damenzug
+erlaubt eine schnelle Entwicklung mit Lf4, Tad1 und so weiter.}) 9... Nc5 ({
+(a) Nach} 9... Ne5 10. Nxe5 dxe5 11. Qxe5 Bd6 12. Qg5 {behält Weiß einfach
+den Mehrbauern. Also ist hier die Idee mit h7-h6 aus der Flankenvariante die
+bessere, um das Feld der Dame wegzunehmen.}) ({(b)} 9... Ng4 {erlaubt} 10. Nd5
+{, wonach Weiß einen bequemen Vorteil erreicht.} Nde5 11. Nxe5 Nxe5 12. Bb3
+Be6 13. Bf4 Ng6 14. Bg3) 10. h3 Be6 {Weiß versucht hier einen bequemen
+Vorteil nachzuweisen.} 11. Be3 h6 ({Oder} 11... Qd7 12. Ng5 Bxc4 13. Qxc4 Ne6
+14. Nxe6 fxe6 15. Rad1 $14) 12. Rad1 Qd7 13. Rfe1 {Vermutlich wird demnächst
+b2-b4 kommen oder vorbereitende Züge wie Lc4-f1. Schwarz hat es schwer,
+Gegenspiel zu entwickeln.} *
+

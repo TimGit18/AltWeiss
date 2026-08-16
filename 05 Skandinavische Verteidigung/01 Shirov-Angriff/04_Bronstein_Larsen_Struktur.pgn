@@ -1,0 +1,76 @@
+[Event "Starting Out: The Scandinavian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Shirov-Angriff"]
+[Black "Bronstein-Larsen-Struktur"]
+[Result "*"]
+[ECO "B01"]
+[Annotator "Jovanka Houska"]
+[PlyCount "29"]
+[EventDate "2010.11.21"]
+[SourceDate "2010.11.21"]
+
+1. e4 d5 2. exd5 Qxd5 {Der Grund für die vorschnelle Entwicklung der Dame
+liegt in der Verhinderung des weißen Idealzentrums e4 und d4. Außerdem kann
+der "skandinavische" Läufer auf c8 sehr gut entwickelt werden} 3. Nc3 {Das ist
+der beste weiße Zug, denn er entwickelt eine Figur unter Tempogewinn} Qa5 {Das
+ist das aktivste Feld für die Dame. Hier kontrolliert sie das Zentrum und kann
+nicht so einfach angegriffen werden.} 4. d4 {Weiß besetzt das Zentrum und
+kontrolliert e5} Nf6 {Dies gilt als der beste schwarze Zug. Schwarz kann auch
+mit c7-c6 den Einfluss auf d5 vergrößern, aber in manchen Varianten soll der
+Damenspringer nach c6 entwickelt werden.} 5. Nf3 {[%csl Re5][%cal Gf3e5]
+Dieser Zug sieht unbedeutend aus, ist er aber nicht. Zunächst legt er die
+weiße Figurenaufstellung fest. Außerdem droht er in vielen aggressiven
+Varianten mit dem Einstieg nach e5, gefolgt von einem Bauernsturm auf dem
+Königsflügel.} c6 {Schwarz schafft ein Rückzugsfeld für die Dame und
+kontrolliert das Feld d5} 6. Bc4 {Weiß kämpft weiter um das Feld d5,
+entwickelt den Läufer und ermöglicht die kurze Rochade. In der Regel rochiert
+Weiß im Skandinavier aber lang} Bf5 {[%csl Yc2,Ye4][%cal Rf5e4,Re4c2] Das Feld
+f5 ist das Idealfeld für den Damenläufer} ({Nach} 6... Ne4 7. Bd2 Nxd2 8. Qxd2
+{hat Schwarz zwar das Läuferpaar erhalten, aber Weiß hat einen riesigen
+Entwicklungsvorsprung. Die schwarzen Läufer haben keine richtigen Ziele. Weiß
+kann lang rochieren und schnell im Zentrum durchbrechen}) 7. Bd2 {Der Läufer
+entfesselt den Springer und "droht" mit Abzug gegen die Dame} e6 {[%csl Yb5,
+Yc4,Yd5][%cal Gd4d5,Rb7b5] Schwarz will seinen Königsläufer entwickeln, kurz
+rochieren und auf dem Damenflügel aktiv werden. Ein Schlüsselmanöver in diesem
+Konzept ist b7-b5 und Sb8-d7-b6 mit Kontrolle der weißen Felder auf dem
+Damenflügel. Weiß dagegen muss versuchen, im Zentrum mit d4-d5 durchzubrechen,
+was Schwarz unter keinen Umständen zulassen sollte. Falls dieser Durchbruch
+nicht gelingt, wird das Spiel sich auf die Flügel verlagern, wobei Weiß eher
+auf dem Königsflügel aktiv sein wird} 8. Nd5 {Seit Alexei Shirov diesen Zug
+1997 gegen Valeri Salov angewendet hatte, wurde er die beliebteste Fortsetzung
+gegen die Klassische Skandinavische Verteidigung und galt bereits fast als
+deren Widerlegung} Qd8 {Schwarz hat kein anderes Rückzugsfeld für die Dame} 9.
+Nxf6+ {Schwarz hat nun die Wahl, ob er seine Bauernstruktur zerstört oder Zeit
+verliert, in dem er seine Dame aus dem Zentrum entfernt} gxf6 {Die
+Bauernstruktur entspricht vollständig der Bronstein-Larsen-Struktur im
+Caro-Kann. Allerdings sind hier schon zusätzliche Züge eingefügt worden. Die
+grundsätzliche Idee für Weiß besteht darin, den Läufer auf f5 zu jagen.} 10.
+Bb3 {Dieser Zug ist eine Empfehlung von Khalifman. Anders als c2-c3 gibt er
+Schwarz keine Möglichkeit, das Feld d3 zu besetzen, schützt aber gleichzeitig
+die Bauern c2 und b2. Nun ist das Springermanöver Sb8-d7-b6 gar nicht mehr so
+effektiv wie früher, und Weiß hat auch noch das Manöver Df3-h3 in der
+Hinterhand. Als Nachteil zeigt sich, dass der weiße Läufer einem möglichen
+Bauernsturm im Weg steht. Daher kommt für Schwarz die lange Rochade erst recht
+in Betracht} Nd7 {Trotzdem entwickelt Schwarz den Springer hierhin, denn es
+handelt sich um das logische Feld für diese Figur.} 11. Qe2 {Weiß entwickelt
+seine Dame auf das gleiche Feld wie in der Caro-Kann-Verteidigung, um e6 und
+die e-Linie in das Aufge zu fassen} Qc7 {Auch Schwarz entwickelt die Dame auf
+das beste Feld und kontrolliert das zentrale Feld e5} (11... a5 12. a4 Be7 13.
+O-O-O Nb6 14. c4 (14. Nh4 Bg6 15. f4 f5 16. g3 Bxh4 17. gxh4 Qxh4 18. d5) 14...
+Nd7 15. Bf4 Qb6 16. Bc2 Bxc2 17. Qxc2 Nf8 18. Kb1) 12. Nh4 {Weiß geht auf die
+Jagd nach dem Skandinavischen Läufer} Bg6 {Nach diesem Rückzug muss Weiß eine
+Entscheidung treffen. Entweder tauscht er auf g5 und festigt damit aber die
+schwarze Bauernstruktur oder aber er zieht den Springer via g2 nach f4 und
+folgt mit h2-h4, um Schwarz zu h7-h5 zu zwingen. Danach bleibt der schwarze
+h-Bauer sehr schwach} 13. O-O-O O-O-O {Beide Seiten rochieren erst einmal und
+bringen ihren König in Sicherheit} 14. g3 {Weiß entscheidet sich für den
+zweiten Plan und versucht die labile schwarze Stellung am Königsflügel
+auszunutzen} Bd6 {Dieser an sich loigsche Entwicklunglungszug ist schon eine
+leichte Konzession, denn der Läufer steht hier etwas deplatziert} ({(a)} 14...
+Kb8 15. Ng2 Nb6 (15... Bd6 16. h4 h5 17. Nf4 Bf5 18. Nxh5 c5 19. g4 Rxh5 20.
+gxf5) 16. Ba5 c5 17. d5 Bh6+ 18. Kb1 exd5 19. Bxb6 Qxb6 20. Bxd5 Rhe8) ({(b)} 
+14... c5 15. Nxg6 hxg6 16. d5 c4 17. Qxc4 Qxc4 18. Bxc4 Nb6 19. Be2 Nxd5 20. h4
+) 15. Rhe1 *
+

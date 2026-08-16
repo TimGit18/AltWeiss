@@ -1,0 +1,31 @@
+[Event "The Philidor Files"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches System"]
+[Black "Philidor-Variante"]
+[Result "*"]
+[ECO "C41"]
+[Annotator "Christian Bauer"]
+[PlyCount "55"]
+[EventDate "2009.??.??"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f5 {Das ist die eigentliche Idee von Philidor.
+Schwarz spielt eine Art Königsgambit, aber der Punkt f7 wird arg geschwächt} 4.
+Nc3 fxe4 {Das führt zu lebhaftem Figurenspiel von Weiß, aber die anderen Z�ge
+sind eigentlich auch nicht besser} ({(a) Nach} 4... Nf6 5. dxe5 Nxe4 6. Nxe4
+fxe4 7. Ng5 d5 8. e6 {[%csl Ye6,Yf7] gerät f7 unter Beschuss}) ({(b)} 4... exd4
+5. Qxd4 fxe4 6. Bg5 Nf6 7. Nxe4 Be7 8. O-O-O O-O 9. Nxf6+ Bxf6 10. Bc4+ Kh8 11.
+Bxf6 Qxf6 12. Qxf6 gxf6 13. Nd4 Bd7 14. Rhe1 Nc6 15. Nxc6 Bxc6 16. Re7 Bxg2 17.
+Rg1 d5 18. Bd3 Be4 19. Bxe4 dxe4 20. Rgg7 Rfe8 21. Rxh7+ Kg8 22. Reg7+ Kf8 23.
+Rxc7 {und Weiß hat ein gewonnenes Endspiel}) 5. Nxe4 d5 ({Nach} 5... Nf6 6.
+Nxf6+ Qxf6 7. dxe5 dxe5 8. Bg5 Qd6 9. Bc4 {hat Weiß einen großen
+Entwicklungsvorsprung}) 6. Neg5 h6 ({Nach} 6... e4 7. Ne5 Nh6 8. Nxh7 {wird
+wieder die Schwachstelle f7 ausgenutzt}) 7. Nf7 Kxf7 8. Nxe5+ Ke6 9. Qg4+ Ke7
+10. Ng6+ Ke8 11. Qe2+ Ne7 12. Nxh8 Bf5 13. g4 Be4 14. f3 Bh7 15. g5 hxg5 16.
+Bh3 Nbc6 17. c3 Qd6 18. Qe6 Qxe6+ 19. Bxe6 Nd8 20. Bg4 g6 {Schwarz kann jetzt
+endlich den weißen Springer einsammeln, aber...} 21. h4 Bg7 22. hxg5 Bg8 23.
+Bf4 c5 24. dxc5 d4 25. cxd4 Bxd4 26. O-O-O Bxc5 27. Rhe1 Kf8 28. Bd6 {und Weiß
+gewinnt. Es scheint, dass nach 200 Jahren die interessante Idee von Philidor 
+(Flankenangriff auf das weiße Zentrum) seinen Höhepunkt überschritten hat} *
+

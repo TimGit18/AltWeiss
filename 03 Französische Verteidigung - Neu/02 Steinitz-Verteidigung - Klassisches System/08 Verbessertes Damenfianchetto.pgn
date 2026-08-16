@@ -1,0 +1,64 @@
+[Event "1.e4 vs. The French"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches Steinitz-System"]
+[Black "Verbessertes Damenfianchetto"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "49"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 {
+Dies ist die Ausgangslage des Klassischen Steinitz-Systems. Der Läuferzug
+wirkt zwar sehr bescheiden, ist aber völlig logisch} 8. Qd2 O-O {Die kurze
+Rochade stellt die Hauptfortsetzung dar} 9. dxc5 {Das Zurücknehmen mit dem
+Springer} Nxc5 {ist weniger beliebt als das Nehmen mit dem Läufer, aber nicht
+unlogisch. Der Springer wird auf ein aktives Feld gebracht und der Läufer
+nicht noch ein zweites Mal bewegt. Andererseits ist der Nachteil, dass der
+Springer auch mit Dd2-f2 ein zweites Mal angegriffen werden kann. Außerdem
+übt der Springer weniger Druck auf das weiße Zentrum aus als es ein Läufer
+auf c5 macht. Vermutlich macht der Zug viel mehr Sinn in der Variante, in der
+Schwarz die Rochade verzögert und früher a7-a6 spielt} 10. O-O-O {Schwarz
+hat in dieser Stellung mehrere Optionen.} {Das verbesserte Damenfianchetto
+wird durch} Qc7 {eingeleitet. Manche Spieler wollen später b7-b6 spielen,
+aber Lf1-b5 aus der Stellung nehmen, indem er den Springer auf c6 deckt.} 11.
+Kb1 b6 ({Die Hauptalternative lautet} 11... a6 12. Qf2 b6 {Hier lauert eine
+vielversprechende Idee:} 13. Qg3 {Indem Weiß den Bauern e5 mehrfach
+überdeckt, erzeugt er die primitive Drohung f4-f5. Abhängig von der
+schwarzen Antwort kann er auch einen zusätzlichen Zug wie Lf1-d3 zur
+Vorbereitung spielen.} f5 {Der Textzug ist der direkteste Verhinderungszug, um
+die weiße Idee zu stoppen, aber Weiß kann seinen Plan anpassen.} (13... Kh8 {
+stoppt hingegen nicht f4-f5}) (13... f6 14. f5 Nxe5 15. fxe6 Bxe6 16. Nxd5 Bxd5
+17. Rxd5 {mit Vorteil für Weiß.}) (13... Ne4 14. Nxe4 dxe4 15. Nd2 Bb7 16. c3
+Rfd8 17. Be2 b5 18. Qf2 {ist unangenehm für Schwarz und letztendlich wird der
+Bauer e4 fallen.}) 14. Qh3 {Der Vorstoß g2-g4 wird nun zur neuen Realität.}
+Ne4 (14... Bb7 15. Rg1) 15. Ne2 {[%csl Yd4,Yg4][%cal Ge2d4,Gg2g4,Gh1g1] Weiß
+plant Se2-d4, g2-g4 und Th1-g1 und so weiter mit einem machtfvollen Angriff.})
+12. Qe1 $1 {[%csl Yh4][%cal Ge1h4] Weiß stellt die Dame nicht nach f2, um
+Züge wie Sc5-e4 auszuschließen. Aber sie bleibt auf derselben Diagonalen
+e1-h4. Damit wird er die Dame auf den Königsflügel bugsieren können.} Bb7 (
+12... a6 {transponiert nach} 13. Qg3 {zur oben genannten Variante.}) 13. f5 $1
+{Dies ist ein sehr ehrgeiziger Zug, der aber gerechtfertigt scheint, wie die
+nachfolgenden Varianten zeigen.} Nxe5 (13... Ne4 14. f6 $1 gxf6 15. Nxe4 dxe4
+16. Bh6 {mit Materialgewinn für Weiß.}) 14. Qg3 Bd6 (14... f6 15. fxe6 Nxe6
+16. Nxe5 fxe5 17. Nxd5 Bxd5 18. Rxd5 {mit weißem Vorteil.}) 15. Nb5 Ne4 {
+Diese Stellung ist äußerst kompliziert, aber Weiß hat eine starke Idee.} 16.
+Qh3 Qe7 17. Nxd6 Qxd6 18. f6 gxf6 {Die beiden Alternativen führen ebenso zu
+scharfem Spiel.} ({(a)} 18... Nxf6 19. Bf4 Nfd7 20. Bd3 h6 21. Nxe5 Nxe5 22. g4
+f6 23. Rhe1 {Trotz seiner zwei Minusbauern hat Weiß eine starke Initiative.
+Die Drohung von g4-g5 bedeutet, dass Schwarz mindestens einen Bauern
+zurückgeben muss wie etwa} Qe7 24. Bxe5 fxe5 25. Rxe5) ({(b) Auf den ersten
+Blick sieht} 18... Nxf3 19. fxg7 {schlecht für Schwarz aus, aber er kann mit}
+Nfd2+ {die g-Linie geschlossen halten.} 20. Rxd2 Rfe8 21. Bd3 {Weiß hat hier
+gute Chancen.} Nxd2+ 22. Bxd2 f5 23. g4 {und er hat einen gefährlichen
+Angriff für die Qualität.}) 19. Bd3 $1 {Das ist eine wunderbare Idee, die
+nicht nur den Läufer mobilisiert, sondern ebenso den Bauern c2 wie in der
+folgenden Variante zu sehen ist.} Nxd3 20. cxd3 Nc5 21. Qh6 $1 {Der Läufer
+hier gewinnt die Qualität, jedoch ist der Textzug stärker.} Qe7 22. g4 $1 {
+Es droht g4-g5 und Le3-d4.} d4 {Das ist der einzige Zug.} ({Denn} 22... e5 23.
+Nh4 {ist schmerzhaft.}) 23. Bxd4 e5 24. Bxc5 Qxc5 25. Nh4 {Schwarz bleibt
+unter Druck. Auch wenn er sich korrekt gegen den weißen Angriff verteidigt,
+so erhält Weiß zumindest materielles Gleichgewicht und ein positionelles
+Plus.} *
+

@@ -1,0 +1,24 @@
+[Event "1.e4 vs The Sicilian II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sizilianische Verteidigung"]
+[Black "Beschleunigter Drachen"]
+[Result "*"]
+[ECO "B35"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "23"]
+[EventDate "2017.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 {Diese Zugfolge leitet den
+Beschleunigten Drachen ein. Schwarz möchte ein Druckspiel gegen den weißen
+Springer auf d4 einleiten. Weiß kann natürlich mit c2-c4 den Maroczy-Aufbau
+einleiten} 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O {Das ist der Hauptzug} 8. Bb3 {
+Das ist ein ganz wichtiger und notwendiger Zug. Aber er kostet ein Tempo, das
+Schwarz für sich nutzen kann} d6 {Das ist die Hauptfortsetzung, die in eine
+Art Jugoslawischen Angriff führt. Der Hauptunterschied zum Standard-Drachen
+besteht allerdings darin, dass Weiß bereits den Läufer nach b3
+zurückgezogen hat, ohne dass ihn Schwarz mit Ta8-c8 dazu gewzungen hat} 9. f3
+{Der Springerausfall} Na5 {soll den Läufer auf b3 abtauschen} 10. Qd2 Bd7 11.
+g4 Nxb3 12. cxb3 *
+

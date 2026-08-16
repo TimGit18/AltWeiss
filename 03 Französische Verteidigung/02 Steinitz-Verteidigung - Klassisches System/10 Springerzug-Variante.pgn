@@ -1,0 +1,45 @@
+[Event "1.e4 vs. The French"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches Steinitz-System"]
+[Black "Springerzug-Variante"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "41"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 {
+Dies ist die Ausgangslage des Klassischen Steinitz-Systems. Der Läuferzug
+wirkt zwar sehr bescheiden, ist aber völlig logisch} 8. Qd2 O-O {Die kurze
+Rochade stellt die Hauptfortsetzung dar} 9. dxc5 {Das Zurücknehmen mit dem
+Springer} Nxc5 {ist weniger beliebt als das Nehmen mit dem Läufer, aber nicht
+unlogisch. Der Springer wird auf ein aktives Feld gebracht und der Läufer
+nicht noch ein zweites Mal bewegt. Andererseits ist der Nachteil, dass der
+Springer auch mit Dd2-f2 ein zweites Mal angegriffen werden kann. Außerdem
+übt der Springer weniger Druck auf das weiße Zentrum aus als es ein Läufer
+auf c5 macht. Vermutlich macht der Zug viel mehr Sinn in der Variante, in der
+Schwarz die Rochade verzögert und früher a7-a6 spielt} 10. O-O-O {Schwarz
+hat in dieser Stellung mehrere Optionen} a6 {Dieser Zug ähnelt dem aus der
+Variante mit vorgezogenem a7-a6, macht aber hier nicht mehr soviel Sinn} 11.
+Qf2 Qa5 12. Kb1 {Wichtig bleibt die Feststellung, dass Schwarz nicht b7-b5
+spielen kann und damit sein Gegenspiel gehemmt ist} Bd7 13. f5 $1 {
+Erstaunlicherweise funktioniert dieser Zug hier gut. Üblicherweise spielen
+hier die Weißen h2-h4.} d4 $5 {Schwarz kann hier noch versuchen, die
+Angelegenheit hier vernünftigerweise zu verkomplizieren. Es führte schon zu
+schwarzem Erfolg, aber das weiße Spiel kann verbessert werden.} ({(a)} 13...
+Rfc8 $2 {übersieht die Bedrohung von} 14. f6 Bf8 15. fxg7 Be7 16. Bg5 Ne4 17.
+Nxe4 dxe4 18. Bxe7 exf3 19. Rxd7 Nxe7 20. Bd3 Rc7 21. Rxe7 {mit weißem Gewinn
+in Sethuraman,S-Markidis,K Korinthia 2012.}) ({(b)} 13... f6 14. exf6 Rxf6 15.
+fxe6 Bxe6 16. Nxd5 Bxd5 17. Rxd5 Nb4 18. Bc4 Nxd5 19. Bxd5+ Ne6 20. c4 Kh8 21.
+Qc2 {Weiß hat genug Kompensation für die Qualität dank seines fantastischen
+Läufers auf d5.}) ({(c)} 13... exf5 {führt zu forcierten Vereinfachungen nach
+} 14. Rxd5 Ne4 15. Rxa5 Nxf2 16. Rd5 Nxh1 17. Rxd7 {mit weißem Vorteil. Der
+Springer auf h1 ist eingesperrt. Weiß hat das bessere Endspiel mit zwei
+Leichtfiguren gegen den Turm.}) 14. Nxd4 Nxe5 15. Qg3 Bf6 16. Bf4 Nc6 17. Bc7
+$1 b6 18. fxe6 $1 {Das ist die angesprochene Verbesserung.} Bxd4 ({(a)} 18...
+Nxd4 19. exd7 Nxd7 20. Bd3 {ist hervorragend für Weiß.}) ({(b) Auch nach} 
+18... fxe6 19. Nb3 Nxb3 20. axb3 Be8 21. Qd6 {hat Weiß einen klaren Vorteil.})
+19. exd7 Nxd7 20. Bc4 Rac8 21. Nd5 {Die Stellung bleibt scharf, aber die
+weißen aktiven Figuren sichern ihm Vorteil.} *
+

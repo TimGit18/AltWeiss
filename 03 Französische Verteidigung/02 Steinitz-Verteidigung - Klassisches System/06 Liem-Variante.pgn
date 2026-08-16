@@ -1,0 +1,32 @@
+[Event "1.e4 vs. The French"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches Steinitz-System"]
+[Black "Liem-Variante"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "37"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 {
+Dies ist die Ausgangslage des Klassischen Steinitz-Systems. Der Läuferzug
+wirkt zwar sehr bescheiden, ist aber völlig logisch} 8. Qd2 O-O {Die kurze
+Rochade stellt die Hauptfortsetzung dar} 9. dxc5 Bxc5 {Das Zurücknehmen mit
+dem Läufer ist die beliebteste Art des Nehmens} 10. O-O-O {Von Le Quang Liem
+stammt die Variante} Qb6 {, die einige Aufmerksamkeit verdient. Weiß muss
+versuchen Komplikationen zu vermeiden und ein beispielhaft vorteilhaftes
+Endpiel erreichen} 11. Nd4 $1 Nxd4 {Schwarz hat außer dem Figurentausch
+eigentlich keine anderen logischen Züge} 12. Bxd4 Bxd4 13. Qxd4 Qxd4 14. Rxd4
+{Diese Stellung ähnelt der Endspiel-Stellung aus dem Modernen Steinitz-System.
+In der Position hat Schwarz wenig eigene Ideen, aber die Bewertung der
+Stellung bleibt dieselbe. Weiß hat die besseren Möglichkeiten, ohne eigene
+große Risiken einzugehen} a6 {Das ist die Hauptvariante. Schwarz beabsichtigt
+b7-b6 und Ta7-c7.} ({(a)} 14... Nc5 {platziert den Springer auf einem
+schlechten Feld.} 15. g3 Bd7 16. b4 Na6 17. Bxa6 bxa6 18. Ne4 Rfc8 19. Nd6 Rc7
+20. Kd2 {Weiß hat ein bequemes Plus in Shyam,N-Das,S New Delhi 2013.}) ({(b)} 
+14... f6 {verursacht bei Schwarz nur noch mehr Schwächen nach} 15. exf6 Nxf6
+16. g3) 15. h4 b6 16. h5 h6 17. b3 Ra7 18. Kb2 Rc7 19. a4 $5 {Der Punkt bei
+diesem Zug ist, dass der Vorstoß b7-b5 verhindert wird, wohingegen der Bauer
+auf a6 ein Ziel bleibt.} *
+

@@ -1,0 +1,61 @@
+[Event "Experten vs. Sizilianisch"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kan-System"]
+[Black "Königsläufer-Variante"]
+[Result "*"]
+[ECO "B43"]
+[Annotator "Sune Berg Hansen"]
+[PlyCount "35"]
+[EventDate "2011.10.03"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 {Dieser Zug leitet das Kan-System ein,
+das durch große Flexibilität gekennzeichnet ist. Es ist mit dem
+Taimonov-System verwandt. Anstatt das System zu widerlegen, sollte Weiß nach
+Varianten suchen, die eine fundierte positionelle Grundlage haben, aber
+darüber hinaus auch aktiv und aggressiv sind. Man darf Schwarz nur nicht
+erlauben, in eine gute Scheveningen-Stellung per Zugumstellung zu gelangen} 5.
+Nc3 {Die von Hansen empfohlene Aufstellung beinhaltet eine schnelle
+Figurenentwicklung, verbunden mit einem eventuellen Angriff im Zentrum oder
+auf dem Königsflügel} b5 {Typischerweise beginnt Schwarz sofort mit dem
+Angriff der Flügelbauern. Der Vormarsch des b-Bauern schafft die Möglichkeit
+b5-b4, was den schwarzen Einfluss im Zentrum erhöht. Der Nachteil für
+Schwarz besteht darin, dass die Bauernphalanx a6-b5 sich nach einem
+wohldosierten c2-c4 oder a2-a4 als Schwäche erweisen könnte. Der
+Nachziehende macht nur Bauernzüge, so dass Weiß Entwicklungsvorsprung
+erhält und trotz der soliden schwarzen Stellung gute Angriffschancen bekommt.
+Seit 2000 ist das Abspiel sehr populär} 6. Bd3 {Weiß entwickelt seinen
+Läufer auf das beste Feld und verteidigt auch noch den Bauern e4 gegen ein
+Vorrücken b5-b4 und den Angriffszug Lc8-b7} Bc5 {Dieser Zug ist ein anderer
+Versuch, Stellungen mit einem auf b3 stehenden weißen Springer zu erreichen}
+7. Nb3 {Weiß schützt den Springer, indem er ihn zurückzieht und den
+schwarzen Läufer angreift} Be7 {Schwarz hätte auch direkt nach e7 gehen
+können, hat aber vorher die Stellung des weißen Springers verschlechtert} 8.
+Qg4 {Weiß nutzt die frühe Entwicklung des Königsläufers aus und bedroht
+den Bauern g7} g6 {Schwarz schützt den Bauewrn, schwächt aber auch seinen
+Bauernstruktur} (8... Nf6 {wurde ursprünglich von Hansen verworfen} 9. Qg3 {
+sollte auf lange Sicht dem Anziehenden leichten Vorteil versprechen} Bb7 10. e5
+Nh5 11. Qh3 g6 12. O-O Qc7 13. f4 d6 14. exd6 Bxd6 15. f5 exf5 16. Re1+) 9. Qe2
+{Die weiße Dame zieht sich auf das Idealfeld zurück. Im Vergleich zu anderen
+Varianten hat Schwarz zu früh b7-b5 gespielt} d6 {Schwarz überdeckt seine
+schwachen schwarzen Felder} 10. O-O {Weiß bringt seinen König in Sicherheit
+und bereitet den Schwenk des Turms auf die e-Linie vor} b4 {Das ist ein
+seltsamer Zug, aber Weiß wollte diesen Bauern ohnehin mit a2-a4 zum Vormarsch
+bewegen (wie üblich)} 11. Nd1 {Der Springer soll über e3 wieder in das
+Zentrum} ({Der Rückzug} 11. Nb1 {ist ebenfalls interessant}) 11... Bb7 {
+Schwarz versucht im Zentrum gegenzuhalten und seine Figuren zu entwickeln} 12.
+a3 {Dieser Zug ist eine andere Möglichkeit, den schwarzen Damenflügel zu
+attackieren} Nc6 {Schwarz entwickelt eine weitere Figur auf dem Damenflügel
+und verteidigt seinen vorgerückten Bauern b4} ({Das direkte Schlagen} 12...
+bxa3 13. Rxa3 {ist etwas besser für Weiß}) 13. Bd2 {Weiß entwickelt sich
+weiter und greift den Bauern auf b4 ein weiteres Mal an} bxa3 {Schwarz kann
+den Bauern nicht mehr richtig gut halten} ({Denn} 13... a5 {wird mit} 14. Bb5 {
+beantwortet}) 14. Rxa3 {Gemäß Riblis Einschätzung im CBM steht Weiß nun
+deutlich besser} Qc8 {Schwarz deckt den Bauern auf a6} 15. Ne3 {Der Springer
+wird von der Grundreihe wieder in das Spiel gebracht} Nf6 {Auch Schwarz
+beendet seine Entwicklung fast und übt Druck auf das Zentrum aus} 16. Nc4 {
+Dieser Springer sorgt für Unruhe auf dem Damenflügel} Qc7 17. Nca5 {Dieses
+Manöver ist sehr hübsch und stammt von Ponomariov} Ne5 18. Nxb7 {Den Läufer
+wird Schwarz schmerzlich vermissen} *
+

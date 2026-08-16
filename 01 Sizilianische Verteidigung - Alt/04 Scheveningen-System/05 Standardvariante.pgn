@@ -1,0 +1,74 @@
+[Event "Experten vs. Sizilianisch"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Scheveningen-System"]
+[Black "Standardvariante"]
+[Result "*"]
+[ECO "B81"]
+[Annotator "Viktor Gavrikov"]
+[PlyCount "39"]
+[EventDate "2013.01.04"]
+[SourceDate "2013.01.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 {In dieser Stellung
+wurde dieser Zug von Paul Keres gegen Efim Bogoljubov 1943 in die
+Turnierpraxis eingeführt. Die Idee ist offensichtlich g4-g5 zu spielen und
+damit sowohl Raum gewinnen und Angriffschancen am Königsflügel schaffen.
+Schwarz hat mehrere Optionen. Er kann sich normal entwickeln oder dem Angriff
+entgegentreten. Der offensichtliche Zug dazu ist} a6 {Ein Standardzug im
+Sizilianer. Schwarz bereitet b7-b5 vor und plant Gegenspiel am Damenflügel} 7.
+g5 {Immer dann, wenn der weiße Vorstoß nicht mechanisch aufgehalten wird,
+sollte Weiß diesen Vorstoß auch spielen} Nfd7 {Das einzige Rückzugsfeld für
+den Springer} 8. h4 {[%csl Yg3,Yh1,Yh2,Yh3][%cal Rh1h3,Rh3g3] Weiß deckt
+prophylaktisch den g-Bauern und erobert Raum auf dem Königsflügel für seine
+Bauern. Außerdem schafft der Zug Raum für den Turm auf dem Königsflügel} b5 {
+Schwarz muss jetzt energisch auf dem Damenflügel vorgehen, um zu vermeiden,
+dass er auf dem Königsflügel zusammengeschoben wird} ({Falls Schwarz} 8... Qc7
+9. h5 b5 10. a3 Bb7 {spielt, kann Weiß} 11. Rh3 {antworten mit der Idee} -- 12.
+g6 hxg6 13. hxg6) 9. a3 {Weiß stoppt mechanisch den Vormarsch des b-Bauern.
+Der Springer auf c3 hat auch kein gutes Ausweichfeld} Bb7 {Hier steht der
+Läufer ideal, denn er macht Druck auf der langen Diagonale} ({Nach} 9... Nb6
+10. h5 {hat Schwarz mehrere Möglichkeiten, die alle nicht zum Ausgleich reichen
+} Be7 11. Rg1 g6 12. Be3 {mit der Drohung} -- 13. Ndxb5 axb5 14. Qd4 {[%csl
+Rb6,Rc5,Rd4,Re5,Rf6,Rg7,Rh8]}) 10. Be3 {Das ist ein sehr gutes Feld für den
+Läufer. Weiß entwickelt sich und überdeckt seinen Springer im Zentrum} Nc6 {
+Dieser Zug stellt die Hauptfortsetzung dar. Schwarz hat aber auch noch einige
+andere wichtige Möglichkeiten} ({(a)} 10... Nb6 11. h5 N8d7 12. g6 $1 {Die
+stärkste Fortsetzung. Diese ausgefallene Idee stammt von Adams} hxg6 13. hxg6
+Rxh1 14. gxf7+ Kxf7 15. Qf3+ Qf6 16. Qxh1 Nc5 17. Qh5+ g6 18. Qg4 {Schwarz
+fällt es schwer, irgendetwas gegen thematische O-O-O und Sf3 zu unternehmen}) (
+{(b)} 10... Nc5 11. Qg4 $5 Nbd7 {Das ist am präzisesten} 12. h5 Ne5 13. Qg2 Nc4
+14. Bxc4 bxc4 15. O-O-O Rb8 16. Nde2 {Jetzt kann Dd8-b6 mit Sc3-a4 beantwortet
+werden} Qa5 17. g6 {mit starker Initiative für Weiß. Es kann folgen} Be7 18.
+gxf7+ Kxf7 19. Qf3+ Bf6 20. Rxd6 {und Weiß hat klaren Vorteil}) ({(c)} 10...
+Be7 11. Qd2 Nc6 12. O-O-O O-O 13. Kb1 Rb8 14. f4 Re8 15. g6 hxg6 16. h5 Nxd4
+17. Bxd4 {Hier hat Weiß gute Angriffschancen}) 11. h5 {Weiß setzt seinen
+Angriff unbeirrt fort} Nxd4 {Schwarz versucht durch Abtausch dem Angriff
+einige Ressourcen zu entziehen und demaskiert den Läufer auf b7} ({(a)} 11...
+Be7 12. Rg1 g6 13. Rh1 Rf8 14. f4 Nxd4 15. Qxd4 e5 16. Qd2 exf4 17. Bxf4 Nc5
+18. O-O-O Nxe4 19. Nxe4 Bxe4 20. Bg2 Bxg2 21. Qxg2 Rc8 22. Rhe1 {mit
+entscheidenden Drohungen für Weiß}) ({(b)} 11... Rc8 12. Rh3 Nxd4 13. Qxd4 Ne5
+14. O-O-O Nc4 15. g6 hxg6 16. hxg6 Rxh3 17. Bxh3 Nxe3 18. Qxe3 {mit
+gefährlicher Initiative}) 12. Qxd4 {Weiß zentralisiert die Dame} Ne5 {Schwarz
+droht mit einer gefährlichen Gabel auf f3. Dies ist ein Standardmotiv im
+Keres-Angriff, da der g-Bauer schon vorgerückt ist} 13. O-O-O {Weiß vermeidet
+die Springergabel und bringt seinen König in Sicherheit} Nc6 {Der Springer
+soll unter Tempogewinn auf den Damenflügel manövriert werden} 14. Qd2 {Weiß
+muss den Druck auf der d-Linie unbedingt aufrechterhalten} Rc8 {Schwarz hält
+die Rochade auf den Königsflügel zurück und versucht statt dessen einen
+Damenflügel-Angriff aufzuziehen} 15. Rh3 {Eine weitere typische Idee in der
+Stellung: Weiß beabsichtigt g5-g6} b4 {Schwarz will Linien auf dem Damenflügel
+öffnen} 16. axb4 {Weiß hat keine andere Wahl als zu schlagen} Nxb4 {Jetzt kann
+Schwarz versuchen, auf der c-Linie Druck zu machen} 17. Kb1 {Weiß geht dem
+Druck auf der c-Linie aus dem Weg und überdeckt noch einmal das Feld a2} Qa5 {
+Die schwarze Dame schaut auf die leicht beschädigte Königsstellung von Weiß}
+18. f3 {Weiß sichert den starken Zentralbauern auf e4} Be7 {Schwarz entwickelt
+seine letzte Figur} (18... d5 {sieht nach} 19. g6 {riskant aus für Schwarz,
+zum Beispiel} e5 20. exd5 Bxd5 21. Bb6 Qxb6 22. Nxd5 Qc6 23. Bc4 {mit der
+Drohung Springer b6}) 19. g6 hxg6 (19... O-O {ist ein schwer verständlicher
+Entschluß, der Weiß dabei hilft, seinen Angriff gegen den schwarzen König in
+Szene zu setzen} 20. Rg3 {ist eine wichtige Ressource, denn Schwarz muss sich
+mit dem Manöver Lf1-h3 auseinander setzen} Bf6 21. Bd4 e5 22. gxh7+ Kxh7 23.
+Be3 {Weiß hat guten Angriff}) 20. h6 {Danach hat Weiß geringen Vorteil} *
+

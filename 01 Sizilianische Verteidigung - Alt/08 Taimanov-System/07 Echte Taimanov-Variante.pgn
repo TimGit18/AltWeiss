@@ -1,0 +1,42 @@
+[Event "Experten vs. Sizilianisch"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Taimanov-System"]
+[Black "Echte Taimanov-Variante"]
+[Result "*"]
+[ECO "B46"]
+[Annotator "Sune Berg Hansen"]
+[PlyCount "23"]
+[EventDate "2011.10.03"]
+[SourceDate "2011.10.03"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 {Im Taimonov-System stellt Schwarz
+den Springer von Beginn an auf c6, was bedeutet, dass Weiß den Springer auf d4
+entweder durch die Dame d1 oder den Läufer auf e3 gedeckt halten muss} 5. Nc3 {
+Dieser Zug stellt wieder die bevorzugte Aufstellung gegen das Taimanov-System
+dar. Weiß entwickelt einfach seine Figuren und zentralisiert diese.} a6 {
+Eigentlich führt dieser Zug zu Zugumstellung, aber es kann sich auch eine
+eigene Entwicklung ergeben} 6. Be3 {Weiß versucht mit diesem Zug, in die
+gewohnten Fahrwasser des Taimanov-Systems zu gelangen} Nge7 {Schwarz vermeidet
+die Varianten des Scheveninger Systems und versucht statt dessen, gegen die
+schwarzen Felder zu arbeiten. Aber dies läuft in eine starke Antwort nach} 7.
+Nb3 {Dieser Zug sieht erst einmal etwas seltsam aus, da man sonst als Weißer
+versucht, diesen Zug zu vermeiden. In dieser Stellung hat Schwarz aber einen
+Entwicklungsstau, einer der beiden schwarzen Springer ist überflüssig} Ng6 {
+Das ist die Hauptfortsetzung. Schwarz will auf dem Feld e5 operieren} ({(a)} 
+7... d6 8. f4 b5 9. Qf3 Na5 10. Nxa5 Qxa5 11. Bd3 Nc6 {und Weiß steht besser})
+({(b)} 7... Na5 8. Na4 {und} -- 9. Bb6 {wird etwas gewinnen}) ({(c)} 7... b5 {
+und jetzt ist} 8. a4 {sehr unangenehm, zum Beispiel} b4 9. a5 d6 10. Na4 Bb7
+11. Nb6 Rb8 12. f4 Qc7 13. Bc4 Rd8 14. Qe2) 8. f4 {Weiß nimmt sofort das Feld
+e5 unter Kontrolle} d6 {Schwarz muss im Zentrum dagegenhalten} (8... Rb8 9. g3
+Be7 10. h4 O-O 11. h5 {Der Vormarsch des h-Bauern ist immer ein Problem für
+Schwarz in diesem Abspiel} Nh8 12. Qd2 f6 13. O-O-O) 9. g3 {Dieser Zug wird
+gespielt mit der Absicht h2-h4-h5} Be7 {Schwarz will sich normal
+weiterentwickeln, aber dieser Zug ist sehr langsam} (9... b5 10. h4 Be7 11. h5
+Nf8 12. Qd2 Bb7 13. O-O-O Rc8 14. Bh3 Na5 15. Bd4 b4 16. Nd5 {und Weiß ist im
+Angriff}) 10. h4 {Weiß geht unverzüglich zum Angriff über} O-O {Auch die
+Rochade sieht hier nicht günstig aus, denn Schwarz rochiert in den Angriff} 11.
+h5 {Natürlich läßt sich Weiß diese Gelegenheit nicht entgehen} Nh8 {Hier steht
+der Springer wirklich sehr traurig} 12. a4 {Jetzt kontrolliert Weiß das ganze
+Brett und hat gewaltigen Vorteil} *[Event "Experten vs. Sizilianisch"]

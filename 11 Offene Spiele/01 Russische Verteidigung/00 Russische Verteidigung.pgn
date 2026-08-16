@@ -1,0 +1,74 @@
+[Event "Starting Out 1.e4"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Offene Spiele"]
+[Black "Russische Verteidigung"]
+[Result "*"]
+[ECO "C42"]
+[Annotator "Neil McDonald"]
+[PlyCount "20"]
+[EventDate "2009.??.??"]
+
+1. e4 e5 2. Nf3 Nf6 {[%csl Ye4][%cal Rf6e4,Gf3e5] In der Russischen
+Verteidigung entgegnet Schwarz dem Angriff auf den Bauern e5 mit einem
+Gegenangriff auf den Bauern e4. Das Konzept ist sehr solide, verspricht aber
+wenig Gewinnchancen für Schwarz} 3. Nxe5 d6 ({Manche Schwarzspieler versuchen
+mit} 3... Nxe4 {eine Falle zu stellen} 4. Qe2 Qe7 5. Qxe4 d6 6. d4 {, aber nach
+} dxe5 7. dxe5 Nc6 8. Bb5 {steht Weiß besser}) 4. Nf3 Nxe4 {Diese Züge
+bilden die Hauptfortsetzung. Jetzt kann sich Weiß entscheiden, wie er weiter
+vorgeht} 5. Nc3 {Damit leitet Weiß den sogenannten Nimzowitsch-Angriff ein.
+Weiß beschleunigt die Entwicklung und bereitet eine Rochade auf dem
+Damenflügel vor} Nxc3 {Das ist der beste und solideste Zug in dieser Stellung.
+Für den Doppelbauern erhält Weiß offene Linien und leichte Entwicklung} ({
+(a) Schwächer ist die Gambit-Fortsetzung} 5... d5 {Nach} 6. Qe2 {kann Schwarz
+den Springer nicht mit der Dame decken, weil ja dann der Bauer auf d5 hängt.
+Also muss Schwarz einen Bauern opfern} Be7 7. Nxe4 dxe4 8. Qxe4 {Weiß hat
+jetzt einen Bauern mehr und die Dame im Zentrum. Er muss sich aber schnell
+weiterentwickeln und seinen König in Sicherheit bringen}) ({(b) Auch die
+Rückzugsvariante mit} 5... Nf6 {verspricht keinen vollen Ausgleich} 6. d4 Be7
+7. Bd3 O-O 8. h3 {Weiß hat mehr Raum im Zentrum und seine Figuren stehen
+etwas harmonischer, aber der Vorteil ist nicht sehr groß}) 6. dxc3 {Die Art
+des Zurückschlagens definiert die Struktur der Stellung. Diese Struktur
+erlaubt die Entwicklung des Läufers nach e3, der Dame nach d2 und der langen
+Rochade. Dies geschieht um den Preis der Aufgabe des Bauernzentrums d4, statt
+dessen wird eine beschleunigte Entwicklung bevorzugt} Be7 {Das ist der
+absolute Hauptzug in dieser Stellung. Schwarz entwickelt sich, bereitet die
+kurze Rochade vor und verschließt die e-Linie} 7. Be3 {[%csl Ya7,Yd4,Yg7]
+[%cal Re3d4,Rd4g7,Rd4a7] Dieser Zug ist ein normaler, zur Zeit auch ein etwas
+umstrittener Entwicklungszug. Der Läufer wird auf seiner maximalen
+Wirkungsdiagonalen entwickelt, um den Damenflügel anzugreifen (falls Schwarz
+lang rochiert) und das Zentrum d4 zu besetzen und den Königsflügel
+anzuvisieren. Aber es ist auch möglich, den Läufer gut nach f4 zu entwickeln,
+um die Springerentwicklung via c6 und e5 zu erschweren} Nc6 {[%csl Yd7,Ye6]
+[%cal Gc8e6,Gd8d7] Dieser Zug ist die Moderne Interpretation des
+Nimzowitsch-Angriffs aus schwarzer Sicht. Schwarz möchte lang rochieren und
+entwickelt daher den Springer auf das Feld c6, um die weiße Diagonale c8 bis
+h3 freizulassen. Dann kann er den Damenläufer nach e6 bringen und die
+schwarze Dame nach d7} ({(a) Die Klassische Variante des Nimzowitsch-Angriffs
+wird mit} 7... Nd7 {eingeleitet} 8. Qd2 {Weiß entwickelt sich plangemäß
+weiter} Ne5 {Natürlich nutzt es Schwarz aus, dass Weiß das Feld e5 nur
+einmal überdeckt hat. Er würde es gerne sehen, wenn Weiß auf e5 nehme und
+dann die Damen tauscht} 9. O-O-O {[%csl Ye2,Ye6,Yf8,Yg8][%cal Gc8e6,Ge8g8,
+Gh8f8] Einfach nach vorne gerichtet, stark und einfach zu merken. Ein
+möglicher Plan ist es hier, die Königsflügel-Bauern nach vorne marschieren
+zu lassen, insbesondere wenn Schwarz O-O und Lc8-e6 spielt} O-O {Die Rochade
+sieht zwar aus als rochiere Schwarz in einen möglichen Angriff hinein, aber
+dieser Zug gilt tatsächlich als bester.} 10. h4 $1 {Das ist in dieser
+Stellung die beste Fortsetzung für Weiß} c5 11. Kb1) ({(b) Eine
+zweischneidige Variante beginnt mit} 7... O-O 8. Qd2 Nc6 9. O-O-O Ne5 $1 {
+Durch Zugumstellung erhalten wir wieder die Stellung des Klassischen Angriffs.}
+10. h4 {Eine gute Erwiderung ist} c6) 8. Qd2 {Weiß führt seinen
+ursprünglichen Plan fort und bereitet die lange Rochade vor} Be6 {Das ist die
+logische Replik auf die weißen Pläne. Schwarz visiert den Bauern a2 an, den
+er nach der Rochade aber nicht so einfach nehmen kann} 9. O-O-O {Weiß
+rochiert in jedem Fall. Würde Schwarz mit dem Läufer auf a2 nehmen, dann
+kann Weiß ihn mit b2-b3 und Kc1-b2 einfangen} Qd7 {Auch Schwarz bereitet die
+lange Rochade vor. Er hat es erfolgreich geschafft, die Konfrontation zu
+vermeiden} 10. h4 $1 {Das ist ein starker Zug für Weiß. Er bereitet den
+Springerausfall Sf3-g5 vor, um den starken Läufer auf e6 abzutauschen. Dies
+muss Schwarz verhindern} h6 {Dieser Zug ist die stärkste und beliebteste
+Antwort von Schwarz. Er verhindert den Springerausfall nach g5 und beschützt
+den Damenläufer. Diese Stellung kann als das Tabiya des Nimzowitsch-Angriffs
+angesehen werden} *
+

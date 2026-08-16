@@ -1,0 +1,75 @@
+[Event "1.e4 vs. The French"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches Steinitz-System"]
+[Black "Rochadeverzicht"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "39"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 {
+Dies ist die Ausgangslage des Klassischen Steinitz-Systems. Der Läuferzug
+wirkt zwar sehr bescheiden, ist aber völlig logisch} 8. Qd2 {Der
+Rochadeverzicht mit} a6 {führt in ein interessantes System, was auch von
+Nakamura gespielt wurde. Schwarz antizipiert den Abtausch auf c5, was Weiß
+immer nach der Rochade spielt. Er hofft darauf, den Zug a7-a6 zu rechtfertigen,
+der manchmal nützlicher als die Rochade ist.} 9. dxc5 {Weiß sollte diese
+Idee auch hier verfolgen wie auch in den Varianten nach der schwarzen Rochade.}
+Nxc5 {Wenn Schwarz mit dem Läufer nimmt, dann sind die Vorteile von a7-a6
+nicht ersichtlich. Der Zug macht dann weniger Sinn als die kurze Rochade, so
+dass die Hauptunterschiede erst nach dem Springerzug sichtbar sind.} 10. O-O-O
+{Weiß sollte auch hier wieder die prinzipiellen Züge spielen. Er hat auch
+andere Züge ausprobiert, die aber alle eine Konzession darstellten.} Qa5 $1 {
+[%csl Ya2,Yc5,Ye4,Yf2][%cal Rd2f2,Rf2c5,Ra5a2] Dies ist die große Idee von
+Schwarz. Im Unterschied zu den Varianten mit der kurzen Rochade kann Schwarz
+hier den Plan mit der Dame auf a5 und dem Bauernvorstoß b7-b5-b4 durchführen.
+Weiß kann hier nicht einfach Dd2-f2 spielen, weil nach dem Springertausch auf
+e4 der Bauer auf a2 hängt} ({(a) transponiert in die Springerzug-Variante.} 
+10... O-O) ({(b)} 10... b5 {ist weniger genau, denn jetzt Weiß seine Idee
+ausführen.} 11. Qf2 $1 {Der Springer kann auf c5 nicht mehr gehalten werden.}
+Nd7 (11... b4 12. Nxd5 {gewinnt für Weiß einen Bauern.}) 12. Qg3 g6 13. h4 h5
+14. Ng5 Nf8 15. Qf2 {Weiß erhält eine ideale Stellung in Pritchett,C-Kchouk,
+B Skopje 1972.}) 11. Kb1 {Dieser Zug ist notwendig, um den Bauern auf a2 zu
+sichern} ({Nach} 11. Qf2 $6 Ne4 12. Nxe4 dxe4 {[%csl Ya2][%cal Ra5a2] hängt
+der Bauer auf a2.}) 11... b5 {Diese Stellung wurde schon öfter erreicht.
+Weiß hat hier schon verschiedene Züge ausprobiert. Hier folgt Negi einer
+Analyse.} 12. Ne2 {Dieser Zug ist der einfachste und logischste Zug in dieser
+Stellung. Weiß kann auch die Königsflügelbauern nach vorne schicken, aber
+das kann auch warten. Der Springer-Rückzug ist dahingegen flexibler.
+Abhängig von der schwarzen Antwort kann Weiß entscheiden, ob er mit g2-g4
+oder h2-h4 antworten will.} b4 {Das ist die Hauptfortsetzung und diejenige,
+die am meisten mit dem schwarzen Spiel konsistent ist.} ({(a) Möglich ist auch
+} 12... Qxd2 {, aber Weiß braucht sich über das Endspiel nicht zu bewchweren.
+} 13. Rxd2 Bb7 (13... f6 {wird beantwortet mit} 14. Ned4 {und Weiß erhält
+sein Zentrum.}) 14. Ned4 Nxd4 15. Nxd4 O-O 16. Bd3 {Weiß hat einen typischen
+Vorteil in einer solchen Stellung und kann versuchen, auf dem Königsflügel
+vorzugehen.}) ({(b) Der Rückzuug nach c7 ist hier eher sinnlos und gibt Weiß
+eine zusätzliche Option.} 12... Qc7 13. Ng3 Bb7 ({(b1)} 13... g6 14. h4 h5 15.
+Ng5 Bb7 16. c3 {erlaubt Weiß eine angenehme Stellung, denn der schwarze
+König kann nirgendwo hin.}) ({(b2)} 13... O-O {Weiß kann hier mit einer
+überraschenden Idee aufwarten:} 14. Bxc5 Bxc5 15. Bd3 {Weiß nutzt seine
+beweglichen Springer und die Langsamkeit des schwarzen Königsflügels, um
+einen Königsflügel-Angriff zu entfesseln.} Be7 (15... h6 16. Nh5 {mit
+nachfolgendem g4-g5, nach dem die schwarze Stellung unhaltbar wird.}) 16. h4 {
+Weiß droht bereits mit Ld3xh7+, aber er kann auch Sg3-h5 spielen, bevor er
+seine Dame auf den Königsflügel bringt. Der Angriff ist extrem gefährlich.})
+14. Qf2 {Weiß nützt die wackelige Stellung des Springers aus, um einen Zug
+zu gewinnen.} Nd7 (14... Ne4 15. Nxe4 dxe4 16. Bb6 Qc8 17. Nd2 {mit weißem
+Vorteil.}) 15. f5 {Die weiße Initiative ist offensichtlich, zum Beispiel}
+Ndxe5 16. Nxe5 Nxe5 17. fxe6 fxe6 18. Nh5 {mit Druck.}) 13. Ned4 {Es ist am
+logischsten, den Springer auf sein bestes Feld zu spielen.} Ne4 ({Würde
+Schwarz den Zug verzögern zugunsten} 13... Nxd4 14. Bxd4 {so könnte die
+weiße Dame auf ein aktiveres Feld gehen und g2-g4 und f4-f5 folgen lassen.}
+Rb8 15. Qe3 {Weiß steht besser. Nach} Na4 {kann Weiß mit} 16. Nd2 {die
+schwarze Attacke abwehren.}) 14. Qe1 Nxd4 15. Bxd4 $1 {Das Zurückschlagen mit
+dem Läufer hat einige Vorteile. Der Springer auf f3 ist ausgezeichnet
+platziert, um einen Vorstoß auf dem Königsflügel zu unterstützen. Der
+Vorstoß g2-g4 und f4-f5 ist durchführbar, da der Bauer auf e5 gut geschützt
+ist.} O-O (15... Rb8 16. Nd2 $1 {verhindert das Springerschach auf c3 und nach}
+Nxd2+ 17. Qxd2 {hat Weiß den einfachen Plan g2-g4 und f4-f5.}) 16. Bd3 Qc7 {
+Die Dame zieht sich für den a-Bauern zurück.} (16... Bb7 17. g4 Qc7 18. f5 {
+sieht für Weiß vielversprechend aus.}) 17. h4 a5 18. Ng5 Bb7 19. Nxe4 dxe4
+20. Bxe4 {Schwarz hat einen Bauern weniger ohne ausreichende Kompensation.} *
+

@@ -1,0 +1,190 @@
+[Event "Starting Out: Sicilian Sveshnikov"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sizilianische Verteidigung"]
+[Black "Sveshnikov-System"]
+[Result "*"]
+[ECO "B33"]
+[Annotator "John Cox"]
+[PlyCount "29"]
+[SourceDate "2014.06.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 {[%csl Yd5,Yf5] Dieser
+Zug ist ein sehr moderner und aggressiver Weg, gegen das weiße Zentrum und
+die dominante Stellung des Springers d4 vorzugehen. Anstatt einen
+zurückhaltenden Zug wie e7-e6 oder d7-d6 zu spielen, schickt Schwarz seinen
+Königsbauern nach vorn. Dieser Bauernzug erobert Raum im Zentrum und
+vertreibt den Springer von d4. Als Nachteil dieses Zuges kann die Schwächung
+der Felder d5 und f5 angesehen werden, wobei die Schwächung von d5 die
+gravierendere ist. Schwarz vertraut bei dieser Art von Gegenspiel auf seine
+Figurenentwicklung und das dynamische Zentrum, das er in der Folge erhält.
+Das Konzept stammt von dem früheren Weltmeister Emanuel Lasker (1868-1941),
+der es im Weltmeisterschaftskampf gegen Carl Schlechter anwandte. Später
+wurde es von den argentinischen Meistern Jorge Pelikan (1906-1984) und Herman
+Pilnik (1914-1981) verwendet. Seinen Durchbruch erlebte das System aber erst
+ab 1975 durch die Arbeiten von Evgeny Sveshnikov und Gregory Timoschenko, die
+in Chelyabinsk ab 1967 das System erforschten.} 6. Ndb5 {[%csl Yd5,Yd6][%cal
+Rc3d5,Rb5d6] Das ist der beste Zug für Weiß. Er übt direkt Druck auf die
+schwarze Stellung aus, indem er seinen angegriffenen Springer auf ein
+aggressives Feld zieht. In dieser Stellung kontrolliert Weiß die beiden
+Schlüsselfelder d5 und d6 und verhindert, dass Schwarz seine Stellung
+unmittelbar befreien kann. Er droht sofort damit, mit dem Springer auf d6
+einzusteigen. Es gibt keinen besseren Zug für Weiß, denn andere
+Springerzüge erlauben einen Gegenangriff für Schwarz.} d6 {Das ist der
+Hauptzug für Schwarz. Er verhindert, dass Weiß auf d6 einen Springer
+platzieren kann und befestigt den Zentralbauern e5. Allerdings verzichtet
+damit Schwarz zunächst auf den Befreiungszug d7-d5 und sperrt den eigenen
+Königsläufer hinter der schwarzfeldrigen Bauernkette ein. Positiv kann
+Schwarz für sich verbuchen, dass der weiße Springer auf b5 auch kaum noch
+Felder findet und sich an den Brettrand zurückziehen muss.} ({(a) Der Zug} 
+6... a6 $2 {ist ein naiver Versuch von Schwarz, den Springer zu vertreiben und
+läßt die Bedrohung des Feldes d6 völlig außer acht. Nach} 7. Nd6+ Bxd6 8.
+Qxd6 {hat Weiß einen strukturellen Vorteil, denn er besitzt das Läuferpaar.
+Vor allem wird der schwarzfeldrige Läufer für Schwarz fehlen.}) ({(b) Auch
+nicht besser ist} 6... h6 $6 {Schwarz versucht zwar mit diesem Zug zwar auch
+um das Feld d5 zu kämpfen. Aber der Zug vernachlässigt auch die Kontrolle
+des Feldes d6, so dass Weiß mit seinem Springer dort einsteigen kann.} 7. Nd6+
+Bxd6 8. Qxd6 {führt zu einer ähnlichen Stellung wie in der vorhergehenden
+Variante. Schwarz muss schon einige Konzessionen eingehen, um die dominanten
+weißen Figuren einzudämmen. Zum Beispiel steht Weiß nach} Qe7 9. Qxe7+ Kxe7
+10. Be3 {sehr aktiv}) ({(c) Der aggressive Zug} 6... Bb4 {wird so ähnlich wie
+in dem Sizilianischen Vierspringerspiel beantwortet mit} 7. a3 Bxc3+ 8. Nxc3 {
+Weiß hat das Läuferpaar gewonnen und kontrolliert das Feld d5}) 7. Bg5 {
+[%csl Yd5,Rd8,Re7,Rf6][%cal Rc3d5] Dieser aggressive Entwicklungszug von Weiß
+ist sehr logisch. Er fesselt den schwarzen Springer auf f6 an die schwarze
+Dame und stellt damit die Kontrolle über das Feld d5 wieder her. Er wird
+versuchen mit seiner Figurendominanz weitere Schwächen (außer derjenigen auf
+d5) in der schwarzen Stellung zu schaffen.} a6 {Schwarz vertreibt den
+lästigen Springer und bereitet einen Gegenangriff auf dem Damenflügel vor.
+Er muss bereits jetzt aufpassen und sehr präzise spielen.} ({Eine grobe
+Ungenauigkeit stellt} 7... Be7 {dar. Nach} 8. Bxf6 {muss Schwarz schon mit
+seinem g-Bauern schlagen, denn sonst würde er nach} Bxf6 9. Nxd6+ {seinen
+wichtigen Damenbauern und das Rochaderecht verlieren}) 8. Na3 {Der Rückzug
+des Springers rettet zwar die Figur, aber der Springer steht auf a3 sehr
+schlecht. Weiß wird Zeit und Mühe brauchen, denn Springer wieder auf ein
+aktives Feld zu führen.} b5 {Der Textzug ist pointiert. Entscheidend ist,
+dass der schwarze Vorstoß am Damenflügel verhindert, dass der weiße
+Springer auf dem schlechten Feld a3 wieder über c4 in das Spiel gebracht wird.
+Sofort droht übrigens auch b5-b4 und die schlechte Stellung der weißen
+Springer wird offensichtlich. Dafür hat Schwarz eine zunehmend anrüchige
+Bauernstruktur, denn der Textzug schwächt natürlich auch schwarze Felder auf
+dem Damenflügel. Diese Stellung kann als die Grundstellung des
+Sveshnikov-Systems in seiner Modernen Fassung angesehen werden.} ({(a) Früher
+- vor 1970 - wurde dieses System folgendermaßen gespielt} 8... Be6 {Das ist
+die Larsen-Pilnik-Variante. Schwarz versucht die Kontrolle über das Feld d5
+wieder zu erlangen. Aber dieser Entwicklungszug ist allem Anschein noch viel
+zu langsam. Allerdings vermeidet dieser Zug auch die entscheidenden Schwächen
+der schwarzen Bauernstruktur.} 9. Nc4 {Schon steht der Springer besser. Jetzt
+kann er nach e3 zurück, ohne den Umweg über c2 zu nehmen. Schwarz sollte den
+Springer nicht nehmen, weil Weiß dann ewige Kontrolle über das Feld d5
+erhält.} Rc8 {Dieser Zug von Larsen hat die Variante im Jahre 1963
+wiederbelebt. Die Stellung erinnert etwas an die klassische Najdorf-Variante}
+10. Nd5 {Weiß besetzt sofort das thematische Feld d5 und droht mit einem
+unangenehmen Einstieg auf b6}) ({(b) Relativ absurd ist} 8... d5 9. Nxd5 Bxa3
+10. bxa3 Qa5+ 11. Bd2 Qd8 {und Weiß hat das Läuferpaar in einer relativ
+offenen Stellung}) 9. Bxf6 {Weiß muss eine Entscheidung treffen. Mit diesem
+Zug erringt er die Kontrolle über das Feld d5. Außerdem zerstört er damit
+die schwarze Bauernstruktur auf dem Königsflügel und schwächt die Felder
+rund um den König. Dagegen kann Schwarz mit seinem Läufer auf g7 den Schutz
+der geschwächten Felder übernehmen. Die Hauptalternative für Weiß ist der
+Zug Sc3-d5, aber danach kann Schwarz durch Figurenabtausch einigen Druck von
+der Stellung nehmen.} gxf6 {Der Doppelbauer auf der f-Linie ist nicht so
+schwach wie er aussieht. Der Bauer wird sofort dazu eingesetzt, das weiße
+Zentrum mit dem Bauern e4 anzugreifen. Das schwarze Läuferpaar kann eine
+große Dynamik entfalten} ({Das klassische Zurückschlagen mit der Dame ist
+ein Tempoverlust} 9... Qxf6 10. Nd5 {[%csl Rc7,Rf6] Auf dieses Feld wollte der
+weiße Springer ohnehin. Jetzt kann er es unter Tempogewinn besetzen} Qd8 {Die
+schwarze Dame muss zurückweichen und das Feld c7 bewachen. Im Vergleich mit
+der Variante nach 9.Sc3-d5 hat Schwarz durch sein schlechtes Wiedernehmen auf
+f6 ein Tempo verloren} 11. c3 {Der schlechte weiße Randspringer soll über c2
+und e3 wieder in das Spiel gebracht werden} Be7 {Schwarz will einfach seine
+Figuren entwickeln und vor allem seinen schlechten schwarzen Läufer über g5
+in das Spiel bringen} 12. Nc2 {Der Springer verläßt seine schlechte Position
+und zieht zum Zentrum}) 10. Nd5 {Der Springer hat einen schönen Stützpunkt
+und verhindert b5-b4. Der einzige andere Zug, der die Gabel verhindert, ist
+der Rückzug eines Springers auf die Grundreihe, der natürlich vermieden
+werden soll.} f5 {Das ist der schwarze Hauptzug und bildet die sogenannte
+Chelyabinsk-Variante. Schwarz beginnt den Kampf um die Rückeroberung des
+Zentrums. Der aggressive Zug des f-Bauern trifft den weißen Bauern e4, der
+Weiß die langfristige Kontrolle über d5 erlaubt} ({Die Novosibirsk-Variante
+beginnt mit dem Entwicklungszug} 10... Bg7 {Die Idee ist es, den Springer c6
+nach e7 zurückzuziehen ohne den f-Bauern zu verlieren. Anders als in der
+Chelyabinsk-Variante greift also Schwarz nicht direkt das weiße Zentrum an}
+11. Bd3 {Das ist der Hauptzug. Weiß bereitet die kurze Rochade vor und
+verhindert den Befreiungszug f6-f5. Dafür steht der Läufer auf d3 nicht
+besonders gut, allerdings kann er auch nicht direkt angegriffen werden. Er
+sollte daher mit c2-c3 gesichert werden und nach c2 zurück beordert werden}
+Ne7 {Schwarz führt seinen ursprünglichen Plan aus. Er will unbedingt den
+dominanten Springer auf d5 loswerden} 12. Nxe7 {Wie üblich muss Weiß den
+Abtausch vorantreiben. Würde er Schwarz erlauben auf d5 zu tauschen, so
+könnte dieser eine schwere Bauernlawine im Zentrum mit f6-f5 und e5-e4
+lostreten} Qxe7 {Die Dame steht hier nicht so schlecht im Zentrum, denn sie
+kann nicht angegriffen werden} 13. O-O {\/Weiß hält an seinem
+ursprünglichen Plan fest und rochiert zunächst einmal kurz} O-O {Auch
+Schwarz sollte zunächst einmal daran gehen zu rochieren, bevor er beginnt,
+das Zentrum zu öffnen. Weiß muss jetzt aufpassen, dass er nicht überrollt
+wird} 14. c3 {[%csl Ra3][%cal Ga3c2] Als erster Schritt wird zuerst die
+schlechteste Figur in das Spiel gebracht, nämlich den weißen Springer auf
+dem Randfeld a3} f5 {Schwarz muss jetzt den thematischen Zug ausführen, um
+den Damenläufer zu aktivieren und seine schwache Bauernstruktur loszuwerden.
+Weiß kann diesen Bauern überhaupt nicht schlagen, denn dann würde Schwarz
+e5-e4 spielen und im nächsten Schritt Lc8xf5-g6. Dann hätte er mit dem
+Läuferpaar und dem mobilen Bauernzentrum beste Aussichten} 15. Nc2 {Weiß
+bringt hiermit seinen Damenspringer wieder in das Spiel und er erlaubt auch
+taktische Motive}) 11. Bd3 {Weiß aktiviert sofort seinen Königsläufer und
+greift den Bauern f5 an. Außerdem bereitet er die kurze Rochade vor. An
+dieser Stelle sollten einige positionelle Überlegungen in die Zugwahl
+einfließen. Die schlechteste weiße Figur ist der Springer a3 am linken
+Brettrand, die via c2 wieder in das Spiel gebracht werden sollte. Dafür
+eignet sich der Zug c2-c3, der auch das Feld d4 unter seine Kontrolle nimmt.
+In diesem Fall würde Schwarz wahrscheinlich eher mit dem thematischen
+Gegenzug Lf8-g7 antworten, da er jetzt keinen Gegendruck gegen d5 aufbauen
+muss (der Bauer auf f5 hängt ja dann nicht mehr). Ebenfalls möglich ist der
+Zug c2-c4, der auch noch den Vorteil hat, den geschwächten schwarzen
+Damenflügel anzugreifen. Allerdings kann Schwarz immer mit b5-b4 und a6-a5
+eine halbe Blockade auf dem Damenflügel aufbauen.} Be6 {Schwarz greift im
+Gegensatz zu Weiß den im Zentrum dominanten Springer an, so dass Weiß
+überhaupt nicht auf f5 nehmen kann. Die Idee ist nicht unbedingt den Springer
+zu nehmen, sondern die Wirkung des weißen Läufers einzugrenzen.} 12. O-O {
+Dieser natürliche Zug kann als die Hauptfortsetzung betrachtet werden. Weiß
+setzt konsequent seine Entwicklung fort und bringt den König aus dem Zentrum.
+Er muss bloß aufpassen, dass Schwarz ihn nicht im Zentrum überrollt und dann
+auf der g-Linie angreift. Außerdem hält er sich die Option offen, die Dame
+nach h5 zu bringen und unangenehm auf die schwarzen Bauernschwächen zu
+drücken. Es kann sich rentieren, den König nach h1 zu bringen und dann mit
+g2-g3 bzw. f2-f4 einen Gegenangriff auf das imposante schwarze Zentrum zu
+starten. Die Türme gehören nach e1 und f1.} Bxd5 {Schwarz ändert mit diesem
+Zug seinen Kurs. Er verschafft sich eine mobile Bauernmehrheit im Zentrum und
+gibt dafür sein Läuferpaar auf. Die beiden Läufer d3 und der (später
+auftauchende auf) g7 sind ungleichfarbig und etwa gleichwertig. Dafür ist der
+schwarze Springer besser postiert als der weiße. Der schwarze König muss
+allerdings noch in Sicherheit gebracht werden.} ({(a) Das direkte} 12... Rg8 {
+funktioniert eigentlich nur, wenn Weiß vorher die Dame nach h5 gestellt hat.
+Aber Weiß kann} 13. c4 {spielen und auf dem Damenflügel angreifen}) ({(b)
+Wenn Schwarz an seinem bisherigen Plan festhält und} 12... Bg7 {spielt, so
+folgt} 13. Qh5 {und Schwarz könnte Probleme bekommen, zum Beispiel nach Ein
+schwerer Fehler ist} O-O $4 14. exf5 Bxd5 15. f6 h6 16. Qf5 e4 17. fxg7 Re8 18.
+Qxd5 exd3 19. Qxc6 {und Weiß hat eine Figur gewonnen}) ({(c) Das direkte} 
+12... f4 {ist im Sveshnikov-System mit Vorsicht zu behandeln. Weiß kann
+sofort mit dem bewährten Manöver gegenhalten.} 13. c4 b4 14. Nc2 a5 15. Qh5 {
+Dieser Zug darf in keinem Anti-Sveshnikov-Aufbau für Weiß fehlen, auch wenn
+Schwarz versucht den h-Bauern zu opfern und Gegenspiel auf der g-Linie zu
+entwickeln.} Rg8 16. Be2 {Das ist die Grundidee des weißen Spiels. Der
+schlechte weiße Läufer wird auf eine bessere Diagonale gebracht und
+eventuell abgetauscht.}) 13. exd5 {Schwarz hat das Problem auf d5 akademisch
+gelöst und ein mobiles Bauernpaar auf e5 und f5 etabliert. Allerdings ist der
+Läufer auf d3 jetzt dynamisch und richtet sich gegen den gegnerischen
+Königsflügel. Allerdings bleibt der Läufer nur unter Schwierigkeiten auf
+der Diagonalen b1-h7, da er noch den Springer via c2 evakuieren muss} Ne7 {
+[%csl Yf4,Yg6][%cal Ge7g6,Gg6f4] Der Springer soll über g6 wieder in das
+Spiel gebracht werden} 14. c3 {Das ist der flexibelste Zug, mit dem Weiß
+erklärt, dass er den Läufer auf der Diagonalen behalten will. Dieser Zug
+bildet die absolute Hauzptvariante in der Sveshnikov-Verteidigung.} Bg7 {
+Schwarz führt weiter seinen ursprünglichen Plan aus. Das ist der thematische
+Zug gegen den Bauernzug c2-c3.} 15. Qh5 {[%csl Yc2,Yd3,Ge1,Ye3,Ye4,Yf5,Yg5,Yh5]
+[%cal Rh5f5,Rd3f5,Ra3c2,Rc2e3,Re3f5,Ra1e1] Nicht der einziger Plan für Weiß.
+Er kann auch auf dem Damenflügel aktiv werden. Aber von dem Feld h5 aus
+drückt die Dame direkt auf das schwarze Zentrum und kann auch nicht mehr
+einfach vertrieben werden.} *
+

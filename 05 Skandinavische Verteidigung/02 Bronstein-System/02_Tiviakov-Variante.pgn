@@ -1,0 +1,70 @@
+[Event "Starting Out: The Scandinavian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bronstein-System"]
+[Black "Tiviakov-Variante"]
+[Result "*"]
+[ECO "B01"]
+[Annotator "Jovanka Houska"]
+[PlyCount "21"]
+[EventDate "2010.11.21"]
+[SourceDate "2010.11.21"]
+
+1. e4 d5 2. exd5 Qxd5 {Der Grund für die vorschnelle Entwicklung der Dame
+liegt in der Verhinderung des weißen Idealzentrums e4 und d4. Außerdem kann
+der "skandinavische" Läufer auf c8 sehr gut entwickelt werden} 3. Nc3 {Das ist
+der beste weiße Zug, denn er entwickelt eine Figur unter Tempogewinn} Qd6 {
+Dieser Zug galt früher als zweifelhaft, ist aber heute viel beliebter als das
+früher ausschließlich gespielte Dd5-a5. Der Großmeister Sergei Tiviakov hat
+diesen Zug popularisiert und propagiert. Auf d6 steht die Dame sehr schön
+zentralisiert und übt weiterhin Druck auf den Bauern d4 aus. Der typische
+weiße Bauerndurchbruch d4-d5 in der Skandinavischen Verteidigung ist daher
+nicht ohne weiteres möglich. Schwarz fokussiert sich in der Folge auf das
+Figurenspiel. Er hat im Prinzip drei mögliche Pläne: 1. Der ehrgeizigste
+Aufbau ist eine Formation am Damenflügel mit a6, b5 und Lb7 2. Er kann mit Sc6
+und Lg4 Druckspiel gegen das weiße Zentrum, speziell gegen den Bauern d4,
+ausüben 3. Er kann mit c6 eine solide slawische Variante wählen. Weiß muss mit
+konzetriertem Spiel dagegenhalten und speziell auf den schwarzen Feldern
+spielen. Es bietet sich ein Fianchetto-Aufbau mit g2-g3 an} 4. d4 {Weiß
+besetzt das Zentrum und öffnet weitere Diagonalen für seine Figuren} Nf6 {
+Schwarz kontrolliert die wichtigen Felder d5 und e4 und entwickelt eine
+Leichtfigur} 5. Nf3 {Auch Weiß führt seine Entwicklung weiter. Er muss die
+wichtigen Felder im Zentrum (e5 und d4) unbedingt unter seiner Kontrolle
+halten.} a6 {Mit diesem Zug entscheidet sich Schwarz für ein aggressives
+Vorgehen gegen das weiße Zentrum. Er verhindert den störenden Springerausfall
+Sc3-b5 und bereitet eventuell den Ausfall b7-b5 vor} 6. g3 {Dies ist bei
+weitem der kritischste und beliebteste Zug für Weiß. Er wird als die
+Hauptfortsetzung betrachtet und wurde von Alexander Khalifman empfohlen. Als
+die Beliebtheit von Dd6 zunahm, haben die Weißspieler nach Wegen gesucht, die
+Stellung der schwarzen Dame auszunutzen und die eigenen Figuren in einfacher
+Weise zu entwickeln. Mit dem Fianchetto versucht Weiß die Stärke des schwarzen
+Aufbaus in eine Schwäche zu verwandeln. Er möchte die weißfeldrigen Läufer
+abtauschen und Schwarz zwingen, den eigenen Bauernvormarsch zu überdehnen und
+speziell den Bauern b5 zu schwächen} Bg4 {Dieser Aufbau gilt allgemein als die
+beste Option von Schwarz gegen den gefährlichen Aufbau mit dem weißen
+Königsfianchetto. Beide Seiten haben mehrere Möglichkeiten, die Stellung zu
+behandeln. Schwarz kann zum Beispiel ein schnelles Sb8-c6 spielen und lang
+rochieren, um einen unglaublichen Druck gegen den Bauern d4 zu entwickeln. Das
+Spiel kann sich dann sehr scharf gestalten} ({(a)} 6... Nc6 7. Bf4 Qb4 8. a3
+Qb6 9. d5 Ng4 10. Qd2 e5) ({(b)} 6... Bf5 7. Bg2 c6 8. O-O e6 9. Bf4 Qd8 10.
+Qe2 Be7 11. Rad1 O-O 12. Ne5) ({(c)} 6... g6 7. Bg2 Bg7 8. O-O O-O 9. Bf4 Qd8
+10. Qd2 Re8 11. Rfe1 c6 12. a4 a5 13. Rad1 Bg4 14. h3 Bxf3 15. Bxf3 e6) 7. Bg2
+{Weiß muss hier bereits einige Entscheidungen treffen. Entweder er rochiert
+kurz und ignoriert den Druck auf den Bauern d4 oder er rochiert lang und
+versucht eine solidere Stellung anzustreben. Im Falle einer kurzen Rochade
+kann Weiß eventuell d4-d5 spielen und vielleicht auch h2-h3} c6 {Mit diesem
+Zug steuert Schwarz das Spiel in ruhigere Gewässer. Es sieht schon etwas
+verschwenderisch aus, mit a6 und c6 das Spiel zu gestalten. Die Idee von
+Tiviakov ist es, das Spiel von Weiß zu kompromittieren, denn er kann jetzt
+nicht mehr Sf3-e5 spielen. Der Nachteil der schwarzen Stellung ist es, dass er
+etwas passiv steht und kaum Gewinnchancen hat, wenn Weiß keinen Fehler macht}
+8. O-O {Nach Tiviakov ist der Zug gar nicht so gut, aber die Ergebnisse
+sprechen für ihn} e6 {Schwarz baut die Stellung weiter super-solide aus} 9. Bf4
+{Dieser Entwicklungszug, der mit Tempo kommen kann, wurde auch schon vorher
+gespielt. Aber vielleicht ist er nach der Rochade viel effektiver} Qd8 {Die
+Dame bleibt am besten auf der d-Linie, um den Druck gegen d4 aufrecht zu
+erhalten} 10. h3 {Jetzt ist der richtige Zeitpunkt gekommen, den weißfeldrigen
+Läufer zu vertreiben} Bxf3 {Wenn Schwarz den Springer nicht schlägt, dann
+gewinnt Weiß mit dem Manöver g2-g4 und Sf3-e5 wichtige Zeit} 11. Qxf3 *
+

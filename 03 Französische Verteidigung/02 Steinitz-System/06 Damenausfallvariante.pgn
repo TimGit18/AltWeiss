@@ -1,0 +1,66 @@
+[Event "French Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Steinitz-System"]
+[Black "Damenausfallvariante"]
+[Result "*"]
+[ECO "C18"]
+[Annotator "Lev Psakhis"]
+[PlyCount "45"]
+[EventDate "2011.10.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 {Weiß verteidigt den angegriffenen Bauern e4 und übt
+mit dem Springerzug Druck auf das schwarze Zentrum auf d5 aus} Nf6 {In der
+Klassischen Verteidigung übt Schwarz mit einem gesunden Entwicklungszug erst
+Druck auf den Punkt e4 aus, um die weißen Bauern nach vorne zu locken und sie
+dann später anzugreifen. Dies geschieht im Sinne von Nimzowitsch. Dabei
+spielen vor allem die Bauernhebel c7-c5 und f7-f6 eine entscheidende Rolle} 4.
+e5 {Weiß erobert Raum im Zentrum und treibt den aktiven Springer von f6 auf
+ein defensives Feld} Nfd7 ({Eine schlechte Wahl ist} 4... Ne4 {, denn nach} 5.
+Nxe4 dxe4 6. Bc4 {hat Weiß die Kontrolle im Zentrum übernommen und gute
+Chancen auf Mittelspielinitiative}) 5. f4 {Normalerweise polstert Weiß seinen
+Bauern mit diesem Zug, denn er erwartet den Angriff auf den Bauern d4 mit dem
+Flankenzug c7-c5. Weiß kann diesen Bauern - im Gegensatz zur
+Tarrasch-Verteidigung - nicht mit c2-c3 decken. Daher muss er ihn mit Figuren
+abfedern, was seine Struktur festlegt. In der Hauptvariante wird Schwarz mit
+Dd8-b6 und seinen Leichtfiguren gegen d4 spielen, manchmal auch mit dem
+Bauernsturm a7-a6 und b7-b5. Weiß kann versuchen, in ein besseres Endspiel 
+(mit dem Springer gegen den französischen Läufer) abzutauschen oder einen
+Angriff gegen den kurz rochierten König auf dem Königsflügel lancieren} c5 {
+Schwarz greift sofort mit diesem logischen Bauernzug die Basis des weißen
+Bauernzentrums an} 6. Nf3 {Weiß entwickelt sich weiter und verteidigt den
+Bauern d4} Nc6 {Schwarz übt weiteren Druck auf die weiße Stellung aus und
+zwingt Weiß zu einer Konzession} 7. Be3 {Der weiße Damenläufer ist sicher die
+Problemfigur in der weißen Stellung und nimmt auf e3 erst einmal eine
+defensive Funktion ein. Andererseits greift er auch den Bauern auf c5 an und
+neutralisiert so den Druck auf der neuralgischen Diagonalen a7-g1} Qb6 {
+Über viele Jahre hinweg war diese Variante die Hauptvariante, aber in den
+letzten Jahren hat diese Variante viel von ihrer Popularität verloren} 8. Na4 {
+Weiß greift sofort die Dame an und sorgt dafür, dass die Dame auf ein
+schlechteres Feld gestellt wird. Dafür nimmt er in Kauf, dass sein Springer an
+den Rand gestellt wird} Qa5+ {Schwarz rettet mit diesem Schach seine Dame und
+greift gleichzeitig den Springer auf a4 an.} 9. c3 {Mit diesem Zug unterbindet
+Weiß das Schachgebot und deckt den Springer mit der Dame} cxd4 {Schwarz spielt
+seit Jahrzehnten schon so, aber es scheint, als müsse er nach Alternativen
+Ausschau halten} ({(a)} 9... b6 10. Bd2 c4 11. b4 Nxb4 12. cxb4 Bxb4 13. Qc2
+Bxd2+ 14. Nxd2 b5 15. Nc3 b4 16. Nce4 O-O 17. Ng5 g6 18. Rb1 f6 19. exf6 Nxf6
+20. g3) ({(b)} 9... c4 10. b4 Qc7 11. Be2 Be7 12. O-O f5 13. Bf2 b6 14. Nb2 Nf8
+15. a4) 10. b4 $1 {Ein eleganter taktischer Gegenschlag, nach dem Schwarz zu
+ebensolchen taktischen Maßnahmen greifen muss} Nxb4 $1 {Dieses mutige Opfer
+ist praktisch erzwungen} ({Nach} 10... Qc7 11. Nxd4 a6 12. Qd2 b5 13. Nb2 Nb6
+14. a4 Nc4 15. Nxc4 bxc4 16. Nxc6 Qxc6 17. Bd4 {verbleibt Schwarz in einer
+extrem passiven Stellung}) 11. cxb4 {Weiß nimmt das Opfer natürlich an, denn
+sonst hat er einfach einige Bauern weniger} Bxb4+ {Immerhin hat Schwarz drei
+Bauern für die Figur und den weißen Damenflügel pulverisiert} 12. Bd2 {Weiß
+muss jetzt erst einmal seine Stellung reorganisieren und seine Figuren neu
+koordinieren} Bxd2+ {Schwarz ist zu diesem Abtausch gezwungen} 13. Nxd2 {
+Sonst verliert Weiß eine Figur} b6 {Schwarz beabsichtigt, den Springer auf c5
+zuum Abtausch zu bringen und den Läufer über die Diagonale c8-a6 zu entwickeln}
+(13... g5 14. Rb1 gxf4 15. Bb5 Rb8 16. Nc5 Qc3 17. Nd3 a6 18. Rc1 Qa3 19. Qb3)
+14. Bd3 {Das ist sicher die beliebteste Fortsetzung für Weiß und eine der
+gefährlichsten für Schwarz} Ba6 (14... Nc5 15. Nxc5 bxc5 16. O-O Bd7 17. Rf2
+Rc8 18. Rc1 g6 19. Bf1 O-O 20. Nf3) 15. Nb2 Nc5 (15... Bxd3 16. Nxd3 Nc5 17.
+Nf2 Na4 18. O-O Nc3 19. Qg4 O-O 20. Nf3) 16. Bxa6 Qxa6 17. Qe2 Qa3 18. Qb5+ Ke7
+19. O-O Qe3+ 20. Rf2 Rhc8 21. Nf1 Qc3 22. Rf3 d3 23. Rd1 *
+

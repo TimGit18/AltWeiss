@@ -1,0 +1,52 @@
+[Event "Beating Unusual Chess Defences"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Flankenspiele"]
+[Black "Birmingham-Verteidigung"]
+[Result "*"]
+[ECO "B00"]
+[Annotator "Andrew Greet"]
+[PlyCount "33"]
+[EventDate "2013.11.23"]
+[SourceDate "2013.11.23"]
+
+1. e4 a6 2. d4 b5 {Im Unterschied zur Owen-Verteidigung kontrolliert Schwarz
+auf dem Damenflügel mehr Raum auf Kosten eines Tempos. Weiß hat einige
+Möglichkeiten, in Vorteil zu kommen, aber die klassische Entwicklung
+kombiniert mit einem Damenflügel-Vorstoß scheint empfehlenswert} 3. Bd3 Bb7 4.
+Nf3 {Im Vergleich mit der Owen-Verteidigung macht es hier für Weiß keinen Sinn,
+den Damenspringer nach c3 zu entwickeln} e6 {Das ist die übliche Fortsetzung,
+aber andere Züge verdienen Aufmerksamkeit. Die Alternativen sind} ({(a) Mit} 
+4... g6 {versucht Schwarz in die Moderne Verteidigung zu transponieren, ohne
+den Österreichischen Angriff zu erlauben. Allerdings bildet der Bauer b5 ein
+einfaches Ziel, speziell da der weiße Springer noch nicht nach c3 gegangen ist}
+5. O-O Bg7 6. a4 b4 7. c3 bxc3 8. Nxc3 d6 9. Qb3 {und Weiß hat einen
+gewaltigen Entwicklungsvorsprung}) ({(b)} 4... Nf6 {ist etwas riskant und
+erlaubt Weiß verschiedene Optionen} 5. e5 Nd5 6. Ng5 Nb4 (6... e6 7. Qf3 f5 8.
+exf6 Qxf6 9. Bxh7 Qxf3 10. Bg6+ Kd8 11. Nxf3 {und Weiß hat einen gesunden
+Mehrbauern}) 7. Be4 Bxe4 8. Nxe4 {mit angenehmen Stellungsvorteil für Weiß}) 5.
+a4 {In der Hauptvariante spielt Weiß Dd1-e2 und die kurze Rochade, aber es ist
+auch schön den Bauern b5 anzugreifen} c5 {Dieser Gegenangriff ist die
+prinzipiellste Antwort. Solange der b5-Bauer indirekt gedeckt ist, kann
+Schwarz den Bauern e4 nehmen. Andererseits würde eine Öffnung des Damenflügels
+Weiß begünstigen.Die Alternativen sind} ({(a)} 5... Nf6 6. Qe2) ({(b)} 5... b4
+6. O-O c5 7. Nbd2 cxd4 8. Nxd4 Nf6 9. e5 Nd5 10. Nc4 {mit einer verbesserten
+Version der Sizilianischen Verteidigung für Weiß}) 6. axb5 axb5 7. Rxa8 Bxa8 8.
+dxc5 Bxc5 9. O-O b4 {Eine Reihe anderer Züge sind schon versucht} ({(a)} 9...
+Ne7 10. Qe2) ({(b)} 9... Qb6 10. Qe2 Nf6 11. Nc3 Bc6 12. e5 Nd5 13. Nxd5 Bxd5
+14. Bxb5 {mit einem Mehrbauern für Weiß}) 10. Nbd2 $146 ({RR} 10. e5 Qc7 11.
+Nbd2 Ne7 12. Nc4 Ng6 13. Qe2 O-O 14. Ng5 Qb7 15. Be4 Qa7 16. Bxa8 Qxa8 17. Rd1
+Nc6 18. Be3 Bxe3 19. Qxe3 Qa2 20. Qe2 Ncxe5 21. Nxe5 Nxe5 22. Qxe5 f6 23. Qd4
+fxg5 24. Qxb4 Qa7 {Kravtsiv,M (2450)-Sakun,V (2211)/Lvov 2004/EXT 2008/1-0 (73)
+}) 10... Nc6 (10... Nf6 {Auf diesen Zug scheint die natürliche Fortsetzung} 11.
+e5 Nd5 12. Ne4 Be7 13. Nfd2 {Es sieht attraktiv aus für Weiß, den Springer
+nach c4 zu bringen}) 11. e5 {Obwohl dieser Zug keinen Springer angreift, ist
+er hier noch stärker als nach Sg8-f6} d5 {Die weitere Öffnung der Stellung
+birgt große Risiken für Schwarz} ({Die beste Chance ist möglicherweise} 11...
+Qc7 {, um den Druck auf e5 aufrecht zu erhalten} 12. Nc4 Na5 13. Nxa5 Qxa5 14.
+Ng5 {mit etwas weißer Inititiative}) 12. exd6 Bxd6 13. Bb5 {Das ist sehr
+unangenehm für Schwarz und rechtfertigt die weiße Öffnung des Damenflügels} Bc7
+14. Ne4 Qxd1 15. Rxd1 Nge7 16. Nd6+ Bxd6 17. Rxd6 {Das weiße Läuferpaar und
+die aktiven Figuren ermöglichen Endspielvorteil} *
+

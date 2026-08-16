@@ -1,0 +1,133 @@
+[Event "Dangerous Weapons: The Ruy Lopez"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassische Verteidigung"]
+[Black "Bosman-Variante"]
+[Result "*"]
+[ECO "C65"]
+[Annotator "Tony Kosten"]
+[PlyCount "42"]
+[EventDate "2011.08.24"]
+[SourceDate "2011.08.24"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 {Damit geht Schwarz in die
+sogenannte Klassische Verteidigung über, in der er Figurendruck auf das
+Zentrum ausüben will. Die Klassische Verteidigung ist ein Hybrid aus Berliner
+Verteidigung und Cordel-Verteidigung. Schwarz hofft auf Gegenspiel im Zentrum.
+Weiß kann entweder eine Bauernfront im Zentrum aufbauen oder nach taktischen
+Verwicklungen suchen. Wahrscheinlich ist es stellungsgerecht, eine ruhige und
+zentralisierende Form der Entwicklung anzustreben. Weiß hat immer etwas mehr
+Raum im Zentrum, aber Schwarz ist gut entwickelt und wird sich nicht einfach
+überrennen lassen.} 5. c3 {[%csl Yc5,Rd4][%cal Gd2d4] Weiß entscheidet sich
+dafür ein großes Bauernzentrum aufzubauen. Der schwarze Königsläufer wird
+früher oder später zurückgedrängt werden. Die Hauptidee hinter diesem Zug
+ist wie in der Italienischen Partie, die Stellung des schwarzen
+Königsläufers auszunutzen und mindestens ein Tempo zu gewinnen.} O-O {Dieser
+Zug bringt den König in Sicherheit und entwickelt Schwarz sinnvoll weiter. Er
+ist taktisch gerechtfertigt, denn wenn Weiß auf c6 schlägt und sich danach
+auf e5 bedient, dann kann Schwarz auf e4 den Königsbauern zurücknehmen.} 6.
+d4 {Weiß muss konsistent spielen und baut das breite Bauernzentrum auf.
+Zurückhaltendes Spiel mit Tf1-e1 oder sogar d2-d3 wie in der Italienischen
+Partie würde gar keinen Sinn ergeben, denn Schwarz kann ganz entsprechend
+reagieren ohne Nachteile zu befürchten.} Bb6 {Schwarz könnte auch erst mit
+dem Königsbauern schlagen. Aber das wäre eine Konzession an Weiß. Das
+weiße Zentrum wird dynamisch und kann nach vorne rücken.} 7. Bg5 {Dieser Zug
+bildet die Hauptvariante. Weiß entwickelt seinen Damenläufer und fesselt
+erst einmal den gegnerischen Springer. Jetzt ist auch der Bauer auf e5 ein
+weiteres Mal bedroht, denn Schwarz kann ja nicht auf e4 zurückschlagen, wenn
+Weiß auf c6 tauscht und auf e5 weggnimmt.} h6 {Schwarz sollte den
+Fesselläufer sofort befragen, damit er auch immer die Option auf den Hebel
+g7-g5 hat.} 8. Bh4 {Der Läufer sollte nicht den Springer schlagen, sondern
+weiter Druck ausüben. Schwarz kann mit der Dame zurückschlagen. Sie steht
+auf f6 optimal und kontrolliert Teile des Zentrums. Wenn Weiß auf c6 schlägt,
+dann nimmt er mit der Dame zurück und schlägt dann auf e4.} d6 {Schwarz muss
+den e-Bauern verteidigen. Weiß sollte hier nicht versuchen auf Bauerngewinn
+zu spielen, denn er müsste Schwarz das Läuferpaar geben und nach Damentausch
+und Te8 hinge auch der weiße e-Bauer} 9. Qd3 {Das ist ein zentralisierender
+Entwicklungszug. Die Dame macht Platz frei für die weißen Türme und
+verteidigt die Bauern auf e4 und d4. Danach kann der Springer nach d2
+entwickelt werden, ohne dass der Bauer auf d4 seine Deckung verliert.} Qe7 {
+Dieser Zug ist der Beginn eines Umgruppierungsmanövers. Schwarz verstärkt
+die Deckung des e-Bauern, räumt d8 für den Turm und bereitet die
+Umgruppierung des Damenspringers vor. Da Weiß nicht Sc3-d5 spielen kann,
+steht die schwarze Dame hier gut. Ähnlich wie im Vierspringerspiel soll die
+Fesselung auf der Diagonalen h4-d8 aufgelöst werden.} 10. Nbd2 {Weiß
+entwickelt seinen Springer auf das Idealfeld. Er kann bei Bedarf auch nach c4,
+um den schwarzen Läufer auf b6 zu tauschen} Nd8 {[%csl Yc6,Ye6,Yf4][%cal
+Gd8e6,Ge6f4,Gc7c6] Diese Variante wurde von Tony Kosten empfohlen und von dem
+niederländischen Meister Martin Bosman häufig angewendet, wenngleich auch
+ohne den Einschub der Züge h7-h6 und Lg5-h4. Der Springer soll nach e6, wo er
+zwar nicht mehr den Läufer auf g5 attackiert, aber nach f4 gehen kann.
+Außerdem sieht der Läufer auf b5 etwas schlecht platziert aus und kann mit
+c7-c6 oder a7-a6 vertrieben werden.} 11. d5 $1 {Sicherlich der stärkste Zug.
+Weiß erobert Raum und kontrolliert die Felder e6 und c6. Solange dieser Bauer
+auf d5 steht, kann der schwarze Springer nur nach b7 oder nach f7. Der
+schwarze Plan wird es sein, dass der Springer auf f6 entfesselt wird und dann
+f7-f6 gespielt wird, gefolgt von Sd8-f7} a6 {Jetzt kann Weiß nicht mehr auf
+c6 tauschen. Der Läufer muss zurückweichen. Gleichzeitig schafft der Zug ein
+Rückzugsfeld für den Läufer auf b6.} 12. Ba4 {Dieser Rückzug ist besser
+als der auf c4, denn das Feld c4 soll für den Springer freigehalten werden.}
+Ba7 $1 {Eine wichtige Finesse, mit der Schwarz ein Tempo gewinnt.} ({Der
+andere Zug} 12... Kh7 {erlaubt das sofortige} 13. Nc4 {[%csl Yc4,Ye3,Yf5][%cal
+Gc4e3,Ge3f5] , welcher den Läufer auf b6 angreift und Zeit gewinnt für das
+Manöver Sc4-e3-f5} Ba7 14. Ne3 g5 ({Für} 14... Rg8 {ist keine Zeit} 15. Nf5
+Bxf5 16. exf5 {ist ziemlich gut für Weiß, etwa nach} e4 17. Bxf6 gxf6 18.
+Rae1) 15. Bg3 Nh5 16. Nf5 Bxf5 17. exf5 f6 {Die schwarze Stellung ist sehr
+solide. Weiß sollte wie folgt fortsetzen} 18. Nd2 {, um das Feld e4 zu
+besetzen}) 13. Bc2 {Der Läufer wird wieder in das Spiel gebracht. Hier deckt
+er den Bauern auf e4, so dass die anderen Figuren (Dame und Springer)
+beweglich gemacht werden. Außerdem wird der a-Bauer beweglich gemacht, der
+mit a2-a4-a5 den schwarzen Damenflügel blockieren soll.} ({Der Punkt ist, dass
+} 13. Nc4 $4 {ein Fehler ist aufgrund der Gabel} b5) 13... Kh7 {[%csl Rg5,Rg7,
+Yg8][%cal Gf8g8,Gg7g5] Der Plan ist es, den schwarzen Springer zu entfesseln.
+Dafür dient dieser Zug als Vorbereitung. Der Turm soll nach g8 gebracht
+werden, um den Vorstoß g7-g5 zu unterstützen. Das schwarze Spiel wirkt sehr
+langsam, aber die Stellung ist geschlossen, womit er genug Zeit hat, die
+Figuren auf bessere Felder zu manövrieren. Der schwarze Plan ist mehr oder
+weniger forciert, wohingegen Weiß mehrere Möglichkeiten hat} (13... Kh8 {ist
+ebenfalls spielbar, aber er sieht weniger genau aus. Das Manöver Sd8-f7-h8-g6
+ist nun nicht mehr möglich. Es folgt} 14. Nc4 Rg8 15. Ne3 g5 16. Bg3 Nh5 17.
+Nf5 Bxf5 18. exf5 Qf6 19. Nd2 {Ähnlich wie in der früheren Variante mit
+Kg8-h8 steht Weiß etwas besser.}) 14. Nc4 {Dieser Zug ist logisch. Der
+Springer soll nach e3, um das Loch auf f5 zu füllen. Auf e3 unterbricht er
+auch die Diagonale des Läufers auf a7} g5 ({Der Zug} 14... Rg8 {soll g7-g5
+vorbereiten, wirkt aber etwas zu langsam wegen} 15. Ne3 g5 16. Bg3 Nh5 17. Nf5
+Bxf5 ({Bosman selbst spielt hier gerne} 17... Qf6 {[%csl Rg7][%cal Gh5g7] , um
+danach mit dem Springer auf g7 den anderen Springer von Weiß abzutauschen.
+Das ganze war aber einigermaßen erfolglos}) 18. exf5 f6 19. Nd2 {Wieder
+dieses typische Manöver, nach dem Weiß das schöne Feld e4 besetzt. Wenn
+Schwarz dann auf g3 tauscht, kommt der weiße Springer nach g3 und nach h5} Nf7
+({Nach} 19... Nxg3 20. Qxg3 h5 21. Ne4 Nf7 22. Bd1 h4 23. Qh3 Nh6 24. Bh5 {
+sind die weißen Felder auf dem schwarzen Königsflügel sehr schwach})) 15.
+Bg3 {Der Läufer sollte zurückweichen, denn das Opfer auf g5 schlägt nicht
+durch. Der König steht zwar wacklig auf h7, hat aber mit dem Turm auf g8 eine
+wichtige Ressource} Nh5 {Schwarz jagt den Läufer. Dies ist die einzige
+konsistente Fortsetzung. Er muss zum richtigen Zeitpunkt dann auf g3 schlagen
+und mit dem h-Bauern weiterlaufen.} 16. Ne3 {Wahrscheinlich ist dies die beste
+Fortsetzung. Weiß kontrolliert das Loch auf f5, so dass Schwarz selber nicht
+f5 spielen kann} f6 {[%csl Yf5][%cal Ge3f5] Schwarz baut eine Bauernkette auf
+den schwarzen Feldern auf. Aber die Löcher bleiben.} ({Spielbar ist sicher} 
+16... Bxe3 {, aber Weiß muss keinen doppelten Doppelbauern zulassen} 17. Qxe3
+Nxg3 18. hxg3) 17. Nf5 {Weiß besetzt sofort das Loch auf f5. Er bedroht die
+Dame auf g7 und versucht den Einfluss seiner Figuren zu vergrößern.} Bxf5 {
+Schwarz gibt seinen inaktiven Läufer gegen den gefährlichen Springer.} 18.
+exf5 {Weiß hat zwar eine gute Figur verloren, aber er hat auch den Einfluss
+seiner Figuren vergrößert. Außerdem sind die schwarzen Felder g6 und e6
+jetzt unter der weißen Kontrolle.} Nxg3 {Vielleicht ist jetzt der richtige
+Zeitpunkt, um zu tauschen.} ({(a) Ein Fehler ist} 18... Nf4 $6 19. Bxf4 gxf4 {
+wegen} 20. Nh4 {[%csl Yg6][%cal Gh4g6] und Weiß wird g6 besetzen}) ({(b) Auch
+möglich ist} 18... Nf7 {, aber nach} 19. Nd2 {[%csl Ye4,Yg3,Yh5][%cal Gd2e4,
+Ge4g3,Gg3h5] kann der Spinger nach e4 und den Läufer auf g3 decken. Dann kann
+der Springer nach h5 gehen und die Stellung gut blockieren} Nxg3 20. Qxg3 {
+Weiß hat eine gute Stellung erreicht}) 19. hxg3 Kg7 {Das ist ein wichtiger
+Zug für Schwarz. Er räumt die h-Linie und bringt den König auf einen
+sichereren Platz} ({Ein schwerer Fehler ist} 19... h5 $4 {wegen der taktischen
+Ressource} 20. Nxg5+) 20. Nd2 {Das bekannte Manöver bereitet wieder die
+Überführung des Springers nach e4 vor.} h5 {Schwarz mobilisiert seine Bauern
+auf dem Königsflügel, um die geschwächte weiße Stellung anzugreifen.} 21.
+a4 {Weiß muss agieren und darf nicht einfach abwarten. Er muss b2-b4-b5
+folgen lassen und Druck auf dem Damenflügel ausüben.} Nf7 {Schwarz
+verbessert seine am schlechtesten stehende Figur. Der Springer soll auf dem
+Königsflügel für Unruhe sorgen und hinter den Bauern eingesetzt werden.} *
+

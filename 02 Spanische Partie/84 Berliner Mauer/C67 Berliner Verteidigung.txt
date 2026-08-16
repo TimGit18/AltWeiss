@@ -1,0 +1,43 @@
+====================================================================================================================
+Spanische Partie: 		Berliner Verteidigung (C67)
+====================================================================================================================
+Theorie: Glenn Flear:		Offbeat Spanish			(Everyman Chess)
+	 Neil McDonald:		The Ruy Lopez Move by Move	(Everyman Chess)
+	 Viktor Bologan:	Ruy Lopez 01			(ChessBase)
+         Alexei Shirov:		Berlin Wall			(ChessBase)
+====================================================================================================================
+1. e2-e4	e7-e5 
+2. Sg1-f3	Sb8-c6 
+3. Lf1-b5	Sg8-f6 
+4. O-O 		Sf6xe4	-->	4...	Lf8-e7			Steinitz-Variante
+5. d2-d4 	Se4-d6 	-->	5...	Lf8-e7			Rio De Janeiro-Variante	
+6. Lb5xc6 	d7xc6 
+7. d4xe5 	Sd6-f5 	-->	7...	Sd6-e4			Westerinen-Eslon-Variante			
+8. Dd1xd8+ 	Ke8xd8 
+--------------------------------------------------------------------------------------------------------------------
+9. Sb1-c3 	Kd8-e8	-->	9...	Lc8-d7			Enwicklungszug-Variante
+			-->	9...	Sf5-e7			Rückzugsvariante
+			-->	9...	Lc8-e6			Nebenvarianten
+			-->	9...	Lf8-e7			Defensivvariante
+			-->	9...	h7-h6			Verzögerte Entwicklungsvariante
+--------------------------------------------------------------------------------------------------------------------
+10.h2-h3	h7-h5	-->	10...	Lc8-d7			Verzögerte Entwicklungs-Variante
+			-->	10...	Lc8-e6			Zentralvariante
+			-->	10...	Lf8-e7			Logische Variante
+			-->	10...	Sf5-e7			Verzögerte Nebenvarianten
+			-->	10...	b7-b6			Damenflügel-Variante
+11.Lc1-g5		-->					Hauptvariante
+====================================================================================================================
+Partien
+====================================================================================================================
+1. e2-e4	e7-e5 
+2. Sg1-f3	Sb8-c6 
+3. Lf1-b5	Sg8-f6 
+4. O-O 		Sf6xe4	
+5. d2-d4 	Se4-d6 	
+6. Lb5xc6 	d7xc6 
+7. d4xe5 	Sd6-f5
+8. Dd1xd8+ 	Ke8xd8 
+9. Sb1-c3 	Kd8-e8
+10.h2-h3	Lf8-e7	-->					2017-09-15 Schmitz-Watzenberger	O:1
+--------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,38 @@
+[Event "Starting Out: 1e4!"]
+[Site "?"]
+[Date "2018.01.08"]
+[Round "?"]
+[White "Flankenspiele"]
+[Black "Owen-Verteidigung"]
+[Result "*"]
+[ECO "B00"]
+[Annotator "Neil McDonald"]
+[PlyCount "12"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.01.08"]
+
+1. e4 b6 ({Die Owen-Verteidigung kann auch aus der Französischen Verteidigung
+entstehen} 1... e6 2. d4 b6) 2. d4 Bb7 {Das ist die reine Form der
+Owen-Verteidigung, die vom Reverend John Owen 1858 benutzt wurde, um Paul
+Morphy zu schlagen. Später wurde sie von Tony Miles benutzt, allerdings um
+gegen die Englische Eröffnung 1.c4 die Englische Verteidigung 1...b6
+einzuführen} 3. Bd3 {Der Zug ist besser als Sb1-c3, denn der Springer könnte
+gefesselt werden} Nf6 {[%csl Ye4] Das ist die Hauptfortsetzung. Schwarz greift
+den Bauern e4 ein weiteres Mal an} ({Der Flügelangriff} 3... f5 $2 {ist viel
+zu riskant, um durchgeführt zu werden und verliert die Partie, aber die
+Widerlegung erfordert eine genaue Antwort und muss erst einmal am Brett
+gefunden werden} 4. exf5 Bxg2 5. Qh5+ g6 6. fxg6 Bg7 $1 {Dieser Zug ist
+überraschend widerstandsfähig genug} 7. Qf5 {[%csl Rf7][%cal Rf5f7] Weiß
+droht matt auf f7}) 4. Qe2 {Weiß schützt den Bauern e4 mit der Dame} ({
+Weiß sollte die Figurenverteidigung mit} 4. Nc3 {vermeiden wegen der Zugfolgen
+} e6 5. Nf3 Bb4 6. Qe2 {Das ist die Ausgangsstellung der Owen-Verteidigung,
+wie sie auch in der berühmten Partie Eljanov-Carlsen vom Isle of Man 2017 auf
+dem Brett stand} d5 $1 {Das ist der stärkste Zug und die thematische
+Hauptfortsetzung} 7. exd5 {Dieser Zug ist zwar eine Konzession, da er das
+Zentrum aufgibt, aber auch der beste Zug in dieser Stellung.} Qxd5) 4... e6 {
+ist die solideste Antwort von Schwarz} ({Das Doppelfianchetto beginnt mit der
+Variante} 4... Nc6 5. c3 e5 6. Nf3 d6 7. O-O g6 {Die schwarze Stellung soll in
+eine Philidor-Verteidigung münden. Die Alternativen sind Sf6-d7, Lf8-e7 oder
+e5xd4}) 5. Nf3 d5 {Dieser logische Zug bildet einen Gegenschlag gegen das
+weiße Zentrum} 6. e5 Nfd7 {Das ist die Hauptvariante der Owen-Verteidigung} *
+

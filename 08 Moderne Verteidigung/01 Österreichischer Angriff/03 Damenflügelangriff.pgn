@@ -1,0 +1,42 @@
+[Event "Beating Unusual Chess Defences "]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Österreichischer Angriff"]
+[Black "Damenflügelangriff"]
+[Result "*"]
+[ECO "B06"]
+[Annotator "Andrew Geet"]
+[PlyCount "25"]
+[EventDate "2013.10.05"]
+[SourceDate "2013.10.05"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 {Mit dieser flexiblen Option hält sich Weiß den
+Österreichischen Angriff offen} d6 {Das ist der beliebteste Zug von Schwarz} 4.
+f4 {Damit wird der Österreichische Angriff eingeleitet} c6 {Schwarz bereitet
+Dd8-b6 vor, manchmal auch b7-b5} 5. Nf3 {Das ist die natürliche Antwort} b5 {
+ist möglich, aber der frühe Angriff auf dem Damenflügel kann Weiß kaum
+verletzen. Der Anziehende sollte sehr schnell sich entwickeln und nach Angriff
+Ausschau halten. Nach} 6. Bd3 {gibt es folgende Möglichkeiten} Nd7 (6... Bg4 {
+Es gibt die Faustregel, dass der Vorstoß auf dem Damenflügel mit b7-b5 nicht
+mit einer Entwicklung des Damenläufers nach g4 kombiniert werden sollte. Der
+Grund ist, dass Schwarz diesen Läufer oft tauschen muss, aber dann Schwächen
+auf den weißen Feldern auf dem Damenflügel erhält, die später ausgenutzt
+werden können} 7. e5 {Mit diesem Zug verschwendet Weiß keine Zeit. Er öffnet
+sofort die Diagonale h1-a8, um die geschwächten Felder auf dem Damenflügel
+angreifen zu können} f5 $5 {Schwarz fängt einen Blockadeplan auf dem
+Königsflügel an. Er möchte gerne die weißen Felder blockieren. Positionell
+macht dies Sinn, wenn man davon ausgeht, dass der weißfeldrige Läufer sowieso
+abgetauscht wird. Allerdings kann er in einer sehr passiven Stellung ohne
+Gegenspiel enden} 8. h3 Bxf3 9. Qxf3 d5 10. g4 e6 {Diese Stellung sieht sehr
+verschlossen aus. Die stärkste Fortsetzung ist wohl} 11. gxf5 Qh4+ 12. Ke2 gxf5
+13. Rg1 {Hiernach hat Weiß viele Stellungsvorteile und kann auf jeder
+Brettseite Initiative entwickeln}) 7. O-O Nb6 ({(a)} 7... Qb6 {erreicht nicht
+soviel nach} 8. Be3 {zum Beispiel} e5 9. fxe5 dxe5 10. Bf2 exd4 11. e5 Ne7 (
+11... Nxe5 $2 {ist ein Fehler wegen} 12. Re1 f6 13. Nxd4 c5 14. Bxb5+ {und der
+weiße Angriff läßt sich kaum noch aufhalten}) 12. Nxd4 Bxe5 13. Nxc6 Qxc6 14.
+Be4 {gewinnt Weiß Material}) ({(b) Nach} 7... Bb7 {erhält Weiß durch} 8. e5 {
+eine deutliche Initiative}) 8. a4 b4 9. Ne2 a5 ({Nach} 9... Nf6 10. a5 Nbd7 11.
+Re1 {ist der b-Bauer schwach}) 10. c3 bxc3 11. bxc3 Nf6 12. Rb1 O-O 13. f5 {
+und Weiß hat eine vielversprechende Initiative} *
+

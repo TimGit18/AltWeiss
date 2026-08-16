@@ -1,0 +1,73 @@
+[Event "Spanisch II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassische Verteidigung"]
+[Black "Konzessionsvariante"]
+[Result "*"]
+[ECO "C65"]
+[Annotator "Rolf Schwarz"]
+[PlyCount "27"]
+[EventDate "2011.08.24"]
+[SourceDate "2011.08.24"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 {Damit geht Schwarz in die
+sogenannte Klassische Verteidigung über, in der er Figurendruck auf das
+Zentrum ausüben will. Die Klassische Verteidigung ist ein Hybrid aus Berliner
+Verteidigung und Cordel-Verteidigung. Schwarz hofft auf Gegenspiel im Zentrum.
+Weiß kann entweder eine Bauernfront im Zentrum aufbauen oder nach taktischen
+Verwicklungen suchen. Wahrscheinlich ist es stellungsgerecht, eine ruhige und
+zentralisierende Form der Entwicklung anzustreben. Weiß hat immer etwas mehr
+Raum im Zentrum, aber Schwarz ist gut entwickelt und wird sich nicht einfach
+überrennen lassen.} 5. c3 {[%csl Yc5,Rd4][%cal Gd2d4] Weiß entscheidet sich
+dafür ein großes Bauernzentrum aufzubauen. Der schwarze Königsläufer wird
+früher oder später zurückgedrängt werden. Die Hauptidee hinter diesem Zug
+ist wie in der Italienischen Partie, die Stellung des schwarzen
+Königsläufers auszunutzen und mindestens ein Tempo zu gewinnen.} O-O {Dieser
+Zug bringt den König in Sicherheit und entwickelt Schwarz sinnvoll weiter. Er
+ist taktisch gerechtfertigt, denn wenn Weiß auf c6 schlägt und sich danach
+auf e5 bedient, dann kann Schwarz auf e4 den Königsbauern zurücknehmen.} 6.
+d4 {Weiß muss konsistent spielen und baut das breite Bauernzentrum auf.
+Zurückhaltendes Spiel mit Tf1-e1 oder sogar d2-d3 wie in der Italienischen
+Partie würde gar keinen Sinn ergeben, denn Schwarz kann ganz entsprechend
+reagieren ohne Nachteile zu befürchten.} exd4 $2 {Die Aufgabe des Zentrums
+kann getrost als Fehler betrachtet werden} 7. cxd4 {Weiß hat nun das ideale
+Bauernzentrum aufgebaut. Er hat mehr Raum und beherrscht alle Felder im
+Zentrum.} Bb6 {Der Läufer muss zurückweichen und geht auf das relativ beste
+Feld} 8. e5 $1 {Weiß nutzt seinen Raumvorteil aus, um - wie in solchen
+Stellungen üblich, die schwarzen Figuren von ihren natürlichen
+Entwicklungsfeldern weg zu treiben und auf schlechte Felder zu schicken.} Ne8 {
+Das ist schon ein trauriges Feld für den Springer, aber hier ist er
+einigermaßen von weißen Angriffen geschützt.} ({Gebräuchlicher ist} 8...
+Nd5 {, aber nach} 9. Bc4 Nce7 10. Bg5 Qe8 11. Qb3 {steht Weiß aufgrund der
+aggressiven Figurenstellung und der besseren Entwicklung deutlich überlegen})
+9. d5 $1 {Ein weiterer guter Vorstoß, der den zweiten Springer vertreibt} Ne7
+{Der Springer muss zurückweichen, und hier ist noch das beste Feld.} 10. d6 $1
+{Der nächste Vorstoß, der die schwarze Stellung vollständig einschnürt.
+Vor allem der Springer auf e8 und der Läufer auf c8 haben schlechte
+Aussichten.} cxd6 {Schwarz reduziert wenigstens ein Teil des weißen Zentrums
+und erobert die Kontrolle über das Feld f6 zurück.} 11. exd6 {Ein weiterer
+Vorteil des Vorstoßes ist die Öffnung der e-Linie, die Weiß als erster
+besetzen kann.} Ng6 {[%csl Re5,Rf4,Rh4][%cal Gg6f4,Gg6e5,Gg6h4]
+Warhrscheinlich ist dies das beste Feld für den angegriffenen Springer.
+Nachdem Schwarz den Kampf um das Zentrum sehr einfach verloren hat, wird sich
+Weiß früher oder später dem schwarzen König zuwenden. Daher ist es gut,
+hier auf dem Königsflügel noch eine weitere Verteidigungsfigur zu besitzen,
+die die schwarzen Felder um den König kontrolliert.} ({Oder Schwarz spielt} 
+11... Nf5 {Aber es folgt wie in der Hauptvariante} 12. Bg5 f6 13. Qd5+ Kh8 14.
+Bf4 {mit weißem Vorteil}) 12. Bg5 {Wiederum ist dies der beste und
+aggressivste Zug in der Stellung. Der weiße Damenläufer wird auf ein sehr
+gutes Feld entwickelt. Die schwarze Dame ist böse eingeklemmt auf der
+Grundreihe und kann nicht flüchten. Der Schwarze muss also eine Fesselung
+zulassen oder seine Stellung schwächen.} f6 {[%csl Ya2,Yb3,Yc4,Yd5,Ye6,Yf7,
+Yg8] Schwarz unterbricht den Angriff, aber er öffnet die Diagonale a2-g8. Das
+ist eine weitere Schwächung der Stellung, die Weiß ausnutzen kann.} ({Nach} 
+12... Nf6 13. Nc3 {droht die unangenehme Fortsetzung Sc3-d5}) 13. Qd5+ {[%csl
+Yd5,Ye6,Yf7,Yg8][%cal Gd5g8] Weiß hat für seine Dame eine dominierende
+Stellung im Zentrum errichtet. Die Dame kann auf d5 nicht so einfach
+vertrieben werden. Die Stellung ist immer noch sehr unangenehm für Schwarz.}
+Kh8 {Der König muss in die Ecke gehen, denn wenn er den Turm zwischenzieht,
+folgt der Rückzug des Läufers nach c4 und der Turm ist verloren.} 14. Bd2 {
+Der Läufer war angegriffen und muss sich zurückziehen. Vielleicht geht der
+Läufer dann nach c3.} *
+

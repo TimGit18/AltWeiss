@@ -1,0 +1,70 @@
+[Event "Beating Unusual Chess Defences"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Tango"]
+[Black "Skandinavischer Tango"]
+[Result "*"]
+[ECO "B01"]
+[Annotator "Andrew Greet"]
+[PlyCount "32"]
+[EventDate "2013.11.17"]
+[SourceDate "2013.11.17"]
+
+1. e4 Nc6 {Dieser Zug stellt die bedeutendste unter den unregelmäßigen
+Verteidigungen dar. Schwarz spielt gegen die Felder d4 und d5} 2. Nf3 {Der Zug
+ist viel bequemer als viele andere Züge, denn er zwingt Schwarz dazu in
+andere Strukturen zu wechseln oder Neuland zu betreten. Der Skandinavische
+Tango beginnt mit} d5 {Der Charakter der Stellung ähnelt einer
+Skandinavischen Verteidigung} 3. exd5 Qxd5 4. Nc3 {Weiß wählt hier ganz
+bewußt die Hauptvariante der Skandinavischen Verteidigung, denn er weiß,
+dass der Springer auf c6 voreilig entwickelt wurde} Qa5 {Das ist die
+Hauptfortsetzung. Schwarz hat auch andere Rückzüge versucht, allerdings alle
+mit einem Nachteil} ({(a)} 4... Qd8 5. d4 {bringt Schwarz schon in einige
+Schwierigkeiten, denn} Bg4 6. d5 $1 Ne5 {wird widerlegt durch} 7. Nxe5 Bxd1 8.
+Bb5+ c6 9. dxc6 {mit einer bekannten Gewinnstellung für Weiß}) ({(b)} 4...
+Qd6 {ist der Bronstein-Zug in dieser Stellung} 5. d4 Nf6 6. Nb5 Qd8 7. c4 a6 8.
+Nc3 Bg4 9. Be3 e6 10. Be2 Be7 11. O-O O-O 12. h3 Bh5 13. a3 {, wonach Schwarz
+wenig Gegenspiel in dieser Stellung hat}) ({(c)} 4... Qh5 5. Nb5 Kd8 6. d4 {
+Schwarz hat hier verschiedene Züge zur Auswahl, aber keiner reicht zum
+Ausgleich} Bg4 {wird entgegnet durch} ({(c1)} 6... a6 7. Nc3 Bf5 8. Be2 Qg6 {
+und das einfache} 9. Nh4 Qf6 10. Nxf5 Qxf5 11. Bg4 Qg6 12. Bf3 {bringt Schwarz
+in eine niedergeschlagene Stellung}) ({(c2)} 6... Nf6 {ist spielbar, aber
+geistlos} 7. Be2 {Weiß hat eine excellente Stellung}) 7. Bf4 {, wonach der
+Angriff gegen c7 unangenehm wird} a6 (7... Bxf3 8. Qxf3 Qxf3 9. gxf3 a6 10.
+Nxc7 Rc8 11. Nd5 Ke8 12. O-O-O {und Weiß hat einen gesunden Mehrbauern}) 8. d5
+Bxf3 9. gxf3 Ne5 10. Nd4 Nf6 11. Qe2 Ng6 12. Bg3 Kc8 13. O-O-O {Die schwarze
+Stellung ist unterentwickelt und ein desorganisiertes Durcheinander}) 5. Bb5 $1
+{Das ist die vielversprechendste Fortsetzung, in der der Springer auf c6 als
+Ziel genommen wird} Bd7 ({Riskanter ist} 5... Bg4 6. h3 Bh5 7. Qe2 O-O-O (7...
+e6 {ist schwach wegen} 8. Qe5 O-O-O 9. Qxh5 a6 10. Ng5 Nf6 11. Qd1 axb5 12.
+Nxf7 {mit Materialgewinn für Weiß}) 8. Bxc6 bxc6 9. g4 Bg6 10. Ne5 {mit
+besserer Stellung für Weiß}) 6. O-O a6 ({Stattdessen führt} 6... O-O-O 7. d4
+e6 8. a3 $1 {zu einer Bedrohung der schwarzen Dame mit Le3 und b4} Bb4 9. Rb1
+Bxc3 10. bxc3 {mit hervorragenden weißen Aussichten}) 7. Bxc6 Bxc6 8. d4 {
+Schwarz hat zwei Läufer, aber er ist in der Entwicklung zurück und die
+Bedrohung von Sf3-e5 ist nicht einfach zu begegnen} O-O-O {Das ist die
+Hauptfortsetzung. Aber auch hier hat Schwarz Probleme zu überwinden} ({(a)} 
+8... f6 $6 {Schwarz ergreift drastische Maßnahmen in dieser Stellung, aber er
+spielt mit dem Feuer, denn er macht solch einen Zug mit Entwicklungsrückstand}
+9. d5 {Der Textzug ist die energischste Fortsetzung. Weiß opfert mindestens
+einen Bauern um seinen Vorsprung in der Entwicklung zu erhöhen} O-O-O 10. b4 {
+Das ist die Schlüsselidee, die den letzten Zug von Weiß rechtfertigt} Qxb4
+11. Bd2 {Weiß unterbindet die Fesselung auf der d-Linie und bedroht
+gleichzeitig die schwarze Dame} Bb5 12. Rb1 Qc5 13. Nxb5 axb5 14. a4 {Das ist
+der Beginn einer Serie von Bauernopfern, um den schwarzen König zur Strecke
+zu bringen} bxa4 15. c4 Qxc4 16. Rb4 Qxd5 17. Qxa4 e5 18. Rb5 {Die schwarze
+Dame hat kein befriedigendes Fluchtfeld mehr}) ({(b) Die Variante} 8... Nf6 {
+ist zu einfach, denn nach} 9. Ne5 {steht Schwarz einfach schlecht}) (8... e6 9.
+Ne5 Bd6 10. Nxc6 bxc6 11. Qg4 Ne7 {In dieser Stellung kann Weiß gefahrlos den
+g-Bauern nehmen} 12. Qxg7 Qh5 13. g3 Rg8 14. Qh6 {Schwarz hat nicht genügend
+Kompensation}) ({(c) Nach} 8... Qh5 9. d5 O-O-O 10. Qd4 Nf6 11. Ne5 Nxd5 12.
+Nxc6 bxc6 13. Qa7 {hat Schwarz Probleme}) 9. Ne5 Be8 10. b4 Qb6 ({Nach} 10...
+Qxb4 11. Qf3 Qxd4 12. Rb1 c6 13. Bf4 {hat Weiß eine gewaltige Initiative}) 11.
+Be3 {Schwarz hat hier mehrere Züge probiert} e6 {Dieser Zug ist der meist
+zitierte Zug in dieser Stellung} (11... f6 12. Nd3 Qc6 13. Nc5 e6 14. Qg4 {
+mit schwierigen Problemen für Schwarz in dieser Stellung}) 12. Rb1 f6 13. Nc4
+Qc6 14. Na5 Qxc3 15. Rb3 Bxb4 16. Rxc3 Bxc3 {Schwarz hat in der Partie von
+Emms gegen Kristensen genügend Kompensation für die Dame, aber der König
+wird nun in das Freie geholt und zur Strecke gebracht} *
+

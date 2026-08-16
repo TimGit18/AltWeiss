@@ -1,0 +1,39 @@
+[Event "Beating Unusual Chess Defences "]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Österreichischer Angriff"]
+[Black "Damenangriff"]
+[Result "*"]
+[ECO "B06"]
+[Annotator "Andrew Geet"]
+[PlyCount "35"]
+[EventDate "2013.10.05"]
+[SourceDate "2013.10.05"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 {Mit dieser flexiblen Option hält sich Weiß den
+Österreichischen Angriff offen} d6 {Das ist der beliebteste Zug von Schwarz} 4.
+f4 {Damit wird der Österreichische Angriff eingeleitet} c6 {Schwarz bereitet
+Dd8-b6 vor, manchmal auch b7-b5} 5. Nf3 {Das ist die natürliche Antwort} Qb6 {
+Dieser Plan kann zu Zugumstellung zur Hauptvariante führen, hat aber einige
+Nachteile} 6. Bc4 {Das scheint die herausfordernste Antwort zu sein, obwohl
+auch andere Züge nicht schlecht sind} Nh6 (6... Bg4 {verliert nach} 7. Bxf7+
+Kxf7 8. Ng5+) 7. Bb3 {Der Zug überdeckt den Bauern b2 und ermöglicht daher die
+Entwicklung des anderen Läufers} Bg4 8. Be3 d5 {Dieser Zug ist praktisch
+erzwungen. Denn würde Schwarz keine Versuche machen, um die weißen Felder zu
+kämpfen, so hätte er große Schwierigkeiten, die Stellung des Springers auf h6
+zu rechtfertigen} 9. Qd2 {Ein sehr wichtiger Zug} dxe4 ({Nach} 9... Bxf3 10.
+gxf3 e6 11. f5 Ng8 12. fxe6 fxe6 13. Na4 Qc7 14. Nc5 Qf7 15. O-O-O {sieht die
+schwarze Stellung schon sehr verdächtig aus}) 10. Ne5 {Das weiße Bauernopfer
+ist bloß zeitweise und alle Figuren erfreuen sich ausgezeichneter Aussichten}
+Bf5 {Das ist der beste Versuch nach gesundem Menschenverstand} 11. h3 f6 {Die
+Empfehlung lautet nun} 12. g4 fxe5 13. dxe5 Qd8 {Schwarz tauscht am besten die
+Damen, aber das erleichtert seine Aufgabe nicht} 14. gxf5 Qxd2+ (14... Nxf5 15.
+Nxe4 Qxd2+ 16. Bxd2 {führt zu Zugumstellung}) 15. Bxd2 e3 ({(a)} 15... gxf5 16.
+Rg1 Bf8 17. Be3 {Die schwarzen Figuren sind bewegungsunfähig und der Läufer
+auf b3 sehr mächtig}) ({(b)} 15... Nxf5 16. Nxe4 Nd4 17. Be3 Nxb3 18. axb3 Na6
+19. Ke2 {und Weiß steht sehr stark im Zentrum, wohingegen der schwarze Läufer
+eingeschränkt ist und sein Damenflügel schwach}) 16. Bxe3 Nxf5 17. Bf2 Bh6 18.
+Ne2 {und Weiß steht besser dank seines dominanten L�ufers auf den wei�en
+Feldern. Die Analyse stammt von Khalifman} *
+

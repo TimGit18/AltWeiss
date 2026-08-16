@@ -1,0 +1,82 @@
+[Event "1.e4 vs Minor Defences"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alekhine-Verteidigung"]
+[Black "Fianchetto-System"]
+[Result "*"]
+[ECO "B04"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "24"]
+[SourceVersionDate "2021.10.13"]
+
+1. e4 Nf6 {Die Alekhine-Verteidigung ist eigentlich eine Provokation. Weiß
+erhält einen gewaltigen Raumvorteil und einen großen Freiraum im Zentrum.
+Trotzdem handelt es sich nicht um eine schlechte Eröffnung. Schwarz setzt
+darauf, dass Weiß so frei ist, seine Zentrumsbauern zu enthusiastisch nach
+vorne zu rücken und das eigene Zentrum letztlich überdehnt.} 2. e5 Nd5 {
+Bisweilen geht der Springer auch auf sein Ursprungsfeld zurück.} 3. d4 d6 4.
+Nf3 {Das Fianchetto-System kennzeichnet den Zug} g6 {Die Entwicklung des
+Königsläufers nach g7 ist ein logischer Weg, um Druck auf das weiße Zentrum
+aufzubauen. Andererseits ist der Zug auch etwas provokativ und erlaubt Weiß
+aggressiv zu reagieren.} 5. Bc4 Nb6 {Der starke Springer wurde aus dem Zentrum
+vertrieben.} ({(a)} 5... dxe5 6. Nxe5 {transponiert in das Moderne System.}) ({
+(b)} 5... Be6 $2 {macht keinen Sinn angesichts} 6. Ng5 {[%csl Ye6][%cal Rg5e6]
+und nach etwa} dxe5 7. Nxe6 fxe6 8. dxe5 Bg7 9. f4 {wird es klar, dass die
+schwarze Eröffnung gescheitert ist.}) ({(c)} 5... c6 {ist ein ziemlich
+beliebter Zug und kann in das Kengis-System transponieren.} 6. O-O Bg7 7. Re1
+O-O 8. c3 {Andere Züge sind möglich, aber man sollte das Konzept aus dem
+Modernen System beibehalten. Für Schwarz gibt es nichts besseres als die
+Transposition in das Moderne System, denn nach} Bg4 $6 9. h3 Bxf3 10. Qxf3 dxe5
+11. dxe5 $16 {besitzt Weiß ausgezeichnetes Spiel.}) 6. Bb3 Bg7 {Schwarz
+führt seinen Plan aus, aber nun kann Weiß eine sehr aggressive Antwort
+wählen.} ({(a) Der Damenflügel-Angriff beginnt mit} 6... Nc6 7. a4 $1 {
+[%csl Ya5,Yd5][%cal Ga4a5,Gd4d5] Die Idee besteht darin, a7-a5 zu provozieren,
+so dass Schwarz den Vorstoß d4-d5 nicht mit Sc6-a5 beantworten kann.} a5 8.
+exd6 exd6 9. O-O d5 10. Re1+ Be6 {Weiß wird versuchen, seine Figuren zu
+aktivieren und zu koordinieren.}) ({(b)} 6... d5 {gibt die Spannung im Zentrum
+zu einfach auf und läßt Schwarz keine effektive Wahl, um das weiße Zentrum
+herauszufordern.} 7. O-O {Die Inklusion von h2-h3 ist hier nicht notwendig.}
+Bg7 8. c3 O-O (8... Bg4 9. Nbd2 O-O 10. h3 Bxf3 11. Nxf3 $16) 9. Re1 {[%csl
+Yd2,Yf1,Yg3][%cal Gb1d2,Gd2f1,Gf1g3] Ohne dass der schwarze Damenläufer ein
+gutes Feld findet wird es Schwarz schwer haben, seine Entwicklung zu beenden.
+Weiß dagegen hat einige Pläne wie das Manöver des weißen Damenspringers
+nach g3 oder den Abtausch des Damenläufers.}) 7. Ng5 {[%csl Yf7][%cal Rg5f7,
+Rb3f7] Weiß bedroht sofort die Schwäche auf f7. Ruhigere Fortsetzungen wie
+Dd1-e2 oder 0-0 sind hier auch ziemlich vernünftig, aber der Textzug ist am
+aggressivsten.} e6 {Die Blockade der Diagonalen mit dem Damenbauern ist heute
+eher unüblich, denn Schwarz löst damit zu früh die Spannung im Zentrum auf.}
+({Kaum gespielt wird heute noch} 7... d5 {, und zwar aus gutem Grund. Schwarz
+gibt zu leicht die Spannung im Zentrum auf und erlaubt Weiß} 8. f4 {Weder der
+Bauerndurchbruch auf c5 noch auf f6 verusachen irgendwelche Kopfzerbrechen.
+Weiß kann frei agieren.}) 8. Qf3 {[%csl Ye4,Yf3,Yf7,Yg5][%cal Rf3f7,Rg5f7,
+Gc1g5,Gg5e4] Das ist die schärfste und anspruchvollste Fortsetzung. Weiß hat
+es aufgegeben, sein Zentrum zu stützen und konzentriert sich auf taktische
+Drohungen. Neben der Mattdrohung auf f7 drohen Züge wie Sg5-e4 und Lc1-g5.
+Weiß muss sehr genau wissen, was er tut.} Qe7 {Das ist der beliebteste und
+herausfordenste Zug.} ({Nach} 8... O-O {scheint es klar, dass diese
+Fortsetzung für Weiß gut aussieht, aber sie muss weiter analysiert werden.}
+9. Qh3 {Weiß setzt sein Spiel energisch fort, um eine Schwäche auf dem
+schwarzen Königsflügel zu provozieren, bevor er seinen Springer zurückzieht.
+} h6 10. Nf3 dxe5 11. dxe5 Nc6 {Dieser Entwicklungszug ist die natürlichste
+und beliebteste Fortsetzung.} ({Einen Gegenangriff leitet} 11... c5 {ein.} 12.
+Bxh6 {Und dieses Figurenopfer ist zu verlockend, um es abzulehnen.} c4 13. Be3
+cxb3 {Schwarz sollte das Material einstecken und auf das Beste hoffen.} 14. Ng5
+)) 9. Ne4 {[%csl Yd6,Yf6][%cal Ge4f6,Re4d6] Weiß setzt seinen Angriff auf den
+schwarzen Feldern fort.} dxe5 {Das ist die Hauptvariante. Das Verspeisen des
+Zentrumsbauern ist der schwierigste Ansatz, scharf und riskant.} ({Die
+Prophylaxe-Variante beginnt mit} 9... h6 {Dieser etwas ungewöhnliche Zug
+wurde populär als es klar wurde, dass der Einstieg des weißen Springers auf
+d6 gar keine so große Errungenschaft für Weiß darstellt.} 10. exd6 cxd6 11.
+Bf4 d5 12. Nd6+ Kf8 {Weiß scheint einen kleinen Sieg in der
+Eröffnungsschlacht davon getragen zu haben, indem er Schwarz dazu gezwungen
+hat, mit dem König beiseite zu treten. Er wird einen der gegnerischen Läufer
+tauschen. Andererseits bleibt der schwarze König sicher. Weiß muss hier noch
+mehr Ideen entwickeln.}) 10. Bg5 {Weiß entwickelt sich mit Tempo. Die
+Fortsetzung ist auch mit einem Opfer verbunden.} Qb4+ {Schwarz rettet die Dame
+und zwingt Weiß auch zu einem Tempoverlust.} 11. c3 (11. Nbd2 {sieht
+verlockend aus, führt aber zu nichts.}) 11... Qa5 {Die Stellung sieht
+verdächtig für Schwarz aus. Die Schwierigkeit für Weiß ist es, dass einige
+genaue schwarze Verteidigungszüge sie zum Ausgleich vereinfachen würden.} 12.
+dxe5 $1 {Andere Züge führen tasächlich nicht zu einem Vorteil.} N8d7 *
+

@@ -1,0 +1,64 @@
+[Event "Experten vs. Sizilianisch"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Taimanov-System"]
+[Black "Miladinovic-Variante"]
+[Result "*"]
+[ECO "B48"]
+[Annotator "Sune Berg Hansen"]
+[PlyCount "45"]
+[EventDate "2011.10.03"]
+[SourceDate "2011.10.03"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 {Im Taimonov-System stellt Schwarz
+den Springer von Beginn an auf c6, was bedeutet, dass Weiß den Springer auf d4
+entweder durch die Dame d1 oder den Läufer auf e3 gedeckt halten muss} 5. Nc3 {
+Dieser Zug stellt wieder die bevorzugte Aufstellung gegen das Taimanov-System
+dar. Weiß entwickelt einfach seine Figuren und zentralisiert diese.} Qc7 {Das
+beste Feld für die schwarze Dame. Sie kontrolliert das Feld e5 und übt Druck
+auf der c-Linie aus. Sie kann zwar von einem Springer auf b5 angegriffen
+werden, aber dann geht sie einfach nach b8 zurück} 6. Be3 {Weiß stellt jetzt
+einfach seine Leichtfiguren in die Mitte} a6 {Dieser Zug muss früher oder
+später kommen - womit eine Parallelität zum Kan-System erreicht ist.
+Allerdings hat sich Schwarz mit der Springerentwicklung nach c6 schon früh
+festgelegt und Weiß noch nicht den Königsläufer nach d3 entwickelt hat} 7. Bd3
+{Das holt er jetzt nach. Laut Hansen ist dies eines der aggressivsten weißen
+Systeme. Weiß vervollständigt seine Entwicklung und steht zu aktiven
+Handlungen bereit} Nf6 {Auch Schwarz fährt mit seiner Entwicklung fort. Die
+prinzipielle Alternative ist b7-b5} 8. O-O {Weiß bringt seinen König in
+Sicherheit und bereitet die Zentralisierung der Schwerfiguren vor} h5 {Eine
+Spezialität von Miladinovic. Der Zug entspricht zwar dem Geist von Larsen
+einfach mit dem h-Bauern loszumarschieren, aber er scheint kein guter Zug zu
+sein. Sehr häufig wünscht sich der h-Bauer auf sein Ausgangsfeld zurück. Und
+wohin soll der schwarze König gehen?} 9. h3 {Weiß verhindert den
+Springerausfall nach g4 mit drohendem Matt oder Verlust des Läuferpaares} b5 {
+Schwarz eröffnet eine zweite Front am Damenflügel} (9... Nxd4 {ist
+vergleichbar mit der Abtauschvariante im Taimanov-System bis auf die Stellung
+des h-Bauern} 10. Bxd4 Bc5 11. Bxc5 Qxc5 12. Na4 {Mit dem eingeschobenen h5
+und h3 ist dieser Zug gut} Qc7 13. c4 d6 14. Rc1 {Für diesen Stellungstyp ist
+der schwarze h-Bauer fehlplatziert} b6 15. b4 Nd7 16. Re1 Bb7 17. Bf1 Rd8 18.
+Qd4 e5 19. Qe3 Rb8 20. c5 {Das ist typisch: Bei einem vorrrückenden h-Bauern
+kann Weiß sehr aggressiv spielen}) 10. Nxc6 {Fas immer nach einem b7-b5 legt
+Weiß diesen Springer in den Kasten} Qxc6 11. Be2 {Eine neue Idee, die von
+Kotronias 2001 eingeführt wurde. Weiß will den Läufer auf die lange Diagonale
+stellen} Qc7 {Schwarz zieht die Dame vorsorglich zurück} ({(a)} 11... b4 12. e5
+bxc3 13. exf6 gxf6 14. bxc3 Rb8 {Jetzt sollte Weiß} 15. Re1 {ziehen. Eine
+mögliche Variante lautet} Be7 16. c4 Bb7 17. Bf3 Qxc4 18. Rb1 Qc8 19. c4 {mit
+guter Kompensation für den Bauern}) ({(b)} 11... Bb7 12. Bf3 e5 {ist ein
+Eingeständnis} 13. Nd5 {Das ist am besten}) 12. Bf3 {Das ist der weiße Plan}
+Rb8 {Schwarz will am Damenflügel vormarschieren} 13. Bd4 {Weiß zentralisiert
+seine Figuren} b4 {Schwarz führt seinen Damenflügelangriff durch. Er will den
+weißen Springer vertreiben.} (13... Bd6 {ist eine ziemlich riskante
+Alternative mit der Folge} 14. Re1 Bh2+ 15. Kh1 Be5 16. Nd5 {Man sollte immer
+nach diesem Zug Ausschau halten} Qd6 17. c3 h4 18. Qd2 Bb7 19. Rad1 Nh7 {Am
+geradlinigsten ist} 20. Bxe5 Qxe5 21. Nb4 Rd8 22. Qe3 {, wonach Weiß deutlich
+besser steht}) 14. e5 {Weiß ignoriert die Drohung und marschiert seinerseits
+vor, denn der schwarze Springer hat kein gutes Rückzugsfeld} bxc3 {Schwarz hat
+eigentlich keine Wahl und muss sich auf den gegenseitigen Abtausch einlassen}
+15. exf6 cxb2 16. Rb1 gxf6 17. Bxf6 Rg8 18. Bxb2 {Der schwarze König ist ohne
+Domizil, so dass Weiß die Oberhand behält} Rb5 (18... Bb7 {wird mit} 19. Bd4 {
+beantwortet}) 19. Bd4 Bb7 20. Rb3 {ist am besten. Nach} Rxb3 21. axb3 Bxf3 22.
+Qxf3 Qxc2 23. Ra1 {hat Weiß für den Bauern eine hervorragende Angriffsstellung}
+*
+

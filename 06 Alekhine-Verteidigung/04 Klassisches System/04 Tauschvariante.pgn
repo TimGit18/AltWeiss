@@ -1,0 +1,48 @@
+[Event "Beating Unusual Chess Defences"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches System"]
+[Black "Tauschvariante"]
+[Result "*"]
+[ECO "B05"]
+[Annotator "Andrew Greet"]
+[PlyCount "31"]
+[EventDate "2013.07.05"]
+
+1. e4 Nf6 2. e5 Nd5 {Es gibt zu diesem Zug eigentlich keine wirklichen
+Alternativen} 3. d4 d6 {Das ganze schwarze Konzept basiert auf der
+Unterminierung der zentralen weißen Bauern. Ohne diesen Zug kommt Schwarz im
+Grunde nicht aus} 4. Nf3 {Das ist der weiße Hauptzug. Er verteidigt den
+Bauern auf e5 und entwickelt eine Leichtfigur.} Bg4 {Dieser Zug stellt die
+alte Hauptvariante dar. Sie ist sehr bekannt und theoriebeladen, aber heute
+nicht mehr so beliebt wie früher} 5. Be2 {Für Weiß ist es nun am besten die
+Fesselung aufzuheben. Er bereitet außerdem die kurze Rochade vor und will mit
+dem c-Bauern nach c4 vorrücken} e6 {Mit diesem Zug stützt Schwarz einfach
+noch einmal seinen Springer im Zentrum und öffnet die Diagonale für den
+anderen Läufer. Da der Damenläufer schon entwickelt ist, sperrt er ihn auch
+nicht ein} 6. O-O {Weiß rochiert zunächst am besten, bevor er weitere
+Aktionen im Zentrum plant} Be7 {Der Läufer steht zwar hier zunächst
+verhalten, kann aber später einmal nach f6 gehen und ein schönes Druckspiel
+gegen das weiße Zentrum ausüben} 7. h3 {Dieser Zwischenzug ist sehr wichtig.
+Weiß treibt den Läufer zurück nach h5, wo er später - nach dem Vorstoß
+d4-d5 - einmal sehr ungünstig stehen wird.} Bh5 ({Die frühe Tauschvariante
+beginnt mit} 7... Bxf3 $2 {Aber dieser Zug ist hier schlecht. Weiß beherrst
+das Brett auf den weißen Feldern.} 8. Bxf3 {[%csl Gf3][%cal Gc2c4]} c6 9. c4
+Nc7 (9... Nb6 10. exd6 {[%cal Gc4c5]}) 10. exd6 Qxd6 11. Qb3 $1 {[%cal Gb3b7]}
+b6 {[%cal Gf3a8]} 12. Rd1 O-O 13. Nc3 Nca6 {Die schwarzen Figuren stehen sehr
+seltsam und sind nicht koordiniert.} ({Ein Fehler wäre hier} 13... Nd7 $2 14.
+c5 bxc5 15. Ne4 Qd5 16. Nf6+ {und die schwarze Dame ist verloren.}) 14. d5 Nc5
+15. Qc2 Qc7 16. b4 Nb7 17. dxe6 fxe6 {Jetzt ist auch noch die schwarze
+Bauernstruktur ruiniert.} 18. Bg4 Bxb4 19. Ne4 h6 20. Bxe6+ {und Weiß gewann
+später in Nunn,J-Fatin,T/Luzern 1982} Kh8 21. Ng5 hxg5 22. Qg6 Rf6 23. Qh5+
+Rh6 24. Qe8+ Bf8 25. Qxf8+ Kh7 26. Bg8+ Kg6 27. Qe8+) 8. c4 Nb6 9. Nc3 {
+[%cal Gh5f3]} Bxf3 {Dieses verzögerte Schlagen löst auch nicht die Probleme
+von Schwarz.} 10. Bxf3 Nc6 ({Der Zug} 10... c6 {versucht die Diagonale zu
+unterbrechen.} 11. exd6 {und Schwarz verliert Material, wenn er
+zurückschlägt.}) 11. Bxc6+ bxc6 12. Qg4 {Weiß nutzt sofort die schwache
+schwarze Königsstellung aus.} g6 {[%csl Gf6,Gh6]} (12... O-O 13. Bh6 {
+verliert sofort Material.}) 13. Qf3 Qd7 14. b3 {[%csl Ga2,Gb3,Gb6,Gc4]} O-O 15.
+Bh6 Rfb8 16. Ne4 {Weiß hat sehr gutes Figurenspiel und Schwarz große
+Schwächen auf dem Königsflügel.} *
+

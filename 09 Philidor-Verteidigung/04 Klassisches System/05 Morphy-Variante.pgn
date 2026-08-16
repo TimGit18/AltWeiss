@@ -1,0 +1,32 @@
+[Event "The Philidor Files"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassiches System"]
+[Black "Morphy-Variante"]
+[Result "*"]
+[ECO "C41"]
+[Annotator "Christian Bauer"]
+[PlyCount "17"]
+[EventDate "2009.??.??"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 {Dieser Zug ist spielbar, aber er beinhaltet ein
+Bauernopfer. Er stammt aus der Zeit von Morphy und soll Druck auf den Bauern
+d4 ausüben} 4. dxe5 Nd7 {Das ist die grundsätzliche schwarze Idee. Für den
+Bauern erhält Schwarz offene Linien und einen gewissen Entwicklungsvorsprung.
+Schwarz kann auch andere Züge wählen, aber diese gelten als nicht so gut} ({
+(b) Aus der berühmten Partie von Paul Morphy gegen den Grafen Isouard stammt
+die Fortsetzung} 4... Bxf3 {Schwarz gibt das Läuferpaar auf für eigentlich
+nichts, nur um den Bauernverlust zu vermeiden} 5. Qxf3 dxe5 6. Bc4 {Schwarz
+hat hier mehrere Möglichkeiten, aber keine ist gut} Qf6 7. Qb3 b6 8. Nc3 c6 9.
+Bg5 $1 Qg6 {Schwarz kann den Läufer nicht nehmen, denn er verliert den
+Springer auf g8} 10. Rd1 Nf6 11. Bxf6 Qxf6 12. Nd5 {Auch dieser Springer kann
+nicht genommen werden, weil Schwarz dann den Turm auf a8 verliert. Jetzt hat
+aber Weiß einen großen Vorteil und wird wahrscheinlich gewinnen}) ({(b)} 4...
+Nc6 {hat eigene Nachteile} 5. exd6 Bxd6 6. Bb5 Nge7 7. Be3 a6 8. Be2 {ohne
+Kompensation für den Bauern}) 5. exd6 Bxd6 6. Nc3 Ngf6 7. Be2 Qe7 8. Nd4 {
+Dank dieses Zuges erhält Weiß einen schönen Vorteil} Bxe2 (8... Nxe4 9. Nxe4
+Qxe4 10. f3 {ist die taktische Rechtfertigung für den Zug, denn nach} Qe7 11.
+fxg4 Qh4+ 12. Kf1 {sollte die weiße Merhfigur entscheiden}) 9. Qxe2 {mit einem
+gesunden Mehrbauern, den Weiß mit f2-f3 absichern kann} *
+

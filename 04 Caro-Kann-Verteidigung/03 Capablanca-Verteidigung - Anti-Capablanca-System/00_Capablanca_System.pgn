@@ -1,0 +1,113 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Caro-Kann-Verteidigung"]
+[Black "Capablanca-System"]
+[Result "*"]
+[ECO "B19"]
+[PlyCount "25"]
+[EventDate "2011.10.03"]
+[SourceDate "2011.10.03"]
+
+1. e4 c6 2. d4 d5 {Die Grundidee der Caro-Kann-Verteidigung besteht in ihrer
+Solidität. Schwarz platziert einen Posten im Zentrum, um mit einem Bauern
+zurückzuschlagen, ohne dass sein Damenläufer eingesperrt wird oder Weiß
+eine Mehrheit der Zentrumsbauern erhält.} 3. Nc3 {Weiß entwickelt eine Figur
+und verteidigt seinen Königsbauern. Außerdem übt der Damenspringer -
+ähnlich wie in der Französischen Verteidigung - einen gewissen Druck auf das
+schwarze Zentrum, d.h. den Bauern d5 aus. Wenn jetzt Schwarz - wie üblich -
+den Bauen auf e4 nimmt, dann hat Weiß bereits eine Figur in das Zentrum
+gebracht.} dxe4 {Der Sinn dieses Zuges ist es natürlich nicht, die Figuren
+von Weiß im Zentrum stehen zu lassen und sich selber hinter dem
+zurückhaltenden Bauern c6 zu entwickeln. Schwarz wird vielmehr versuchen, mit
+seinen Figuren das weiße Zentrum anzugreifen und im richtigen Moment seinen
+Bauernmehrheit dort einzusetzen.} 4. Nxe4 {Weiß hat eine etwas freiere
+Stellung und muss jetzt abwarten, wie sich die schwarzen Figuren aufstellen.
+In der Regel kann er eine leicht bessere Position erhalten, aber die schwarze
+Stellung ist sehr fest.} Bf5 {[%csl Yb1,Yc2,Yd3,Ye4,Yf5,Yg6,Yh7] Ein logischer
+Zug. Schwarz entwickelt seinen Läufer mit Tempogewinn auf die beste Diagonale.
+Mehr kann man von einem Zug nicht verlangen. Anschließend entwickelt er sich
+einfach so schnell wie möglich weiter. Sb8-d7, Sg8-f6, e7-e6 nebst Lf8-e7 und
+Dd8-c7 sind alles typische Züge, allerdings muss Schwarz meist h7-h6 spielen,
+wenn Weiß beginnt, den Läufer auf g6 zu belästigen. Schwarz kann sowohl
+lang als auch kurz rochieren und möchte seine Stellung mit c6-c5 befreien. In
+der Regel hat Schwarz weniger Raum, aber nur selten treten sich seine Figuren
+auf den Füßen. Ein typisches Motiv von Weiß ist daraufhin der Vormarsch des
+weißen h-Bauern, um Raum am Königsflügel zu gewinnen und den schwarzen
+Damenläufer abzutauschen. Dies ist ein sinnvoller Plan, denn ähnlich wie in
+der Skandinavischen Verteidigung ist der schwarze Damenläufer sehr stark und
+könnte den weißen König bedrohen, sollte dieser wie üblich lang rochieren.}
+5. Ng3 {[%csl Ye4,Yf5,Yh5] Da Weiß keine Möglichkeit hat, den Springer im
+Zentrum zu halten, zieht er ihn zurück, um den Läufer anzugreifen} ({Weiß
+hat kine guten Möglichkeiten, den Springer im Zentrum zu halten und muss ihn
+ziehen, denn} 5. Bd3 {scheitert an} Qxd4 {Manchmal zieht ihn Weiß auch auf
+den Damenflügel nach c5, aber g3 sieht eher wie der natürliche Platz für
+den Springer aus, wonach er viele weiße Felder auf dem Königsflügel
+mitkontrolliert.}) 5... Bg6 {Der Läufer ist eine starke Figur und soll nicht
+einfach gegen einen Springer abgetauscht werden. Schwarz könnte ihn auch
+stehen lassen und mit dem Damenschach auf a5 per Gabel die Figur
+zurückerobern. Der Nachteil dieses Zuges ist, dass der Läufer nach wie vor
+ein Angriffsobjekt bleibt.} 6. h4 {Dieser Zug bildet die alte, klassische
+Hauptvariante. Normalerweise rückt Weiß seinen h-Bauern vor, um Raum am
+Königsflügel zu schaffen und die weißfeldrigen Läufer abzutauschen. Ein
+anderes Konzept verfolgt die frühe Figurenentwicklung mit Lf1-c4 und Sg1-e2.
+Weiß will im Stile von Michail Tal Se2-f4 spielen und auf e6 opfern oder
+einen Angriff mit f2-f4 einleiten.} h6 {Das ist der präventive Zug, um den
+Läufer zu schützen} 7. Nf3 {Das wichtigste strategische Ziel von Weiß ist
+es, einen starken Springer auf e5 zu etablieren} Nd7 {Bis vor kurzem hatte man
+geglaubt, dass dieser Zug notwendig ist, um Weiß daran zu hindern Sf3-e5 zu
+spielen. Die moderne Hauptvariante beginnt mit Sg8-f6} ({Die moderne
+Behandlung beginnt mit} 7... Nf6 {Früher wurde dieser Zug als eine ernsthafte
+Ungenauigkeit angesehen. Jetzt ist der Zug eine Art Hauptvariante geworden. Er
+hindert zwar Weiß nicht daran, Sf3-e5 zu spielen, aber dies ist gar nicht so
+gefährlich wie es aussieht. Die grundlegende Idee ist es, den Königsflügel so
+schnell wie möglich zu entwickeln und dann c6-c5 zu spielen. Indem er den
+Springer auf b8 beläßt, bewahrt Schwarz die Möglichkeit Sb8-c6 zu spielen.
+Damit nutzt er aus, dass der weiße Springer auf e5 nicht mehr die Felder d4
+und e5 kontrolliert} 8. Ne5 {Das ist offensichtlich der kritische Test} Bh7 {
+Der Läufer darf nicht so schnell getauscht werden} 9. Bd3 {Dieser Zug hat das
+vorher so beliebte Lf1-c4 abgelöst in der Beliebtheit. Die Idee ist einfach
+den starken schwarzen Damenläufer zu tauschen} Bxd3 10. Qxd3 e6 11. Bd2 {Dies
+ist ein wichtiger Moment. Schwarz plant, die Zentralfelder, die der Springer
+nicht mehr deckt, zu unterminieren. Daher muss Weiß diesen Springer stützen.
+Am besten macht er das mit dem Bauern f2-f4} Nbd7 12. f4 Be7) 8. h5 {Dieser
+Zug dient nur der Vorbereitung des Abtauschs. Er hat mehr Vor- als Nachteile,
+denn er räumt das Feld h4 für den Turm, obwohl der Bauer h5 schwach werden
+kann} Bh7 {Dies ist der einzige Zug} 9. Bd3 {Das gehört zur Strategie von
+Weiß. Der Läufer soll abgetauscht werden} Bxd3 10. Qxd3 {Mit diesem Zug
+zentralisiert Weiß seine Dame und bereitet die lange Rochade vor} Qc7 {Dies
+zeigt die Absicht von Schwarz lang zu rochieren. Es wäre sinnlos für Schwarz
+ein Tempo mit diesem Zug zu vergeuden, wenn er kurz rochieren wollte. Wenn er
+dies vorhat, sollte er lieber e7-e6 oder Sg8-f6 spielen} ({Vorbereitenden
+Charakter hat} 10... e6 {Wenn Schwarz kurz rochieren will, ist dieses der
+flexibelste Zug. Schwarz öffnet die Diagonale für den Läufer. Bis 1980 galt
+der Königsflügel als Sperrgebiet. Dynamische Spieler wie Larsen erfanden Pläne
+mit Gegenspiel auf dem Damenflügel wie a7-a5 und b7-b5.} 11. Bf4 {Dies ist der
+präziseste Zug, da hier der Läufer aktiver steht als auf d2. Außerdem
+blockiert er auf f4 nicht die d-Linie. Schwarz muss hier sehr vorsichtig
+agieren.} Qa5+ {Die kämpferischste Antwort, mit der Schwarz zwei Zwecke
+verfolgt: Erstens möchte er die lange Rochade von Weiß verhindern und zweitens
+den Vormarsch des c-Bauern zu provozieren} 12. Bd2 {Die schwarze Dame soll
+verschwinden, aber nicht sofort} Bb4 {Das ist der provokativste Ansatz. Um
+aber einen Vorteil zu erlangen, sollte Weiß jede Vereinfachung der Stellung
+vermeiden und doch den c-Bauern vorziehen} 13. c3 Be7 {Mit dem h-Bauern auf h5
+will Weiß normalerweise nicht auf den Königsflügel rochieren. Daher muss er
+doch die Dame verjagen, um lang zu rochieren} 14. c4 Qc7 {Weiß hat hier drei
+Pläne. Er kann mit dem Bauern nach d5 vorstoßen, kurz oder lang rochieren.
+Nach der Rochade kann Weiß seine Figuren zentralisieren und gegebenenfalls
+Sg3-f5 spielen} 15. O-O-O {Das ist die logischste Fortsetzung} Ngf6 {Schwarz
+entwickelt sich weiter und bereitet die kurze Rochade vor} 16. Rhe1 {Weiß
+zentralisiert seinen Königsflügel und bereitet Züge wie d4-d5, Sg3-f5 und
+Sf3-e5 vor}) 11. Bd2 {Das ist eindeutig der bekannteste Zug und die
+Hauptfortsetzung. Weiß will unverzüglich lang rochieren und hier steht der
+Läufer noch einigermaßen flexibel} {Jovanka Houska: 'Der Rückzug'} e6 {
+Schwarz überdeckt noch einmal das wichtige Feld d5 und öffnet eine Diagonale
+für seinen Läufer Jovanka Houska: 'w�rde in die Hauptvariante mit langer
+Rochade transponieren'} 12. O-O-O {Das war der Plan von Weiß. Alle Figuren
+sind jetzt entwickelt und bereit, in das Spiel einzugreifen} Ngf6 {Bevor sich
+Schwarz entschließt zu rochieren, entwickelt er zunächst seine Leichtfiguren}
+13. Ne4 {Der Springer auf g3 ist die passivste Figur des Weißen und wird
+wieder in das Spiel gebracht. Normalerweise würde Weiß nicht so schnell
+seine Figuren tauschen, aber man kann nicht alles haben} *
+

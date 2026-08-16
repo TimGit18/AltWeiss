@@ -1,0 +1,46 @@
+[Event "Beating Unusual Chess Defences"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Modernes Caro-Kann"]
+[Black "Flügelangriff"]
+[Result "*"]
+[ECO "B15"]
+[Annotator "Andrew Greet"]
+[PlyCount "43"]
+[EventDate "2013.10.07"]
+[SourceDate "2013.10.07"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. f4 d5 {Es gibt noch andere Varianten, mit
+denen Schwarz das blockierte Zentrum provozieren will} 5. e5 Nh6 (5... h5 {ist
+zwar der gebräuchlichste Zug in der Stellung, aber macht keinen Sinn. Nach} 6.
+Nf3 {hat Weiß einfach ein Tempo mehr wie in der Blockadevariante} Nh6 7. Be3
+Bg4 8. h3 Nf5 9. Bf2 Bxf3 10. Qxf3 h4 11. Bd3 e6 {Der schwarze Läufer auf g7
+hat absolut keine Zukunft und sollte wieder nach f8}) 6. Nf3 Bg4 {Schwarz hat
+natürlich anderen Züge, um die Zugfolge zu korrigieren} ({(a)} 6... O-O 7. Be3
+Bg4 8. Be2 Nf5 9. Bf2 f6 {transponiert in die Hauptvariante}) ({(b)} 6... f6 7.
+Be3 O-O 8. h3 {Nach diesem präzisen Zug fehlt es dem weißfeldrigen Läufer von
+Schwarz an Perspektive} Nf7 9. Ne2 $1 {Weiß will sein Zentrum stabilisieren
+und das schwarze Gegenspiel unterbinden} fxe5 10. fxe5 c5 11. c3 Nc6 12. Qd2
+cxd4 13. cxd4 Bf5 14. Ng3 {mit bequemen Vorteil für Weiß}) 7. Be3 ({Oder} 7. h3
+Bxf3 8. Qxf3 {mit guten Aussichten auf weißen Vorteil}) 7... f6 (7... Qb6 {
+forciert mehr oder weniger} 8. Rb1) 8. Be2 O-O (8... Qb6 {kann hier aber wie
+folgt entgegnet werden} 9. Na4 Qa5+ 10. c3 Nd7 11. b4 Qc7 12. O-O O-O 13. h3
+Bxf3 14. Bxf3 Nf5 15. Qd3 {mit leichtem Vorteil für Weiß}) 9. O-O {Das ist die
+Schlüsselstellung der gesamten Variante, die mit verschiedenen Zugfolgen
+erreicht werden kann} Nd7 (9... Nf5 {ist die Hauptalternative} 10. Bf2 Bh6 11.
+Nh4 {Das ist am ehrgeizigsten} Bxe2 12. Qxe2 fxe5 13. fxe5 Qb6 {scheint die
+kritische Fortsetzung zu sein und man entgegnet} 14. Nf3 Qxb2 15. Qd3 Qa3 16.
+Rab1 Qa6 17. Qxa6 bxa6 18. Na4 {Weiß hat glänzende Initiative im Endspiel und
+der schwarze Mehrbauer ist wertlos}) 10. h3 Bxf3 11. Bxf3 Nf5 (11... fxe5 12.
+fxe5 {ändert nicht den Charakter der Stellung}) 12. Bf2 fxe5 13. fxe5 {Weiß
+sollte immer mit dem f-Bauern zurücknehmen} e6 14. Ne2 {Weiß will sein Zentrum
+mit c3 unterstützen} Qg5 ({Vielleicht ist} 14... Bh6 {besser mit} 15. Qd3 Qg5
+16. Bg4) 15. c3 Rf7 ({Nach} 15... Ne3 16. Bxe3 Qxe3+ 17. Kh1 {hat Weiß zwar
+kein Läuferpaar mehr, aber sein eigener Läufer ist besser als der schwarze, da
+er den Bauern e6 angreifen kann}) 16. Qc1 Qe7 ({Nach} 16... Qxc1 17. Nxc1 Bh6
+18. Nd3 {kommt der weiße Springer auf sein Idealfeld}) 17. Be3 {Weiß gibt
+wieder gerne seinen Läufer ab} Raf8 ({Nach} 17... Nxe3 18. Qxe3 Raf8 19. Bg4 {
+hat Weiß einen kleinen Vorteil}) 18. Bg5 Qe8 19. Qd2 h6 20. Bf4 c5 21. Bg4 Nb6
+22. b3 {Weiß behält ein leichtes Plus} *
+

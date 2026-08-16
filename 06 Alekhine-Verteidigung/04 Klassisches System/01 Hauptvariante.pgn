@@ -1,0 +1,74 @@
+[Event "Beating Unusual Chess Defences"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches System"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "B05"]
+[Annotator "Andrew Greet"]
+[PlyCount "39"]
+[EventDate "2013.07.05"]
+
+1. e4 Nf6 2. e5 Nd5 {Es gibt zu diesem Zug eigentlich keine wirklichen
+Alternativen} 3. d4 d6 {Das ganze schwarze Konzept basiert auf der
+Unterminierung der zentralen weißen Bauern. Ohne diesen Zug kommt Schwarz im
+Grunde nicht aus} 4. Nf3 {Das ist der weiße Hauptzug. Er verteidigt den
+Bauern auf e5 und entwickelt eine Leichtfigur.} Bg4 {Dieser Zug stellt die
+alte Hauptvariante dar. Sie ist sehr bekannt und theoriebeladen, aber heute
+nicht mehr so beliebt wie früher} 5. Be2 {Für Weiß ist es nun am besten die
+Fesselung aufzuheben. Er bereitet außerdem die kurze Rochade vor und will mit
+dem c-Bauern nach c4 vorrücken} e6 {Mit diesem Zug stützt Schwarz einfach
+noch einmal seinen Springer im Zentrum und öffnet die Diagonale für den
+anderen Läufer. Da der Damenläufer schon entwickelt ist, sperrt er ihn auch
+nicht ein} 6. O-O {Weiß rochiert zunächst am besten, bevor er weitere
+Aktionen im Zentrum plant} Be7 {Der Läufer steht zwar hier zunächst
+verhalten, kann aber später einmal nach f6 gehen und ein schönes Druckspiel
+gegen das weiße Zentrum ausüben} 7. h3 {Dieser Zwischenzug ist sehr wichtig.
+Weiß treibt den Läufer zurück nach h5, wo er später - nach dem Vorstoß
+d4-d5 - einmal sehr ungünstig stehen wird.} Bh5 8. c4 Nb6 {Der Abtausch auf
+e5 nutzt nur Weiß in dieser Stellung} 9. Nc3 {[%cal Gh5f3]} O-O ({Das
+Schlagen auf e5 nützt nur Weiß:} 9... dxe5 $6 10. Nxe5 ({Das ist besser als} 
+10. dxe5 {[%cal Gd8d1]} Qxd1 11. Rxd1 Nc6 {[%csl Ge5] mit Gegenspiel gegen den
+Bauern e5.}) 10... Bxe2 11. Qxe2 {[%csl Gc4,Gd4][%cal Gf1d1]} Qxd4 $2 {Weiß
+hat die Stellung seiner Figuren deutlich verbessert, auch wenn Schwarz hier
+leichtsinnig einen Bauern gewann.} 12. Rd1 Qh4 (12... Qc5 {hilft auch nicht
+wegen} 13. b4 Qxb4 14. Nb5 $18) 13. Nb5 Bd8 14. Qf3 {[%cal Gf3f7,Gf3b7]} O-O
+15. Qxb7 {Die schwarze Stellung ist ein einziges Durcheinander.}) 10. Be3 {
+Das ist die Grundstellung des sogenannten Klassischen Systems (mit dem
+Einschub h2-h3 und Lg4-h5). Der Umstand sollte Weiß begünstigen, wie man
+später sieht.} d5 {Schwarz muss hier im Zentrum dagegenhalten.} 11. cxd5 Nxd5
+{Diese Fortsetzung stellt die Hauptvariante dar.} 12. Qb3 {[%cal Gd1b3]} Nb6 {
+Weiß hat angenehmen Stellungsvorteil.} ({(a) Das Problem des Bauern b7 mit} 
+12... b6 {zuu beheben, ist auch möglich} 13. Nxd5 exd5 14. Rac1 {[%cal Gc1c7]}
+c6 {[%cal Gc1c6,Gb8c6]}) ({(b) Schwarz kann auch versuchen, Spielmaterial
+abzutauschen.} 12... Nxe3 13. fxe3 b6 ({Sehr passiv ist} 13... Qc8 14. d5 Bc5
+15. Ne4 Bb6 16. Bc4 {mit aktiven weißen Figuren, während Schwarz seine
+Entwicklung noch beenden muss und seine Figuren nicht gut koordiniert sind.})
+14. d5 {[%csl Ga1,Gb3,Gd8,Gf1][%cal Ga1d1]} Bc5 {Schwarz möchte gegen die
+weißen Schwächen spielen.} ({Zu entgegenkommend ist} 14... exd5 15. Nxd5 Nd7
+16. Rad1 {[%csl Gd8] mit Druck gegen die schwarze Dame.}) 15. dxe6 Bxe3+ 16.
+Kh1 fxe6 17. Qxe6+ {mit deutlichem Vorteil für Weiß in Giorgadze,T-Alburt,L
+Tbilisi 1977}) ({(c) Wenig ehrgeizig ist} 12... Nxc3 13. bxc3 b6 14. Rad1) 13.
+d5 {Das ist der thematische Durchbruch im Zentrum, der von Weiß immer dann
+gespielt wird, wenn er seinen Entwicklungsvorsprung ausnutzen will.} ({Etwas
+zu zahm ist} 13. Rad1 {, wonach} c6 {den Durchbruch auf d5 zunächst
+verhindert.}) 13... exd5 ({Würde Schwarz mit dem Springer schlagen, so
+verliert er den Bauern auf b7.} 13... Nxd5 14. Qxb7 Nxe3 15. fxe3 Nd7 16. Rad1
+Qb8 17. Qxb8 Nxb8 18. Bd3 $16 {mit schönem Stellungsvorteil für Weiß.}) 14.
+Bxb6 {Durch diesen Abtausch erobert Weiß den Bauern auf d5 zurück.} axb6 15.
+Nxd5 {[%cal Gd1d8,Ge5e6] Der Springer steht mächtig im Zentrum.} Bc5 {Schwarz
+sichert sich das Läuferpaar, aber bleibt in der Entwicklung zurück.} ({
+Stattdessen erlaubt} 15... Nc6 16. Rfd1 Qc8 17. Nd4 {[%cal Gd4c6,Gd5e7,Ge2h5]}
+Bc5 18. Nxc6 bxc6 19. Bxh5 cxd5 20. Bg4 $16 {mit großem weißen Vorteil trotz
+der ungleichfarbigen Läufer.}) 16. Rad1 {Jetzt kommt die schwarze Dame unter
+Beschuß.} Qc8 {Schwarz musste seine Dame schützen.} ({Nicht besser ist} 16...
+Nd7 17. Nf4 Bxf3 18. Bxf3 $16 {[%cal Ge5e6,Gf3b7] und die weißen Figuren sind
+wieder einmal viel besser als ihre schwarzen Gegenspieler.}) 17. Rfe1 {Weiß
+bringt seine letzte Figur in das Spiel.} ({Eine Alternative ist} 17. Ng5 $5
+Bxe2 18. Qc2 {[%cal Gc2h7]} g6 19. Qxe2 {[%cal Gd5f6,Ge5e6]} Nd7 20. e6 {
+[%csl Gg8] und die schwarze Stellung fängt an auseinanderzubrechen.}) 17...
+Nc6 18. Qc3 {Weiß stellt eine listige Falle.} Ne7 $4 {Und Schwarz fällt
+hinein. Er verliert eine Figur.} 19. Qxc5 bxc5 20. Nxe7+ {[%csl Gc8,Gg8] aus
+der berühmten Partie Rublevsky,S-Jorgensen,J Aalborg 1993} *
+

@@ -1,0 +1,152 @@
+﻿[Event "1.e4 vs The Sicilian I"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Najdorf-System"]
+[Black "Ju Wenjun-Variante"]
+[Result "*"]
+[ECO "B99"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "59"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 {[%csl Yb5,Yb7,Ye5][%cal
+Rd6e5,Ra6b5,Rb7b5] Das Najdorf-System bildet ein sehr komplexes und
+aggressives Verteidigungssystem der Sizilianischen Verteidigung. Es wurde von
+Miguel Najdorf (1920-1997) in die Turnierpraxis eingeführt. Der
+charakteristische Zug a7-a6 bildet einen Abwartezug und etabliert eine
+positionell sehr gesunde Bauernstruktur. Schwarz kontrolliert mit den Feldern
+b5, c5 und e5 einen Großteil des erweiterten Zentrums und ist bereit, mit dem
+Gegenschlag e7-e5 oder dem vorsichtigeren Zug e7-e6 den Einfluss zu
+vergrößern. Ein weiteres Merkmal liegt in der Vorbereitung des Gegenstoßes
+b7-b5, der nicht nur das sehr gute Entwicklungsfeld b7 für den Damenläufer
+freimacht, sondern auch den Angriff b5-b4 gegen den weißen Damenspringer und
+damit das weiße Zentrum vorbereitet. Weiß hat an dieser Stelle verschiedene
+Möglichkeiten. Er kann versuchen, seine vorläufige Dominanz im Zentrum und
+seinen leichten Entwicklungsvorsprung mit aggressiven Läuferzügen
+untermauern.} 6. Bg5 {[%csl Yf4,Yf6][%cal Rg5f6,Gf2f4,Gd1f3,Ge1c1] Neben dem
+berühmten "Englischen Angriff" bildet die Entwicklung des Damenläufers nach
+g5 das aggressivste und wichtigste System in der modernen Bekämpfung der
+Najdorf-Variante. Weiß übt sofort Druck auf den Springer f6 aus und bereitet
+die lange Rochade vor. Er wird früher oder später versuchen, einen
+Bauernsturm am Königsflügel zu entfesseln und im Zentrum durchzubrechen.
+Schwarz wird daher in der Regel nicht die kurze Rochade anstreben, sondern den
+König in der Mitte belassen oder ihn auf den Damenflügel in eine relative
+Sicherheit bringen.} e6 {[%csl Yd5,Yf5][%cal Ge6f5,Ge6d5] Dieser Zug
+verdeutlicht die Grundidee des Systems, die in einer flexiblen und dynamischen
+Ausrichtung der Bauernstruktur besteht. Schwarz nimmt mit dem Zug e7-e6 die
+Felder d5 und f5 unter seine Kontrolle, so dass er jetzt die gesamte fünfte
+Reihe überwacht. Außerdem deckt die schwarze Dame nun den Springer im Falle
+eines Abtauschs, so dass die schwarze Bauernstruktur im Grunde erhalten bleibt.
+Allerdings verdeutlicht der Zug auch das Problem der schwarzen Bauernstellung.
+Die Felder d5, e6 und f5 sind die unter Umständen anfälligen Felder für
+weiße Figurenopfer, da sie einfach zu verletzen sind.} 7. f4 {Dieser Zug
+setzt die aggressive Strategie von Weiß (Expansion im Zentrum und Kontrolle
+der fünften Reihe) fort. Potentielle Drohungen sind nun immer e4-e5 oder
+f4-f5. Der Vorstoß e4-e5 gewinnt zwar nicht forciert Material, aber er würde
+die schwarze Figurenkoordination durcheinander bringen und die schwarze
+Bauernstellung auf dem Königsflügel schwächen. Der Vorstoß f4-f5 würde
+die Schwäche der Felder f5 und e6 deutlich machen.} Be7 {Der Läuferzug
+bildet die logische Fortsetzung, um die Entwicklung des Königsflügels zu
+beenden und die Fesselung des Springers aufzuheben. Es scheint allerdings so,
+als würde Weiß durch diesen Zug nicht besonders herausgefordert. Andere
+Züge mögen weniger solide erscheinen, ergeben aber ein für beide Seiten
+anspruchsvolles und zweischneidiges Spiel.} 8. Qf3 {Mit diesem Zug bereitet
+Weiß die lange Rochade vor. Er will am Königsflügel einen Bauernsturm
+entfachen und den Turm auf die halboffene d-Linie stellen. Dafür nimmt er in
+Kauf, dass der König in die für Schwarz halboffene c-Linie gestellt wird.
+Die weiße Dame schützt außerdem den Bauern e4 und muss nur aufpassen, dass
+sie nicht von einem schwarzen Springer auf e5 angegriffen werden kann.} Qc7 {
+[%csl Yc4,Ye5][%cal Rc7c4,Rc7e5] Die schwarze Dame besetzt ein aggressives
+Entwicklungsfeld. Sie kontrolliert e5 und verhindert die Entwicklung des
+weißen Königläufers nach c4. Dank der Kontrolle über die weißen Felder d5
+und b5 kann die schwarze Dame nicht einfach angegriffen werden.} 9. O-O-O {
+Weiß führt seinen Plan folgerichtig aus und bringt seinen König in
+Sicherheit. Er kann jetzt ohne zu zögern das Zentrum öffnen oder versuchen
+auf dem Königsflügel anzugreifen. Der Turm auf d1 erfüllt nicht nur eine
+offensive Funktion, indem er auf den Bauern d6 drückt, sondern verteidigt
+auch noch den Springer d4, der eine sehr zentrale Rolle in der weißen
+Figurenkoordination einnimmt.} Nbd7 {Dieser Zug definiert die Ausgangsstellung
+des Three-Piece-Systems. Schwarz achtet seinerseits auf eine sehr gute
+Koordination seiner Leichtfiguren und entwickelt den Damenspringer auf das
+beste Feld, daher der Name des Systems. Er überdeckt den Königsspringer und
+das zentrale Feld e5. Er verstellt auch nicht die Wirkung der Dame auf der
+c-Linie, sondern kann vielmehr bei Bedarf nach c5 gehen, um e6 zu verteidigen
+und e4 anzugreifen.} 10. g4 {Mit diesem Zug beginnt Weiß einen sehr starken
+Bauernsturm auf dem Königsflügel. Er ist dazu bereit, den Läufer f6
+zunächst gegen den Springer zu tauschen und dann seine Königsflügelbauern
+nach g5 und f5 vormarschieren zu lassen, um den Bauernwall vor dem schwarzen
+König aufzureißen. Die schwarze Stellung ist allerdings vollkommen gesund
+und ohne weitere Schwächen. Schwarz wird auch nicht ruhig abwarten, sondern
+selbst mit b7-b5-b4 einen Gegenangriff über den Damenflügel gegen das weiße
+Zentrum führen.} b5 {Das ist der thematische Gegenangriff von Schwarz. Er
+droht sofort mit b5-b4 und mit Lc8-b7, wonach der weiße e-Bauer unter einen
+sehr starken Druck kommen kann. Weiß muss energisch und unverzüglich handeln,
+um mit einem Vorteil aus der Eröffnung zu kommen und darf auch nicht vor
+Materialopfern zurückschrecken.} 11. Bxf6 {Das ist die konsequente und
+konsistente Fortsetzung von Weiß. Der weiße Damenläufer stand den eigenen
+Bauern bei dem Vormarsch auf dem Königsflügel im Weg. Außerdem wird die
+Phalanx der Verteidiger vor dem schwarzen König ein wenig aufgelockert. Jetzt
+muss sich Schwarz überlegen, wie er zurücknimmt und gleichzeitig den weißen
+Aufmarsch auf dem Königsflügel eindämmt.} Nxf6 {Dieser Zug bildet
+vielleicht die gesündeste Art des Zurücknehmens. Schwarz hält seine
+Bauernstruktur intakt und vermeidet, dass sein Zentrum zusätzlich geschwächt
+wird. Außerdem erhält er den Druck auf den Bauern e4 aufrecht.} 12. g5 {
+Weiß treibt sofort den schwarzen Springer zurück und erobert Raum auf dem
+Königsflügel. Es macht nichts aus, dass noch nicht alle seine Figuren
+entwickelt sind. Viel wichtiger in dieser Stellung ist der Tempogewinn und der
+Raumvorteil.} Nd7 {Der Springer hat keine andere Wahl. Er muss auf das Feld d7
+zurück.} 13. f5 $1 {[%csl Ye6,Yf5,Yg5][%cal Gf5e6,Gd4e6,Re7g5,Rg5c1] Das ist
+der eigentlich überraschende Zug. Weiß opfert einen Bauern, der sogar mit
+Schach geschlagen werden. Allerdings ist das Tempo in dieser Stellung viel
+mehr wert. Der Bauer e6 wird jetzt massiv unter Druck gesetzt.} O-O $1 {
+Dieser überraschende Zug wurde von Ju Wenjun eingeführt. Er bildet heute die
+kritische Fortsetzung im Three-Piece System der Najdorf-Variante. Obwohl
+Schwarz provokativ in den weißen Bauernsturm hineinrochiert, darf Weiß nicht
+sinnlos angreifen.} 14. h4 {Weiß unterstützt den Bauernangriff, deckt g5 und
+bereitet die weiteren Vorstöße vor.} (14. Rg1 {ist populärer und geht in
+ähnliche Stellungen über.} b4 15. Nce2 e5 16. f6 exd4 17. fxe7 Re8 18. Nxd4 {
+erreichen wir eine Stellung ähnlich wie in der Hauptvariante.}) 14... b4 {
+Schwarz muss zunächst seinen eigenen Angriff in das Rollen bringen.} 15. Nce2
+Bb7 $5 {Schwarz hält die Zentrumsspannung aufrecht und liebäugelt mit d6-d5.}
+({(a) Aus der berühmten Stammpartie Savchenko-Wenjun stammt die Fortsetzung} 
+15... e5 $6 {, die eine logische Fortsetzung ist. Am besten wäre jetzt die
+thematische Antwort gewesen} 16. f6 $1 exd4 17. fxe7 Re8 18. Nxd4 Ne5 19. Qg2
+$1 {Das ist eine Verbesserung von Negi.} Rxe7 20. Nf5 {Damit verhindert Weiß
+jegliches Gegenspiel durch Lc8-g4.} Bxf5 21. exf5 Rb8 {Nach anderen Zügen
+entsteht dasselbe Szenario. Weiß hat eine Bauern-Phalanx auf dem
+Königsflügel.}) ({(b) Verführerisch, aber nicht gut ist laut Vigorito} 15...
+Ne5 16. Qg3 d5 17. fxe6 fxe6 18. exd5 Bd6 19. Nxe6 {Das ist einfach und stark.}
+) ({(c) Auch} 15... exf5 {wurde von Vigorito erwähnt, aber nach} 16. Nxf5 Ne5
+17. Qg3 {erhält Weiß ebenfalls einfaches Spiel.}) 16. Bg2 {Weiß antizipiert
+den Bauerndurchbruch und vervollständigt die Entwicklung.} ({(a)} 16. fxe6 {
+ist nicht so gut wegen der Rückoberung des Bauern nach} Nc5) ({(b) Der
+natürliche Zug ist} 16. Ng3 {, aber danach kann Schwarz mit} d5 {eine Menge
+Ärger verursachen.}) 16... Rac8 $5 {Dieser weitere, nicht-verpflichtende Zug
+sorgt für eine weitere Spannung.} ({(a) Die beliebteste Fortsetzung lautet} 
+16... exf5 17. Nxf5 Rfe8 18. Qg3 Rac8 {Auch wieder ein Vorschlag von Vigorito.}
+19. Nh6+ Kh8 20. Nxf7+ Kg8 {Hier kann Weiß schon durch Zugwiederholung Remis
+erzwingen.} 21. Qb3 {Diese Stellung ist schon sehr verwickelt. Schwarz hat
+aber noch einige genaue Züge zu machen.} d5 22. exd5 Bf8 23. Nh6+ {Ein
+letzter Trick. Wenn Schwarz den Springer nimmt, verliert er die Dame.}) ({
+(b) Ein weiterer thematischer Zug lautet} 16... e5 17. f6 Bxf6 18. Nf5 Bd8 19.
+Nxd6 Nc5 {Das ist Vigoritos Zug.} ({Negi betrachtet nur} 19... Bc6 20. g6 fxg6
+21. Qb3+ Kh8 22. Nf7+ Rxf7 23. Qxf7 {mit schöner Stellung für Weiß.}) 20.
+Nxb7 Nxb7 21. Rd5 Be7 22. Qd3 Nc5 23. Qc4 Rad8 {Nach Vigorito erhält Schwarz
+ein bequemes Spiel.}) ({(c)} 16... d5 17. exd5 Bxd5 18. Qh3 {ist nicht allzu
+gefährlich.}) 17. fxe6 fxe6 {Hiernach erhält das Spiel einen forcierten
+Charakter.} 18. Qh3 e5 19. Qe6+ Kh8 20. Qxe7 exd4 ({Nach} 20... Rfe8 21. Qf7
+exd4 22. Nxd4 Rf8 23. Qb3 {hat Schwarz nicht mehr genügend Kompensation für
+den Bauern.}) 21. Nxd4 Rce8 22. Ne6 Qxc2+ 23. Kxc2 Rf2+ 24. Rd2 Rxd2+ 25. Kxd2
+Rxe7 {Nach diesen vielen Abtäuschen steuert die Stellung auf eine
+Remis-Situation zu, aber Weiß kann noch etwas Druck ausüben.} 26. Bh3 Kg8 $1
+{Das ist eine Empfehlung von David Vigorito. Er findet die Sicherheit des
+Königs und der Grundreihe wichtiger als einen Bauern zu erobern.} ({Negi
+betrachtet nur} 26... Bxe4 27. Rc1 $1 {Ein schönes Beispiel für Dominanz im
+Endspiel.} Nb6 (27... Nc5 28. Nxc5 dxc5 29. Rxc5 {ermöglicht Weiß eine sehr
+viel aktivere Stellung seiner Figuren.}) 28. Rf1 h6 29. Ke3 Bg6 30. Kd4 {
+und Schwarz ist unter einem gewissen Druck.}) 27. Rc1 Nf8 {Das Feld c8 bleibt
+gesichert, so dass Schwarz in der Lage ist, Vereinfachungen durchzuführen.}
+28. Rc7 {Es gibt nichts Besseres.} Rxc7 29. Nxc7 Ng6 30. Be6+ {Weiß bringt
+den Läufer nach d5.} *
+

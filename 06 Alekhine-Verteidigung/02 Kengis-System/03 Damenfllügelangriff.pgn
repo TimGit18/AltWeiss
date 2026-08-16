@@ -1,0 +1,50 @@
+[Event "Beating Unusual Chess Defences"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alekhine-Verteidigung"]
+[Black "Kengis-System"]
+[Result "*"]
+[ECO "B04"]
+[Annotator "Andrew Greet"]
+[PlyCount "39"]
+[EventDate "2013.07.05"]
+
+1. e4 Nf6 2. e5 Nd5 {Es gibt zu diesem Zug eigentlich keine wirklichen
+Alternativen} 3. d4 d6 {Das ganze schwarze Konzept basiert auf der
+Unterminierung der zentralen weißen Bauern. Ohne diesen Zug kommt Schwarz im
+Grunde nicht aus} 4. Nf3 {Das ist der weiße Hauptzug. Er verteidigt den
+Bauern auf e5 und entwickelt eine Leichtfigur.} dxe5 {Der direkte Abtausch im
+Zentrum ist mehr oder weniger die aktuelle Hauptvariante der
+Alekhine-Verteidigung} 5. Nxe5 {Das ist die Grundstellung des Modernen Systems.
+Schwarz hat jetzt mehrere Möglichkeiten: 1. Die Stützung des Springer mit
+c7-c6 2. Das provokative Sb8-d7 3. Die Fianchetto-Variante mit g7-g6} g6 {
+Diese Variante ist nach dem litauischen Großmeister Edvins Kengins benannt,
+der sie in den 1990er Jahren entwickelte} 6. Bc4 {Das ist die beliebteste Wahl
+von Weiß. Die Alternative ist das Königsläufer-Fianchetto nach g2, was sehr
+solide, aber nicht besonders aggressiv ist. Der Läuferzug nach c4 - in
+Verbindung mit dem Springer auf e5 gegen f7 gerichtet - ist schon thematischer.
+} c6 7. O-O {Erst einmal entwickelt sich Weiß und bereitet die Besetzung der
+halboffenen e-Linie vor} Bg7 {Schwarz nimmt den weißen Springer unter die
+Lupe und bereitet daselbst die kurze Rochade vor} 8. Re1 {Weiß besetzt die
+halboffene Linie und festigt die Stellung des Springers} O-O {Das ist eine
+normale Stellung, in der Weiß dank seines Bauern d4 etwas mehr Platz und
+Zentrumskontrolle hat. Andererseits muss Weiß schon mit Überzeugung spielen,
+denn sonst kann Schwarz den leichten weißen Vorteil mit c7-c5 neutralisieren}
+9. Bb3 {Weiß zieht den Läufer aus der leicht exponierten Stellung zurück
+und wartet ab, wie Schwarz seine Figuren entwickelt. Nun ist} a5 {ein früher
+Damenflügelangriff.} 10. c4 {Weiß kann sich diesen Zug erlauben, da Schwarz
+keine Figur entwickelt hat. Das ist auch der aktivste Zug in dieser Stellung.}
+Nb6 11. Nc3 Be6 $5 {Der Zug ist ziemlich provokativ, aber keinesfalls schlecht.
+} 12. d5 Bf5 13. Bf4 cxd5 14. cxd5 Na6 {Weiß hat sich in der Partie Wegener,
+O-Palkovi,J Budapest 2000 logisch entwickelt und muss nun aggressiv
+weiterspielen.} 15. g4 $5 Bc8 (15... Bd7 16. Bg5 {ist schwierig für Schwarz.})
+16. d6 $5 ({Ruhiger ist} 16. a3 Nc5 17. Ba2 {, wonach die aktiven weißen
+Figuren ein viel bedeutenderer Faktor sind als der geschwächte weiße
+Königsflügel.}) 16... Qxd6 (16... exd6 $2 17. Nxf7 $1 Rxf7 18. Bxd6 {ist
+furchtbar für Schwarz.}) 17. Qf3 $1 {In dieser komplexen Stellung erhält
+Weiß eine gefährliche Initiative für den geopferten Bauern. Die
+Hauptvarianten des Computers lautet} e6 18. Nc4 (18. Nxg6 $4 {ist ein
+schlimmer Fehler, da er die f-Linie öffnet} fxg6) 18... Qd8 19. Rad1 Nd5 {
+und nun sieht} 20. Bd6 {für Weiß sehr gut aus.} *
+

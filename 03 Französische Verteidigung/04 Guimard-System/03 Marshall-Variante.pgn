@@ -1,0 +1,35 @@
+[Event "French Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Guimard-System"]
+[Black "Marshall-Variante"]
+[Result "*"]
+[ECO "C10"]
+[Annotator "Lev Psakhis"]
+[PlyCount "15"]
+[EventDate "2011.10.02"]
+[SourceDate "2011.10.02"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 {Dieser Zug kennzeichnet die Marshall-Variante.
+Aber er ist in dieser Konstellation nicht mehr so überzeugend wie in der
+Tarrasch-Variante, in der der Springer auf d2 steht} 4. exd5 {Weiß klärt
+zunächst die Situation im Zentrum. Vielleicht ist der schwarze Aufbau einfach
+zu verpflichtend} exd5 {Das ist die einzige Möglichkeite für Schwarz - anders
+wie in der Tarrasch-Variante - auf d5 zurückzunehmen. Schwarz muss jetzt auf
+jeden Fall mit einem Isolierten Damenbauern weiterspielen} 5. Nf3 {Weiß
+überdeckt die Felder d4 und e5 im Zentrum und entwickelt seinen Königsflügel.
+Es ist nur eine Frage der Zeit bis er auf c5 schlägt} Nf6 {Schwarz hat keine
+große Auswahl bei seinen Zügen. Er kann noch keine Entscheidung bezüglich des
+Punktes d4 treffen} ({(a)} 5... cxd4 6. Bb5+ Bd7 7. Qe2+) ({(b)} 5... Nc6 6.
+dxc5 Nf6 7. Be3 Be7 8. Be2 O-O 9. O-O) 6. Bb5+ {Weiß gibt das in dieser
+Situation übliche Zwischenschach mit dem Läufer und bereitet die kurze Rochade
+vor} Bd7 {Das ist scherlich die beste Antwort von Schwarz. Er unterbindet das
+weiße Schach und befragt den weißen Läufer} 7. O-O {Weiß rochiert erst einmal.
+Er hat keine Angst vor einem Abtausch auf b5, denn das Endspiel mit dem
+gegnerischen Isolani wäre vorteilhaft für ihn} Be7 {Das ist schon ein
+Tempoverlust für Schwarz. Jetzt kann Weiß auf c5 schlagen, worauf der Schwarze
+den Läufer ein weiteres Mal bewegen muss} 8. dxc5 {Nach diesem Zug hat Schwarz
+endgültig einen isolierten Damenbauern. Er wird auch das Läuferpaar verlieren
+und muss wahrscheinlich im Endspiel um das Remis kämpfen} *
+

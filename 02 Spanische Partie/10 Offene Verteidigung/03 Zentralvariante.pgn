@@ -1,0 +1,41 @@
+[Event "Open Ruy Lopez"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Offene Verteidigung"]
+[Black "Klassische Variante"]
+[Result "*"]
+[ECO "C83"]
+[Annotator "Glenn Flear"]
+[PlyCount "40"]
+[EventDate "2011.08.28"]
+[SourceDate "2011.08.28"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Be7 10. c3 O-O {Anders als in der Klassischen Hauptvariante, in
+der Schwarz sofort mit Se4-c5 und Le6-g4 die Initiative ergreift, bringt er
+hier erst einmal seinen König in Sicherheit} (10... Qd7 11. Bc2 Nxd2 12. Qxd2
+Bg4 13. Qf4 Bxf3 14. Bf5 Qd8 15. Qxf3 Nxe5 16. Qe2 Qd6 17. Re1 Nc6) 11. Bc2 {
+Weiß zentralisiert trotzdem seine Figuren. Er will unbedingt den starken und
+thematischen Springer auf e4 attackieren} f5 {Schwarz kämpft um das Zentrum.
+Dieser Zug verankert den Springer als starke Figur, schwächt allerdings auch
+die schwarzen Felder rund um den König und im Zentrum} 12. Nb3 {Natürlich
+schlägt Weiß nicht auf e4 und gibt dem Gegner ein Traumzentrum und die
+offene f-Linie. Statt dessen soll der weiße Damenspringer nach d4 gebracht
+werden und die Löcher in der schwarzen Stellung ausnutzen} Qd7 {Schwarz
+überdeckt sicherheitshalber die neuralgischen Punkte e6 und c6 und verbindet
+die Türme} 13. Nbd4 {Eigentlich ist es egal, mit welchem Springer man nach d4
+geht, aber es ist instruktiver mit dem Damenspringer, da der Bauer e5 gedeckt
+bleibt} Nxd4 {Schwarz möchte tauschen, damit seine Damenflügelmehrheit in
+Bewegung kommt. Dafür gibt er auch das Läuferpaar} 14. Nxd4 {Hiernach kann
+Weiß auch einmal seinen f-Bauern in Bewegung setzen} c5 {Natürlich muss
+Schwarz um das Zentrum kämpfen} 15. Nxe6 Qxe6 16. f3 {Endlich kann der starke
+schwarze Springer vertrieben werden} Ng5 {Das Tabiya der offenen Verteidigung
+ist entstanden. Schwarz hat für das Läuferpaar schon einen vorgerückten
+Flügelangriff. Die weißen Figuren haben momentan wenig Raum} 17. a4 {Weiß
+muss um jeden Preis Linien für seine Läufer öffnen} Rad8 {Schwarz vermeidet
+Linienöffnung und massiert zunächst seine Figuren im Zentrum} ({(a)} 17...
+Qxe5 18. f4) ({(b)} 17... g6 18. Bxg5 Bxg5 19. f4 Be7 20. axb5 axb5 21. Rxa8
+Rxa8) 18. axb5 axb5 19. Ra7 {Ein relativ neue Idee, mit der Weiß ein
+Druckspiel forcieren kann} Rd7 20. Rxd7 Qxd7 *
+

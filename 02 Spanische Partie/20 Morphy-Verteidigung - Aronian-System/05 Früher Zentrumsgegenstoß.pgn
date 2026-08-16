@@ -1,0 +1,14 @@
+[Event "The Modernized Ruy Lopez Volume 1"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Aronian-System"]
+[Black "Früher Zentrumsgegenstoß"]
+[Result "*"]
+[ECO "C70"]
+[Annotator "Darius Swiercz"]
+[PlyCount "31"]
+[SourceVersionDate "2019.07.09"]
+
+{[%evp 0,28,45,33,33,50,50,8,28,0,25,8,41,41,19,31,31,17,12,22,12,12,12,30,0,28,29,29,36,15,22]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nge7 {Die Empfehlung von Darius Swiercz lautet} 5. c3 g6 6. d4 exd4 7. cxd4 {Der Frühe Zentrumsgegenstoß} d5 {ist genauso voreilig wie das frühe Fianchetto.} ({Dieses startet mit} 7... Bg7 {Hier spielen wir immer} 8. d5 {, denn nach} Na5 $2 ({Ebenso schlecht ist} 8... Ne5 $2 9. Nxe5 Bxe5 10. O-O {Es folgt f2-f4 und ein Bauernvorstoß auf dem Königsflügel.}) 9. Bd2 c5 {folgt} ({Oder} 9... Nc4 10. Bc3 Bxc3+ 11. Nxc3 Nxb2 12. Qd4 {mit weißem Vorteil.}) 10. Bc3 {Wieder hat Weiß mit dem Abtausch der dunklen Läufer alles in der Hand.}) 8. exd5 Nxd5 9. O-O Bg7 10. Bg5 $1 {Das ist hier am genauesten.} Qd6 11. Nbd2 $1 {[%csl Yc4][%cal Gd2c4] Der Springer soll nach c4.} O-O 12. Nc4 Qd7 ({Einfach verliert} 12... Qb4 13. Rc1 Nb6 14. Nxb6 cxb6 15. d5 {in der Partie Oleksienko-Mazur, Slovakia 2016.}) 13. Nce5 Qd6 14. Nxc6 bxc6 {Weiß hat die schwarze Bauernstruktur unter Beibehaltung des Läuferpaars ruiniert.} 15. Rc1 Bd7 16. Bh4 *
+

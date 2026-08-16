@@ -1,0 +1,69 @@
+[Event "The Philidor Files"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassiches System"]
+[Black "Hanham-Variante"]
+[Result "*"]
+[ECO "C41"]
+[Annotator "Christian Bauer"]
+[PlyCount "31"]
+[EventDate "2009.??.??"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 $6 {Dieser Zug erlaubt es Weiß, die
+Springerentwicklung Sb1-c3 zugunsten stärkerer Züge zurückzustellen} 4. Bc4 c6
+{In dieser Situation gibt es noch sechs andere bekannte Möglichkeiten} ({a)} 
+4... Ngf6 $2 5. Ng5 $1 {erzwingt bereits d5 und gewinnt einen Bauern}) ({b)
+Gleichsam schlecht ist} 4... Be7 $2 5. dxe5 $1 Nxe5 ({Nach} 5... dxe5 6. Qd5 {
+kann f7 nicht mehr effektiv verteidigt werden}) 6. Nxe5 dxe5 7. Qh5 {und die
+Doppeldrohung auf f7 und e5 gewinnt bereits einen Bauern}) ({c) Der Zug} 4...
+Qe7 $5 {ist gekünstelt und ohne die Möglichkeit Lc8-g4 kraftlos}) ({d)} 4... h6
+$2 {ist eine radikale Möglichkeit das Stellungsproblem zu lösen.
+Unglücklicherweise schwächt der Zug das Feld g6 und erlaubt eine brutale
+Widerlegung} 5. dxe5 dxe5 6. Bxf7+ Kxf7 7. Nxe5+ Kf6 8. Nc3 Kxe5 9. Qd5+ Kf6
+10. Qf5+ Ke7 11. Nd5+ Kd6 12. Bf4+ Kc6 13. Qe6+ Bd6 14. Nb4+ Kb5 15. a4+ Ka5
+16. Qc4 c6 17. Nd5 $1 Bb4+ 18. Qxb4+ Ka6 19. Qc4+ b5 20. axb5+ Kb7 21. Qxc6#) (
+{e)} 4... Nb6 {Obwohl der Zug nicht wirklich schlecht ist, kann dieser Zug
+nicht wirklich empfohlen werden. Schwarz rempelt den weißen Läufer an, aber er
+deplatziert den eigenen Springer} 5. Bb3 exd4 6. Qxd4 {Damit ist die weiße
+Dame gut positioniert}) ({f)} 4... exd4 $5 5. Nxd4 Ngf6 6. O-O g6 7. Nc3 Bg7 8.
+Re1 {Weiß hat mehr Raum, aber sein Gegner hat eine solide Position}) ({g)} 4...
+g6 {ist provokativ} 5. Nc3 {ist eine ruhige Fortsetzung, die Weiß ein leichtes
+Plus zusichert} Bg7 $2 {wird rüde widerlegt} 6. Bxf7+ Kxf7 7. Ng5+ Ke8 8. Ne6
+Qe7 9. Nxc7+ Kd8 10. N3d5 Qf7 11. Nxa8 {mit entscheidendem Materialvorteil}) 5.
+O-O $1 {Der aggressivste Zug, der bereits Sg5 droht} Be7 {Ein natürlicher Zug,
+der allerdings die schwarzen Probleme nicht alle löst} ({a) Der ängstliche Zug
+} 5... h6 $2 {vernachlässigt die Entwicklung und ruft nach einer taktischen
+Lösung} 6. dxe5 dxe5 7. Bxf7+ Kxf7 8. Nxe5+ Kf6 9. Qf3+ Kxe5 10. Qf7 $3 {
+Anstatt den König quer über das Feld zu jagen, nimmt Weiß ihm die möglichen
+Fluchtfelder. Seine nächsten Züge sind auch noch ruhig} Ngf6 11. Rd1 Bc5 12.
+Nd2 Bxf2+ 13. Kxf2 Nxe4+ 14. Nxe4 Rf8 15. Bf4+ Kxe4 16. Re1+ Kd4 17. Be3+ Ke4
+18. Bc5#) ({b)} 5... Ngf6 $2 6. dxe5 Nxe5 {Nach dxe5 und dem folgenden
+Springerzug nach g5 kann f7 nicht mehr verteidigt werden} (6... Nxe4 {ist kaum
+besser} 7. exd6 Nb6 8. Re1) 7. Nxe5 dxe5 8. Bxf7+ {mit einem klaren Vorteil
+für Weiß}) ({c)} 5... b5 {Der Bauernvorstoß ist zumindest thematisch. Schwarz
+muss trotzdem auf den drohenden Angriff Sg5 reagieren und den Königsflügel
+beschützen. Daher wird er den Bauern b5 nur schwer halten können, falls Weiß
+rechtzeitig a2-a4 spielt} 6. Bb3 Be7 7. a4 $1 b4 {Dieser Zug ist das geringste
+Übel: ein Abtausch auf b5 würde d5 schwächen, ein Abtausch auf a4 den
+schwarzen c-Bauern} 8. dxe5 dxe5 9. Ng5 {Das Spiel transponiert in die
+Hauptvariante mit dem Unterschied, dass der schwarze Damenflügel bereits
+beschädigt ist}) ({d)} 5... Qc7 $5 {ist ein akzeptabler Zug, der nicht sofort
+durch Sg5 zu widerlegen ist} 6. a4 Be7 7. Nc3 $1 {führt direkt in die
+Klassische Hanham-Verteidigung}) 6. dxe5 $1 dxe5 (6... Nxe5 $2 7. Nxe5 dxe5 8.
+Qh5 {gewinnt einen Bauern für Weiß}) 7. Ng5 Bxg5 (7... Nh6 $2 {verliert
+aufgrund} 8. Ne6 $1 fxe6 9. Bxh6 gxh6 ({Oder} 9... Nb6 10. Qh5+ Kf8 11. f4 {
+und die letzten Momente von Schwarz sind bereits gezählt}) 10. Qh5+ Kf8 11.
+Bxe6 Qe8 12. Qxh6#) 8. Qh5 Qe7 ({a)} 8... g6 $6 {nimmt eine geringe Schwäche
+in Kauf} 9. Qxg5 Qxg5 10. Bxg5 {ergibt ein unangenehmes Endspiel für Schwarz.
+Die Bewertung dieser Position lautet, dass Weiß auf jeden Fall einen Vorteil
+hat}) ({b)} 8... Qf6 9. Bxg5 Qg6 10. Qh4 Ngf6 {bedeutet ebenfalls ein leichtes
+Plus für Weiß}) 9. Bxg5 Ngf6 10. Qe2 {Hiernach hat Schwarz das weiße
+Läuferpaar ohne Kompensation zugelassen. Falls er das Läuferpaar zerstören
+will, könnte folgende Zugfolge auftauchen} h6 11. Bd2 b5 12. Bd3 Nc5 13. b4
+Nxd3 14. cxd3 O-O 15. Rc1 Bb7 16. Be3 $1 {In der Partie Roos-Trevelyan,
+Cresenatico 2001 behält Weiß einen leichten Vorteil. Beide Seiten haben
+schwache Bauern (auf d3 und c6), aber der weiße Läufer ist stärker als sein
+Gegenspieler. Der weiße Springer hat ebenfalls bessere Aussichten als der
+schwarze, nämlich auf den Feldern a5 oder c5} *
+

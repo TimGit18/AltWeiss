@@ -1,0 +1,41 @@
+[Event "The Ruy Lopez"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Barendregt-Verteidigung"]
+[Black "Klassische Hauptvariante"]
+[Result "*"]
+[ECO "C63"]
+[Annotator "Joshua Doknjas"]
+[PlyCount "35"]
+[EventDate "2011.08.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 {Der Einschub der Züge a7-a6 und
+Lb5-a4 macht einen fundamentalen Unterschied im Vergleich zur Klassischen
+Steinitz-Verteidigung aus. Die Moderne Steinitz-Verteidigung ist viel aktiver
+und energetischer als ihr klassisches Gegenstück und verspricht Gegenspiel.}
+5. O-O {Dies ist die kritische weiße Fortsetzung. Weiß kann hier auch noch
+c2-c3 spielen, um eine sichere Stellung im Zentrum erhalten.} {Wie in der
+Modernen Spanischen Abtauschvariante folgt nun der Barendregt-Zug} Bg4 {
+Das ist die Kritische Fortsetzung. Es gibt auch das System mit dem Läuferzug
+nach d7, ein System, das eher im Sinne der Steinitz-Idee mit der Sicherung des
+Stützpunkts e5 gedacht ist.} 6. h3 h5 $5 {[%csl Yg4,Yh4][%cal Gh5g4,Rh3g4,
+Rg4f3,Gd8h4,Gh8h4] Das ist der beste Zug von Schwarz , denn sonst landete er
+in einer ziemlich passiven und unerfreulichen Stellung. Der Zug soll zu
+komplizierten Stellungsbildern führen, doch die Komplikationen geben Weiß
+ein gutes Spiel. Wenn Weiß den Läufer nähme, dann erhielte Schwarz einen
+sehr gefährlichen Angriff auf der h-Linie (wie in der Spanischen
+Abtauschvariante).} 7. d4 $1 {[%csl Yg5][%cal Gc1g5,Gf3g5,Gd8g5] Was ist der
+Zweck von d4? Der Zug öffnet die Stellung und erlaubt es dem Damenläufer,
+das Feld g5 zu unterstützen. Das ist sehr nützlich, falls Weiß h3xg4 spielt
+und dann Sf3-g5! Jetzt ist der Springer nicht nur geschützt, sondern
+verhindert auch noch den Zutritt der schwarzen Dame zur h-Linie.} b5 8. Bb3
+Nxd4 9. hxg4 {Das direkte Schlagen beginnt mit} hxg4 {und war früher die
+Klassische Hauptvariante.} 10. Ng5 Nh6 {Schwarz deckt f7 und entwickelt den
+Springer.} 11. Bd5 $1 {Dieser Zug sorgt für Unordnung im schwarzen Lager.} c6
+{Sonst vertreibt Weiß den schwarzen Springer mit c2-c3 und gewinnt Material.}
+(11... Be7 12. c3 Bxg5 13. cxd4 {gewinnt für Weiß in Shinkevich,V-Yandemirov,
+V Moscow 2001.}) 12. c3 $1 {Trotzdem.} cxd5 13. cxd4 Be7 14. Qd2 dxe4 15. dxe5
+dxe5 16. Nc3 f5 17. Qd5 Qxd5 18. Nxd5 {und Schwarz war schon in
+Schwierigkeiten in Grigoryev,V-Savin,V ICCF email 2015.} *
+

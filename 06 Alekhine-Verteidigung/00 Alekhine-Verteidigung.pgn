@@ -1,0 +1,121 @@
+[Event "1.e4 vs Minor Defences"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "NeoWeiß"]
+[Black "Alekhine-Verteidigung"]
+[Result "*"]
+[ECO "B04"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "19"]
+[SourceVersionDate "2021.10.13"]
+
+1. e4 Nf6 {Die Alekhine-Verteidigung ist eigentlich eine Provokation. Weiß
+erhält einen gewaltigen Raumvorteil und einen großen Freiraum im Zentrum.
+Trotzdem handelt es sich nicht um eine schlechte Eröffnung. Schwarz setzt
+darauf, dass Weiß so frei ist, seine Zentrumsbauern zu enthusiastisch nach
+vorne zu rücken und das eigene Zentrum letztlich überdehnt.} 2. e5 Nd5 {
+Bisweilen geht der Springer auch auf sein Ursprungsfeld zurück.} ({Den Zug} 
+2... Ng8 {sieht man wohl nie in einer ernsthaften Partie. Einfache Entwicklung
+funktioniert hier ganz gut.} 3. d4 d6 4. Nf3 dxe5 5. Nxe5 Nd7 {Dies ist der
+einzige schwarze Versuch, um auszunutzen, dass der schwarze Springer auf g8
+statt auf d5 steht. Denn das Opfer auf f7 bringt jetzt gar nichts mehr.}) 3. d4
+d6 4. Nf3 dxe5 {Das ist das Hauptsystem in der Alekhine-Verteidigung und das
+völlig zu recht. Es ist das solideste aller Alekhine-Systeme. Die entstandene
+Struktur kommt dem nahe, was in dem Rubinstein-System der Französischen
+Verteidigung oder im Tiviakov-System der Skandinavischen Verteidigung entsteht.
+Allerdings besitzt Schwarz hier eine weniger flexiblere Version. Eine
+wesentliche Idee von Weiß besteht darin, Abtäusche zu vermeiden. Da Schwarz
+weniger Raum hat, veruscht er Figuren zu tauschen, idealerweise den Springer
+auf e5. Oder er gibt seinen Damenläufer gegen einen Springer als Preis für
+das weiße Läuferpaar.} ({(a) Das Klassische System entsteht nach} 4... Bg4 {
+Mit einem großen Abstand ist dies der beliebteste Zug. In den letzten Jahren
+ist er etwas aus der Mode gekommen.} 5. Be2 {Hier hat Schwarz eigentlich nur
+zwei Optionen.} e6 {Dieser Zug war einst die unbestrittene Hauptvariante der
+Alekhine-Verteidigung. Es gibt hier zwar nicht soviel Theorie wie in anderen
+Eröffnungen, aber die Stellungen können strategisch sehr komplex sein.
+Tatsächlich kennen sich viele Weiß-Spieler hier nicht besonders gut aus. Es
+ist aber notwendig, die wichtigsten Pläne hier zu kennen. Wenn nicht, kann
+Schwarz Vorteil erzielen, wie Richard Rapport erfolgreich mit seinem
+Repertoire in den letzten Jahren gezeigt hat.} 6. O-O Be7 7. c4 Nb6 {Weiß
+kann hier auch eine Zugumstellung wählen. Also soll zunächst der Läufer mit
+dem h-Bauern vertrieben werden, danach wird der Springer mit dem c-Bauern aus
+dem Zentrum vertrieben.} 8. Nc3 O-O 9. h3 {Dieser Zug sollte nicht vermieden
+werden.} Bh5 {Das Schlagen auf f3 bringt nichts ein, da der weiße Läufer den
+ungedeckten Bauern auf b7 bedroht. Und das Zurückgehen nach f5 ist auch nicht
+zielführend.} 10. Be3 $1 {[%csl Yb6,Yc3,Ye2,Ye3,Yf3,Yh5][%cal Gc3b5,Ge3d4,
+Ge3h6,Ge2c4,Ge2f3] Das ist der beste weiße Zug in dieser Stellung, denn er
+hält die Spannung der Stellung aufrecht. Außerdem ist er aktiv, denn er
+entwickelt eine Figur in das Zentrum und strahlt auf die beiden Flügel.
+Insgesamt hat Weiß die harmonischere und bessere Entwicklung, während zwei
+schwarze Figuren (der Läufer auf h5 und der Springer auf b6) eher deplatziert
+sind.} d5 {Dieser Zug stellt die klare Hauptvariante dar. Schwarz kann auch
+seinen Damenspringer nach c6 oder nach d7 entwickeln. Weiß hat hier aber
+leichteres Spiel als in der Hauptvariante.}) ({(b) Das Fianchetto-System
+kennzeichnet den Zug} 4... g6 {Die Entwicklung des Königsläufers nach g7 ist
+ein logischer Weg, um Druck auf das weiße Zentrum aufzubauen. Andererseits
+ist der Zug auch etwas provokativ und erlaubt Weiß aggressiv zu reagieren.} 5.
+Bc4 Nb6 {Der starke Springer wurde aus dem Zentrum vertrieben.} 6. Bb3 Bg7 {
+Schwarz führt seinen Plan aus, aber nun kann Weiß eine sehr aggressive
+Antwort wählen.} 7. Ng5 {[%csl Yf7][%cal Rg5f7,Rb3f7] Weiß bedroht die
+Schwäche auf f7.} e6 {Die Blockade der Diagonalen mit dem Damenbauern ist
+heute eher unüblich, denn Schwarz löst damit zu früh die Spannung im
+Zentrum auf.} 8. Qf3 {Das ist die schärfste und anspruchvollste Fortsetzung.}
+Qe7 {Das ist der beliebteste und herausfordenste Zug.} 9. Ne4 {[%csl Yd6,Yf6]
+[%cal Ge4f6,Re4d6] Weiß setzt seinen Angriff auf den schwarzen Feldern fort.}
+dxe5 {Das Verspeisen des Zentrumsbauern ist der schwierigste Ansatz, scharf
+und riskant.} 10. Bg5 {Weiß entwickelt sich mit Tempo.} Qb4+ {Schwarz rettet
+die Dame und zwingt Weiß auch zu einem Tempoverlust.} 11. c3) 5. Nxe5 c6 {
+Das ist das Miles-System.} ({(a) Das Kengis-System beginnt mit} 5... g6 {
+Das ist ein interessantes System. Auch wenn die schwarze Stellung eher passiv
+und eher schlechter aussieht, sind die Pläne nicht völlig trivial für Weiß.
+Und die schwarze Stellung bleibt extrem solide. Daher sollte Weiß eine eher
+geduldige Strategie verfolgen, um die schwarzen Bauerndurchbrüche c5 und e5
+zu verhindern. Generell sollten auch Abtäusche der Leichtfiguren vermieden
+werden (es sei denn, Schwarz möchte seinen Damenläufer gegen einen Springer
+tauschen). Weiß hat daher folgende Hauptideen: 1. Der Bauernvorstoß nach c4
+wird vermieden, um keine zusätzlichen Ziele zu markieren 2. Statt dessen wird
+der Königsläufer nach c4 entwickelt. 3. Die anderen Figuren werden langsam
+gegen das Zentrum platziert. Der weiße Damenläufer erscheint auf oft g5, um
+einen unangenehmen Druck auf dem Königsflügel auszuüben.} 6. Bc4 {[%csl Yd5,
+Yf3,Yf7][%cal Rc4d5,Re5f7,Gd1f3,Rf3d5] Das ist ein entscheidender Moment, um
+jede Art von einem Befreiungsschlag auf c5 zu verhindern. Es droht direkt
+Se5xf7 nebst Dd1-f3+.} c6 {Das ist die Hauptvariante. Der Zug sichert den
+Springer auf d5 und lässt dem Läufer auf c8 alle Optionen offen.} 7. O-O Bg7
+8. Re1 {Das sind die korrekten und stellungsgemäßen Züge in diesem System.
+Beide Seiten bringen ihre Könige in Sicherheit.} O-O 9. c3 {Dieser Zug passt
+am besten in den oben skizzierten Plan. Weiß vermeidet den zu aggressiven
+Vormarsch mit dem c-Bauern und stützt stattdessen sein Zentrum.} Be6 {Schwarz
+entwickelt den Damenläufer und stützt ein weiteres Mal den wichtigen
+Springer auf d5.} 10. Nd2 $1 {Dies ist der genaueste Zug. Der Springer kann
+sehr schön auf e4 eingesetzt werden oder er schützt seinen Kollegen auf f3.}
+Nd7 {Schwarz würde nur allzu gerne den Springer auf e5 zu einem Tausch
+zwingen, da dann sein eigener Springer auf d5 Herr im Hause wäre.} 11. Nef3 {
+Natürlich vermeidet Weiß den Springertausch und lässt soviele Figruen wie
+möglich auf dem Brett.} Nc7 {Schwarz hat jetzt eine andere Idee. Er möchte
+gerne den (in der Alekhine-Verteidigung) oft nutzlosen Damenläufer gegen den
+starken Königsläufer von Weiß tauschen. Der Springer stünde auf e6 nicht
+so schlecht und könnte mit dem anderen Springer auf d5 auf f4 einen
+Angriffspunkt markieren.} 12. Bf1 {Wie gehabt konserviert Weiß seine Figuren.}
+c5 $1 {Das ist die kritische Fortsetzung. Ansonsten bliebe die schwarze
+Stellung passiv und die Figuren nachteilig platziert. Selbst hier steht der
+Läufer auf e6 etwas unbequem. Weiß muss sehr genau spielen, um hier Vorteil
+nachzuweisen.}) ({(b) Eine provokative Verteidigung lautet} 5... Nd7 {In der
+letzten Zeit ist er eher ungewöhnlich. Früher musste man sehr schwer
+Kompensation für das weiße Figurenopfer nachweisen.} 6. Nxf7 $1 {Die
+nächsten Züge sind ziemlich forciert.} Kxf7 7. Qh5+ Ke6 8. c4 N5f6 9. d5+ Kd6
+10. Qf7 Ne5 {Alle anderen Züge machen Weiß die Sache eher leicht.} 11. Bf4 c5
+{Es drohte bereits c4-c5+. In der entstandenen Stellung ist die weiße Dame
+gefangen. Allerdings steht sie zur Zeit sicher genug, da der schwarze Springer
+gefesselt. Natürlich darf sich der Läufer nicht mehr bewegen, aber
+glücklicherweise kann Weiß genügend Drohungen gegen den schwarzen König
+generieren.} 12. Nc3 {Entwicklung verbunden mit der Drohung des Schachs auf b5.
+} a6 13. b4 $1 {Der Angriff auf den schwarzen König wird ausgeweitet.}) 6. Be2
+Bf5 {[%csl Yc2,Yd7,Yf5][%cal Gb8d7,Rd7e5,Rf5c2] Das ist die beliebteste
+Fortsetzung für Schwarz. Daher kann man die Variante als die Moderne
+Hauptvariante bezeichnen. Schwarz möchte den aktiven Springer auf e5 mit
+Sb8-d7 unterminieren.} 7. O-O {Einfache Entwicklung ist hier am besten. Die
+Entfaltung des schwarzen Spiels muss unterbunden werden.} Nd7 8. Nf3 {Wie
+üblich werden unnötige Abtäusche vermieden.} e6 9. c4 N5f6 10. Nc3 {Der Zug
+stellt die positionelle Drohung Sf3-h4 auf.} *
+

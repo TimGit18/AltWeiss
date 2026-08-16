@@ -1,0 +1,83 @@
+[Event "1.e4 vs The Philidor"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hanham-System"]
+[Black "Damenflügelfianchetto"]
+[Result "*"]
+[ECO "C41"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "46"]
+[EventDate "2017.08.08"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 {Dies ist die übliche Zugumstellung, um in die
+Hanham-Verteidigung zu gelangen. Schwarz vermeidet die Fallstricke der
+Klassischen Philidor-Verteidigung} 4. Nf3 Nbd7 5. Bc4 {Weiß lenkt in das
+Hanham-System ein. Es ist sicherlich das beliebteste und am meisten
+respektierte System der Philidor-Verteidigung. Es ist ein sehr solides System
+und eine praktische Herausforderung für Weiß sind die vielen praktischen
+Möglichkeiten, die Schwarz hat. Daher sollte man eine Zugfolge finden, die
+die schwarzen Möglichkeiten einschränkt.} Be7 {Hiermit lenkt Schwarz in eine
+normale Hanham-Variante der Philidor-Verteidigung ein. Normalerweise folgt die
+kurze Rochade, jedoch gibt es auch eine genauere Fortsetzung.} 6. a4 $1 {
+Die ist eine sehr geschickte Zugumstellung von Weiß, der vor allem gegen
+a7-a6 von Schwarz gerichtet ist. Er möchte Schwarz aus seinem Auto-Piloten
+bringen. Zum einen droht a4-a5-a6 mit Einschnüren von Schwarz auf dem
+Damenflügel, zum anderen wird ein Rückzugsfeld für den Läufer auf c4
+freigemacht.} O-O {Das ist die Hauptvariante.} 7. O-O {[%csl Ya6,Yb5,Yc6][%cal
+Gc7c6,Ga7a6,Rb7b5] Dies ist die traditionelle Tabiya-Stellung des
+Hanham-Systems. Hier teilt sich das Spiel ein weiteres Mal in zwei Systeme.
+Der schwarze Standardplan besteht nun darin, auf dem Damenflügel mit b7-b5 zu
+expandieren. Dies kann er auf zwei Arten vorbereiten.} c6 {Dies ist die meist
+verbreiteteste Fortsetzung für Schwarz} 8. h3 $5 {Dieser Zug stellt eine
+leichte Abweichung von dem Standardaufbau mit Tf1-e1 dar. Er vermeidet einige
+Vereinfachungen, die Schwarz zur Verfügung stünden, falls der Turm zöge, so
+etwa die Auflösung des Zentrums mit exd4. In diesem Fall möchte Weiß aber
+den Turm vielleicht lieber nach d1 bringen, um auf der halboffenen d-Linie
+Druck auszuüben.} {Das Damenflügelfianchetto beginnt mit} b6 {Das ist einer
+der beliebtestesten Züge. Wie auch die traditionelle Hauptvariante nach 8.Te1.
+Hier kann Weiß allerdings einen anderen Ansatz wählen.} 9. Qe2 $1 {[%csl Ya2,
+Yc4,Yd1,Ye5,Yh4][%cal Gf3h4,Gc4a2,Ge2c4,Gf1d1,Gd4e5] Plant Tf1-d1. Dies ist
+ein weiterer Punkt von h2-h3, dass nämlich Dame und Turm flexibel bleiben.
+Normalerweise würde jetzt Schwarz mit e5xd4 und Tf8-e8 fortsetzen, um die
+weiße Dame auf e2 anzuvisieren und eventuell zu vertreiben. Allerdings
+gewinnt genau Sf3xd4 ein Tempo aufgrund des ungeschützten Bauern auf c6! In
+vielen Fällen steht der Turm auf d1 genau richtig, wenn Weiß den Bauern auf
+e5 schlägt. Oft geht dann der Springer nach h4, der Läufer nach a2 und die
+Dame nach c4. Daher ist der Aufbau mit De2 und Td1 genau richtig gegen das
+Damenflügelfianchetto.} a6 {[%csl Yc8,Yf5][%cal Gc8f5] Schwarz belässt den
+Läufer auf c8, um das Feld f5 zu überwachen.} ({Der Zug} 9... Bb7 $6 {
+verpflichtet den Läufer zu fürh und erlaubt es Weiß, die Option eines
+schnellen Sh4-f5 zu realisieren nach einer kleinen Vorbereitung.} 10. Rd1 Qc7
+11. Ba2 $1 a6 ({Ein wichtiger Aspekt von Dame e2 wird deutlich nach} 11... Rfe8
+$2 12. Bxf7+ Kxf7 13. Qc4+ Kf8 14. Ng5 {, wonach Weiß gewinnt.}) 12. Nh4 {
+Das ist jetzt viel stärker, denn Schwarz kann nicht auf d4 schlagen und Se5
+spielen oder Sc5, um Sf5 zu verhindern.} exd4 (12... g6 13. Bh6 Rfe8 14. Qc4 {
+würde auch sehr tödlich sein.}) 13. Rxd4 {Weiß plant Sf5 und Lf4 mit einer
+sehr schönen Stellung.}) 10. Rd1 Qc7 {Hier hat Weiß die Wahl zwischen
+einigen angenehmen Alternativen. Er sollte den Vorstoß d6-d5 beachten, so
+dass ein Abtausch auf e5 notwendig wird. Das Problem besteht darin, dass der
+Läufer auf c4 von dem Vorstoß d6-d5 bedroht wird, so dass er entweder
+zurückziehen muss oder auf e5 schlagen muss. Schwarz seinerseits muss
+Gegenspiel mit Tb8 oder Lb7 vorbereiten.} 11. Be3 $5 {Dieser Zug hat konkrete
+Ideen für Weiß. Der Grund dafür, den Läufer auf c4 zu belassen, besteht
+darin, dass der Turm auf a8 einfach nicht weg kann. Schwarz muss also Lc8-b7
+irgendwann spielen, wonach das Feld f5 unbewacht bleibt.} Bb7 12. dxe5 ({(a)} 
+12. Ba2 b5 {würde Schwarz bloß Gegenspiel zur rechten Zeit geben.}) ({(b)} 
+12. Nh4 {ist ein weiterer kritischer Test, da} g6 {sehr zwielichtig aussieht
+nach} ({Tatsächlich ist} 12... b5 {die richtige Antwort. Schwarz erlaubt Sf5
+mit Tempo, aber es ist überrraschenderweise schwer hiernach für Weiß etwas
+zu finden.} 13. Nf5 Rfe8) 13. Bh6 {, wonach es viele Tricks mit Lc4xf7 gibt.})
+12... Nxe5 (12... dxe5 13. Nh4 {wurde auch schon einige Male gespielt, aber
+Schwarz schaut in den Abgrund.}) 13. Nxe5 dxe5 14. a5 $5 {Eine sehr
+interessante Computer-Idee. Schwarz muss offensichtlich spielen:} b5 {Und
+hiernach kann Weiß den Läufer versenken.} 15. Bb6 Qc8 (15... Qb8 16. Ba2 {
+führt zu massiven Entwicklungsproblemen bei Schwarz.}) 16. Ba2 Nd7 {Wieder
+einmal erreichen wir eine kritische Stellung. Weiß hat anscheinend die
+Initiative. Schwarz muss erst einmal Zeit aufwenden, um den Läufer und dann
+den Bauern auf d6 zu beseitigen.} 17. Qh5 g6 18. Qh6 Nxb6 19. axb6 Qe8 (19...
+Bc5 {ist zu langsam. Weiß erhält einen schnellen Mattangriff nach} 20. Rd3
+Bxb6 21. Ne2 {[%csl Yd1,Yf5,Yg3,Yh5][%cal Ge2g3,Gg3f5,Gg3h5,Ga1d1] Die
+Besetzung der Königsflügelfelder ist tödlich.}) 20. Rd3 Rd8 21. Rad1 Rxd3
+22. Rxd3 Bc5 23. Ne2 Qe7 {Schwarz kann sich hier verteidigen.} *
+

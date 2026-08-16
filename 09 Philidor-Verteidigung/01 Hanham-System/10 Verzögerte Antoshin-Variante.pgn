@@ -1,0 +1,55 @@
+[Event "1.e4 vs The Philidor"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hanham-System"]
+[Black "Verzögerte Antoshin-Variante"]
+[Result "*"]
+[ECO "C41"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "23"]
+[EventDate "2017.08.08"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 {Dies ist die übliche Zugumstellung, um in die
+Hanham-Verteidigung zu gelangen. Schwarz vermeidet die Fallstricke der
+Klassischen Philidor-Verteidigung} 4. Nf3 Nbd7 5. Bc4 {Weiß lenkt in das
+Hanham-System ein. Es ist sicherlich das beliebteste und am meisten
+respektierte System der Philidor-Verteidigung. Es ist ein sehr solides System
+und eine praktische Herausforderung für Weiß sind die vielen praktischen
+Möglichkeiten, die Schwarz hat. Daher sollte man eine Zugfolge finden, die
+die schwarzen Möglichkeiten einschränkt. Die Verzögerte Antoshin-Variante}
+exd4 {stellt eine beliebte und trickreiche Nebenvariante dar} 6. Qxd4 {
+Vielleicht ist dies eine leichte Konzession, aber Weiß hat die Extra-Option
+der langen Rochade.} (6. Nxd4 Nb6 7. Be2 {Das ist die schwarze Idee.} Be7 8.
+O-O O-O {nebst d6-d5.}) 6... Be7 (6... Nb6 {erlaubt} 7. Bf4 {nebst langer
+Rochade.}) 7. Bf4 $5 {Der Läufer steht auf einem sehr aktiven Feld und
+verhindert den üblichen schwarzen Befreiungsplan mit c6 und d5. Oft
+unterstützt er auch einen Durchbruch mit e4-e5.} O-O 8. O-O-O Nb6 {Weiß
+sollte sich um den angegriffenen Königsläufer keine Sorgen machen. Dagegen
+muss er sich überlegen, was er gegen eine Umgruppierung mit Sf6-d7 oder
+Sf6-g4 nebst Le7-f6 tun will.} (8... a6 9. e5 $1 {Das ist ein sehr guter Zug,
+obwohl nicht unbedingt erforderlich.} dxe5 10. Nxe5 Nxe5 11. Qxe5 Bd6 12. Qd4 {
+Weiß hat eine sehr schöne Partie.}) 9. Rhe1 $1 {Weiß hat eine sehr schnelle
+Entwicklung und kann es sich erlauben, das Läuferpaar aufzugeben. Und wenn
+Schwarz nicht schlägt, dann gruppiert Weiß einfach seine Figuren um wie etwa
+den Läufer nach f1.} Be6 {Hier sind einige Alternativen zu betrachten.} ({
+(a) Logisch scheint} 9... Nxc4 {, aber das weiße Spiel ist ziemlich einfach
+nach diesem Tausch. Zum Beispiel} 10. Qxc4 Be6 11. Qf1 {Hier kommen auch d3
+und e2 in Betracht, jedoch sollen die Turmlinien offen bleiben. Weiß hat das
+angenehmene Sf3-d4 zur Verfügung. Und er kann mit h2-h3, g2-g4 und so weiter
+nach vorne marschieren. Schwarz wird sich auch Sorgen machen über Sd4xe6 oder
+e4-e5 praktisch bei jedem Zug.}) ({(b)} 9... c5 10. Qd3 Nxc4 11. Qxc4 Be6 12.
+Qd3 Qa5 13. Kb1 {hilft Schwarz nicht bei der Erzeugung von Gegenspiel,
+wohingegen er bei sich lauter Schwächen schafft.}) ({(c)} 9... Ng4 {kann
+einfach begegnet werden mit} 10. Nd5 $1 {und der Schlüsselunterschied ist nach
+} Nxc4 (10... Nxd5 11. Bxd5 Bf6 12. e5 {ist auch sehr komfortabel für Weiß.})
+11. Qxc4 Nxf2 {Das ist keine Gabel, so kann Weiß fortsetzen mit} 12. Rd2 Ng4
+13. Qxc7) 10. Bf1 {Es ist nicht so einfach für Schwarz, seine Figuren
+umzugruppieren. Für Weiß ist die Aufgabe viel angenehmer.} Nfd7 {Schwarz hat
+eine Breite von Alternativen.} ({(a)} 10... c5 11. Qd2 d5 {Die weißen Figuren
+sind ideal platziert, um diesen Durchbruch zu begegnen.} 12. exd5 Nfxd5 13.
+Nxd5 Nxd5 14. Bc4 Nxf4 15. Qxf4) ({(b)} 10... Nh5 {ist ein Computer-Vorschlag,
+aber Weiß kann gut kontern mit} 11. Be3 Nf6 12. Qd2 Ng4 13. Bf4 Bf6 14. Kb1
+Ne5 15. Nd4 {ist angenehmer für Weiß.}) (10... Re8 11. Qd2 {plant Sg5 oder
+Sd4.}) 11. Qe3 {Beabsichtigt e4-e5 oder Le3-g5 oder Sf3-d4.} Bf6 12. e5 $14 *
+

@@ -1,0 +1,81 @@
+[Event "Fighting the Ruy Lopez"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anti-Marshall-System"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "C88"]
+[Annotator "Milos Pavlovic"]
+[PlyCount "37"]
+[EventDate "2011.09.01"]
+[SourceDate "2011.09.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 {Hiernach entsteht die Spanische Partie. Weß übt
+sofort Druck auf den Verteidigungsspringer auf c6 auf und damit auch weiteren
+Druck auf den Bauern e5.} a6 {Die Morphy-Verteidigung ist eine der
+flexibelsten und beliebtesten Antworten. Der weße Damenläufer muss sich
+erklären, ob er abgetauscht werden soll oder zurückgezogen wird} 4. Ba4 {
+Weß behält vorerst das Läuferpaar und läßt den Druck nicht nach.
+Allerdings hat Schwarz immer wieder einmal die Option, selber b7-b5 zu spielen
+und den weßen Läufer ganz von seinem Verteidigungsspringer zu vertreiben} Nf6
+{Schwarz leitet ein Gegenspiel gegen den weßen Königsbauern ein und
+entwickelt sich} 5. O-O {Weß ignoriert die Drohung. Er bietet dem Schwarzen
+an, mit Sf6 x e4 in die Offene Verteidigung überzugehen} Be7 {In der
+Geschlossenen Verteidigung verzichtet Schwarz auf das Schlagen des weßen
+Königsbauern. Er will sich vielmehr in Ruhe entwickeln und sein Zentrum
+verteidigen} 6. Re1 {Weß deckt den angegriffenen e-Bauern und droht
+seinerseits damit nach Tausch auf c6 den Bauern e5 zu nehmen.} b5 {Dieser Zug
+ist jetzt notwendig. Schwarz schüttelt den lästigen Läufer ab. Außerdem
+gewinnt der Bauernvorstoß Raum auf dem Damenflügel, so dass Weß praktisch
+nie Sb1-c3 spielen kann. Das Feld b7 kann als Entwicklungsfeld für den oft
+bescheidenen Läufer c8 benutzt werden} 7. Bb3 {Auf diesem Feld besetzt der
+Läufer die schöne Diagonale a2-g8. Er verhindert mit Druck auf d5 den
+typischen schwarzen Befreiungszug mit dem Damenbauern} O-O {Schwarz möchte
+nach dem thematischen Zug c2-c3 den berühmten Marshall-Angriff mit d7-d5 und
+einem Bauernopfer spielen} 8. h3 {Das ist der flexibelste Zug für Weß. Er
+verhindert das Marshall-Gambit zwar nicht, aber nimmt diesem viel von seiner
+Kraft. Wenn Schwarz jetzt normal mit d7-d6 spielt, dann erhält man die
+normalen Varianten der Geschlossenen Verteidigung} Bb7 {Schwarz entwickelt
+seine Figuren im Geist der Zaitsev-Variante. Er will nachweisen, dass der
+prophylaktische Zug h2-h3 eine Zeitverschwendung darstellt.} 9. d3 {Dieser Zug
+unterstützt den Bauern e4 und weigert sich, die Entwicklung zu
+vernachlässigen. Weß will eine ruhige Manöverpartie spielen und zeigen,
+dass der schwarze Läufer auf b7 schlecht platziert ist} d6 {Damit lenkt
+Schwarz in das ruhige Fahrwasser des Weßen ein. Hier hat Schwarz noch die
+Chance d7-d5 zu spielen. Stattdessen entsteht eine Geschlossene Verteidigung}
+10. a3 {Die Priorität des Weßen liegt in der Sicherung seines Läufers vor
+einem Abtausch durch den Springer a5 und darin, die Bewegungsfreiheit der
+schwarzen Läufer zu blockieren. Oft kehrt der Läufer von b7 nach c8 zurück,
+da er auf b7 eingesperrt bleibt und das Feld f5 überwacht werden muss, falls
+ein weßer Springer auf g3 auftaucht} Na5 ({Der Springerrückzug} 10... Nb8 {
+ist ein weniger aktiverer Zug als der Chigorin-Zug} 11. Nbd2 Nbd7 12. Nf1 Re8
+13. Ba2 Bf8 14. Ng5 Re7 {Die Stellung ähnelt der Zaitsev-Variante} 15. f4 h6
+16. Nf3 d5 17. fxe5 Nxe5 18. Nxe5 Rxe5 19. Bf4 Re8 20. e5 Nh7 21. d4 {Weiß
+hat das Zentrum unter Kontrolle und die Stellung im Griff}) 11. Ba2 c5 {
+Diese Stellung kann als Ausgangsstellung in der Hauptvariante des
+Anti-Marshall gesehen werden. Sie ist sehr solide und zuverlässig. Im
+Unterschied zum Klassischen Chigorin-System hat Weiß hier aber noch nicht
+c2-c3 gespielt, kann also den Springer noch nach c3 bringen, von wo er aus d5
+attackiert} 12. Nbd2 {[%csl Yf1,Yf5,Yg3][%cal Rd2f1,Rf1g3,Rg3f5] Dieser Zug
+ist viel komplexer als der Springerzug nach c3. Der Springer soll via f1-g3
+nach f5 gebracht werden, weil dieses Feld nicht mehr vom Läufer auf c8
+kontrolliert wird} Nc6 13. Nf1 Bc8 {Dieser Läufer soll nach e6 gebracht
+werden, um den gefährlichen weißen Königsläufer eliminieren} 14. c3 {
+Mit dieser Strategie möchte Weiß den Läufer auf e6 tauschen, um dann b2-b4
+zu spielen und Schwarz zu weiteren Schwächen zu zwingen. Schwarz versucht
+dann davon abzulenken, indem er Figuren austauscht. Die Stellung ist sehr
+ruhig.} Be6 15. Bxe6 fxe6 {Dies ist eine weitere Schlüsselposition. Auf
+Kosten der Bauernstruktur hat Schwarz einen festen Griff auf das Zentrum und
+hat den gefährlichen Läufer auf a2 eliminiert. Das folgende Spiel ist sehr
+komplex und erfordert sorgfältige Behandlung} 16. b4 {Das ist der einzige
+vernünftige Versuch von Weiß} Qd7 {Das ist der beliebteste, aber nicht der
+einzige Zug} ({(a) Zu weißem Vorteil führt} 16... d5 17. exd5 Qxd5 {Sonst
+fällt der Bauer e5} 18. Ne3 Qd7 19. Qb3) ({(b)} 16... Nh5 {führt nach} 17.
+N1h2 Nf4 18. Bxf4 Rxf4 19. Qb3 Qd7 20. a4 bxa4 21. Rxa4 cxb4 22. cxb4 Rb8 23.
+Rea1 {zu einem kleinen, aber lang andauernden Vorteil für Weiß}) 17. Ng3 a5 {
+Schwarz möchte die Stellung auf dem Damenflügel öffnen} ({Eine Alternative
+von Kramnik ist} 17... Rfb8 18. d4 {Weiß muss die Stellung im Zentrum öffnen}
+exd4 19. cxd4 cxd4 20. Nxd4 {Weiß hat mehr Raum und auch die bessere
+Bauernstellung}) 18. bxc5 dxc5 19. Qb3 {Weiß hat Druckspiel gegen b5 und e6} *
+

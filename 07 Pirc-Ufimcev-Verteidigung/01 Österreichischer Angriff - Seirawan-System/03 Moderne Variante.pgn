@@ -1,0 +1,44 @@
+[Event "The Pirc in Black and White"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Seirawan-System"]
+[Black "Moderne Variante"]
+[Result "*"]
+[ECO "B09"]
+[Annotator "James Vingus"]
+[PlyCount "41"]
+[EventDate "2013.09.18"]
+[SourceDate "2013.09.18"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 {Die Pirc-Verteidigung ist eine hypermoderne
+Verteidigung, die es Weiß erlaubt, ein mächtiges Bauernzentrum zu errichten.
+Schwarz will dieses Zentrum später mit Zügen wie e7-e5 oder c7-c5 angreifen.}
+4. f4 {Dieser Zug definiert den Österreichischen Angriff. Das ist die
+schärfste und theoretisch kritischste Fortsetzung gegen die Pirc-Verteidigung.
+Das prinzipielle Ziel dieses Angriffs ist der Vorstoß e4-e5} Bg7 {Schwarz
+fianchettiert seinen Königsläufer und bereitet die kurze Rochade vor} 5. Nf3 {
+Weiß sollte den Vorstoß e4-e5 sorgfältig vorbereiten! Natürlich ist er sofort
+spielbar, aber das kann schnell zu Damentausch und einem ausgeglichenen
+Endspiel führen} c5 {Dieser Zug kennzeichnet das Seirawan-System. Seirawan hat
+1988 gezeigt, dass dieses System für Schwarz spielbar ist.} 6. Bb5+ {Wiederum
+ist auch der direkte Vorstoß e4-e5 spielbar. Jedoch ist das Läuferschach die
+wichtigste und schärfste Fortsetzung} Bd7 {Schwarz blockiert das Läuferschach
+mechanisch und entwickelt eine Figur} 7. e5 {Wenn Weiß e4-e5 spielen will,
+dann ist das jetzt der richtige Zeitpunkt, denn der schwarze Springer wird auf
+ein Feld gezwungen, das nicht so ideal ist wie das Rückzugsfeld d7} Ng4 {Von
+diesem Feld aus beobachtet Schwarz die geschwächten Felder von Weiß auf der
+f-Linie. Außerdem hat der schwarze Springer in Wirklichkeit kein anderes
+Fluchtfeld} 8. e6 {Das ist die schärfste Fortsetzung, die zu wilden
+Auseinandersetzungen führt} Bxb5 {Das ist die ältere Fortsetzung} 9. exf7+ Kf8
+{Einige starke Spieler haben diesen bizarren Zug in der letzten Zeit
+ausprobiert} 10. Nxb5 Qa5+ 11. Nc3 Nc6 (11... cxd4 12. Nxd4 Kxf7 13. Qxg4 Bxd4
+14. Bd2 Qf5 15. Qf3 Nc6 16. O-O-O Bf6 17. Rhe1 {mit Vorteil für Weiß}) 12. d5
+Bxc3+ {macht das Beste aus der Stellung} ({(a) Ein Vorschlag ist} 12... Nd8 13.
+Bd2 Qb6 14. h3 Nf6 15. Rb1 Nxf7 {, aber die schwarze Stellung sieht schon sehr
+zweifelhaft aus}) ({(b) Hingegen ist} 12... Nd4 13. Ng5 h6 14. Nge4 Nf6 15. O-O
+Kxf7 16. Nxf6 exf6 17. Ne4 Qa6 18. f5 Nxf5 19. Rxf5 gxf5 20. Qh5+ Ke7 21. Qxf5
+Rae8 22. Bf4 {gewinnbringend für Weiß}) 13. bxc3 Nd4 14. Bd2 Nxf3+ 15. Qxf3 Nf6
+16. c4 Qa4 17. Qb3 Qxb3 18. cxb3 Kxf7 19. O-O b5 20. Rae1 bxc4 21. bxc4 {und
+Schwarz wird langsam erdrückt} *
+

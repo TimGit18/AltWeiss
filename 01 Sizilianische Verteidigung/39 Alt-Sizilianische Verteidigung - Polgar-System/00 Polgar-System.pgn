@@ -1,0 +1,14 @@
+﻿[Event "1.e4 vs The Sicilian II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alt-Sizilianische Verteidigung"]
+[Black "Polgar-System"]
+[Result "*"]
+[ECO "B40"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "8"]
+[EventDate "2012.06.04"]
+
+{[%evp 0,35,19,31,72,53,48,43,44,44,77,93,83,87,73,51,84,78,74,56,55,44,50,51,37,44,39,27,33,9,13,-67,14,-93,48,-65,-40,-32]} 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d5 *
+

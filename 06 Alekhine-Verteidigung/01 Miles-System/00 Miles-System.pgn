@@ -1,0 +1,72 @@
+[Event "Beating Unusual Chess Defences"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alekhine-Verteidigung"]
+[Black "Miles-System"]
+[Result "*"]
+[ECO "B04"]
+[Annotator "Andrew Greet"]
+[PlyCount "22"]
+[EventDate "2013.07.05"]
+
+1. e4 Nf6 2. e5 Nd5 {Es gibt zu diesem Zug eigentlich keine wirklichen
+Alternativen} 3. d4 d6 {Das ganze schwarze Konzept basiert auf der
+Unterminierung der zentralen weißen Bauern. Ohne diesen Zug kommt Schwarz im
+Grunde nicht aus} 4. Nf3 {Das ist der weiße Hauptzug. Er verteidigt den
+Bauern auf e5 und entwickelt eine Leichtfigur.} dxe5 {Der direkte Abtausch im
+Zentrum ist mehr oder weniger die aktuelle Hauptvariante der
+Alekhine-Verteidigung} 5. Nxe5 {Das ist die Grundstellung des Modernen Systems.
+Schwarz hat jetzt mehrere Möglichkeiten: 1. Die Stützung des Springer mit
+c7-c6 2. Das provokative Sb8-d7 3. Die Fianchetto-Variante mit g7-g6} c6 {
+Das ist die heute beliebtestes Fortsetzung. Schwarz will Sb8-d7 spielen, ohne
+das Opfer Se5xf7 zu erlauben. Der Damenläufer soll vielleicht nach g4
+entwickelt werden und sich eventuell nach h5 zurückziehen können. Außerdem
+schafft der Zug ein Fluchtfeld auf c7 für den Springer} 6. Be2 {Weiß
+entwickelt seinen Läufer und verhindert den Läuferzug nach g4. Außerdem
+bereitet er die kurze Rochade vor. Außerdem gefällt er den starken Spielern
+am besten} Bf5 {Die Entwicklung des Läufers nach f5 ist die gebräuchlichste
+Fortsetzung und auch am logischsten. Schwarz überdeckt das Zentrum und
+entwickelt den Läufer auf ein aktives Feld} ({(a) Die Rückzugsvariante
+beginnt mit dem Zug} 6... Nd7 {Schwarz befragt sofort den weißen Springer.} 7.
+Nf3 {Wieder einmal sieht man diesen thematischen Rückzug, der für den
+Augenblick alle Abtäusche vermeidet.} g6 {Das Königsfianchetto ist eine sehr
+logische Fortsetzung, obwohl in dieser Stellung auch andere Züge möglich
+sind.} 8. O-O Bg7 9. c4 Nc7 {Das ist die Hauptfortsetzung, obwohl es
+zweifelhaft erscheint, dass Schwarz hier leicht ausgleichen kann.}) ({(b) Der
+folgende Zug kennzeichnet die Semi-Kengis-Variante, in der Schwarz - nicht
+untypisch - bereits c7-c6 vor dem Fianchetto gezogen hat.} 6... g6 {Da Schwarz
+bereits einen Zug investiert hat, so kann Weiß etwas aggressiver als üblich
+spielen. Zunächst muss der Springer aus dem Zentrum vertrieben werden.} 7. c4
+Nc7 {Darin liegt der Sinn des fünften Zuges von Schwarz. Er möchte ein
+Rückzugsfeld für seinen Springer schaffen und es besetzen.} 8. Nc3 Bg7 9. Be3
+O-O 10. f4 $5 {So ein Vorstoß sollte niemals leichtfertig gegen die
+Alekhine-Verteidigung eingesetzt werden. Dieser Zug stammt von Peter Svidler.
+Er ist ein gutes Beispiel für kontrollierte Aggression. Hier gibt es auch
+ruhigere Möglichkeiten.}) 7. O-O {Weiß bringt seinen König in Sicherheit
+und bereitet die Entwicklung des Turms auf die halboffene e-Linie vor} Nd7 {
+Es gibt für Schwarz jetzt keinen Grund mehr, diesen Zug hinauszuzögern. Er
+muss die starke Stellung des Springers e5 in Frage stellen} 8. Nf3 $1 {Der
+Rückzug mag überraschend erscheinen, ist aber eine gängige Idee. Die Idee
+ist einfach. Schwarz hat weniger Raum, deswegen vermeidet Weiß weitere
+Abtäusche} e6 {Dieser Zug ist am solidesten. Schwarz konzentriert sich auf
+normale Entwicklung und versucht nicht zu schlau zu sein} ({Die
+Wartezug-Variante beginnt mit} 8... h6 {Dieser Zug ist eine Art Wartezug,
+obwohl er sich auch gegen den schnellen Vorstoß c2-c4 richtet} 9. c4 {Diese
+kritische Fortsetzung beinhaltet ein vielversprechendes Qualitätsopfer.
+Schwarz soll sich den weißen Damenturm angeln} Nb4 10. Nc3 {Weiß entwickelt
+seine Figuren in das Zentrum} Nc2 {Schwarz hat keine Wahl, ohne diesen Zug
+macht sein Spiel wenig Sinn} 11. Rb1 Nb4 12. Be3 Bxb1 13. Qxb1 {Schwarz hat
+nun eine Mehrqualität und keine Schwächen, aber Weiß hat ernsthaften
+Entwicklungsvorsprung} e6 14. a3 Na6 15. d5 {Weiß öffnet nun das Zentrum,
+bevor Schwarz die Entwicklung abschließen kann}) 9. c4 {Weiß erobert
+weiteren Raum im Zentrum und vertreibt den schwarzen Springer aus der
+zentralen Stellung} N5f6 {Die Flucht des Springers nach b4 wäre viel zu
+riskant} 10. Nc3 {Weiß entwickelt sich weiter und achtet genaus auf die
+weißen Felder im Zentrum} Bd6 {Auch Schwarz muss die schwarzen Felder im
+Zentrum im Auge behalten und bereitet die kurze Rochade vor} 11. Nh4 $1 {
+Verlichen mit Varianten, in denen h7-h6 gespielt wurde, hat die Abwesenheit
+dieses Zuges natürlich auch Nachteile, denn Schwarz fehlt jetzt ein
+Rückzugsfeld für seinen Damenläufer} Bg6 {Schwarz möchte den Läufer
+natürlich nicht auf f5 abtauschen lassen} *
+

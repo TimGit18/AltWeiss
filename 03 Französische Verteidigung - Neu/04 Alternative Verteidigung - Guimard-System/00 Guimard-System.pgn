@@ -1,0 +1,63 @@
+[Event "1.e4 vs The French"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Französische Verteidigung"]
+[Black "Guimard-System"]
+[Result "*"]
+[ECO "C10"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "31"]
+[EventDate "2020.??.??"]
+[SourceVersionDate "2020.09.28"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 {Das Guimard-System ist eigentlich gegen die
+Tarrasch-Variante entwickelt worden. Es ist das populärste aller seltenen
+Systeme.} ({(a) Nur gegen Tarrasch macht} 3... c5 {Sinn, aber nicht gegen den
+Springer auf c3. Hier folgt einfach} 4. exd5 exd5 5. dxc5 d4 {Sonst verliert
+Schwarz einfach einen Bauern.} 6. Bb5+ Nc6 7. Qe2+ Be6 8. Ne4 {Diese Stellung
+ist schon einige Male gespielt worden, aber Weiß steht einfach besser.}) ({
+(b) Die Bricard-Variante beginnt mit} 3... h6 {Der Zug macht eigentlich keinen
+Sinn, es sei denn, Schwarz wolle Sg8-f6-e4 ziehen.} 4. Bd3 {Damit wird die
+oben skizzierte Idee verhindert.} Nc6 5. Nf3 Nb4 6. Bb5+ {Weiß provoziert den
+Bauernzug} c6 7. Be2 Nf6 8. e5 Ne4 9. a3 {Jetzt wird die Idee des
+Zwischenschachs deutlich. Der Springer kann nicht mehr zurück.} Nxc3 10. bxc3
+Na6 11. O-O {Der schwarze Springer ist nachteilig platziert. Weiß kann ganz
+einfach die Stellung verbessern, indem er c3-c4 spielt.}) ({(c) Die
+Legky-Variante startet mit} 3... a6 {. Schwarz will wiederum Sg8-f6-e4 ziehen.}
+4. Bd3 Nc6 5. Nf3 Nb4 {Das ist im Stile der Hauptvariante gespielt.} 6. Be2 Nf6
+7. e5 Ne4 8. O-O c5 {Die schwarze Invasion der Springer sieht beeindruckend
+aus, kann aber zurückgeschlagen werden.}) ({(d) Gegen das Tarrasch-System
+wird gerne} 3... Be7 {gespielt. Laut Negi führt dies nur zu einem
+verschlechterten Winawer} 4. e5 c5 ({Das Damenflügel-Fianchetto} 4... b6 {
+funktioniert hier etwas besser für Schwarz, denn er vermeidet es, die
+Stellung frühzeitig zu öffnen.} 5. Nf3 c5 6. Bd3 Nc6 7. O-O {Schwarz kann
+kurz einen Bauern gewinnen, aber nicht lange halten. Der Läufer auf e7 bleibt
+deplatziert, und es bleibt fraglich, wie lange sich Schwarz den
+Entwicklungsrückstand erlauben kann.}) 5. Qg4 {Nun muss Schwarz einen
+verpflichtenden Zug machen, nachdem Weiß einfach seine Entwicklung
+vervollständigen kann.} g6 {Die schwarzen Felder werden in der Zukunft sehr
+schwach sein.} 6. Nf3 Nc6 7. dxc5 Bxc5 8. Bd3 {Die einfache Entwicklung
+funktioniert hier am besten.}) 4. Nf3 {Weiß kann natürlich auch sofort mit
+e4-e5 die Stellung schließen, aber genau das wollen ja die Schwarzspieler
+hier provozieren.} Nf6 5. Bd3 $5 {[%csl Ye4] Dieser Zug ist vielleicht nicht
+besonders beliebt, aber er ist auch sehr gefährlich. Weiß unterbindet die
+typische Idee Sf6-e4 nach einem möglichen Vorstoß e4-e5.} Nb4 {Das ist die
+bevorzugte Wahl von Zaragatski und Son.} ({Die Läufervariante beginnt mit} 
+5... Bb4 {Schwarz versucht den Plan mit Sf6-e4 nach e4-e5 zu erneuern.} 6. O-O
+Bxc3 {Das ist der einzige Zug, der Sinn macht.} 7. exd5 {Hiernach muss Schwarz
+eine wichtige Entscheidung treffen. Er kann entweder einen Bauern rauben oder
+sich konsolidieren. Aber beide Arten sind nicht besonders ansprechend.} Nxd4 8.
+bxc3 Nxf3+ 9. Qxf3 Qxd5 10. Qg3 b6 {Das ist ein Versuch, das schwarze Spiel zu
+verbessern. Guimard-System-Läufervariante 1.e4 vs The French [Parimarjan Negi]}
+) 6. Bg5 Be7 7. e5 Nd7 8. Bxe7 Qxe7 9. O-O {Die letzten Züge waren alle
+forciert. Nun hat Schwarz die Wahl.} Nxd3 {Das ist ein prinzipieller Zug, aber
+vielleicht etwas verfrüht.} ({Die verbesserte Hauptvariante beginnt mit} 9...
+O-O 10. Re1 Nxd3 11. cxd3 b6 12. Rc1 a6 13. Ne2 c5 14. Nf4 Bb7 15. Qd2) 10.
+cxd3 {Weiß hat einen Raumvorteil und möchte mit seinen Figuren gegen den
+schwarzen Läufer spielen. Die typischen Bauerndurchbrüche f7-f6 und c7-c5
+verschlechtern nur die schwarze Bauernstruktur. Weiß kann zunächst entlang
+der c-Linie spielen oder die Springer und später die Schwerfiguren auf den
+Königsflügel verlegen.} O-O 11. Rc1 b6 12. Nb5 c5 13. Re1 a5 14. dxc5 bxc5
+15. d4 Ba6 16. Nd6 *
+

@@ -1,0 +1,65 @@
+[Event "Beating Unusual Chess Defences"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Tango"]
+[Black "Provokative Variante"]
+[Result "*"]
+[ECO "B00"]
+[Annotator "Andrew Greet"]
+[PlyCount "45"]
+[EventDate "2013.11.17"]
+[SourceDate "2013.11.17"]
+
+1. e4 Nc6 {Dieser Zug stellt die bedeutendste unter den unregelmäßigen
+Verteidigungen dar. Schwarz spielt gegen die Felder d4 und d5} 2. Nf3 {Der Zug
+ist viel bequemer als viele andere Züge, denn er zwingt Schwarz dazu in andere
+Strukturen zu wechseln oder Neuland zu betreten} d6 {Das ist der schwarze
+Hauptzug. Er vermeidet skandinavische Stellungen nach 2...d5, in denen der
+Springer auf c6 deplatziert wäre und die offenen Eröffnungen nach 2...e5} 3. d4
+{Weiß hat sein Ziel erreicht, Schwarz spielt eine Art Pirc-Verteidigung, aber
+mit Druck gegen d4 statt gegen e4} Bg4 {Dies ist ein provokativer und
+zweifelhafter Aufbau für Schwarz} 4. d5 Ne5 $6 {Das ist ein konsequenter
+Folgezug zu dem schwarzen Aufbau, aber er scheint etwas riskant und ist
+objektiv zweifelhaft} (4... Nb8 {ist sicherlich gesünder, aber nach} 5. h3 {
+hat Weiß einen wohlbekannten Aufbau erreicht}) 5. Nxe5 $1 {Dieses eleganter
+Damenopfer widerlegt den schwarzen Aufbau} Bxd1 6. Bb5+ c6 7. dxc6 Qa5+ {Das
+ist der einzige Zug} (7... a6 8. c7+ axb5 9. cxd8=Q+ Rxd8 10. Nxf7 Kxf7 11.
+Kxd1 {Schwarz hat einen Bauern weniger und eine schlechte Struktur}) 8. Nc3 {
+Weiß hat zweitweise nur eine Figur für seine Dame, aber er hat zahlreiche
+Drohungen. Der Läufer auf d1 ist gefangen und die schwarze Dame hat praktisch
+keine Felder} O-O-O ({Der Zug} 8... a6 {kann laut Khalifman wie folgt
+widerlegt werden} 9. b4 axb5 ({(a)} 9... Qxb4 $4 10. cxb7+) ({(b)} 9... Qxb5
+10. Nxb5 axb5 11. cxb7 Rb8 12. Nc6 Rxb7 13. Kxd1 {ist vorteilhaft für Weiß})
+10. bxa5 bxc6 11. Nxc6 Bxc2 12. Nb4 Ba4 13. Ncd5 Rxa5 (13... Rc8 14. Nb6 Rb8
+15. a6) 14. Nc6 Ra8 15. Nc7+ Kd7 16. Nxa8 Kxc6 17. Be3 Nf6 18. Rc1+ Kb7 19. Nb6
+Nxe4 20. Nxa4 bxa4 21. f3 {mit wohl gewinnbringender Stellung für Weiß}) 9. Nc4
+Qc7 {Es gibt keinen besseren Zug} ({(a)} 9... Qxc3+ 10. bxc3 Bxc2 11. f3 bxc6
+12. Bxc6 Kc7 13. Kd2 Kxc6 14. Kxc2 {mit der Absicht} -- 15. Rb1 {und} -- 16.
+Be3 {gegen den schwarzen König zu spielen}) ({(b)} 9... Qb4 10. a3 Qc5 11. Be3
+Qh5 12. Rxd1 {mit großer weißer Initiative}) 10. Nd5 Bxc2 {Das ist die beste
+schwarze Chance, um eine aktzeptable Stellung zu erreichen, obwohl er noch in
+Schwierigkeiten ist, solange Weiß genau spielt. Die Alternativen sind
+beträchtlich schlechter} ({(a)} 10... Qb8 11. c7 Qa8 12. Ncb6+ axb6 13. Nxb6+
+Kxc7 14. Nxa8+ Rxa8 15. Kxd1 {mit Mehrbauern und Stellungsvorteil für Weiß}) ({
+(b)} 10... Bh5 11. Nxc7 Kxc7 12. cxb7 Kxb7 13. Be3 Nf6 14. f3 d5 15. O-O-O {
+und Weiß hat beträchtlichen Vorteil aufgrund seines Mehrbauern}) ({(c)} 10...
+bxc6 11. Ba6+ Kb8 12. Nxc7 Bxc2 13. Bd2 Bxe4 14. f3 Bf5 (14... Bd3 15. Na5) 15.
+Rc1 Kxc7 (15... Rd7 16. Nb5 cxb5 17. Ne3 Bg6 18. Rc8#) 16. Ba5+ Kd7 17. Ne5+
+Ke6 18. Bxd8 Kxe5 19. Rxc6) ({(d)} 10... Qxc6 11. Bxc6 bxc6 12. Nb4 c5 13. Nc6
+Bxc2 14. Nxd8 Kxd8 15. f3 Bd3 16. b3 Nf6 17. Kd2 Bxc4 18. bxc4 {mit einem
+einfachen Endspiel für Weiß}) 11. Nxc7 Kxc7 12. cxb7 Bxe4 13. Be3 {Das
+materielle Gleichgewicht ist zwar mehr oder weniger wiederhergestellt, aber
+Weiß hat noch einen überwältigen Entwicklungsvorsprung, und der schwarze König
+ist schwer exponiert. Schwarz kann noch den ein oder anderen Bauern nehmen,
+aber seine Möglichkeiten sind begrenzt} Kxb7 {Schwarz sollte den gefährlichen
+Bauern entfernen, solange es noch geht} (13... Bxg2 {verliert nach} 14. Na5 Kb8
+15. Bc6) 14. f3 Bd5 15. Na5+ Kb8 ({Nach dem schlechteren} 15... Ka8 {folgt} 16.
+Kf2 -- 17. Rhd1 -- 18. Rac1 {ohne Verteidigung für Schwarz}) 16. Rd1 {Das ist
+der beste Zug für Weiß} Nf6 (16... Ba8 17. Rd3 Nf6 18. O-O {mit der Absicht
+Tc1 und Sc6+} Nd5 ({Oder} 18... Nd7 19. Rc1 Nb6 20. Nc6+) 19. Rc1 Nb6 (19...
+Nxe3 {verliert nach} 20. Bc6) 20. Nc6+ Bxc6 21. Bxc6 {und es folgt a4-a5 mit
+entscheidenden Drohungen}) 17. Bc6 e6 (17... Be6 18. Rd4 {transponiert}) 18.
+Bxd5 Nxd5 19. Nc6+ Kc7 20. Nxd8 Nxe3 21. Nxf7 Nxd1 22. Nxh8 Nxb2 23. Ke2 {und
+Weiß sollte im Endspiel gewinnen} *
+

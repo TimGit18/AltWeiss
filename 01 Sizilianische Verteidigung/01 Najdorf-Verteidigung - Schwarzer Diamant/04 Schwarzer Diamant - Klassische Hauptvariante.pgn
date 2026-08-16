@@ -1,0 +1,169 @@
+[Event "The Sicilian Najdorf 6.Bg5"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Schwarzer Diamant"]
+[Black "Klassische Hauptvariante"]
+[Result "*"]
+[ECO "B94"]
+[Annotator "Kevin Goh Wei Ming"]
+[PlyCount "34"]
+[EventDate "2011.09.27"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 {Das Najdorf-System ist
+das ambitionierteste System der Sizilianischen Verteidigung. Es steht auf
+solider positioneller Grundlage, denn a7-a6 ist ein sehr guter Abwartezug und
+Vorbote des Gegenschlags e7-e5. Wenn Weiß jetzt einen Standardzug wählt,
+erfolgt der Gegenschlag und Züge wie Le7, Sc6, b7-b5 nebst Lb7 oder Le6} 6.
+Bg5 {Das ist der aggressivste Versuch von Weiß den Najdorf zu bekämpfen.
+Weiß entwickelt den Läufer auf ein Angriffsfeld, denn er übt sofort Druck
+auf den Springer f6 aus, einen der wichtigen Verteidiger von Schwarz. Daher
+kann er jetzt nicht das typische Konzept umsetzen} Nbd7 {Dieser Zug ist eine
+alte Variante, die in der letzten Zeit weiterentwickelt wurde. Die
+vielversprechendste Antwort lautet} 7. Bc4 {Weiß nutzt aus, dass Schwarz noch
+nicht e7-e6 gespielt hat und kontrolliert das wichtige Feld d5. Später kann
+der Lufer dort nicht mehr gut platziert werden. Dieser Zug stellt eine
+wesentliche Alternative zum Zug f2-f4 dar, der sonst gerne gespielt wird.} Qa5
+{[%csl Ye4,Yg5][%cal Ra5g5,Rf6e4] Das ist die klassische Erwiderung. Schwarz
+geht zum Gegenangriff über und bedroht neben dem Läufer g5 auch den Bauern
+e4 aufgrund der Fesselung des Springers c3.} 8. Qd2 {Weiß deckt den Läufer
+und unterbricht die Fesselung. Außerdem bereitet er die lange Rochade vor} e6
+{[%csl Re6,Gf8,Gg7][%cal Yf8g7,Yc4e6,Yd4e6] Schwarz kontrolliert das Feld d5
+und bereitet die Entwicklung des Königsläufers vor. Er unterbricht außerdem
+die Wirkungslinie des Läufers auf c4 und schützt damit den neuralgischen
+Punkt f7. Er hat noch keine Angst vor einem Opfer des weißen Läufers auf e6,
+denn der Läufer auf f8 schützt bislang noch den Bauern auf g7. Schwarz
+kontrolliert das Feld d5 und bereitet die Entwicklung des Königsläufers vor.
+Er unterbricht außerdem die Wirkungslinie des Läufers auf c4 und schützt
+den neuralgischen Punkt f7} 9. O-O-O {Das ist der stellungsgemäße Plan. Der
+König gehört auf den Damenflügel und die beiden Türme in das Zentrum. Der
+König steht auf dem Damenflügel relativ sicher, da er von mehreren Figuren
+beschützt wird. Der Bauer auf a2 ist zuverlässig gedeckt und kann auch nicht
+durch den Vormarsch des b-Bauern erobert werden. Dies ist die Grundstellung
+des Schwarzen Diamanten in der Klassischen Form.} b5 {[%csl Yb4,Ye4][%cal
+Rb5b4,Gf6e4] Schwarz muss jetzt, wo die Angriffsziele klar sind, zum
+Gegenangriff übergehen. Der Damenläufer soll nach b7, der Springer nach c5.
+Es droht immer einmal b5-b4, wonach der weiße Verteidigungsspringer von c3
+vertrieben werden würde und Schwarz auf e4 mit Doppelangriff gegen d2 und g5
+schlagen könnte.} ({(a) Nach dem "Browne-Zug"} 9... h6 {verspricht} 10. Bh4 g5
+11. Bg3 b5 12. Bb3 b4 13. Nd5 $1 {mit dem thematischen Opfer auf d5
+erfolgreiches Spiel.}) ({(b) Zu Zugumstellung führt meistens} 9... Be7 10.
+Rhe1 b5 11. Bb3 Bb7 {Wahrscheinlich ist diese Variante nicht ganz so stark wie
+der Text, da sie weniger zwingend erscheint. Dieser Zug sieht zunächst sehr
+natürlich aus. Schwarz entwickelt seine letzte Leichtfigur anstatt lang zu
+rochieren. Er behält sich damit die Option vor sleber auch die kurze Rochade
+auszuführen. Allerdings hat dieser Zug, der bereits von Polugaevsky gegen
+Spasski gespielt wurde, auch einen gravierenden Nachteil. Weiß kann mit einem
+wuchtigen Figurenopfer die Stellung öffnen.} 12. Nf5 {[%csl Yc3,Yd4,Yd5,Yf5]
+[%cal Rc3d5,Rd4f5] Weiß sprengt das schwarze Zentrum. Solche Opfer sind
+völlig normal in der Najdorf-Verteidigung. Weiß hat genau zwei Felder (d5
+und f5), auf denen er den Springer opfern kann und die Öffnung der e-Linie
+erzwingt.} ({Klassisch ist die Fortsetzung} 12. f4 Nc5 {[%csl Ye4] Schwarz
+bedroht e4 und den weißen Läufer auf b3} 13. Bxf6 {Weiß muss etwas tun. Der
+Zug stammt von Spassky gegen Polugaevsky} gxf6 {Das wäre die beste Art des
+Wiedernehmens gewesen. Die schwarze Stellung ist noch einigermaßen kompakt})
+12... exf5 {Schwarz muss dieses Opfer annehmen, denn er kann schlecht den
+Springer auf f5 stehen lassen, der sowohl den Bauern g7 wie auch den Läufer
+auf e7 bedroht.} 13. exf5 {Weiß erhält zwar nur einen Bauern für seinen
+Springer, aber er hat zwei offene Linien, auf denen er eine Menge Druck
+ausüben kann. Schwarz kann nicht rochieren und muss bereits aufpassen.} Ne5 {
+Schwarz muss die e-Linie plombieren um zu rochieren. Anders kommt der schwarze
+König nie wieder aus dem Zentrum fort.} 14. f4 {Jetzt muss Schwarz schon den
+Springer abgeben. Wenn der Springer wegzieht opfert Weiß auf e7 und schlägt
+dann auf d6.} O-O-O {Das ist die beste Option für Schwarz. Er rochiert auf
+die vermeintlich sicherere Seite, da auf dem Damenflügel mehr eigene Figuren
+stehen.} 15. fxe5 dxe5 {Weiß hat seine Figur zurückerobert, und sein König
+steht einen Hauch sicherer. Trotzdem ist Schwarz wohl aus dem gröbsten heraus.
+} 16. Qe2 {[%csl Ge2,Ye5][%cal Re2e5] Die Dame war selber angegriffen und
+greift seinerseits den Bauern auf e5 an.} b4 {Schwarz muss sofort reagieren
+und versuchen, die Initiative zu ergreifen.} 17. Ne4 {Dieser Zug stellt etwas
+Vorteil für Weiß sicher. Schwarz kann nicht gut nehmen, da Weiß seinerseits
+mit dem Damenläufer zuschlägt.}) 10. Bb3 {Der Läufer steht hier
+bombensicher. Er drückt nicht mehr nur auf das schwarze Zentrum auf d5 und e6,
+sondern beschützt auch den weißen König, insbesondere das Feld auf a2.} Bb7
+{Schwarz entwickelt sich und erhöht den Druck auf den Punkt e4} ({Der forsche
+Vorstoß} 10... b4 $2 {geht nach hinten los} 11. Nd5 $1 Nxe4 12. Qxb4 {Schwarz
+kann wegen des Matts auf c7 die Dame nicht schlagen.} Qc5 13. Nxe6 fxe6 14.
+Qxe4 {Weiß hat nicht nur einen gesunden Mehrbauern sondern auch die viel
+bessere Stellung.}) 11. Rhe1 {Weiß entwickelt und zentralisiert die letzte
+Figur} O-O-O {Es ist angebracht, den schwarzen König auf den Damenflügel zu
+bringen. Dort kann er leichter beschützt werden als in der Mitte oder auf dem
+Königsflügel} ({Zu einem Figurenopfer führt die Fortsetzung} 11... Rc8 {
+Schwarz verzichtet auf die lange Rochade, sondern entwickelt zunächst den
+Damenflügel. Das ist aber eine grundsätzliche Entscheidung, denn er beläßt
+den König in der potentiell unsicheren Mitte des Geschehens. Weiß erhält
+die Chance unter Aufgabe von Material die Stellung rund um den König
+aufzureißen.} 12. e5 {Weiß öffnet die Stellung, da der schwarze König noch
+in der Mitte sich befindet. Schwarz kann diesen Bauern auf zwei Arten schlagen,
+aber keine davon ist gut.} dxe5 {[%csl Yd1,Yd2,Yd7][%cal Rd2d7] Dieses
+Schlagen stellt eine ernsthafte Schwächung der schwarzen Stellung dar, aber
+die Alternativen sind auch nicht viel besser. Das Problem für Schwarz ist es,
+dass sich jetzt die d-Linie für Weiß mit Tempo öffnet, auf der schon die
+weißen Schwerfiguren massiert sind. Weiß muss daher nur noch den Springer
+von d4 bewegen und macht dies mit einem Figurenopfer.} ({(a) Wenn Schwarz mit
+einer Figur schlägt, dann folgt trotzdem} 12... Nxe5 13. Nxe6 fxe6 {Jetzt
+behindern nur noch der Springer auf e5 und der Bauer auf d6 den Zugriff auf
+den schwarzen König. Also werden auch diese entfernt.} 14. Rxe5 dxe5 15. Bxf6
+{Weiß beseitigt den letzten Verteidiger von Schwarz in der Nähe seines
+Königs. Er hat zwar immer noch eine Qualität weniger, aber erhält einen
+Bauern und volle Kompensation.} Qc7 {Schwarz musste das Matt auf d7 decken.}
+16. Bxe5 {Wieder kann Schwarz den Läufer nicht nehmen. Er muss vielmehr sich
+jetzt auch um den Schutz des Bauern e6 kümmern.} Qf7 17. f4 {Diese Stellung
+ist äußerst unangenehm für Schwarz. Weiß deckt den Läufer und den Bauern
+auf g2. Er droht bereits f4-f5, so dass Schwarz seine normale Entwicklung
+nicht beenden kann.} Bb4 18. f5 Qxf5 19. Qd7+ {und Weiß gewinnt}) ({(b)
+Schwarz kann auch versuchen, einen Gegenangriff zu initiieren. Aber dieser
+erweist sich als zu langsam.} 12... b4 13. exf6 bxc3 14. Qf4 $1 {Das ist das
+ideale Feld für die Dame. Sie bewacht den Läufer auf g5 und bereitet das
+thematische Opfer auf e6 vor.} Nc5 {Das ist der relativ noch beste Zug.
+Schwarz überdeckt das Feld e6 und greift den Läufer auf b3 an. Aber richtig
+gut ist der Zug auch nicht.} ({Noch schlechter ist} 14... Ne5 15. Nxe6 fxe6 16.
+Rxe5 {und nach} Qxe5 17. f7+ Kd7 18. Qxe5 {verliert Schwarz alles.}) 15. Bxe6
+$1 {Nur so. Weiß muss die schwarze Königsstellung aufreißen.} fxe6 16. Nxe6
+Ne4 {Das ist ein verzweifeltes Rückopfer, aber der weiße Angriff ist schon
+zu stark.} 17. Rxe4 Bxe4 18. f7+ Kd7 19. Nxf8+ Rcxf8 20. Qxd6+ Kc8 21. Bf4 $1 {
+Es droht Matt auf b8. Der schwarze König kann sich noch einige Züge
+verstecken, aber er kann den drei weißen Figuren nicht entkommen.}) 13. Nxe6 {
+Das ist die prinzipielle Fortsetzung. Weiß opfert die Figur auch unter
+schlechteren Umständen, da er davon überzeugt ist, genug Kompensation zu
+erhalten. Die schwarzen Figuren sind noch unterentwickelt und die Koordination
+ist noch schlecht.} ({Wenn man eher positionell spielen will, dann tauscht man
+ab wie in einer Partie von Gligoric.} 13. Bxf6 Nxf6 14. Rxe5 Bb4) 13... fxe6
+14. Bxe6 {Weiß erhält nur einen Bauern für die Figur. Allerdings ist die
+Lage des schwarzen Königs prekär, da er nicht rochieren kann. Schwarz muss
+jetzt sehr genau spielen.} Qc7 {Schwarz deckt seinen Springer und verhindert
+so Materialverlust nach Lg5xf6.} 15. f4 {Weiß zielt auf den schwachen
+schwarzen Bauern auf e5 und möchte die e-Linie aufreißen. Er erhält
+Kompensation für die Figur, muss aber sehr aggressiv weiterspielen.}) 12. a3 {
+Das ist ein wichtiger Defensivzug von Weiß. Der Springer c3 bildet ein
+Schlüsselstein in der weißen Stellung. Ein Opferdurchbruch auf d5 ist sicher
+unwahrscheinlich geworden. Außerdem schafft der Zug ein Rückzugsfeld für
+den Läufer b3 nach einem Angriff mit Sd7-c5} Be7 {Schwarz beendet in Ruhe
+seine Entwicklung, er muss jetzt nicht mehr mit einem Überfall rechnen} 13. f4
+{Weiß muss seinen Griff im Zentrum verstärken und eine Reaktion von Schwarz
+provozieren. Er droht jetzt mit f4-f5 und lästigen Druck gegen die
+Schwachstellen e6 und f7 Alternativ kann Schwarz auch die Figuren auf dem
+Damenflügel entwickeln} Nc5 {[%csl Yb3,Ye4,Ge6][%cal Rc5e4,Rc5b3,Gc5e6] Ein
+guter und aktiver Verteidigungszug, der e6 verteidigt und sowohl den Läufer
+b3 und den Bauern e4 noch einmal angreift.} ({Die Alternative lautet} 13... h6
+{Das ist der schwarze Gegenangriff. Er will die Bauernphalanx e4 und f4
+zerstören} 14. Bh4 {Würde Weiß den Springer nehmen, so würde er den Druck
+von der schwarzen Stellung nehmen} g5 {Schwarz nimmt sogar ein (temporäres)
+Bauernopfer in Kauf, um das weiße Zentrum zu unterminieren. Weiß hat hier
+eigentlich wenig Auswahl} 15. fxg5 hxg5 16. Bxg5 {Schwarz hat zwar seinen
+Königsflügel eingebüßt, steht aber im Zentrum nach wie vor sicher} Rxh2 {
+Er aktiviert einen vorher passiv stehenden Turm und beobachtet den Bauern g2}
+17. Kb1 {Ein guter Abwartezug von Weiß. Er droht jetzt mit Sc3-d5 die
+ungedeckte Stellung der schwarzen Dame auszunutzen und zwingt damit Schwarz,
+seine Schwerfiguren besser zu koordinieren} Rh5 {Schwarz hat zwar sein Zentrum
+konsolidiert und die weiße Phalanx zerstört, aber er steht immer noch unter
+Druck.}) 14. Kb1 {Weiß bringt den König auf ein sichereres Feld} Qc7 {
+Schwarz erkennt, dass seine Dame auf a5 etwas abseits steht. Er glaubt, dass
+sie in der c-Linie besser gebraucht wird} 15. Bxf6 {Der Läufer steht wie in
+der Najdorf-Hauptvariante (3-Figuren-System) dem Bauernangriff auf dem
+Königsflügel im Weg. Daher wird er abgetauscht.} Bxf6 16. g4 {So beginnt der
+Bauernsturm} h6 {Schwarz verhindert mechanisch das Vorrücken der weißen
+Bauern} 17. Ba2 {Weiß zieht den Läufer prophylaktisch zurück} Bc6 {Schwarz
+möchte gerne auf d4 tauschen und dann mit dem a- und b-Bauern vorpreschen.
+Daher deckt er ersteinmal den b-Bauern.} *
+

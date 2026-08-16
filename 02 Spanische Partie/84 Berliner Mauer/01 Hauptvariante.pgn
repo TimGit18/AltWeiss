@@ -1,0 +1,87 @@
+[Event "Winning With The Ruy Lopez"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Berliner Verteidigung"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "C67"]
+[Annotator "Viktor Bologan"]
+[PlyCount "39"]
+[EventDate "2011.03.01"]
+[SourceDate "2011.03.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 {Die Berliner Verteidigung ist eine sehr
+modische und aktuelle Variante der letzten Jahre. Vladimir Kramnik hat die
+Verteidigung zur undurchdringlichen "Berliner Mauer" ausgebaut.} 4. O-O {
+[%csl Ye4] Das ist die kritische Fortsetzung. Weiß gibt seinen Königsbauern,
+da er seinerseits den schwarzen Königsbauern erobert. Wenn er den Bauern
+deckt, so entstehen ruhige Varianten ohne große Bedrohungen} Nxe4 {Die
+Klassische Berliner Verteidigung entwickelt den Königsläufer nach c5.} 5. d4
+{Weiß attackiert den schwarzen Königsbauern und droht mit der Öffnung der
+e-Linie. Allerdings nimmt er ein Endspiel in Kauf, das er auch vermeiden kann.}
+Nd6 6. Bxc6 {Weiß entscheidet sich für das Endspiel. Er könnte auch ein
+modisches temporäres Figurenopfer spielen} dxc6 7. dxe5 Nf5 {Das ist der
+Standardzug. Es wäre auch Sd6-e4 möglich, wonach einige taktische
+Überraschungen möglich sind} 8. Qxd8+ Kxd8 {[%csl Rb2,Yb5,Yd5,Yg6][%cal
+Gc1b2,Gb1c3,Gf5e7,Ge7g6,Gc3e2] Das ist das Berliner Endspiel, wobei es sich
+eigentlich um ein damenloses Mittelspiel handelt. Weiß muss den schwarzen
+König angreifen. Es gibt einige wichtige Charakteristika der Stellung. Die
+schwarze Kontrolle der Felder b5 und d5 sorgen für geringe Beweglichkeit des
+weißen Damenspringers, so dass dieser auf den Königsflügel überführt wird.
+Die Türme gehören auf die Mittellinien, wonach der Läufer keine großen
+Perspektiven hat. Auf f4 behindert er höchstens den Vormarsch der eigenen
+Bauernmehrheit. Deswegen ist das Fianchetto auf dem Damenflügel beliebt.
+Schwarz wird die Läufer in die Mitte stellen, den Springer umdirigieren und
+versuchen den König auf einen sicheren Platz zu stellen. Das Berliner
+Endspiel ist deshalb so beliebt, weil Schwarz flexible Pläne hat} 9. Nc3 {
+Der Springer soll schnell nach e4 gebracht werden, um dort Druck auf die
+schwarze Stellung auszuüben} Ke8 {Der König muss sowieso heraus aus der
+d-Linie. Auf e8 steht er relativ sicher vor Turmschachs, denn der Bauer e5
+behindert ja den Zugang zur schwarzen Stellung. Außerdem bewacht er das Feld
+f7} 10. h3 {[%csl Yc2,Yf5,Yg4][%cal Rg2g4,Rg4f5] Das ist immer ein guter Zug
+in dieser Stellung. Weiß möchte die Dominanz des weißfeldrigen Läufers,
+der keinen Widerpart hat, einschränken. Außerdem bereitet er den
+Bauernvorstoß g2-g4 vor.} h5 {Das ist der thematische Hauptzug in dieser
+Stellung. Schwarz verhindert zwar nicht g2-g4, aber dieser Zug würde die
+Turmlinie öffnen und die weiße Bauernstellung unterminieren. Außerdem
+schützt er die beste Figur von Schwarz, den Springer auf f5} 11. Bg5 {Dies
+kann man als eine Art Hauptvariante in der Berliner Verteidigung ansehen.
+Weiß verbindet die beiden Türme und kontrolliert das wichtige Feld e7, das
+jetzt der schwarze König nicht betreten kann} Be6 {[%csl Ya2,Yb4][%cal Re6a2,
+Rf8b4] Schwarz bringt den Damenläufer auf ein aktives Feld. Er kann versuchen,
+auf dem Damenflügel einen Angriff zu starten, da seine Läufer hierhin
+strahlen. Außerdem ist der Springer auf c3 ein Angriffsziel, vielleicht auch
+der Bauer auf a2} 12. a3 {Das ist ein sehr starker prophylaktischer Zug. Er
+verhindert den Angriff mit Lf8-b4 und mobilisiert auch den Turm auf a1} ({
+Statt dessen wäre nach} 12. Rad1 Bb4 13. a3 Bxc3 14. bxc3 Bd5 15. Nd4 Nxd4 16.
+Rxd4 b5 {[%cal Ge8g8,Gg8h7,Gh8a8,Ga8h8] die weiße Bauernstruktur zerstört
+und festgelegt und die Remisbreite hoch aufgrund der ungleichfarbigen Läufer.
+Schwarz kann den König über h7 evakuiren und die beiden Türme verbinden})
+12... Be7 {Schwarz hofft auf den Läufertausch, denn sein König wäre auf e7
+ideal platziert} ({Der Vorstoß} 12... h4 {[%csl Gg4][%cal Gf3h4,Gf1e1,Ge1e4,
+Ge4f4,Ge4h4] legt zwar den weißen Königsflügel fest, macht den Bauern aber
+auch zu einem Angriffsziel} 13. Rfe1 Be7 14. Re4 {Das Feld e4 wird als Basis
+für weitere Angriffe gegen die schwarzen Bauern benutzt. Der Bauer h4 kann
+noch nicht geschlagen werden, da er hinreichend gedeckt ist} Rd8 15. Ra4 a6 16.
+Ne4 {[%csl Gc5][%cal Ge4c5] Eine zweite Figur wird in den Angriff geschickt}
+Bd5 17. Re1 Rh5 18. Bxe7 Kxe7 19. c3 Rh6 20. Neg5 {[%csl Gd2,Gh4][%cal Ga4f4,
+Gd8d1,Gf3d2] Weiß räumt e4 für den zweiten Springer und f4 für den Turm}
+Rh5 21. Rf4 g6 {[%csl Ye4,Yf6][%cal Rg5e4,Re4f6] Die Stellung ist dynamisch.
+Weiß kann einen Springer nach e4 bringen und dann mit einem Zug nach f6 drohen
+}) 13. Rad1 Rd8 {Schwarz versucht durch Turmtausch etwas den Druck aus der
+Stellung zu nehmen. Er hat noch zwei andere Züge} ({(a)} 13... f6 {greift den
+Läufer auf g5 an, der sich jetzt zurückziehen muss. Außerdem schafft der
+Zug ein Schlupfloch für den König auf f7} 14. Bf4 {[%csl Gc7][%cal Gf4c7]
+Hier droht Weiß indirekt mit Bauerngewinn auf c7} Rc8 15. Rfe1 {Weiß
+entwickelt sich logisch weiter} Kf7 16. Rd2 {[%cal Gd2e2,Ge1e7] Der Zug
+bereitet die Verdopplung auf der e-Linie vor, da hier das Läuferpaar
+anfällig für Angriffe ist} h4 {Schwarz zementiert den Springer auf f5, der
+den gefährdeten Läufer auf e7 decken muss} 17. exf6 {Weiß öffnet die
+e-Linie, die jetzt den weißen Türmen gehört} gxf6 {Schwarz könnte auch mit
+dem König schlagen, aber das ist viel zu riskant} 18. Rde2 Bd7 19. Nd1 {
+[%csl Gc7,Ge7,Gf3,Gf5,Gh4][%cal Gf5h4,Gf5e7,Gd1e3,Gf4c7,Gc8c7]} c5 20. Ne3 Nxe3
+21. Rxe3 Bf8 22. c3) ({(b)} 13... h4 14. Rd2 Rd8 15. Rfd1 Bxg5 16. Nxg5 Rxd2
+17. Rxd2 Ke7 18. Ne2 {[%csl Gf4][%cal Ge2f4]} Bd5 19. Nf4) 14. Rxd8+ Kxd8 15.
+Rd1+ Ke8 16. Bxe7 Kxe7 17. Ng5 h4 18. Ne2 Rh5 19. Nxe6 fxe6 20. Rd3 *
+

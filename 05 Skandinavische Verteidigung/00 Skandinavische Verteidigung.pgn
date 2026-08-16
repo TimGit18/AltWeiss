@@ -1,0 +1,32 @@
+[Event "Starting Out: The Scandinavian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "NeoWeiß"]
+[Black "Skandinavische Verteidigung"]
+[Result "*"]
+[ECO "B01"]
+[Annotator "Jovanka Houska"]
+[PlyCount "30"]
+[SourceVersionDate "2021.10.13"]
+
+1. e4 d5 2. exd5 Qxd5 ({Moderne Verteidigung:} 2... Nf6 3. Nf3 ({Fehler 
+(Isländisches Gambit):} 3. c4 $2 e6 4. dxe6 Bxe6 5. d4 $15 {[%csl Yc4,Yd4]
+[%cal Re6c4,Rd8d4]}) ({Fehler (Portugiesisches System):} 3. d4 $2 Bg4 4. f3 Bf5
+) 3... Nxd5 4. d4 g6 5. c4 Nb6 6. Nc3 Bg7 7. c5 Nd5 8. Bc4 c6 {[%csl Yd5][%cal
+Rc3d5,Rc4d5]}) 3. Nc3 Qa5 ({(a) Bronstein-Verteidigung:} 3... Qd6 4. d4 Nf6 5.
+Nf3 a6 {[%csl Yb5][%cal Ra6b5]} 6. g3 {[%csl Yf4][%cal Gc1f4,Rf4d6]} Bg4 7. Bg2
+Nc6 8. O-O O-O-O {[%csl Ya3,Yb4,Ye1,Ye6,Yh4,Yh5][%cal Gf1e1,Ge1e5,Ga2a3,Gb2b4,
+Ge7e6,Gh7h5,Gh5h4,Rh4g3]}) ({(b) Patzer-Variante:} 3... Qe5+ 4. Be2 c6 5. Nf3
+Qc7 6. d4) ({(c) Banker-Variante:} 3... Qd8 4. d4 Nf6 5. Nf3 Bg4 (5... Bf5 6.
+Bc4 (6. Ne5 $6 e6) 6... e6 7. O-O c6 8. Re1 (8. Bg5) 8... Be7 (8... Bd6 9. d5 (
+9. Bg5 O-O 10. Nh4 Bxh2+ (10... h6 11. Nxf5 exf5 12. Bc1) 11. Kxh2) 9... cxd5
+10. Nxd5 Nc6 11. Bg5 O-O 12. Nxf6+ gxf6 13. Bxf6 Qxf6 14. Qxd6 Bxc2)) 6. h3
+Bxf3 7. Qxf3 c6 8. Be3 e6 9. Bd3 Nbd7 10. O-O Bd6 11. Rad1 O-O 12. Rfe1 Re8) {
+Klassische Verteidigung:} 4. d4 Nf6 5. Nf3 c6 ({Kupreichik-System:} 5... Bg4 6.
+h3 Bh5 7. g4 Bg6 8. Ne5 e6 9. Bg2) 6. Bc4 Bf5 7. Bd2 e6 {[%csl Ya5,Yd5][%cal
+Gc3d5,Rd2a5] Shirov-Angriff.} 8. Nd5 Qd8 9. Nxf6+ Qxf6 10. Qe2 $1 Bg4 ({Fehler:
+} 10... Nd7 11. O-O-O Nb6 $2 12. Bg5 Qg6 13. d5) ({Falle:} 10... Bxc2 $2 11.
+Bc3 Qg6 12. d5) 11. O-O-O Nd7 12. d5 $1 {[%csl Yd5][%cal Rd5c6,Rd5e6]} Bxf3 13.
+gxf3 cxd5 14. Bxd5 O-O-O 15. Be4 Qe5 *
+

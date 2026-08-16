@@ -1,0 +1,52 @@
+[Event "Beating Unusual Chess Defences"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches System"]
+[Black "Passive Variante"]
+[Result "*"]
+[ECO "B05"]
+[Annotator "Andrew Greet"]
+[PlyCount "37"]
+[EventDate "2013.07.05"]
+
+1. e4 Nf6 2. e5 Nd5 {Es gibt zu diesem Zug eigentlich keine wirklichen
+Alternativen} 3. d4 d6 {Das ganze schwarze Konzept basiert auf der
+Unterminierung der zentralen weißen Bauern. Ohne diesen Zug kommt Schwarz im
+Grunde nicht aus} 4. Nf3 {Das ist der weiße Hauptzug. Er verteidigt den
+Bauern auf e5 und entwickelt eine Leichtfigur.} Bg4 {Dieser Zug stellt die
+alte Hauptvariante dar. Sie ist sehr bekannt und theoriebeladen, aber heute
+nicht mehr so beliebt wie früher} 5. Be2 {Für Weiß ist es nun am besten die
+Fesselung aufzuheben. Er bereitet außerdem die kurze Rochade vor und will mit
+dem c-Bauern nach c4 vorrücken} e6 {Mit diesem Zug stützt Schwarz einfach
+noch einmal seinen Springer im Zentrum und öffnet die Diagonale für den
+anderen Läufer. Da der Damenläufer schon entwickelt ist, sperrt er ihn auch
+nicht ein} 6. O-O {Weiß rochiert zunächst am besten, bevor er weitere
+Aktionen im Zentrum plant} Be7 {Der Läufer steht zwar hier zunächst
+verhalten, kann aber später einmal nach f6 gehen und ein schönes Druckspiel
+gegen das weiße Zentrum ausüben} 7. h3 {Dieser Zwischenzug ist sehr wichtig.
+Weiß treibt den Läufer zurück nach h5, wo er später - nach dem Vorstoß
+d4-d5 - einmal sehr ungünstig stehen wird.} Bh5 8. c4 Nb6 9. Nc3 {[%cal Gh5f3]
+} O-O 10. Be3 {Neben anderen Zügen stellt der folgende Zug die
+Hauptalternative dar.} N8d7 {Schwarz entwickelt einen Springer, allerdings auf
+ein passives Feld.} 11. exd6 cxd6 {[%cal Gh5f3]} ({Wieder funktioniert} 11...
+Bxd6 {nicht wegen} 12. c5) 12. b3 {Das Ziel ist die schlechte Stellung des
+Springers auf b6 weiter zu verschlechtern.} Nf6 {Der Springer steht hier etwas
+aktiver, aber das Manöver hat Zeit gekostet.} ({(a) Eine Alternative, die
+Raum auf dem Damenflügel gewinnt, lautet} 12... d5 13. c5 {[%cal Gc5b6]} Nc8
+14. b4 {[%csl Gd7,Ge7]}) ({(b) Zur Asymmetrie führt} 12... e5 13. a4 {[%cal
+Ga4a5,Gc3d5]} a5 14. Ra2 {[%cal Ga2d2]}) 13. Rc1 {[%cal Gd6d5,Gc4c5] Weiß
+verstärkt planmäßig die Stellung.} a6 ({Die Lage im Zentrum klärt sich nach
+} 13... d5 14. c5 Nbd7 15. g4 Bg6 16. Nh4 {Weiß hat alle Möglichkeiten am
+Königsflügel, während Schwarz gar kein Gegenspiel hat.}) 14. g4 {[%csl Gg1]}
+({Eine gute Alternative ist} 14. Ng5 $5 Bxe2 15. Qxe2 {Alle weißen Figuren
+sind aktiver als die schwarzen.}) 14... Bg6 15. Nh4 {[%cal Gf2f4,Gf4f5]} d5 16.
+Nxg6 hxg6 17. c5 Nbd7 {[%cal Ge6e5]} 18. f4 Qc7 {Das Zentrum und der
+Damenflügel sind nun blockiert. Am Königsflügel hat nur Weiß Raumvorteil.}
+({Der Abtausch im Zentrum hilft auch nicht, da nach} 18... Ne4 19. Nxe4 dxe4 {
+[%cal Gd7f6,Gf6d5]} 20. d5 {Weiß im Zentrum durchbricht mit} (20. g5) 20...
+exd5 21. Qxd5 Qc7 22. c6 (22. b4) 22... Nf6 23. Qe5 Bd6 24. cxb7 Bxe5 25. Rxc7
+Bxc7 26. bxa8=Q Rxa8 27. Rd1 $16 {und einem besseren Endspiel.}) 19. Bf3 {
+Weiß konnte einen erfolgreichen Angriff lancieren in King,D-Sharpe, I Farnham
+v Guildford 2010} *
+

@@ -1,0 +1,68 @@
+[Event "1.e4 vs. The French"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches Steinitz-System"]
+[Black "Frühes Damenfianchetto"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "35"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 {
+Dies ist die Ausgangslage des Klassischen Steinitz-Systems. Der Läuferzug
+wirkt zwar sehr bescheiden, ist aber völlig logisch} 8. Qd2 {Das frühe
+Damenfianchetto beginnt mit} b6 {Schwarz spielt diesen Zug, um dem Abtausch
+auf c5 vorzubeugen bevor er rochiert. Weiß hat aber eine Möglichkeit
+gefunden, dem vorzubeugen.} 9. Nd1 $1 {Dieser Zug stellt eine starke
+positionelle Drohung dar. Weiß will c2-c3 spielen. Schwarz kann dies durch
+Abtausch auf d4 verhindern, aber dies löst die Spannung auf und sichert
+andere Optionen für Weiß} cxd4 {Schwarz kann diesen Zug nicht gut vermeiden.
+Wenn er das tut, so erhält er andere Nachteile.} (9... O-O 10. c3 {Weiß baut
+eine überelegene Bauernkette auf. Sein Plahn ist sehr einfach. Er spielt
+Lf1-d3, 0-0 und bereitet f4-f5 vor. Einige weitere Züge könnten sein.} Bb7 ({
+(a)} 10... f6 {übt fast gar keinen Druck auf das weiße Zentrum aus.} 11. Bd3
+Bb7 12. O-O {Weiß wird den Springer nach f2 spielen und dann e5xf6 oder f4-f5
+zur rechten Zeit. Schwarz hat nicht genügend Spiel gegen die solide
+Zentralformation.}) ({(b)} 10... f5 {hilft Schwarz ebenfalls nicht viel. Trotz
+der zeitweiligen Zentrumsblockade kann Weiß sich einfach entwickeln mit} 11.
+Bd3 {und folgendes planen: 0-0, Kg1-h1, Tf1-g1, Sd1-f2 und letztendlich g2-g4.}
+) 11. Bd3 Qc8 12. O-O Ba6 13. Bxa6 Qxa6 14. f5 exf5 15. Bf4 $1 {Weiß macht
+den Weg frei für den Springer, der triumphierend auf e3 erscheint. dort
+attackiert er die Bauern auf d5 und f5. Falls Weiß einen Bauern
+zurückgewinnt, wird er eine überwältigende Stellung erreichen. Schwarz
+sollte folgendes versuchen.} Bd8 16. Ne3 Ne7 {Aber Weiß hat eine starke
+Antwort.} 17. Nh4 g6 18. Bh6 Re8 19. Nexf5 $1 gxf5 20. Nxf5 Nxf5 21. Rxf5 {
+Der weiße Angriff ist viel zu stark. Der Plan lautet einfach Ta1-f1 nebst
+Tf5xf7.}) 10. Nxd4 Bb7 (10... Nxd4 11. Bxd4 f6 {öffnet schnell das Zentrum,
+aber Weiß muss nur einige Tricks vermeiden, um sich zu konsolideren und eine
+bessere Bauernstruktur zu erreichen. Ein perfektes Beispiel lautet:} 12. exf6
+Bxf6 13. g3 O-O 14. Ne3 Nc5 15. Bg2 Ba6 16. Bxf6 Qxf6 17. O-O-O Rac8 18. Kb1
+Rc7 19. Rhe1 {mit einer ausgezeichneten Stellung in Dominguez Perez,L-Shirov,A
+Istanbul 2012}) 11. Be2 O-O 12. O-O Nc5 ({Ein anderer typischer Plan lautet} 
+12... Nxd4 13. Bxd4 Nb8 {Unglücklicherweise für Schwarz verliert dieser Zug
+eine Menge Zeit und erlaubt Weiß einen schnellen Angriff.} (13... f6 14. exf6
+Bxf6 15. Ne3 {erlaubt Weiß wie üblich eine angenehme Stellung.}) (13... Nc5 {
+sollte mit} 14. Nf2 {entgegnet werden, wonach man wieder die Hauptvariante
+erreicht.}) 14. Ne3 Nc6 15. c3 Rc8 16. Bd3 {Die Drohung von f4-f5 ist sher
+stark.} Nxd4 (16... f5 17. exf6 Bxf6 18. Bxf6 Qxf6 19. Rae1) (16... g6 {
+selbst verhindert die Drohung nicht} 17. f5 Nxd4 18. f6 Nf5 19. fxe7 Qxe7 20.
+Ng4 {mit mächtiger Initiative für Weiß.}) 17. cxd4 g6 {Schwarz verhindert
+f4-f5, aber nur zeitweise.} 18. Qf2 {erneuert die Drohung.} f5 19. exf6 Bxf6
+20. Ng4 {Weiß hat einen bequemen Vorteil.}) 13. Nf2 Nxd4 ({Wie üblich führt
+der Zug} 13... f5 {zu einer leicht vorteilhaften Stelung für Weiß} 14. exf6
+Bxf6 15. c3 Nxd4 (15... e5 16. Nxc6 Bxc6 17. Ng4 Ne4 18. Qd3 exf4 19. Rxf4 Bg5
+20. Rxf8+ Qxf8 21. Bd4 Qe7 22. Rf1 {mit angenehmeren Spiel für Weiß in Hou,
+Y-Muminova,N Guangzhou 2010.}) 16. Bxd4 Ne4 17. Qe3 Qd6 18. Nxe4 dxe4 19. Rad1
+{mit weißem Vorteil in Kalegin,E-Volkov,S Voronezh 2012}) 14. Bxd4 a5 {
+Dies ist die wohl natürlichste Fortsetzung, die Lc8-a6 vorbereitet und b2-b4
+verhindert.} (14... Qc8 {ist eine weitere Art, um Lb7-a6 vorzubereiten. Weiß
+hat eine einfache Fortsetzung in} 15. b4 Ne4 16. Nxe4 dxe4 17. c3 {gefolgt von
+Dd2-e3 und Weiß behält die Kontrolle.}) 15. Rfd1 $1 {Vermeidet den
+Läufertausch.} Ba6 16. Bf3 Qd7 17. Qe3 Rac8 18. b3 {[%csl Yf6,Yg4][%cal Gf2g4,
+Gg4f6] Auch wenn die Stellung gut für Schwarz aussieht, hat er keine
+offensichtliche Möglichkeit Gegenspiel zu erlangen. Andererseits hat Weiß
+einige Möglichkeiten, um sich zu verbessern. Er kann c2-c4 oder f4-f5 spielen.
+Und er kann sogar versuchen, den Springer über g4 nach f6 zu bringen.
+Anscheinend bleibt Schwarz nur die Rolle des passiven Beobachters.} *
+

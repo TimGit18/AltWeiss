@@ -1,0 +1,14 @@
+[Event "The Modernized Ruy Lopez Volume 1"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Aronian-System"]
+[Black "Alternative Variante"]
+[Result "*"]
+[ECO "C70"]
+[Annotator "Darius Swiercz"]
+[PlyCount "41"]
+[SourceVersionDate "2019.07.09"]
+
+{[%evp 0,43,19,31,31,57,11,15,16,5,40,-52,49,44,-2,19,35,25,17,31,31,14,50,46,46,59,58,65,63,33,35,35,51,47,57,30,30,20,94,10,25,29,25,39,45,51]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nge7 {Die Empfehlung von Darius Swiercz lautet} 5. c3 g6 6. d4 exd4 7. cxd4 b5 8. Bc2 $1 {Ein wichtiger Zug. Früher hat man auch La4-b3 gespielt, aber dies ist viel genauer, da Schwarz jetzt mit dem Ausfall Sc6-a5 kein Tempo gewinnt.} d5 {Der einzige vernünftige Zug für Schwarz.} 9. exd5 {Die Alternative Variante} Nb4 {versucht den Bauern d5 mit dem Springer auf b4 zurückzunehmen, um die e-Linie geschlossen zu halten.} 10. Bb3 Nbxd5 11. O-O Bg7 12. Bg5 Qd6 13. Nbd2 {Nach sehr einfachem Spiel von Weiß übt er durch einfache Entwicklungszüge einigen Druck auf Schwarz aus, zum Beispiel ist das Auftauchen eines Springers auf e4 sehr unangenehm für Schwarz.} Bf5 ({Zu Zugumstellung führt} 13... O-O 14. Re1 Bf5) 14. Re1 O-O 15. Rc1 {mit klarem Vorteil für Weiß. Stünde der schwarze b-Bauer noch auf b7, so könnte sich Schwarz an der hübschen Blockade auf d5 und an Mangel eigener Schwächen erfreuen. Hier hingegen ist die Bauernstruktur auf dem Damenflügel ein Durcheinander und für Weiß von großem Wert. In der Partie Adams-Van Foreest, Douglas 2014 gewann Weiß schnell nach} Rae8 16. Ne4 Bxe4 17. Rxe4 f6 $2 {Schwarz zerbricht am weißen Druck.} ({Besser ist} 17... h6 {aber die Stellung ist sowieso schlecht für Schwarz} 18. Bxe7 Nxe7 19. Qe2 $16) 18. Bf4 Qd8 19. Bxc7 Qa8 20. Rxe7 Rxe7 21. Rc5 *
+

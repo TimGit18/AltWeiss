@@ -1,0 +1,59 @@
+[Event "The Scandinavian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Shirov-Angriff"]
+[Black "Rogers-Variante"]
+[Result "*"]
+[ECO "B01"]
+[Annotator "John Emms"]
+[PlyCount "25"]
+[EventDate "2010.11.21"]
+[SourceDate "2010.11.21"]
+
+1. e4 d5 2. exd5 Qxd5 {Der Grund für die vorschnelle Entwicklung der Dame
+liegt in der Verhinderung des weißen Idealzentrums e4 und d4. Außerdem kann
+der "skandinavische" Läufer auf c8 sehr gut entwickelt werden} 3. Nc3 {Das ist
+der beste weiße Zug, denn er entwickelt eine Figur unter Tempogewinn} Qa5 {Das
+ist das aktivste Feld für die Dame. Hier kontrolliert sie das Zentrum und kann
+nicht so einfach angegriffen werden.} 4. d4 {Weiß besetzt das Zentrum und
+kontrolliert e5} Nf6 {Dies gilt als der beste schwarze Zug. Schwarz kann auch
+mit c7-c6 den Einfluss auf d5 vergrößern, aber in manchen Varianten soll der
+Damenspringer nach c6 entwickelt werden.} 5. Nf3 {[%csl Re5][%cal Gf3e5]
+Dieser Zug sieht unbedeutend aus, ist er aber nicht. Zunächst legt er die
+weiße Figurenaufstellung fest. Außerdem droht er in vielen aggressiven
+Varianten mit dem Einstieg nach e5, gefolgt von einem Bauernsturm auf dem
+Königsflügel.} c6 {Schwarz schafft ein Rückzugsfeld für die Dame und
+kontrolliert das Feld d5} ({(a)} 5... Bf5 6. Bc4 e6 7. Bd2 c6) ({(b)} 5... Nc6
+6. Bd2 Bg4 7. Nb5 Qb6 8. c4 Bxf3 9. Qxf3 Nxd4 10. Nxd4 Qxd4 11. Qxb7 Qe4+ 12.
+Qxe4 Nxe4 13. Be3) ({(c)} 5... Ne4 6. Bd3 Nxc3 7. bxc3 g6 (7... Qxc3+ 8. Bd2
+Qa3 9. Ne5 Nd7 10. Nxf7 Kxf7 11. Qf3+ Nf6 12. Bg6+) 8. O-O Bg7 9. Re1 O-O 10.
+Rxe7 Nc6 11. Re3 Qxc3 12. Bd2 Qb2 13. c3 Bh6 14. Re1 Bxd2 15. Qxd2 Qxd2 16.
+Nxd2) 6. Bc4 {Weiß kämpft weiter um das Feld d5, entwickelt den Läufer und
+ermöglicht die kurze Rochade. In der Regel rochiert Weiß im Skandinavier aber
+lang} Bg4 {Schwarz stellt hier seinen Läufer gegen den weißen Springer und
+provoziert den Vormarsch der Königsbauern} 7. h3 {Weiß muss sofort gegen den
+aggressiven Läufer vorgehen. Er darf nicht zögern, seine Bauernstruktur zu
+schwächen} Bh5 {Natürlich tauscht Schwarz nicht auf f3 und überlässt Weiß das
+Läuferpaar} 8. g4 $1 {Und es geht weiter. Der schwarze Läufer wird wie so oft
+auf das schlechte Feld g6 gejagt - er hat zwar optisch gute Aussichten, kann
+aber hier leicht angegriffen werden} Bg6 {Nun ist der Läufer auf seinem
+Zielfeld gelandet} 9. Ne5 {Weiß setzt sofort nach. Er platziert seinen
+Königsspringer aggressiv im Zentrum, den er jederzeit gegen den Läufer g6
+tauschen kann} e6 {Schwarz muss ungeachtet der Eröffnung die Entwicklung
+vervollständigen und seinen Königsflügel entwickeln} 10. Bd2 {Auch Weiß
+entwickelt erst einmal seine Leichtfiguren und bringt den Damenläufer auf das
+vorgesehene Feld d2 in dieser Variante} Nbd7 {Da Schwarz noch nicht weiß,
+wohin er seinen Königsläufer entwickeln soll, bringt er zunächst den
+Damenspringer in das Spiel} 11. Nxg6 {Der weiße Springer war in der Gefahr
+abgetauscht zu werden, daher vernichtet Weiß das gegnerische Läuferpaar} hxg6 {
+Als Ausgleich für den verloren gegangenen Damenläufer erhält Schwarz
+wenigstens die halboffene h-Linie mit vagen Angriffsaussichten} 12. g5 {Aus
+taktischen Gründen ist dieser Zug jetzt sehr gut. Denn Schwarz hat für den
+Springer nur noch ein Feld. Der Springer darf nicht nach d5, denn dort würde
+er Material verlieren aufgrund des Abzugs} Nh5 {Hier steht der Springer nicht
+besonders effektiv. Die weißen Figuren sind schon viel harmonischer platziert}
+13. Qg4 {Weiß bringt seine Dame auf ein aggressives Feld und bereitet die
+lange Rochade vor. Die weiße Figurenaufstellung macht einen sehr harmonischen
+Eindruck und Entwicklungsvorsprung hat er auch noch} *
+

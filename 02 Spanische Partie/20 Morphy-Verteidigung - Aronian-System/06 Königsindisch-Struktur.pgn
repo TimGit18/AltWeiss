@@ -1,0 +1,14 @@
+[Event "The Modernized Ruy Lopez Volume 1"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Aronian-System"]
+[Black "Königsindisch-Struktur"]
+[Result "*"]
+[ECO "C70"]
+[Annotator "Darius Swiercz"]
+[PlyCount "29"]
+[SourceVersionDate "2019.07.09"]
+
+{[%evp 0,29,40,36,13,25,25,25,25,-2,31,6,44,25,49,65,57,40,25,21,19,30,48,33,16,26,35,26,26,4,44,44]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nge7 {Die Empfehlung von Darius Swiercz lautet} 5. c3 {Zu einer Königsindischen Struktur führt} d6 6. d4 Bd7 7. d5 $1 Nb8 8. c4 {Weiß hat hier einen gewaltigen Raumvorteil, er kann seinen schlechten Läufer abtauschen und sein König ist noch nicht rochiert, so dass der typische schwarze Angriff auf dem Königsflügel wenig Wirkung hat.} Ng6 9. Nc3 Be7 10. Be3 h6 ({Auf} 10... O-O {folgt} 11. Bxd7 Nxd7 12. g3 {mit weißem Vorteil.}) 11. Bxd7+ Nxd7 12. g3 O-O 13. h4 f5 14. exf5 Rxf5 {aus der Partie Moradiabadi-Khachiyan, Saint Louis 2019, in der Weiß nach der Verbesserung} 15. Nd2 {mit Besetzung von e4 volle Kontrolle über die Stellung hat.} *
+

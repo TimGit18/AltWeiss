@@ -1,0 +1,71 @@
+[Event "French Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Steinitz-System"]
+[Black "Endspielvariante"]
+[Result "*"]
+[ECO "C18"]
+[Annotator "Lev Psakhis"]
+[PlyCount "40"]
+[EventDate "2011.10.01"]
+[SourceDate "2011.10.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 {Weiß verteidigt den angegriffenen Bauern e4 und übt
+mit dem Springerzug Druck auf das schwarze Zentrum auf d5 aus} Nf6 {In der
+Klassischen Verteidigung übt Schwarz mit einem gesunden Entwicklungszug erst
+Druck auf den Punkt e4 aus, um die weißen Bauern nach vorne zu locken und sie
+dann später anzugreifen. Dies geschieht im Sinne von Nimzowitsch. Dabei
+spielen vor allem die Bauernhebel c7-c5 und f7-f6 eine entscheidende Rolle} 4.
+e5 {Weiß erobert Raum im Zentrum und treibt den aktiven Springer von f6 auf
+ein defensives Feld} Nfd7 ({Eine schlechte Wahl ist} 4... Ne4 {, denn nach} 5.
+Nxe4 dxe4 6. Bc4 {hat Weiß die Kontrolle im Zentrum übernommen und gute
+Chancen auf Mittelspielinitiative}) 5. f4 {Normalerweise polstert Weiß seinen
+Bauern mit diesem Zug, denn er erwartet den Angriff auf den Bauern d4 mit dem
+Flankenzug c7-c5. Weiß kann diesen Bauern - im Gegensatz zur
+Tarrasch-Verteidigung - nicht mit c2-c3 decken. Daher muss er ihn mit Figuren
+abfedern, was seine Struktur festlegt. In der Hauptvariante wird Schwarz mit
+Dd8-b6 und seinen Leichtfiguren gegen d4 spielen, manchmal auch mit dem
+Bauernsturm a7-a6 und b7-b5. Weiß kann versuchen, in ein besseres Endspiel 
+(mit dem Springer gegen den französischen Läufer) abzutauschen oder einen
+Angriff gegen den kurz rochierten König auf dem Königsflügel lancieren} c5 {
+Schwarz greift sofort mit diesem logischen Bauernzug die Basis des weißen
+Bauernzentrums an} 6. Nf3 {Weiß entwickelt sich weiter und verteidigt den
+Bauern d4} Nc6 {Schwarz übt weiteren Druck auf die weiße Stellung aus und
+zwingt Weiß zu einer Konzession} 7. Be3 {Der weiße Damenläufer ist sicher die
+Problemfigur in der weißen Stellung und nimmt auf e3 erst einmal eine
+defensive Funktion ein. Andererseits greift er auch den Bauern auf c5 an und
+neutralisiert so den Druck auf der neuralgischen Diagonalen a7-g1} cxd4 {Das
+ist jetzt der richitge Zeitpunkt für Schwarz, die Spannung im Zentrum
+aufzulösen. Weiß wird so an der optimalen Koordination seiner Figuren
+gehindert und muss sein Zentrum auflösen} 8. Nxd4 {Obwohl Weiß den starken
+Bauern d4 aufgeben musste, kann sein Springer ein zentrales Feld besetzen und
+in die schwarze Stellung hineinwirken} Bc5 {Das ist der bei weitem beliebteste
+Zug. Schwarz entwickelt eine Leichtfigur und bereitet die kurze Rochade vor} 9.
+Qd2 {Auch Weiß entwickelt sich logisch weiter und bereitet die lange Rochade
+vor} Bxd4 {Schwarz kümmert sich nicht mehr um seine Entwicklung, sondern
+beseitigt zunächst einmal die Spannung im Zentrum. Jedenfalls verfügt diese
+Variante über beträchtliche Popularität, denn Schwarz kann schnell in ein
+Endspiel abtauschen. Aber das ist nicht unbedingt so günstig für ihn} (9... a6
+10. O-O-O Nxd4 11. Bxd4 O-O 12. Bxc5 Nxc5 13. Qd4 b6 14. Kb1 Bb7 15. Bd3 Rc8
+16. Rhe1 Qc7 17. g4 f6) 10. Bxd4 Nxd4 {Schwarz kann das weiße Läuferpaar auf
+keinen Fall auf dem Brett behalten} 11. Qxd4 {Hier steht die Dame sehr
+dominant und beherrscht das ganze Zentrum o} Qb6 {Schwarz hofft auf ein
+Endspiel, indem er nur leicht schlechter steht. Das kann aber nicht empfohlen
+werden, sondern nur für Leute, die gerne lang anhaltenden und langweilige
+Endspiele spielen wollen} 12. Qxb6 {Weiß forciert das Endspiel} Nxb6 {Hier
+steht der Springer zwar nicht besonders, aber Schwarz hofft auf Lc8-d7 und
+Gegenspiel auf der c-Linie} 13. Nb5 {Das Feld d4 zieht den weißen Springer wie
+einen Magneten an} Ke7 {Schwarz verzichtet auf die Rochade und läßt seinen
+König im Zentrum stehen} 14. Bd3 {Weiß entwickelt erst einaml seine Figuren
+zuende} Bd7 {Die einzige Wahl für Schwarz ist die schnelle Mobilisierung
+seiner Figuren} 15. Nd4 {Der weiße Springer hat sein Idealfeld erreicht. Er
+will im Endspiel den schwarzen Läufer dominieren} Na4 {Hier steht der Springer
+besser als auf b6, aber er will nach c5. Zunächst muss Weiß aber den
+angegriffenen Bauern b2 retten} (15... g6 16. b3) 16. O-O-O {Der König soll
+eigentlich in der Mitte bleiben, aber er muss ja den Bauern beschützen.
+Gleichzeitig sollen die Türme in de Mitte gebracht werden} Nc5 (16... h5 17. h4
+g6 18. c3 Rac8 19. Bc2 Nb6 20. Rh3 Nc4 21. b3 Na5 22. Kb2) 17. Rhf1 Rac8 (17...
+g5 18. f5 Nxd3+ 19. cxd3 exf5 20. Nxf5+ Bxf5 21. Rxf5) 18. Kd2 a6 19. Rf3 h5
+20. Rdf1 g6 *
+

@@ -1,0 +1,72 @@
+[Event "The Sicilian Najdorf"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Schwarzer Diamant"]
+[Black "Moderne Hauptvariante"]
+[Result "*"]
+[ECO "B94"]
+[Annotator "John & Joshua Doknjas"]
+[PlyCount "41"]
+[EventDate "2011.09.27"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 {Das Najdorf-System ist
+das ambitionierteste System der Sizilianischen Verteidigung. Es steht auf
+solider positioneller Grundlage, denn a7-a6 ist ein sehr guter Abwartezug und
+Vorbote des Gegenschlags e7-e5. Wenn Weiß jetzt einen Standardzug wählt,
+erfolgt der Gegenschlag und Züge wie Le7, Sc6, b7-b5 nebst Lb7 oder Le6} 6.
+Bg5 {Das ist der aggressivste Versuch von Weiß den Najdorf zu bekämpfen.
+Weiß entwickelt den Läufer auf ein Angriffsfeld, denn er übt sofort Druck
+auf den Springer f6 aus, einen der wichtigen Verteidiger von Schwarz. Daher
+kann er jetzt nicht das typische Konzept umsetzen} Nbd7 {Dieser Zug ist eine
+alte Variante, die in der letzten Zeit weiterentwickelt wurde. Die
+vielversprechendste Antwort lautet} 7. Bc4 {Weiß nutzt aus, dass Schwarz noch
+nicht e7-e6 gespielt hat und kontrolliert das wichtige Feld d5. Später kann
+der Läufer dort nicht mehr gut platziert werden. Dieser Zug stellt eine
+wesentliche Alternative zum Zug f2-f4 dar, der sonst gerne gespielt wird.} Qb6
+{Die Moderne Hauptvariante ist heute die prinzipielle Fortsetzung. Sie ist im
+Geiste des Vergifteten Bauern. Natürlich kann Weiß hier auch den Bauern
+opfern, aber am besten ist der Rückzug des Läufers nach b3. Irgendwann muss
+die schwarze Dame auch wieder zurück nach c7.} 8. Bb3 {[%csl Ye5][%cal Rd7e5]
+Man kann natürlich auch den Bauern opfern wie in der eigentlichen
+Bauernraubvariante, aber Schwarz steht doch etwas solider, da der Springerzug
+nach d7 nützlicher ist als der Bauernzug nach e6. Der Springer verstärkt die
+Kontrolle über das Feld e5 und ohne den Bauern auf e6 fehlt es Weiß an einer
+Angriffsmarke} e6 9. Qd2 {Die lange Rochade ist die natürliche Fortsetzung,
+aber Weiß hat auch andere Züge zur Verfügung} Be7 10. O-O-O Nc5 {[%csl Yb3,
+Ye4][%cal Gc5b3,Gc5e4] Normalerweise ist es in der Sizilianischen Verteidigung
+nicht geboten, die c-Linie zu verstellen, aber hier greift der Springer den
+Läufer b3 an und den Bauern auf e4.} 11. f3 {Dies ist eine von zwei
+Hauptfortsetzungen in dieser Stellung. Weiß deckt den Bauern auf e4 und
+bereitet g2-g4 vor.} Qc7 12. Kb1 {Das ist wahrscheinlich am besten. Weiß
+macht einen unverfänglichen Abwartezug, bevor er einen Bauernsturm lostritt.
+Wenn Schwarz auf die Rochade verzichtet, dann sollte er wie folgt spielen} b5 {
+Schwarz läßt sich noch Zeit mit der Läuferentwicklung nach d7. Der Zug
+erobert zunächst einmal Raum und schränkt die Beweglichkeit der weißen
+Figuren ein.} ({Zu Zugumstellung führt meistens} 12... Bd7 {, denn Schwarz
+wird b7-b5 folgen lassen.}) 13. g4 {Das ist die stellungsgemäße Antwort auf
+den schwarzen Vormarsch auf dem Damenflügel.} Bd7 {Das ist die Hauptvariante
+im Schwarzen Diamant. Schwarz hat eine kompakte, etwas beengte Stellung, aber
+keine Schwächen. Weiß hat hier die Wahl zwischen zwei Zügen: h2-h4, um den
+eigenen Vormarsch zu forcieren oder a2-a3, um den gegnerischen Vormarsch zu
+verlangsamen. Allerdings gefällt das Erzeugen einer eigenen Angriffsmarke
+nicht unbedingt.} 14. h4 b4 ({Eine spielbare Alternative ist} 14... Rb8 {
+Am besten (und auch engine-geprüft) scheint} 15. Bxf6 Bxf6 16. g5 Be7 17. h5
+h6 18. g6 O-O {Es sieht gefährlich für Schwarz aus auf h6 eine Schwäche
+zugelassen zu haben. Andererseits hat Weiß keinen schwarzfeldrigen Läufer
+mehr, daher ist die kurze Rochade gerechtfertigt.} 19. Rhg1 Kh8 20. Nce2 {
+Weiß droht mit Se2-f4 und g6xf7.} f6 $1 {Dies ist der beste Augenblick, um
+den Königsflügel abzuschließen.} 21. Nf4 Qc8 {Schwarz hat eine solide
+Stellung.}) 15. Nce2 a5 16. Ng3 {Die Empfehlung für Schwarz lautet hier} h6 $5
+{als eine gute Alternative, um lange und forcierte Varianten zu vermeiden.} ({
+(a) Die theoretische Fortsetzung lautet} 16... a4 17. Bc4 O-O 18. Nh5 $1 {
+Das ist die energischste Art für Weiß, den Angriff fortzusetzen.} Ncxe4 19.
+fxe4 Qxc4 20. Bxf6 Bxf6 21. Nxf6+ gxf6 22. Qh6 b3 23. cxb3 axb3 24. Qxf6 Rxa2 {
+mit Dauerschach und Remis nach} 25. Qg5+ Kh8 26. Qf6+ Kg8) ({(b) Etwas ungenau
+ist} 16... Rc8 $6 {wegen der weißen Antwort} 17. Bc4 $1 {Der Kampf geht um
+die Kontrolle des Feldes b5.} Ncxe4 18. Nxe4 Qxc4 19. Bxf6 gxf6 20. Qh6 {
+Obwohl Schwarz einen Mehrbauern hat, so gerät er im Zentrum heftig unter
+Druck.}) {Weiß spielt am besten} 17. Bxf6 Bxf6 18. Nh5 Be5 19. f4 Bxd4 20.
+Qxd4 O-O-O {Hier sollte Weiß auf den Bauernraub auf g7 verzichten und sich
+lieber weiterentwickeln.} 21. Rhe1 *
+

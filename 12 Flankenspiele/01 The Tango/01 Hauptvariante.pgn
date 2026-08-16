@@ -1,0 +1,76 @@
+[Event "Beating Unusual Chess Defences"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "The Tango"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "B00"]
+[Annotator "Andrew Greet"]
+[PlyCount "32"]
+[EventDate "2013.11.17"]
+[SourceDate "2013.11.17"]
+
+1. e4 Nc6 {Dieser Zug stellt die bedeutendste unter den unregelmäßigen
+Verteidigungen dar. Schwarz spielt gegen die Felder d4 und d5} 2. Nf3 {Der Zug
+ist viel bequemer als viele andere Züge, denn er zwingt Schwarz dazu in
+andere Strukturen zu wechseln oder Neuland zu betreten} d6 {Das ist der
+schwarze Hauptzug. Er vermeidet skandinavische Stellungen nach 2...d5, in
+denen der Springer auf c6 deplatziert wäre und die offenen Eröffnungen nach
+2...e5} 3. d4 {Weiß hat sein Ziel erreicht, Schwarz spielt eine Art
+Pirc-Verteidigung, aber mit Druck gegen d4 statt gegen e4} Nf6 {Schwarz spielt
+eine Art Tango mit zwei Springern gegen das starke weiße Zentrum mit
+Figurendruck} 4. Nc3 Bg4 {Schwarz greift den Bauern d4 an und droht mit
+Schlagen auf f3} 5. Be3 {In dieser Stellung hat Schwarz verschiedene
+Möglichkeiten} e6 {Dieser Zug bildet das Hauptsystem und ist sicher sehr
+flexibel} 6. h3 {Es ist nützlich für Weiß, den Läufer direkt zu befragen.
+Die aktuelle Stellung kann als ein Tabiya für die Nimzowitsch-Verteidigung
+angesehen werden} Bh5 (6... Bxf3 {ist weniger gebräuchlich, was nicht
+verwundert, da Schwarz das Läuferpaar ohne Kompensation aufgibt} 7. Qxf3 d5 ({
+Oder} 7... Be7 8. O-O-O O-O 9. Kb1 {mit besseren Aussichten für Weiß}) 8. e5
+Nd7 {Es ist eine seltsame Version der Französischen Verteidigung entstanden
+mit etwas besseren Chancen für Weiß} 9. Qg3 g6 10. h4 Nb4 11. O-O-O c5 12. h5
+cxd4 13. Bxd4 Rg8 14. hxg6 hxg6 15. Rh7 Qa5 {Weiß kann nun wie folgt eine
+starke Initiative erlangen} 16. Qf4 Rg7 17. Rxg7 Bxg7 18. Nb5 Nxa2+ 19. Kb1 Bf8
+20. Nd6+ Bxd6 21. exd6 Nb4 22. Bc3 Qa2+ 23. Kc1 Nc6 24. Bb5 {mit starkem
+Angriff für Weiß}) 7. d5 $1 exd5 {Schwarz kann sich diesem Zug kaum
+entzhiehen} ({(a)} 7... Ne5 8. g4 Bg6 9. Nxe5 dxe5 10. Bb5+ Nd7 11. dxe6 fxe6
+12. Bg5 Be7 13. Bxe7 Qxe7 14. Bxd7+ Qxd7 15. Qxd7+ Kxd7 16. Ke2 {Weiß hat
+einen leichten, aber andauernden Vorteil im Endpsiel und kann auf Gewinn
+spielen. Die Bauernkette wird mit f3 gestützt und der weiße Springer wird
+nach d3 transferiert}) ({(b)} 7... Ne7 {wird mit} 8. Bb5+ {beantwortet} c6 9.
+dxc6 Nxc6 ({Denn} 9... bxc6 10. Ba4 Qc7 11. Qe2 {ist angenehm für Weiß, da
+der schwarze Läufer auf h5 deplatziert ist}) 10. e5 dxe5 11. Qxd8+ Rxd8 12.
+Nxe5 Bb4 13. O-O Bxc3 14. bxc3 O-O 15. Bxc6 bxc6 16. c4 {und die Schwäche der
+weißen Doppelbauern wird durch die Kontrolle der wichtigen Felder kompensiert}
+) 8. exd5 {Nun muss sich Schwarz entscheiden, was er mit seinem Damenläufer
+vorhat, denn er kann ein Ziel für die beweglichen weißen
+Königsflügelbauern werden} Bxf3 {Das scheint am sichersten} (8... Ne5 {
+Das ist ein sehr gefährlicher Zug} 9. g4 {Hiernach hat Schwarz zwei Optionen}
+Bg6 ({Nach} 9... Nxf3+ 10. Qxf3 Bg6 11. O-O-O Be7 12. Qg2 {ist die weiße
+Strategie sehr einfach: Vormarsch mit den Königsflügelbauern und den Gegner
+überrollen} Nd7 ({Nach} 12... h5 13. f4 Nd7 14. Re1 {hat Weiß großen Vorteil
+}) 13. f4 f5 {Um den Vormarsch nach f5 aufzuhalten, muss Schwarz das Feld e6
+schwächen} 14. Nb5 O-O 15. Nd4 Nc5 16. Bc4 {Weiß hat die volle Kontrolle
+über die Stellung} fxg4 17. hxg4 Be4 18. Qh2 Bxh1 19. Rxh1 h6 20. g5 {Der
+Angriff sollte entscheidend sein} Bxg5) 10. Nd2 {Weiß droht damit, den
+f-Bauern in das Rollen zu bringen} Qe7 (10... Ned7 11. f4 Qe7 12. Rh2 $1 O-O-O
+13. Re2 {bringt Schwarz schon in erhebliche Schwierigkeiten und vielleicht zu
+einem verzweifelten Figurenopfer} Nxg4 14. hxg4 Qh4+ 15. Rf2 Re8 16. Qe2 Nf6
+17. Nf3 Qxg4 18. O-O-O {Schwarz hat im Grunde keine Kompensation}) 11. Bg2 h5
+12. g5) 9. Qxf3 Ne5 10. Qe2 a6 {Das ist die übliche Antwort, aber nicht
+notwendig, um Db5+ zu verhindern} (10... Be7 {legt mehr Wert auf die
+Entwicklung, aber der Charakter der Stellung bleibt unverändert. Weiß kann
+auf sein Läuferpaar bauen, den Raumvorteil und einem Aufmarsch der
+Königsflügelbauern} 11. O-O-O O-O 12. f4 Ned7 13. g4 Nc5 14. Bd4 Re8 15. g5
+Bf8 16. Qf3 Nfe4 17. Nxe4 Nxe4 18. Bb5 Re7 19. Rhg1 a6 20. Bd3 Qe8 {Weiß hat
+Vorteil und sollte jetzt gewinnen} 21. Bf6) 11. O-O-O Be7 12. f4 Ng6 ({Nach} 
+12... Ned7 {gerät Schwarz auch unter die Räder} 13. g4 g6 14. h4 b5 15. Bd4
+O-O 16. h5 b4 17. hxg6 {Weiß opfert eine Figur für Linienöffnung} bxc3 18.
+gxh7+ Kh8 19. g5 cxb2+ 20. Kb1 Re8 21. Bh3 Bf8 22. Qg2 {Schwarz muss bereits
+die Figur zurückgeben}) 13. g4 Nd7 {Es ist unglücklich für Schwarz, dass
+seine Springer den heraufziehenden Königsbauern im Weg stehen} 14. g5 O-O 15.
+h4 Re8 {Der Turm visiert die weiße Dame an und macht Platz für den Springer,
+der zurückweichen muss} 16. h5 {Es ist wichtig mit dem h-Bauern vorzugehen}
+Ngf8 *
+

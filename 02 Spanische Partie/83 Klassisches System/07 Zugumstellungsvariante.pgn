@@ -1,0 +1,69 @@
+[Event "The Ruy Lopez Revisited"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassische Verteidigung"]
+[Black "Zugumstellungsvariante"]
+[Result "*"]
+[ECO "C65"]
+[Annotator "Ivan Sokolov"]
+[PlyCount "23"]
+[EventDate "2011.08.24"]
+[SourceDate "2011.08.24"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 {Damit geht Schwarz in die
+sogenannte Klassische Verteidigung über, in der er Figurendruck auf das
+Zentrum ausüben will. Die Klassische Verteidigung ist ein Hybrid aus Berliner
+Verteidigung und Cordel-Verteidigung. Schwarz hofft auf Gegenspiel im Zentrum.
+Weiß kann entweder eine Bauernfront im Zentrum aufbauen oder nach taktischen
+Verwicklungen suchen. Wahrscheinlich ist es stellungsgerecht, eine ruhige und
+zentralisierende Form der Entwicklung anzustreben. Weiß hat immer etwas mehr
+Raum im Zentrum, aber Schwarz ist gut entwickelt und wird sich nicht einfach
+überrennen lassen.} 5. c3 {[%csl Yc5,Rd4][%cal Gd2d4] Weiß entscheidet sich
+dafür ein großes Bauernzentrum aufzubauen. Der schwarze Königsläufer wird
+früher oder später zurückgedrängt werden. Die Hauptidee hinter diesem Zug
+ist wie in der Italienischen Partie, die Stellung des schwarzen
+Königsläufers auszunutzen und mindestens ein Tempo zu gewinnen.} O-O {Dieser
+Zug bringt den König in Sicherheit und entwickelt Schwarz sinnvoll weiter. Er
+ist taktisch gerechtfertigt, denn wenn Weiß auf c6 schlägt und sich danach
+auf e5 bedient, dann kann Schwarz auf e4 den Königsbauern zurücknehmen.} 6.
+d4 {Weiß muss konsistent spielen und baut das breite Bauernzentrum auf.
+Zurückhaltendes Spiel mit Tf1-e1 oder sogar d2-d3 wie in der Italienischen
+Partie würde gar keinen Sinn ergeben, denn Schwarz kann ganz entsprechend
+reagieren ohne Nachteile zu befürchten.} Bb6 {Schwarz könnte auch erst mit
+dem Königsbauern schlagen. Aber das wäre eine Konzession an Weiß. Das
+weiße Zentrum wird dynamisch und kann nach vorne rücken.} 7. Bg5 {Dieser Zug
+bildet die Hauptvariante. Weiß entwickelt seinen Damenläufer und fesselt
+erst einmal den gegnerischen Springer. Jetzt ist auch der Bauer auf e5 ein
+weiteres Mal bedroht, denn Schwarz kann ja nicht auf e4 zurückschlagen, wenn
+Weiß auf c6 tauscht und auf e5 weggnimmt.} d6 {Dieser Zug bedeutet in der
+Regel eine Zugumstellung} 8. Qd3 {Auch hier ist wieder Zentralisierung und die
+Deckung des Königsbauern das entscheidende Motiv.} Qe7 {Dieser Zug ist der
+Beginn eines Umgruppierungsmanövers. Schwarz verstärkt die Deckung des
+e-Bauern, räumt d8 für den Turm und bereitet die Umgruppierung des
+Damenspringers vor. Da Weiß nicht Sc3-d5 spielen kann, steht die schwarze
+Dame hier gut. Ähnlich wie im Vierspringerspiel soll die Fesselung auf der
+Diagonalen h4-d8 aufgelöst werden.} ({Wahrscheinlich hat Schwarz hier nichts
+besseres als} 8... h6 {, wonach die Zugumstellungsvariante in die
+Bosman-Variante transponiert} 9. Bh4) 9. Nbd2 {Weiß entwickelt seinen
+Springer auf das Idealfeld. Er kann bei Bedarf auch nach c4, um den schwarzen
+Läufer auf b6 zu tauschen} Nd8 {[%csl Yc6,Ye6,Rf4][%cal Gc7c6,Gd8e6,Ge6f4]
+Diese Variante wurde von Tony Kosten empfohlen und von dem niederländischen
+Meister Martin Bosman häufig angewendet, wenngleich auch ohne den Einschub
+der Züge h7-h6 und Lg5-h4. Der Springer soll nach e6, wo er zwar nicht mehr
+den Läufer auf g5 attackiert, aber nach f4 gehen kann. Außerdem sieht der
+Läufer auf b5 etwas schlecht platziert aus und kann mit c7-c6 oder a7-a6
+vertrieben werden.} 10. d5 {Sicherlich der stärkste Zug. Weiß erobert Raum
+und kontrolliert die Felder e6 und c6. Solange dieser Bauer auf d5 steht, kann
+der schwarze Springer nur nach b7 oder nach f7. Der schwarze Plan wird es sein,
+dass der Springer auf f6 entfesselt wird und dann f7-f6 gespielt wird, gefolgt
+von Sd8-f7} a6 {Jetzt kann Weiß nicht mehr auf c6 tauschen. Der Läufer muss
+zurückweichen. Gleichzeitig schafft der Zug ein Rückzugsfeld für den
+Läufer auf b6.} 11. Ba4 {Dieser Rückzug ist besser als der auf c4, denn das
+Feld c4 soll für den Springer freigehalten werden.} Ba7 {Eine wichtige
+Finesse, mit der Schwarz ein Tempo gewinnt.} 12. Bc2 {Der Läufer wird wieder
+in das Spiel gebracht. Hier deckt er den Bauern auf e4, so dass die anderen
+Figuren (Dame und Springer) beweglich gemacht werden. Außerdem wird der
+a-Bauer beweglich gemacht, der mit a2-a4-a5 den schwarzen Damenflügel
+blockieren soll.} *
+

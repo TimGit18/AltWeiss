@@ -1,0 +1,35 @@
+[Event "1.e4 vs The Philidor"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hanham-System"]
+[Black "Rochadeverzicht"]
+[Result "*"]
+[ECO "C41"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "27"]
+[EventDate "2017.08.08"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 {Dies ist die übliche Zugumstellung, um in die
+Hanham-Verteidigung zu gelangen. Schwarz vermeidet die Fallstricke der
+Klassischen Philidor-Verteidigung} 4. Nf3 Nbd7 5. Bc4 {Weiß lenkt in das
+Hanham-System ein. Es ist sicherlich das beliebteste und am meisten
+respektierte System der Philidor-Verteidigung. Es ist ein sehr solides System
+und eine praktische Herausforderung für Weiß sind die vielen praktischen
+Möglichkeiten, die Schwarz hat. Daher sollte man eine Zugfolge finden, die
+die schwarzen Möglichkeiten einschränkt.} Be7 {Hiermit lenkt Schwarz in eine
+normale Hanham-Variante der Philidor-Verteidigung ein. Normalerweise folgt die
+kurze Rochade, jedoch gibt es auch eine genauere Fortsetzung.} 6. a4 $1 {
+Die ist eine sehr geschickte Zugumstellung von Weiß, der vor allem gegen
+a7-a6 von Schwarz gerichtet ist. Er möchte Schwarz aus seinem Auto-Piloten
+bringen. Zum einen droht a4-a5-a6 mit Einschnüren von Schwarz auf dem
+Damenflügel, zum anderen wird ein Rückzugsfeld für den Läufer auf c4
+freigemacht.} {Einen Rochadeverzicht bedeutet die Fortsetzung} c6 {Nach der
+weißen Rochade} 7. O-O {versucht Schwarz einen Bauernangriff auf die weiße
+Königsstellung vorzubereiten, falls er tatsächlich vorhat, auf die eigene
+Rochade auf dem Königsflügel zu verzichten.} Qc7 8. Re1 h6 9. a5 g5 {Das ist
+die Grundstellung des Rochadeverzichts.} 10. dxe5 $1 {Der korrekte Weg, auf
+einen Flankenangriff zu antworten, ist eine Aktion dagegen im Zentrum.} dxe5
+11. Be3 Nf8 12. Nxe5 $1 {Ein schöner taktischer Trick.} Qxe5 13. Bd4 Qf4 14.
+e5 {Die e-Linie wird freigeräumt.} *
+

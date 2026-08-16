@@ -1,0 +1,42 @@
+[Event "The Philidor Files"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Antoshin-System"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "C41"]
+[Annotator "Christian Bauer"]
+[PlyCount "39"]
+[EventDate "2009.??.??"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 {Diese Variante ist nach
+dem russischen Großmeister Vladimir Antoshin benannt, der sie in den 1950er
+bekannt machte. Statt den Läufer auf eine aktive Diagonale zu stellen,
+entscheidet sich Schwarz zu einem soliden, aber weniger ehrgeizigem Aufbau.
+Dafür erhält er Gegenchancen durch ein mögliches d6-d5, da die schwarze Dame
+jetzt auch doppelt gedeckt ist.} 6. Bc4 O-O 7. O-O {In dieser Stellung hat
+Schwarz mehrere Optionen. Er kann a6, c6 oder Sc6 spielen. Oder er spielt
+direkt das Scheinopfer Sxe4, was aber als nicht so gut gilt} a6 8. a4 {
+Erwidert, um b7-b5 zu verhindern. Wenn nämlich Schwarz zu diesem Vorstoß kommt,
+erhält er Gegenspiel auf dem Damenflügel} Nxe4 ({(a)} 8... Nc6 9. Re1 Nb4 10.
+Nd5 Nfxd5 11. exd5 {Weiß spielt gleichzeitig auf Raumvorteil und gegen den
+Springer auf b4} Bf6 {droht offensichtlich etwas} 12. Be3 c5 {Früher oder
+später muss der Schwarze den Springer schützen} 13. dxc6 Nxc6 14. c3 d5 15. Be2
+{und Weiß steht eine Spur besser da}) ({(b)} 8... c5 9. Nde2 Nc6 10. Nf4 {und
+Schwarz hat kein Gegenspiel gegen die Schwäche auf d5}) 9. Nxe4 d5 10. Bd3 dxe4 11.
+Bxe4 {Anders als in der Variante mit dem direkten Scheinopfer steht Schwarz
+hier etwas günstiger, da er das Feld b5 kontrolliert, während das weiße Feld
+b4 noch schwach ist. Trotzdem muss Schwarz aufpassen} Bf6 12. Be3 Nd7 (12... c5
+$2 13. Nb3 Bxb2 14. Rb1 {wird Weiß einfach auf c5 wiedernehmen und deutlichen
+Druck auf dem Damenflügel ausüben}) 13. c3 Re8 {Schwarz beabsichtigt Se5 oder
+Sc5} 14. Qc2 g6 15. Rfe1 Bg7 16. Rad1 c5 {Am genauesten. Schwarz muss die
+Kontrolle im Zentrum behalten} (16... Qh4 {Ein Fehler, denn die Dame ist hier
+deplatziert. Schwarz will Material gewinnen} 17. g3 {Weiß gewinnt nach} Qxe4 $2
+18. Bd2 $1 Qxc2 19. Rxe8+ Nf8 20. Nxc2 {einfach die Qualität und Schwarz hat
+keine Kompensation}) ({Auch} 16... c6 {ist nicht so gut, denn Weiß hat Druck
+nach} 17. Bf4) 17. Ne2 Qc7 18. Nf4 {Der Springer soll nach d5} Nf6 {Schwarz
+muss das unbedingt verhindern} 19. Nd5 Nxd5 20. Rxd5 {Weiß hat immer noch
+einen kleinen, aber dauerhaften Vorteil wegen seiner besseren Struktur und der
+aktiveren Figuren} *
+

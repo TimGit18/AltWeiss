@@ -1,0 +1,228 @@
+[Event "1.e4 vs The Sicilian III"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sizilianische Verteidigung"]
+[Black "Taimanov-System"]
+[Result "*"]
+[ECO "B48"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "30"]
+[SourceVersionDate "2023.02.11"]
+
+1. e4 c5 {[%csl Yd4][%cal Rc5d4] Schwarz hat die Kontrolle über das Feld d4
+übernommen. Er will d2-d4 mit c5xd4 beantworten, wonach ein weißer
+Zentrumsbauer eliminiert wird und die weiße Kontrolle über das Zentrum
+reduziert wird. Im Unterschied zu 1...e7-e5 ist die Bauernstellung
+asymmetrisch. Schwarz ist hier eher in der Lage, die Stellung aus dem
+Gleichgewicht zu bringen.} 2. Nf3 {Weiß bereitet d2-d4 vor, um Linien zu
+öffnen und den Springer wirkungsvoll im Zentrum zu platzieren. Der
+drittwichtigste Zug in dieser Stellung lautet} e6 {[%csl Yd5,Yf5,Yf8][%cal
+Gf8d6,Re6f5,Re6d5] Schwarz verfolgt mit diesem Zug zwei Ziele. Zum einen
+kontrolliert der Bauer auf e6 die wichtigen Felder d5 und f5. Zum anderen wird
+die Diagonale des Königsläufers geöffnet, um diesen schnell in das Spiel zu
+bringen. Der Damenbauer wird in der Regel nicht so schnell bewegt. Schwarz
+kann in zwei Arten von Stellungen das Spiel lenken. Entweder er geht in das
+positionell sehr gesunde Taimanov- oder in das Kan-System, um aus einem festen
+und soliden Zentrum ein Gegenspiel auf dem Damenflügel zu starten. Oder er
+klärt die Situation im Zentrum mit dem riskanteren Sizilianischen
+Vierspringerspiel oder dem Sizilianischen Angriff.} 3. d4 cxd4 4. Nxd4 {
+Das Taimanov-System Parimarjan Neg: 'Die Taimanov-Verteidigung'} Nc6 {
+favorisiert wieder eine hoch-flexible Bauernstruktur mit zwei Möglichkeiten.
+Erstens kann Schwarz mit d7-d6 in das Scheveninger System überleiten, wobei
+er den Klassischen Keres-Angriff mit g2-g4 vermieden hat. Zweitens kann er den
+Damenbauern belassen und mit a7-a6, b7-b5 und Lc8-b7 den Damenflügel
+entwickeln, wobei er natürlich immer den Abtausch auf c6 im Auge behalten
+muss. Der Königsläufer kann immer auf ein aktives Feld wie b4 entwickelt
+werden.} 5. Nc3 {Weiß entwickelt sich nach dem bewährten Muster. Der
+Springer auf d4 muss ja gedeckt bleiben, weshalb es Sinn macht die Entwicklung
+des Königsläufers noch etwas hinauszuzögern.} Qc7 {[%csl Yc2,Yc6,Yd6,Ye5,
+Yf4][%cal Gc7f4,Gc7c6,Rc6c2] Das ist die wichtigste Fortsetzung. Dieser
+Damenzug ist charekteristisch für das Taimanov-System. Schwarz kontrolliert
+weiterhin einige schwarze Felder im Zentrum und wirkt entlang der Diagonalen
+nach h2. Außerdem übt die Dame latenten Druck auf der c-Linie aus und
+schafft zusätzlich eine Deckung für den Springer auf c6. Es macht für Weiß
+überhaupt keinen Sinn, die Dame direkt zu attackieren, da sie sich nach b8
+gut zurückziehen könnte.} ({(a) Die Abtauschvariante beginnt mit} 5... a6 {
+[%csl Ye3,Yf3][%cal Gc1e3,Gf2f3] Dieser Zug bildet die bei weitem wichtigste
+Alternative zu Dd8-c7, dem Hauptzug der Taimanov-Verteidigung. Schwarz erhält
+eine flexible Stellung ohne die Dame jetzt schon festzulegen. Würde Weiß
+jetzt wie im Autopiloten einen Englischen Angriff wie sonst gegen das
+Taimanov-System mit f2-f3 und Lc1-e3 aufbauen, dann erhielte Schwarz eine
+verbesserte Variante des Modernen Taimanov-Systems mit Lf8-b4, Sg8-g6 und
+d7-d5 - wo er sich den Damenzug nach c7 gespart hat.} 6. Nxc6 $1 {Weiß nutzt
+es aus, dass Schwarz die Dame nicht auf c7 platziert hat und erzeugt eine
+leichte Schwächung der schwarzen Bauernstruktur.} bxc6 {Schwarz möchte
+ungern die Damen tauschen. Außerdem öffnet der Zug die b-Linie, so dass
+Schwarz auf dem Damenflügel angreifen kann. Er wird versuchen mit d7-d5
+Anspruch im Zentrum geltend zu machen.} 7. Bd3 {[%csl Yd5,Yd6,Ye5][%cal Gd7d6,
+Gd6d5,Ge6e5] Weiß entwickelt eine weitere Figur und wird bereits im nächsten
+Zug rochieren können. Schwarz wird den d-Bauern nach d6 oder d5 vorstoßen
+oder den e-Bauern nach vorne schieben. Der weiße Plan gegen das schwarze
+Spiel hängt davon ab. Falls Schwarz die Bauernzüge vermeidet, kann Weiß den
+e-Bauern nach vorne mit e4-e5 schieben oder mit Sc3-a4 und c2-c4 spielen.
+Meistens spielt Schwarz hier jedoch früher oder später d5.} d5 {Den Bauern
+auf d5 zu platzieren ist die logische Wahl des Schwarzen, um sein bisheriges
+Eröffnungspiel zu rechtfertigen.} 8. O-O {Schwarz hat hier zwei Hauptzüge,
+obwohl auch schon andere Züge zurecht selten gespielt wurden.} Nf6 9. Re1 Be7
+{Dieser Zug bildet die beliebteste Wahl. Die traditionelle Hauptvariante hat
+aber in den letzten Jahren schwierige Zeiten erlebt.} 10. e5 Nd7 11. Qg4 g6 {
+Diese Verteidigung des g-Bauern bildet die Hauptvariante.} ({Als die Kritische
+Fortsetzung könnte heute} 11... Kf8 $5 {[%csl Ya4,Yc4,Yc5,Yd4][%cal Gc3a4,
+Gc2c4,Gc6c5,Gd5d4] angesehen werden. Anders als in der Hauptvariante vermeidet
+Schwarz die Schwächung der Felder auf dem Königsflügel und legt Weiß die
+Pflicht auf, die Fehlplatzierung des schwarzen Königs auszubeuten. Das ist
+keine einfache Aufgabe, da das Zentrum abgeschlossen ist und die schwarze
+Stellung ansonsten zemlich solide ist. Der weiße Plan dreht sich in der Regel
+darum Sc3-a4 und c2-c4 zu spielen, was oft in einem blockierten Zentrum mit
+c6-c5 und d5-d4 resultiert. Dies führt in der Regel zu einem manöverartigen
+Spiel. Zunächst einmal scheint Weiß damit großartige Aussichten zu haben,
+denn er kann seinen Königsläufer auf e4 platzieren, ihn gegen den schwarzen
+Damenläufer abtauschen und danach seinen Springer auf das Idealfeld d3 via b2
+bringen. Allerdings hat Schwarz auch Gegenspiel, so kann er mit a5-a4 auf dem
+Damenflügel vorrücken.} 12. b3 {Dies ist eine typische Vorsichtsmaßnahme
+bevor der Springer nach a4 kommt. Jeder Schwindel mit Dd8-a5 soll unterbunden
+werden.} c5 {Schwarz muss unbedingt seinen Damenläufer aktivieren, bevor
+Weiß mit c2-c4 das Zentrum öffnet.} 13. Na4 Bb7 14. c4 d4 15. Qh5 $1 {
+Dieser Zug vermeidet irgendwelche Pläne, die mit h7-h5 zusammenhängen. Nun
+muss Schwarz sich zusammenreißen, während Weiß seinen Aufbau spielen kann.})
+12. Bh6 Rb8 13. Nd1 $1 {Dieser Zug verursacht Schwarz schwere Probleme. Weiß
+verteidigt den Bauern b2 und bereitet den Zug c2-c4 vor, mit dem der das
+ärgerliche Tb8-b4 antizipiert. Wie so oft würden wir gerne die
+schwarzfeldrigen Läufer tauschen, um die Schwächen rund um den schwarzen
+König zu unterstreichen. Man beachte, dass der weiße Springer kurz davor ist,
+das Traumfeld g4 zu erreichen.} Rb4 {Das ist natürlich die kritische
+Fortsetzung.} 14. c4 $1 {In dieser Stellung hat Weiß bereits überragend
+gepunktet, obwohl die besten Züge nicht immer offensichtlich sind. Schwarz
+hat hier zwei Hauptfortsetzungen.} dxc4 {Das ist die beliebteste Fortsetzung.}
+15. Bf1 $1 {Obwohl das Wiedernehmen des Bauern ordentlich für Weiß punktet,
+führt die Textfortsetzung zu weniger forcierten Varianten und erhöht daher
+die Spannung auf dem Brett.}) ({(a) Eine eigene Bedeutung hat vielleicht noch} 
+5... Bb4 6. Ndb5 a6 $6 {Hier geht Schwarz besser in das Sizilianische
+Vierspringerspiel} 7. Nd6+ Bxd6 8. Qxd6 Qe7 9. Qg3 $16) ({(b) Nicht
+unterschätzt werden darf} 5... Be7 {, obwohl der Zug nachteilig aussieht.
+Weiß sollte kräftig fortsetzen mit} 6. Ndb5 d6 {Schwarz mag glauben, dass er
+eine verbesserte Version der Sveshnikov-Verteidigung erhalten hat - ohne die
+lästige Fesselung auf f6. Es folgt jedoch} 7. Bf4 e5 8. Nd5 exf4 9. Nbc7+ Kf8
+10. Nxa8 {mit Qualitätsgewinn, da der Springer wieder aus der Ecke a8 via c7
+entkommen kann.}) 6. Be3 {[%csl Yc1,Yd1,Yd2,Yd4][%cal Gd1d2,Ge3d4,Ge1c1,Ga1d1]
+Das ist ein absolut logischer Entwicklungszug von Weiß. Der Damenläufer wird
+auf das beste Feld gebracht. Er verteidigt nicht nur d4, sondern bereitet auch
+die lange Rochade vor. Das ist im Prinzip der Englische Angriff, der auch aus
+dem Najdorf-System bekannt ist. Er funktioniert hier allerdings besser.} a6 {
+Schwarz bereitet wie oben beschrieben die Expansion auf dem Damenflügel vor
+mit Gegenspiel. Zudem werden wie im Kan-System jetzt alle weißen Felder von
+Bauern kontrolliert, während die schwarzen Figuren (Dame, Damenspringer und
+Königsläufer) die Kontrolle über die schwarzen Felder besitzen.} ({Die
+Klassische Variante beginnt mit} 6... Nf6 {Würde Weiß nun mit dem Englischen
+Angriff fortfahren, so hätte Schwarz ein Tempo gespart. Stattdessen sollte
+Weiß seine Pläne anpassen.} 7. f4 {Der Textzug macht Sinn, da der Springer
+auf f6 steht. Daher ist e4-e5 eine sofortige Drohung.} Bb4 {Ähnlich wie im
+Englischen Angriff ist dieser Zug eine Hauptantwort von Schwarz. Die Kritische
+Fortsetzung versucht, die leichte Auflockerung des weißen Zentrums
+auszunutzen. Der Verzicht auf a7-a6 erlaubt es aber Weiß, die Initiative zu
+ergreifen.} 8. Ndb5 Qa5 {Nur dieser Zug stellt Weiß vor Probleme.} 9. e5 {
+Anstatt den Läufer zu vertreiben verschärft Weiß die Lage im Zentrum.} Nd5 {
+[%csl Yc3,Yd5,Ye3][%cal Rd5c3,Rd5e3] Das ist die übliche Fortsetzung. Hier
+ist der Springer gedeckt und greift seinerseits den Springer c3 und den
+Läufer e3 an.} 10. Bd2 Nxc3 {Es drohte bereits das Schlagen auf d5.} 11. bxc3
+{Das ist die ambitionierteste Fortsetzung.} Bc5 12. c4 {Der Zug zementiert den
+Springer und greift die Dame an.} Qd8 13. Bd3 {Das ist das Tabiya in dieser
+Variante. Weiß hat etwas Entwicklungsvorsprung für die zerstörte
+Bauernstruktur.}) 7. Qd2 {[%csl Ye4,Yf3,Yg4,Yg5,Yg6,Yh4,Yh5][%cal Gf2f3,Gf3e4,
+Gg2g4,Gg4g5,Gh2h4,Gh4h5,Gg5g6,Rh5g6] Weiß bereitet die lange Rochade vor und
+signalisiert, einen Englischen Angriff zu spielen. Dies kann als die Kritische
+Variante des Taimanov-Systems gesehen werden. Schwarz muss jetzt in der
+Entwicklung mithalten. Weiß hat folgenden Aufbau im Sinn: Einen Bauernsturm
+auf dem Königsflügel mit f2-f3, g2-g4-g5 sowie h2-h4-h5 und Öffnung des
+Königsflügels mit g5-g6.} Nf6 {[%csl Yb4,Yc3,Ye4,Ye7][%cal Rf6e4,Gf8e7,Ge7b4,
+Rb4c3] Die ursprüngliche Idee von Mark Taimanov bestand im Zug Sg8-e7, doch
+ist der Textzug viel natürlicher und vermeidet Eröffnungsfallen auf d6. Er
+sollte auch nicht direkt b7-b5 spielen, denn die Dame-Turm-Batterie auf der
+halboffenen d-Linie verspricht Weiß die besseren Chancen. Stattdessen übt
+der Zug Druck auf den Bauern e4 aus, lässt die Läuferdiagonale offen und
+forciert die Entwicklung.} 8. O-O-O {Die lange Rochade ist die logische
+Fortsetzung in dieser Stellung. Hier kann sich das Spiel gabeln.} Bb4 {Dieser
+Zug ist sicher die ambitionierteste Fortsetzung im Taimanov-System. Schwarz
+entwickelt den Läufer auf das aktivste Feld und übt Druck auf das weiße
+Zentrum aus. Andererseits ist der Läufer auf b4 etwas exponiert. Wenn er
+abgetauscht wird, dann kann Weiß auf den schwachen schwarzen Feldern sein
+Fehlen ausnutzen.} ({(a) Die Neue Hauptvariante startet mit} 8... Be7 {
+Oberflächlich betrachtet scheint der Zug weniger aktiv zu sein als die
+Entwicklung des Läufers nach b4, aber er hat auch einige Vorteile. Der
+Läufer verbleibt auf dem Königsflügel und vermeidet die Blockade des
+b-Bauern.} 9. f3 {Wieder einmal bereitet Weiß den Bauernsturm auf dem
+Königsflügel vor. Hier hat Schwarz mehrere Möglichkeiten.} b5 {Dieser
+Aufbau bildet den neuesten Schrei in dem Taimanov-System. Die schwarze Idee
+ist es, ein Gegenspiel auf dem Damenflügel zu entfachen, während die eigene
+Rochade zurückgestellt wird.} ({Stattdessen würde} 9... O-O {direkt in die
+Brasilianische Variante überleiten mit entgegengesetzten Rochaden. Spieler
+wie Fier und Mekhitarian haben das System gespielt.} 10. g4 b5 11. g5 {Das
+Spiel wird jetzt sehr scharf.} Nh5 {[%csl Ye2,Yg3,Yh5][%cal Gd4e2,Gc3e2,Ge2g3,
+Rg3h5] Es macht mehr Sinn, den Springer hier zu platzieren als auf e8. Hier
+kann er den weißen Angriff am besten aufhalten. Der Nachteil ist, dass er ein
+Ziel für einen weißen Springer auf g3 angesehen werden kann. Wenn Schwarz
+diesen tauscht, dann erhält Weiß auf der offenen h-Linie ausgezeichnetes
+Spiel. Schwarz muss Gegenspiel im Zentrum und auf dem Damenflügel suchen.})) (
+{(b) Eine Moderne Variante entsteht nach} 8... Nxd4 {Schwarz will die
+Koordination der weißen Figuren stören.} 9. Qxd4 $1 {Warum schlägt Weiß
+hier nicht mit dem Läufer. Nun, dann würde Schwarz mit e6-e5 ein wichtiges
+Tempo gewinnen, um nach der Fesselung mit dem Läufer b4 und anschließendem
+Abtausch auf c3 eine sehr solide Stellung zu erreichen. Jetzt bringt e6-e5
+nichts, denn Weiß tauscht die Damen auf b6 und erhält ein überlegenes
+Endspiel.} Ng4 10. Qb6 {Trotzdem} Qc6 {Natürlich schlägt Schwarz nicht die
+Dame auf b6.} 11. Bd4 {Weiß vermeidet den Abtausch seines Läufers und
+provoziert weitere Schwächen im gegnerischen Lager.} e5 12. Be3 Be7 13. Nd5 {
+Jetzt, wo das Feld d5 geschwächt ist, ist der Springer hier sehr stark.} Bd8 {
+Schwarz darf seinen Königsläufer nicht abtauschen und vertreibt lieber die
+weiße Dame.} 14. Qb3 {Das ist ein Tabiya. Schwarz hat hier wieder zwei
+Optionen.} d6 {Dies ist der genaueste Zug. Schwarz stützt das Zentrum und
+bereitet die Entwicklung des Damenläufers vor.}) 9. f3 Ne5 {[%csl Yc3,Yc4,Yd5]
+[%cal Gd7d5,Ge5c4,Rb4c3] Dies ist der absolute Hauptzug im Englischen Angriff
+des Taimanov-Systems und bildet die Klassische Hauptvariante. Seine
+Beliebtheit ist verständlich, denn der schwarze Springer wird aktiviert und
+es drohen Lb4xc3 oder d7-d5.} ({Die Moderne Hauptvariante beginnt mit} 9... O-O
+{Das ist ein sehr beliebter Zug.} 10. g4 {Wieder wird das Tabiya gespielt.} b5
+{Dieser Plan erfüllt seinen Zweck ebenso wie in der Klassischen Hauptvariante.
+}) 10. Nb3 {[%csl Yd4][%cal Ge3d4,Gd4c3] Zunächst einmal sieht es seltsam aus,
+den aktiven Springer zurückzuziehen. Die Idee ist es, die beiden schwarzen
+Ideen Lb4xc3 und d7-d5 vorzubereiten. Nach dem Tausch auf c3 steht der
+Springer auf b3 im Endspiel hervorragend. Außerdem macht der Springer das
+Feld d4 frei, damit der weiße Läufer dort eingesetzt werden kann. Im
+übrigen wird der Vorstoß d7-d5 erschwert.} b5 {Dieser thematische Vorstoß
+bildete früher die ultimative Hauptvariante und ist auch noch heute eine
+wichtige Option.} 11. Kb1 {Der Zug stellt nicht nur den König auf ein
+sichereres Feld, sondern droht auch mit Sc3xb5 mit Bauerngewinn, da die weiße
+Dame nicht mit Schach geschlagen werden kann. Es droht nicht Se5-c4, denn die
+Struktur nach b5xc4 spricht nicht für Schwarz.} Be7 {Das ist der beliebteste
+Zug in der Stellung. Im Grunde erhofft sich Schwarz mehr Gegenspiel als in der
+Variante mit Se5-c4.} 12. Qf2 {[%csl Yb6][%cal Ge3b6,Gf2e3] Weiß bringt seine
+Dame aus der Schusslinie und droht beizeiten mit Le3-b6.} d6 {[%csl Yb4,Yb8,
+Yc3,Yc4,Yd7,Yf3,Yf4,Yf6,Yg1,Yg4,Yg5][%cal Gb5b4,Rb4c3,Ge5c4,Ge5f3,Gf6d7,Ga8b8,
+Gf3f4,Gg2g4,Gg4g5,Rg5f6,Gh1g1] Das ist der absolute Hauptzug in dieser
+Stellung. Es entsteht eine typische Sizilianische Stellung mit einigen
+Schlüsselideen. Der weiße Plan sieht zunächst einfacher aus. Auf den
+Vormarsch g4-g5 kann Schwarz Sf6-h5 spielen, wonach dieser mit Lf1-e2 und
+f3-f4 gejagt werden kann. Nach Sf6-d7 kann der weiße Angriff umso freier
+gespielt werden. Die offensichtliche Idee von Schwarz ist allerdings b5-b4.
+Sein Idealszenario wäre der Springerrückzug nach e2, um Se5-c4 durchzusetzen.
+Außerdem liegt a5-a4 in der Luft, wonach er ein großartiges Spiel haben
+würde. Normalerweise antwortet Weiß mit dem Blockadezug nach a4, um mit dem
+Einstieg auf b6 zu drohen. Das verhindert Schwarz in der Regel mit Sf6-d7 und
+Ta8-b8 (es ist aber auch Se5xf3 möglich, um die weiße Dame zu überlasten).
+Also wird Schwarz den Vormarsch nach b4 solange hinauszögern, bis er das Feld
+b6 ausreichend gesichert hat. Daher scheint es klar, dass der traditionelle
+Vormarsch g4-g5 und h4-h5 zu langsam ist. Oft wird der g-Bauer mit dem Turm
+auf g1 gedeckt, wonach f3-f4 möglich ist, denn Sf6-g4 ist ja nun verhindert.
+Danach kann Weiß ruhig g4-g5 spielen. Falls Schwarz den Gegenangriff mit
+b5-b4 nicht rechtzeitig hinbekommt, kann Weiß einen tödlichen Angriff
+starten. Jetzt ist klar, dass keine Seite ein Tempo verschenken kann, daher
+kann sich Schwarz keine Rochade erlauben. Er wird aber versuchen, den Angriff
+mit g7-g5 zu stoppen.} 13. g4 $1 {Das ist am schnellsten.} Nfd7 $1 {Wie oben
+erklärt ist dieser einleuchtende Zug der beste Weg, um dem weißen Plan mit
+Th1-g1 zu entgegnen.} 14. Rg1 $1 {Jetzt wird Schwarz gezwungen, die Karten auf
+den Tisch zu legen.} g5 $5 {Offensichtlich kommt die Riposte auch in der
+Najdorf-Verteidigung vor - und dort völlig zu recht. Schwarz behält die
+Kontrolle über die schwarzen Felder, insbesondere e5 mit dem starken Springer.
+} 15. h4 h6 *
+

@@ -1,0 +1,27 @@
+[Event "Experten vs. Sizilianisch"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sveshnikov-System"]
+[Black "Andersson-Variante"]
+[Result "*"]
+[ECO "B33"]
+[Annotator "John Shaw"]
+[PlyCount "23"]
+[EventDate "2012.06.04"]
+[SourceDate "2012.06.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 h6 {Dieser
+seltene Zug wird von Ulf Andersson bevorzugt. Der Grund liegt im frühen
+Damentausch} 7. Nd6+ {Das ist der logische Weg, die Auslassung von d7-d6
+auszunutzen, aber es gbit auch noch andere Möglichkeiten.} (7. Nd5 {sollte
+vermieden werden. Nach} Nxd5 8. exd5 a6 {zeigen Analyse und Praxis, dass
+Schwarz ausgeglichen hat, zum Beispiel} 9. dxc6 axb5 10. cxd7+ Bxd7 11. Qd5 Qc7
+) 7... Bxd6 8. Qxd6 Qe7 9. Qxe7+ {Das ist der einfachste Weg} (9. Nb5 {ist
+zwar schärfer, aber daraufhin ist} Rb8 {stark mit dem kritischen Abspiel} 10.
+b3 Nxe4 11. Qxe7+ Kxe7 12. Ba3+ d6 13. f3 a6 14. fxe4 axb5 15. Bxb5 Ra8 {und
+Schwarz steht gut}) 9... Kxe7 10. Be3 d6 (10... Ng4 {ist verfrüht wegen} 11.
+Nd5+ Kd8 12. Bc5 {und Schwarz wird zerlegt}) 11. f3 Be6 12. O-O-O {Weiß
+besitzt leichten, aber fühlbaren Vorteil. Der Plan lautet g2-g4 und h2-h4 mit
+späterem g5. Weiß kann abwarten und erst später Sd5 spielen} *
+

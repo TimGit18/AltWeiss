@@ -1,0 +1,41 @@
+[Event "Starting Out: 1.e4!"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Owen-Verteidigung"]
+[Black "Verlustvariante"]
+[Result "*"]
+[ECO "B00"]
+[Annotator "Neil McDonald"]
+[PlyCount "33"]
+[EventDate "2009.??.??"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 {Der Zug ist besser als Sc3, denn der Springer
+könnte gefesselt werden} f5 $2 {Dieser Zug ist ein Verlustzug aus, erfordert
+aber präzises Spiel} 4. exf5 $1 {Weiß kann hier Material opfern, denn er hat
+einen starken Angriff gegen den schwarzen König} Bxg2 {Es sieht so aus als
+hätte Schwarz einen Turm für nichts gewonnen, aber die weißen Drohungen
+gegen den schwarzen König werden das aufwiegen} 5. Qh5+ g6 6. fxg6 Bg7 $1 {
+Das ist einzige ernsthafte Verteidigung} ({(a) Das naive} 6... Nf6 {verliert
+nach} 7. gxh7+ Nxh5 8. Bg6#) ({(b)} 6... hxg6 {verliert sofort nach} 7. Qxg6#)
+({(c)} 6... d6 7. g7+ Kd7 8. gxh8=Q Bxh1 {ist auch vorbei}) 7. Qf5 {[%csl Rf7]
+[%cal Rf5f7] Weiß droht matt auf f7} Nf6 {Das ist der einzige Zug, der das
+Matt mehr oder weniger verhindert} ({Nach} 7... d6 8. Qf7+ Kd7 9. Qxg7 Bxh1 10.
+Qxh8 {kann Schwarz aufgeben}) 8. Bh6 $1 {Dieser Zug muss gespielt werden, um
+den schwarzen Läufer nach h6 zu zwingen, wo er nach dem Damenschach auf g6
+geschlagen werden kann} Bxh6 ({Schwarz kann auch versuchen, den Läufer zu
+verteidigen} 8... Kf8 9. Qg5 Bxh1 10. gxh7 Bxh6 11. Qxh6+ Kf7 12. Nh3 {wonach
+eine Zugumstellung entstanden ist}) 9. gxh7 {Es droht ein Damenschach auf g6}
+Kf8 {Wahrscheinlich kann Schwarz das Matt abwenden, aber die Zugeständnisse
+sind fürchterlich} ({Es hilft nicht} 9... Rxh7 {wegen} 10. Qg6+ Kf8 11. Qxg2)
+10. Qg6 Bxh1 11. Qxh6+ Kf7 12. Nh3 {Schwarz hat einen ganzen Turm mehr, aber
+der König steht nach wie vor schlecht und Weiß hat immer noch drei Figuren
+im Angriff und einen starken Bauern auf h7. Es droht Sh3-g5} Ke6 {Der schwarze
+König tritt die Flucht nach vorn an} ({Nach} 12... Qf8 {, um den König nach
+e8 zu evakuieren, folgt} 13. Bg6+ Ke6 14. Qf4 {Es droht Df4-e5 matt} Nc6 {
+Das ist fast schon der einzige Zug, denn nach d7-d6 ist auf f5 sofort matt.
+Jetzt folgt eine Serie von Zwangszügen} 15. Ng5+ Kd5 16. Nc3+ Kc4 17. Bd3+ Kb4
+18. a3+ Ka5 19. b4+ Nxb4 20. axb4+ Kxb4 21. Ra4+ Kxc3 22. Qd2+ Kb2 23. Qb4+ Kc1
+24. Ra1#) 13. Ng5+ Kd5 14. Nf7 (14. Nc3+) 14... Qf8 15. Qxf8 Rxf8 16. h8=Q Rxh8
+17. Nxh8 {mit Endspielvorteil für Weiß} *
+

@@ -1,0 +1,26 @@
+[Event "The Modernized Ruy Lopez"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Spanische Partie"]
+[Black "Rigaer Verteidigung"]
+[Result "*"]
+[ECO "C80"]
+[Annotator "Darius Swiercz"]
+[PlyCount "27"]
+[EventDate "2011.08.31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 {Die Morphy-Fortsetzung ist seit dem 19.
+Jahrhundert die bevorzugte Verteidigung für Schwarz.} 4. Ba4 Nf6 5. O-O {
+Die Offene Verteidigung beginnt wie folgt:} Nxe4 6. d4 {Die Rigaer Verteidigung
+} exd4 {gilt als sehr riskant} (6... b5 {Schwarz muss den Druck auf seine
+Stellung abschwächen.} 7. Bb3 {Eine sehr alte und fast vergessene
+Verteidigung lautet} Be7 ({Die Verzögerte Rigaer Verteidigung lautet} 7...
+exd4 8. Re1 d5 9. Nc3 Be6 10. Nxe4 dxe4 11. Rxe4 {Die schwarze Stellung ist
+bereits sehr unbequem.} Be7) 8. dxe5 O-O 9. Bd5 Nc5 10. Nc3 {Das ist die
+Hauptstellung in dieser Variante. Schwarz hat einige Möglichkeiten, aber
+keine Fortsetzung löst das Problem.}) 7. Re1 d5 8. Nxd4 Bd6 9. Nxc6 Bxh2+ {
+Der schwarze Versuch basiert auf dem Dauerschach nach Kg1xh2.} 10. Kh1 Qh4 11.
+Rxe4+ dxe4 12. Qd8+ Qxd8 13. Nxd8+ Kxd8 14. Kxh2 {Das Endspiel ist bereits
+sehr schlecht für Schwarz.} *
+

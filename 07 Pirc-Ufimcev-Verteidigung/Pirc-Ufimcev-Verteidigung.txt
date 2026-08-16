@@ -1,12 +1,11 @@
 ==================================================================================================================================
 07 Pirc-Ufimcev-Verteidigung
 ==================================================================================================================================
-Andrew Greet:				Beating Unusual Chess Defences					(Everyman Chess)
-Christian Bauer:			The Philidor Files						(Everyman Chess)
-James Vigus:				The Pirc in Black and White					(Everyman Chess)
-Parimarjan Negi:			
-Victor Bologan:				1.e4 - How to tame the Alekhine, Scandinavian and Pirc		(ChessBase)
-==================================================================================================================================
+Andrew Greet				Beating Unusual Chess Defences				(Everyman Chess)
+James Vigus				The Pirc in Black and White				(Everyman Chess)
+Christian Bauer				The Philidor Files					(Everyman Chess)
+Victor Bologan				1.e4 - How to tame the Alekhine, Scandinavian and Pirc	(ChessBase)
+----------------------------------------------------------------------------------------------------------------------------------
 Österreichischer Angriff
 ----------------------------------------------------------------------------------------------------------------------------------
 01 Österreichischer Angriff:		Seirawan-System		

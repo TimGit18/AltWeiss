@@ -1,0 +1,26 @@
+[Event "The Philidor Files"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassiches System"]
+[Black "Gunderam-Variante"]
+[Result "*"]
+[ECO "C41"]
+[Annotator "Christian Bauer"]
+[PlyCount "17"]
+[EventDate "2009.??.??"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Qe7 {Diese Variante stammt ursprünglich aus der
+Italienischen Partie, aber hier mit dem Läufer auf f8. Schwarz muss ihn
+fianchettieren und mit g7-g6 und Lf8-g7 weiterarbeiten. Ein weiterer Nachteil
+ist, dass Schwarz nicht gut auf d4 schlagen kann, da die Dame auf e7
+deplatziert ist} 4. Nc3 ({Die Hauptalternative lautet} 4. Bc4 {, wonach} c6 5.
+a4 {folgen kann}) 4... c6 5. Be2 {Dieser ruhige Zug ist vielleicht der
+richtige Plan. Weiß versucht erst gar nicht, die Aufstellung von Schwarz zu
+bestrafen, sondern baut sich selber auf} Nf6 6. a4 {Weiß will den Vorstoß
+b7-b5 unterbinden, der die Verteidigung des Bauern e4 unterminiert. Er kann
+wieter mit b2-b3 und Lc1-a3 fortsetzen. Lc1-g5 sieht eher verdächtig aus} exd4
+{Dieser Zug scheint den Erfordernissen der Stellung nicht zu genügen. Weiß
+kann einfach fortsetzen} 7. Nxd4 Nxe4 8. Nxe4 Qxe4 9. O-O {Die schwarze
+Stellung ist zumindest etwas verdächtig, trotz des schwarzen Mehrbauern} *
+

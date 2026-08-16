@@ -1,0 +1,89 @@
+[Event "Starting Out: The Scandinavian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Bronstein-System"]
+[Black "Gegenspiel"]
+[Result "*"]
+[ECO "B01"]
+[Annotator "Jovanka Houska"]
+[PlyCount "53"]
+[EventDate "2010.11.21"]
+[SourceDate "2010.11.21"]
+
+1. e4 d5 2. exd5 Qxd5 {Der Grund für die vorschnelle Entwicklung der Dame
+liegt in der Verhinderung des weißen Idealzentrums e4 und d4. Außerdem kann
+der "skandinavische" Läufer auf c8 sehr gut entwickelt werden} 3. Nc3 {Das ist
+der beste weiße Zug, denn er entwickelt eine Figur unter Tempogewinn} Qd6 {
+Dieser Zug galt früher als zweifelhaft, ist aber heute viel beliebter als das
+früher ausschließlich gespielte Dd5-a5. Der Großmeister Sergei Tiviakov hat
+diesen Zug popularisiert und propagiert. Auf d6 steht die Dame sehr schön
+zentralisiert und übt weiterhin Druck auf den Bauern d4 aus. Der typische
+weiße Bauerndurchbruch d4-d5 in der Skandinavischen Verteidigung ist daher
+nicht ohne weiteres möglich. Schwarz fokussiert sich in der Folge auf das
+Figurenspiel. Er hat im Prinzip drei mögliche Pläne: 1. Der ehrgeizigste
+Aufbau ist eine Formation am Damenflügel mit a6, b5 und Lb7 2. Er kann mit Sc6
+und Lg4 Druckspiel gegen das weiße Zentrum, speziell gegen den Bauern d4,
+ausüben 3. Er kann mit c6 eine solide slawische Variante wählen. Weiß muss mit
+konzetriertem Spiel dagegenhalten und speziell auf den schwarzen Feldern
+spielen. Es bietet sich ein Fianchetto-Aufbau mit g2-g3 an} 4. d4 {Weiß
+besetzt das Zentrum und öffnet weitere Diagonalen für seine Figuren} Nf6 {
+Schwarz kontrolliert die wichtigen Felder d5 und e4 und entwickelt eine
+Leichtfigur} 5. Nf3 {Auch Weiß führt seine Entwicklung weiter. Er muss die
+wichtigen Felder im Zentrum (e5 und d4) unbedingt unter seiner Kontrolle
+halten.} a6 {Mit diesem Zug entscheidet sich Schwarz für ein aggressives
+Vorgehen gegen das weiße Zentrum. Er verhindert den störenden Springerausfall
+Sc3-b5 und bereitet eventuell den Ausfall b7-b5 vor} 6. g3 {Dies ist bei
+weitem der kritischste und beliebteste Zug für Weiß. Er wird als die
+Hauptfortsetzung betrachtet und wurde von Alexander Khalifman empfohlen. Als
+die Beliebtheit von Dd6 zunahm, haben die Weißspieler nach Wegen gesucht, die
+Stellung der schwarzen Dame auszunutzen und die eigenen Figuren in einfacher
+Weise zu entwickeln. Mit dem Fianchetto versucht Weiß die Stärke des schwarzen
+Aufbaus in eine Schwäche zu verwandeln. Er möchte die weißfeldrigen Läufer
+abtauschen und Schwarz zwingen, den eigenen Bauernvormarsch zu überdehnen und
+speziell den Bauern b5 zu schwächen} Bg4 {Dieser Aufbau gilt allgemein als die
+beste Option von Schwarz gegen den gefährlichen Aufbau mit dem weißen
+Königsfianchetto. Beide Seiten haben mehrere Möglichkeiten, die Stellung zu
+behandeln. Schwarz kann zum Beispiel ein schnelles Sb8-c6 spielen und lang
+rochieren, um einen unglaublichen Druck gegen den Bauern d4 zu entwickeln. Das
+Spiel kann sich dann sehr scharf gestalten} 7. Bg2 {Weiß muss hier bereits
+einige Entscheidungen treffen. Entweder er rochiert kurz und ignoriert den
+Druck auf den Bauern d4 oder er rochiert lang und versucht eine solidere
+Stellung anzustreben. Im Falle einer kurzen Rochade kann Weiß eventuell d4-d5
+spielen und vielleicht auch h2-h3} Nc6 {Die solidere Variante - von Tiviakov -
+ist sicher c7-c6} 8. O-O O-O-O {Wenn man diese interessante Stellung
+betrachtet, so fragt man sich, was Schwarz spielen soll. Die Antwort liegt im
+Zentrum. Die meisten Figuren attackieren den Punkt d4. Mit eigenen Mitteln
+kann Schwarz versuchen e7-e5 durchzusetzen} 9. d5 {Das ist der Schlüsselzug in
+der weißen Stellung. Schwarz muss jetzte entweder den Springer nach e5 oder
+nach b4 spielen. Man beachte, dass dieser Zug nicht mehr funktioniert, sobald
+Weiß h2-h3 gezogen, denn dann deckt der Läufer auf h5 das Feld f7} Nb4 ({(a)} 
+9... Nxd5 10. Nxd5 Qxd5 11. Qxd5 Rxd5 12. Ng5 Rf5 13. f3 Bh5 14. g4) ({(b)} 
+9... Ne5 {Dieser Zug ist nicht nur der sicherste, sondern vielleicht auch der
+beste Zug für Weiß. Es werden viele Figuren getauscht und das ist nicht so
+scharf wie die Variante mit Sb4} 10. Bf4 {Weiß kann auch direkt auf e5 nehmen
+und versuchen, in ein etwas besseres Endspiel zu gelangen} Nxf3+ {Die
+Tauschorgie beginnt} 11. Bxf3 Bxf3 12. Qxf3 e5 $1 {Der richtige Gegenschlag im
+Zentrum zur richtigen Zeit} 13. dxe6 {Weiß sollte soviele Linien wie möglich
+öffnen, so dass dies die beste Fortsetzung ist} Qxe6 14. b4 {ist die
+direkteste Fortsetzung. Weiß achtet nicht auf das Material fährt damit fort,
+soviele Linien wie möglich zu öffnen. Schwarz muss versuchen, so viele Figuren
+wie möglich abzutauschen} Qg4 15. Qg2 Bd6 16. Bxd6 Rxd6 17. b5 axb5 18. Nxb5
+Rd2) 10. h3 Bh5 (10... Bxf3 11. Qxf3 Nbxd5 (11... Nxc2 12. Qf5+) 12. Rd1 e6 13.
+Nxd5 exd5 14. c4 c6 15. cxd5 Nxd5 (15... cxd5 16. Bf4) 16. Qxf7 Qd7) 11. Bf4
+Qc5 (11... Qd7 12. Qd4 Bxf3 13. Qa7 Qf5 14. Bxf3) 12. Be3 Qd6 (12... Qa5 13. g4
+Bg6 (13... Nbxd5 14. Nxd5 Rxd5 15. Bd2) 14. Nd4 Nbxd5 15. Nb3 Qb4 (15... Nxc3
+16. Bxb7+) 16. Nxd5 Nxd5 17. Bxd5 e6 18. a3 Qb5 (18... Qe7 19. Bxb7+ Kxb7 20.
+Qf3+ Kb8 21. Na5) 19. c4 Qe8 20. Bxb7+ Kxb7 21. Na5+ Kc8 22. Qf3) 13. Qe2 e5 ({
+(a)} 13... Nfxd5 14. Nxd5 Nxd5 15. Rfd1 Qe6 16. g4 Bg6 (16... Nxe3 17. Rxd8+
+Kxd8 18. Ng5 Qe5 19. Bxb7 Qxg5 20. Rd1+ Nxd1 21. Qd3+ Ke8 22. Bc6#) 17. Ng5 Qe5
+18. c4 Nxe3 19. Bxb7+ Kxb7 20. Rxd8 Qxg5 21. Qf3+ c6 22. Rad1 Nxd1 23. Qb3+ Kc7
+24. Qb8#) ({(b)} 13... Bg6 14. Bf4 Qc5 15. Ne5 Nbxd5 (15... Nxc2 16. Nxg6 Nd4
+17. Qe3) 16. Nxd5 Nxd5 17. Rad1 Nxf4 18. Rxd8+ Kxd8 19. Qd2+ Nd5 20. Bxd5 e6
+21. Bxe6+ Bd6 22. Nxf7+ Bxf7 23. Bxf7) 14. dxe6 Qxe6 15. g4 Bg6 16. Nd4 Qe8 (
+16... Qe7 17. a3 Nbd5 18. Nxd5 Nxd5 19. Nc6 bxc6 20. Qxa6+ Kd7 21. c4 Be4) 17.
+Rad1 h5 (17... Nbd5 18. Qf3 c6 19. Bg5 h6 20. Bxf6 Nxf6 21. Rfe1 Qd7 22. Ne6)
+18. Qf3 c6 19. g5 Nfd5 20. Rfe1 Nxe3 (20... Qd7 21. Nxd5 Nxd5 (21... Qxd5 22.
+Ne6 Qxe6 23. Rxd8+ Kxd8 24. Bb6+) 22. Nxc6 bxc6 23. c4 Bb4 24. Rf1) 21. Rxe3
+Qd7 22. a3 Nd5 23. Nxc6 bxc6 24. Nxd5 cxd5 25. Rc3+ Kb8 26. Qe3 d4 27. Qf3 *
+

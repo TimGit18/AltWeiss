@@ -1,0 +1,64 @@
+[Event "Experten vs. Sizilianisch"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Taimanov-System"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "B48"]
+[Annotator "Sune Berg Hansen"]
+[PlyCount "35"]
+[EventDate "2011.10.03"]
+[SourceDate "2011.10.03"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 {Im Taimonov-System stellt Schwarz
+den Springer von Beginn an auf c6, was bedeutet, dass Weiß den Springer auf d4
+entweder durch die Dame d1 oder den Läufer auf e3 gedeckt halten muss} 5. Nc3 {
+Dieser Zug stellt wieder die bevorzugte Aufstellung gegen das Taimanov-System
+dar. Weiß entwickelt einfach seine Figuren und zentralisiert diese.} Qc7 {Das
+beste Feld für die schwarze Dame. Sie kontrolliert das Feld e5 und übt Druck
+auf der c-Linie aus. Sie kann zwar von einem Springer auf b5 angegriffen
+werden, aber dann geht sie einfach nach b8 zurück} 6. Be3 {Weiß stellt jetzt
+einfach seine Leichtfiguren in die Mitte} a6 {Dieser Zug muss früher oder
+später kommen - womit eine Parallelität zum Kan-System erreicht ist.
+Allerdings hat sich Schwarz mit der Springerentwicklung nach c6 schon früh
+festgelegt und Weiß noch nicht den Königsläufer nach d3 entwickelt hat} 7. Bd3
+{Das holt er jetzt nach. Laut Hansen ist dies eines der aggressivsten weißen
+Systeme. Weiß vervollständigt seine Entwicklung und steht zu aktiven
+Handlungen bereit} Nf6 {Auch Schwarz fährt mit seiner Entwicklung fort. Die
+prinzipielle Alternative ist b7-b5} 8. O-O {Weiß bringt seinen König in
+Sicherheit und bereitet die Zentralisierung der Schwerfiguren vor} Bd6 {Auch
+Schwarz entwickelt sich sehr zentralistisch weiter und bereitet die kurze
+Rochade vor} (8... b5 {lenkt nach} 9. Nxc6 Qxc6 10. f3 Bb7 {in das Kan-System
+über}) 9. f4 {Ein sehr aggressiver Zug. Weiß versucht, den Nachziehenden für
+seinen extravaganten Läuferzug zu bestrafen} Bc5 {Erneut begeben wir uns auf
+ein theoretisches Minenfeld} ({(a)} 9... Nxd4 10. e5 Bxe5 {ist riskant} 11.
+fxe5 Qxe5 12. Qd2 Ng4 13. Bf4 Qc5 14. Kh1 f5 15. Na4 Qc6 16. Qb4 b5 17. Qxd4
+Bb7 18. Rf3 bxa4 19. Qxg7 {und Weiß steht deutlich besser}) ({(b)} 9... e5 {
+wurde bisher nur einmal gespielt und hart bestraft} 10. Nf5 exf4 11. Nxd6+ Qxd6
+12. Bxf4 Qc5+ 13. Kh1 d6 14. Qf3 O-O 15. Nd5 {mit Dominanz und
+Zentrumskontrolle}) 10. Nf5 {Ein schöner Zwischenzug: Der angegriffene
+Springer wird selbst zur Angriffsfigur} Bxe3+ {Das ist die solideste Variante}
+({(a)} 10... Ne7 {ist ein raffinierter Zug, der Weiß zwingt, eine Figur zu
+opfern} 11. Nxg7+ Kf8 12. Bxc5 Qxc5+ 13. Kh1 Kxg7 14. e5 Ne8 15. Ne4 Qb6 16.
+Qh5 Ng6 17. Rf3 Qxb2 18. Raf1 {mit starkem Angriff für die Figur}) ({(b) Auch
+auf} 10... Qb6 {folgt} 11. Nxg7+ {, aber mit einer besseren Version wie in der
+vorhergehenden Variante}) 11. Nxe3 d6 ({Nach} 11... Qb6 {folgt} 12. Qd2) 12.
+Kh1 $1 {Ein äußerst prophylaktischer Zug: Der König wird aus der gefährlichen
+Diagonale b6-g1 entfernt} b6 {Dieser Zug ist am besten laut Ribli} ({(a)} 12...
+b5 {ist ein Fehler} 13. Bxb5 axb5 14. Nxb5 Qd8 15. Nxd6+ Ke7 16. e5 Ne8 17. Qf3
+Bd7 18. Rad1 {mit Kompensation für Weiß}) ({(b)} 12... O-O 13. g4 d5 14. g5
+Nxe4 15. Ncxd5 exd5 16. Nxd5 Ng3+ 17. hxg3 Qd7 18. Qf3 Qh3+ 19. Kg1 Bg4 20. Qg2
+Rad8 {und Weiß hat einfach einen Bauern mehr}) 13. Qe1 {Der Zug dient zur
+Vorbereitung von Dg3 oder Df4} Bb7 ({Nach} 13... O-O {folgt} 14. Qh4 {mit
+hübscher Angriffsstellung}) 14. Nc4 $1 {Die beiden Süringer drücken schön auf
+das Zentrum} b5 ({(a)} 14... O-O-O 15. e5 {ist ausgezeichnet für Weiß}) ({(b)} 
+14... O-O 15. Qh4 Rad8 16. Rae1 b5 17. Nxd6 {und Weiß hat bereits gewaltigen
+Angriff}) 15. Nxd6+ {Ein schönes Scheinopfer, mit dem das schwarze Zentrum
+zerstört wird} Qxd6 {Schwarz hat keine Alternative zur Annahme} 16. e5 {Weiß
+holt Material zurück und öffnet Linien im Zentrum} Qe7 {Schwarz versucht noch
+seinen König zu schützen} 17. exf6 {Und Weiß zerstört jetzt auch noch die
+Bauernstruktur des Königsflügels} gxf6 {Vielleicht kann Schwarz die g-Linie
+zum Angriff nutzen. Aber das Zentrum hat er verloren, und jetzt sieht} 18. f5 {
+gut aus für Weiß} *
+

@@ -1,0 +1,56 @@
+[Event "CBM 147"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Interessante Variante"]
+[Black "Grivas-System"]
+[Result "*"]
+[ECO "B33"]
+[Annotator "Efstratios Grivas"]
+[PlyCount "46"]
+[EventDate "2011.08.17"]
+[EventCountry "GRE"]
+[Source "ChessBase"]
+[SourceDate "2012.03.16"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 {Das ist die
+Ausgangsstellung des sogenannten Grivas-Systems. Schwarz treibt den Springer
+nach b3 und hält seine Bauernstruktur so geschmeidig wie möglich} Nf6 6. Nc3
+{Die letzten beiden Züge werden auch schon einmal in anderer Zugfolge gespielt
+} e6 7. Be3 Qc7 8. Bd3 d6 9. f4 a6 10. Qf3 Be7 {Vielleicht ist dies die
+optimale Aufstellung für Weiß: die Läufer gehen nach d3 und e3 und die Dame
+nach f3, von wo sie nach g3 oder h3 gehen kann. Weiß kann nach zwei Seiten
+rochieren, wobei er meistens zum Damenflügel rochiert, da seine Absichten
+aggreissiver Natur sind. Schwarz versucht so flexibel wie möglich zu agieren:
+b7-b5, Sf6-d7, die kurze Rochade wird aufgeschoben und ebenso die Entwicklung
+des Damenläufers. Nach} 11. O-O-O b5 12. g4 {ist eine erste kritische
+Stellung auf dem Brett.} Nb4 {Dieser Zug stellt die Hauptfortsetzung im
+Grivas-System dar. Schwarz verzögert die Rochade und geht sofort zu Aktionen
+auf dem Damenflügel über} 13. Kb1 {Weiß bringt zunächst seinen König in
+Sicherheit} Bb7 {Schwarz entwickelt auch eine Figur und penitriert die weiße
+Dame} 14. g5 Nd7 15. Qh3 {Nun ist die kurze Rochade die Hauptfortsetzung. Es
+folgt ein typischer Kampf mit entgegengesetzten Rochaden. Weiß wird mit einem
+Bauernsturm agieren und diesen mit seinen Schwerfiguren unterstützen. Schwarz
+muss sich dagegen verteidigen, dieselben Aktionen auf dem Damenflügel
+ausführen und auf das Endspiel hoffen, in dem er dank des Läuferpaares
+besser steht.} O-O {Die kurze Rochade ist die prinzipielle Fortsetzung} 16.
+Rhf1 {Das ist eine der möglichen Fortsetzungen. Weiß bringt den Turm aus der
+langen Läuferdiagonalen und bereitet f4-f5 vor} Nxd3 $5 {ist eine
+interessante Variante für Schwarz} 17. cxd3 b4 18. Ne2 Nc5 {Diese Fortsetzung
+führt in ähnliche Gefilde wie die Hauptvariante} ({(a)} 18... Rfc8 $5 19.
+Ned4 (19. Rc1 Qd8 $13) 19... e5 $13) ({(b)} 18... Rac8 19. Ned4 Nc5 20. f5 e5 (
+20... exf5 $2 21. Nxc5 dxc5 22. Nxf5 $16) 21. Nxc5 exd4 22. g6 hxg6 23. fxg6
+fxg6 24. Bxd4 Rxf1 25. Rxf1 dxc5 26. Qe6+ $11) 19. f5 (19. Rc1 Rac8 20. f5 exf5
+21. exf5 Qd7 $13) 19... exf5 (19... Nxd3 $6 20. g6 $1 h6 21. Ng3 Rac8 22. Rxd3
+Qc2+ 23. Ka1 Qxd3 24. Bxh6 fxg6 25. Bxg7 Qxf1+ 26. Qxf1 Kxg7 27. Nd4 $16) 20.
+exf5 Nxb3 (20... Qd7 $2 21. Na5 $1 Bd5 (21... b3 22. a3 Rfe8 23. Nxb7 Qxb7 24.
+f6 Bf8 25. fxg7 Bxg7 26. Nd4 Na4 27. Rd2 $16) 22. Nf4 Bxa2+ 23. Kxa2 Qa4+ 24.
+Kb1 b3 (24... Qxa5 25. Nd5 Bd8 26. g6 $18) 25. Nc4 Qa2+ 26. Kc1 Bxg5 27. Kd2
+Bxf4 28. Rxf4 d5 29. Rg4 dxc4 30. Rxg7+ Kxg7 31. Qh6+ {1-0 Korneev,
+O-Landenbergue,C Elgoibar 2006}) 21. g6 (21. axb3 Qd7 $5 (21... Bd5 22. f6 Bxb3
+23. Nd4 Bxd1 24. fxe7 Rfe8 25. Rxd1 g6 $13) 22. Bd4 f6 $13) 21... hxg6 (21...
+h6 $2 22. Bxh6 $1 (22. axb3 Bf6 23. Nd4 fxg6 24. fxg6 Rae8 $13) 22... fxg6 23.
+fxg6 $1 (23. Bxg7 Kxg7 24. Nf4 Bc8 25. Nh5+ Kf7 26. fxg6+ Kxg6 27. Qg2+ Kxh5
+28. Rxf8 Bxf8 29. Rg1 Nd2+ 30. Ka1 Nb3+ $11 31. axb3 $2 Qa5+ 32. Kb1 Qf5 $17 {.
+}) 23... gxh6 24. Qe6+ Kh8 25. Rf7 $18) 22. fxg6 fxg6 23. Qe6+ Kh7 $11 {.} *
+

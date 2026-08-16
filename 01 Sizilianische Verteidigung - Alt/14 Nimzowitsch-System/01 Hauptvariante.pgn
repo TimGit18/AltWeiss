@@ -1,0 +1,53 @@
+[Event "Experten vs. Sizilianisch"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nimzowitsch-System"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "B29"]
+[Annotator "Jacob Aargard"]
+[PlyCount "39"]
+[EventDate "2012.06.25"]
+[SourceDate "2012.06.25"]
+
+1. e4 c5 2. Nf3 Nf6 {Das ist ein provozierendes Abspiel, das an die
+Alekhine-Verteidigung erinnert. Schwarz gestattet den Bauernvorstoß nach e5
+und hofft, dass der Bauer auf e5 zur Schwäche neigt} 3. Nc3 {Dieser Zug ist
+die weniger prinzipielle Antwort. Weiß entwickelt eine Figur und hält die
+Spannung im Zentrum aufrecht. Schwarz hat jetzt im Prinzip drei Möglichkeiten:
+1) Mit d7-d5 im Zentrum zurückzuschlagen 2) Mit e7-e6 auf Abwarten und
+Provokation zu gehen 3) Mit Sb8-c6 in ein Sizilianisches Springerspiel zu gehen
+} e6 {Dieser Zug lädt ein zu} 4. e5 Nd5 5. Nxd5 exd5 6. d4 Nc6 (6... d6 {
+verschafft Weiß ein kleines, aber dauerhaftes Plus} 7. Bb5+ Nc6 8. O-O Be7 9.
+c4 {Die alte Theorie empfiehlt} a6 10. Bxc6+ bxc6 11. cxd5 cxd5 12. exd6 Qxd6
+13. Bg5 Bxg5 14. Nxg5 O-O 15. dxc5 Qxc5 16. Qd3 {mit kleinem weißen Vorteil})
+7. dxc5 Bxc5 8. Qxd5 d6 {Das ist vielleicht die gesündeste Variante.
+Wahrscheinlich kann Weiß aber trotzdem in Vorteil kommen} 9. exd6 Qb6 10. Qe4+
+{Das ist die beliebteste Antwort und wahrscheinlich auch die beste} Be6 11. Qh4
+f6 {Schwarz hat viele Alternativen. von denen die erste die beste und die
+letzte die schlechteste ist} ({(a) Auf} 11... Bxd6 {ist} 12. Bd3 {ein
+offensichtlich guter Zug} Nb4 13. O-O Nxd3 14. Qa4+ {Das ist eine wichtige
+Verstärkung für Weiß, die ein angenehmes Endspiel erzwingt} Qc6 15. Qxc6+ bxc6
+16. cxd3 {und nur Weiß besitzt Gewinnchancen}) ({(b)} 11... Bf5 12. Bc4 O-O 13.
+O-O Bxc2 14. Bf4 Qxb2 15. Rac1 Ba3 16. Rfe1) ({(c)} 11... O-O 12. Bd3 Qb4+ 13.
+c3 Qxh4 14. Nxh4 {Am stärksten ist jetzt die Fortsetzung} Rad8 15. Bf4 Bxd6 16.
+Bxd6 Rxd6 17. O-O-O {und Schwarz hat keine Kompensation für den Bauern}) ({(d)
+} 11... Nb4 12. Qe7#) 12. Bd3 O-O-O (12... g5 13. Bxg5 fxg5 14. Nxg5 Qa5+ 15.
+c3 {gewinnt Weiß}) 13. O-O Rxd6 ({(a)} 13... g5 14. Qh6 g4 15. Ng5 Bd5 16. Ne4)
+({(b)} 13... h5 14. Be3 {Nicht der einzige Zug, aber sehr zuverlässig} Bxe3 15.
+fxe3 Qxe3+ 16. Kh1 Bg4 {Laut ECO hat Schwarz Kompensation, aber dies scheint
+nicht zu stimmen} 17. Qg3 {Ein sehr energischer Zug. Schwarz hat nun keine
+Möglichkeit mehr sich zu befreien} Qc5 18. Rad1 Kb8 19. Be4 Ne5 20. Nxe5 Bxd1
+21. Qxg7 Qc8 22. Bf5 {Nun hat Schwarz keine Felder mehr für die Dame, denn nach
+} Qc5 23. Nd7+ {ist es vorbei}) 14. a3 $1 {Die schwarzen Figuren haben dem
+Vormarsch der Damenflügelbauern nichtst entgegenzusetzen} Nd4 ({(a)} 14... g5
+15. Qh6 $1 {Das ist ein Standardzug in diesen Abspielen} Qd8 16. b4 Bb6 17. Be3
+) ({(b)} 14... a5 {funktioniert gar nicht} 15. b4 axb4 16. axb4 Bxb4 17. Be3
+Bc5 {und Schwarz verliert Material} 18. Ra8+ Nb8 19. Bf4 g5 20. Bxd6 gxh4 21.
+Rxb8+ Kd7 22. Bxc5 Qxc5 23. Rxh8) 15. Qg3 {Dieser feine Zug ist am stärksten}
+Qc6 {Die Alternativen sind nicht besser} ({(a)} 15... Nb3 16. cxb3 Rxd3 17. b4
+Bd6 18. Bf4) ({(b)} 15... g5 16. Be3) ({(c)} 15... Nxf3+ 16. Qxf3 Bd4 17. c3
+Be5 18. Bf5) 16. Nxd4 Rxd4 (16... Bxd4 17. Be4 Bd5 18. Bf4 Rd7 19. Bxd5 Rxd5
+20. c3) 17. h3 g5 18. b4 Bb6 19. Bb2 Rf4 20. Rae1 *
+

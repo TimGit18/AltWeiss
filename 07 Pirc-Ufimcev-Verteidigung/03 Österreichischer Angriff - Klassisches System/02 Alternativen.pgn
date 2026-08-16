@@ -1,0 +1,37 @@
+[Event "The Pirc in Black and White"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Österreichischer Angriff"]
+[Black "Alternativen"]
+[Result "*"]
+[ECO "B09"]
+[Annotator "James Vingus"]
+[PlyCount "23"]
+[EventDate "2013.09.18"]
+[SourceDate "2013.09.18"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 {Die Pirc-Verteidigung ist eine hypermoderne
+Verteidigung, die es Weiß erlaubt, ein mächtiges Bauernzentrum zu errichten.
+Schwarz will dieses Zentrum später mit Zügen wie e7-e5 oder c7-c5 angreifen.}
+4. f4 {Dieser Zug definiert den Österreichischen Angriff. Das ist die
+schärfste und theoretisch kritischste Fortsetzung gegen die Pirc-Verteidigung.
+Das prinzipielle Ziel dieses Angriffs ist der Vorstoß e4-e5} Bg7 {Schwarz
+fianchettiert seinen Königsläufer und bereitet die kurze Rochade vor} 5. Nf3 {
+Weiß sollte den Vorstoß e4-e5 sorgfältig vorbereiten! Natürlich ist er sofort
+spielbar, aber das kann schnell zu Damentausch und einem ausgeglichenen
+Endspiel führen} O-O {Schwarz verzögert den Angriff auf das weiße Zentrum und
+entwickelt sich erst einmal zuende} 6. Bd3 {Dieser logische Entwicklungszug
+bildet die Hauptvariante des Österreichischen Angriffs. Weiß nimmt c7-c5 aus
+der Stellung, da der e-Bauer nun gedeckt ist (Schwarz kann nicht Dd8-a5
+spielen) und bereitet die kurze Rochade vor. Im übrigen wird f4-f5 unterstützt}
+Nbd7 {Dieser Zug kann als Vorbereitung für c7-c5 und gegen Lc1-e3 angesehen
+werden. Aber nach} ({(a)} 6... c6 {ist inadäquat gegen einen so aggressiven
+Aufbau von Weiß}) ({(b)} 6... c5 {ist der richtige Plan, aber der falsche
+Zeitpunkt. Weiß kriegt ein schönes Zentrum mit f4 und e5} 7. dxc5 dxc5 8. e5
+Nd5 9. Nxd5 Qxd5 10. Qe2 Nc6 11. Be4 {und nach diesen Entwicklungszügen hat
+Weiß einen Vorteil}) 7. e5 Ne8 8. Ng5 dxe5 ({(a)} 8... h6 9. Nxf7 Kxf7 10. e6+
+{ist schon fatal}) ({(b)} 8... Nb6 9. Be3 {sieht aus wie eine verunstaltete
+Version der Alekhine-Verteidigung}) 9. fxe5 Nb6 10. Be3 c6 11. O-O Nc7 12. Qe1
+{Weiß beginnt jetzt mit einem Königsangriff} *
+

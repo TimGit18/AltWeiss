@@ -1,0 +1,25 @@
+[Event "The Italian Renaissance I - Petroff"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "NeoWeiß"]
+[Black "Russische Verteidigung"]
+[Result "*"]
+[ECO "C42"]
+[Annotator "Martyn Kravtsiv"]
+[PlyCount "20"]
+[EventDate "2022.??.??"]
+[SourceVersionDate "2022.12.28"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 (5... Nf6 {stellt den
+Anti-Nimzowitsch-Angriff dar.} 6. d4 Be7 {Dieser Zug stellt hier die
+Hauptvariante dar.} 7. Bd3 O-O 8. O-O {mit einer etwas ruhigeren Stellung als
+in dem Nimzowitsch-Angriff.}) 6. dxc3 {Das ist der Nimzowitsch-Angriff gegen
+die Russische Verteidigung. Er führt zu unbalancierten Stellungen als das
+Klassische System. Als Ausgleich für den Doppelbauern erhält Weiß offene
+Diagonalen und Linien sowie gute, schnelle Entwicklung.} Be7 7. Be3 {Das ist
+das moderne Tabiya des Nimzowitsch-Angriffs.} O-O ({Beidseitig lange Rochaden
+können entstehen nach} 7... Nc6 8. Qd2 Be6 9. O-O-O Qd7) 8. Qd2 Nd7 9. O-O-O
+Nf6 {Das ist die aggressivste Fortsetzung. Schwarz plant einen
+Damenflügel-Angriff mit c7-c5, Lc8-e6 und Dd8-a5.} 10. Bd3 c5 *
+

@@ -1,0 +1,151 @@
+[Event "1.e4 vs The French"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Weiß"]
+[Black "Französische Verteidigung"]
+[Result "*"]
+[ECO "C18"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "19"]
+[EventDate "2011.10.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 {Weiß verteidigt den angegriffenen Bauern e4 und
+übt mit dem Springerzug Druck auf das schwarze Zentrum auf d5 aus} Nf6 {
+In der Klassischen Verteidigung übt Schwarz mit einem gesunden
+Entwicklungszug erst Druck auf den Punkt e4 aus, um die weißen Bauern nach
+vorne zu locken und sie dann später anzugreifen. Dies geschieht im Sinne von
+Nimzowitsch. Dabei spielen vor allem die Bauernhebel c7-c5 und f7-f6 eine
+entscheidende Rolle} 4. e5 {Weiß erobert Raum im Zentrum und treibt den
+aktiven Springer von f6 auf ein defensives Feld} Nfd7 ({(a) Eine schlechte
+Wahl ist} 4... Ne4 {, denn nach} 5. Nxe4 dxe4 6. Bc4 $1 {hat Weiß die
+Kontrolle im Zentrum übernommen und gute Chancen auf Mittelspielinitiative}) (
+{(b) Der bizarre Zug} 4... Ng8 {[%csl Ye7,Yf5][%cal Rg8e7,Re7f5,Rf5d4] ist
+ebenfalls spielbar. Schwarz möchte den Springer nach f5 bringen, um Druck auf
+den Bauern d4 auszuüben. Eine überraschende Option von Weiß ist nun} 5. a3 {
+Dieser Zug verhindert das Festsetzen einer schwarzen Leichtfigur auf b4}) 5. f4
+{Normalerweise polstert Weiß seinen Bauern mit diesem Zug, denn er erwartet
+den Angriff auf den Bauern d4 mit dem Flankenzug c7-c5. Weiß kann diesen
+Bauern - im Gegensatz zur Tarrasch-Verteidigung - nicht mit c2-c3 decken.
+Daher muss er ihn mit Figuren abfedern, was seine Struktur festlegt. In der
+Hauptvariante wird Schwarz mit Dd8-b6 und seinen Leichtfiguren gegen d4
+spielen, manchmal auch mit dem Bauernsturm a7-a6 und b7-b5. Weiß kann
+versuchen, in ein besseres Endspiel (mit dem Springer gegen den französischen
+Läufer) abzutauschen oder einen Angriff gegen den kurz rochierten König auf
+dem Königsflügel lancieren} c5 {[%csl Yd4][%cal Rc5d4] Schwarz greift sofort
+mit diesem logischen Bauernzug die Basis des weißen Bauernzentrums an. In dem
+kompletten System geht es nur um den Druck gegen den weißen Bauern auf d4.
+Dieser sichert Weiß Raumvorteil und ist der Anker des weißen Zentrums.} 6.
+Nf3 {Weiß entwickelt sich weiter und verteidigt den Bauern d4} Nc6 {Schwarz
+übt weiteren Druck auf die weiße Stellung aus und zwingt Weiß zu einer
+Konzession} ({Eine Art Anti-Steinitz-Variante entsteht nach dem Zug} 6... Qb6 {
+[%csl Yb2,Yd4][%cal Rb6b2,Rb6d4] Schwarz bringt die Dame sehr früh in das
+Spiel und übt Druck gegen b2 und d4 aus.} 7. Be3 {Weiß verteidigt den Bauern
+auf d4 und drückt gegen den Bauern auf c5. Er weiß nämlich, dass Schwarz
+den Bauern auf d4 überhaupt nicht gut nehmen kann, da nämlich der weiße
+Springer über b5 in die schwarze Stellung eindringt und die schwarze Dame
+dann zur Verteidigung der Felder c7 und d6 fehlt.} a6 {Nun hat Schwarz das
+Feld b5 unter Kontgrolle genommen. Weiß muss jetzt im üblichen Modus gegen
+die schwarze Dame auf b6 vorgehen (wie auch in der späteren
+Damenausfall-Variante).} 8. Na4 {[%csl Yb2,Yb6][%cal Ra4b6,Ga4b2] Der übliche
+Modus verteidigt gleichzeitig den Bauern auf b2 und greift die Dame auf b6 an.
+Damit wird er aber auch selbst zum Angriffsobjekt.} Qa5+ {[%csl Ya4,Ye1][%cal
+Ra5a4,Ra5e1] Schwarz wählt diesen Zug, um Zeit zu gewinnen. In dem er einen
+Doppelangriff auf König und Springer ausübt, zwingt er Weiß einen
+defensiven Zug auf.} 9. c3 {Weiß wehrt das Schach ab, und verteidigt den
+Springer. Das entspricht der Standardmethode auch aus der
+Damenausfall-Variante.} cxd4 {Auch das entspricht dem Standard-Verfahren.} 10.
+b4 $1 {Auch hier sticht wieder diese taktische Option, jedoch opfert Schwarz
+hier keinen Läufer mehr auf b4.} Qc7 {[%csl Yb5,Yc3][%cal Ga4c3,Rc7c3,Rb5a4]
+Hier sieht man jetzt den Grund für den leicht eigenartigen Aufbau von Schwarz
+(mit der Dame auf b6 und dem Bauern auf a6 sowie dem nicht-entwickelten
+Damenspringer): Weiß kann jetzt nicht mit dem Springer auf d4 wiedernehmen,
+denn der Konter b7-b5 würde den Bauern c3 verlieren.} 11. Qxd4 {
+Glücklicherweise kann Weiß hier auch mit der Dame nehmen und versuchen
+seinen Vorteil zu behalten.}) 7. Be3 {[%csl Ya7,Yb6,Yc5,Rd4,Ye3,Yf2,Yg1][%cal
+Ge3d4] Der weiße Damenläufer ist sicher die Problemfigur in der weißen
+Stellung und nimmt auf e3 erst einmal eine defensive Funktion ein.
+Andererseits greift er auch den Bauern auf c5 an und neutralisiert so den
+Druck auf der neuralgischen Diagonalen a7-g1. Man muss sich nur klar sein,
+dass mit diesem Läuferzug (er hat kein besseres Feld als e3) der natürliche
+Schutz des b-Bauern ebenfalls verloren geht.} cxd4 {Das ist jetzt der richitge
+Zeitpunkt für Schwarz, die Spannung im Zentrum aufzulösen. Weiß wird so an
+der optimalen Koordination seiner Figuren gehindert und muss sein Zentrum
+auflösen} ({(a) Die Damenausfall-Variante beginnt mit} 7... Qb6 {Über viele
+Jahre hinweg war diese Variante die Hauptvariante, aber in den letzten Jahren
+hat diese Variante viel von ihrer Popularität verloren} 8. Na4 {Weiß greift
+sofort die Dame an und sorgt dafür, dass die Dame auf ein schlechteres Feld
+gestellt wird. Dafür nimmt er in Kauf, dass sein Springer an den Rand
+gestellt wird} Qa5+ {Schwarz rettet mit diesem Schach seine Dame und greift
+gleichzeitig den Springer auf a4 an.} 9. c3 {Mit diesem Zug unterbindet Weiß
+das Schachgebot und deckt den Springer mit der Dame} cxd4 {Schwarz spielt seit
+Jahrzehnten schon so, aber es scheint, als müsse er nach Alternativen
+Ausschau halten} 10. b4 $1 {Ein eleganter taktischer Gegenschlag, nach dem
+Schwarz zu ebensolchen taktischen Maßnahmen greifen muss} Nxb4 $1 {Dieses
+mutige Opfer ist praktisch erzwungen} 11. cxb4 {Weiß nimmt das Opfer
+natürlich an, denn sonst hat er einfach einige Bauern weniger} Bxb4+ {
+Immerhin hat Schwarz drei Bauern für die Figur und den weißen Damenflügel
+pulverisiert} 12. Bd2 {Weiß muss jetzt erst einmal seine Stellung
+reorganisieren und seine Figuren neu koordinieren} Bxd2+ {Schwarz ist zu
+diesem Abtausch gezwungen} 13. Nxd2 {Sonst verliert Weiß eine Figur} b6 {
+Schwarz beabsichtigt, den Springer auf c5 zuum Abtausch zu bringen und den
+Läufer über die Diagonale c8-a6 zu entwickeln} 14. Bd3 {Das ist sicher die
+beliebteste Fortsetzung für Weiß und eine der gefährlichsten für Schwarz})
+({(b) Die Karjakin-Variante realisiert einen schnellen Damenflügel-Angriff
+beginnend mit} 7... a6 {Schwarz verliert erst gar keine Zeit damit, das
+Gegenspiel am Damenflügel vorzubereiten} 8. Qd2 {Weiß bereitet die lange
+Rochade vor. Das ist die überzeugendste Option} b5 {Schwarz geht
+unverzüglich auf dem Damenflügel vor} 9. dxc5) ({(c) Die Klassische
+Verteidigung beginnt mit der flexiblen Fortsetzung} 7... Be7 {Schwarz
+entwickelt eine Figur und bereitet die kurze Rochade vor. Allerdings kann sich
+der Zug als Tempoverlust entpuppen, falls Weiß auf c5 nehmen sollte.} 8. Qd2 {
+Weiß verzichtet vorerst auf das Nehmen auf c5. Natürlich kann er nicht im
+nächsten Zug lang rochieren, weil dies ein fürchterlicher Fehler wäre.
+Schwarz spielte dann c5-c4 und überollt den weißen Damenflügel.} O-O {
+Schwarz wartet die weiße Aufstellung ab und bringt seinen König in
+Sicherheit.} 9. dxc5 {Dieser Zug ist jetzt absolut notwendig. Weiß erhält
+das Feld d4 für seine Figuren, Schwarz das Feld c5. Aber nun kann Weiß ohne
+Gefahr rochieren.} Bxc5 {Hier könnte auch der Springer nehmen, aber der
+Läufer überwacht d4 und ist aktiver als auf e7.} 10. O-O-O {Bei
+entgegengesetzten Rochaden ist das Zentrum noch halb-geschlossen. Es müssen
+zunächst die Figuren in Stellung gebracht werden.} Qa5 {[%csl Ya2,Yb4][%cal
+Gc5b4,Ra5a2,Rb4c3] Schwarz bring die Dame auf ein aktives Feld mit Druckspiel
+gegen den Bauern a2.} 11. a3 {[%csl Yb4] Das Feld b4 ist wesentlich in dieser
+Stellung und muss von Weiß unter Kontrolle gebracht werden.} a6 {Schwarz
+bereitet b7-b5 vor mit Entwicklung des Läufers nach b7 und einem Vorstoß
+b5-b4.} 12. Bxc5 Nxc5 {Der Abtausch nimmt etwas Potential aus der Stellung.})
+8. Nxd4 {Obwohl Weiß den starken Bauern d4 aufgeben musste, kann sein
+Springer ein zentrales Feld besetzen und in die schwarze Stellung hineinwirken}
+Bc5 {Das ist die Moderne Verteidiung und der bei weitem beliebteste Zug.
+Schwarz entwickelt eine Leichtfigur und bereitet die kurze Rochade vor} ({
+Der Vergiftete Bauer emtsteht nach} 8... Qb6 {Dieser Zug stellt eine scharfe,
+interessante und riskante Fortsetzung dar. Schwarz benötigt nicht nur ein
+exzellentes Gedächtnis, sondern auch ein eisernes Nervensystem. Die
+Alternative Lf8-c5 ist viel beliebter} 9. Qd2 {Weiß spielt praktisch ein
+Gambit und das gerne.} Qxb2 {Schwarz spielt diese Variante im Stile der
+Najdorf-Verteidigung. Jedenfalls muss er sich jetzt auf einen Gegenangriff
+einlassen} 10. Rb1 {Eigentlich der einzige konsistente Zug} Qa3 {Auch hier ist
+das Feld a3 das einzige Feld, auf das die Dame zurückkann} 11. Bb5 $1 {
+Praktisch ist dies der einzige Zug. Nach anderen Zügen erlahmt die Attacke}
+Nxd4 {Schwarz vermeidet Bauernverlust und versucht den Druck auf seine
+Stellung durch Abtausch zu verringern} 12. Bxd4 {Weiß achtet darauf, dass
+seine Figuren im Zentrum aktiv stehen. Natürlich nimmt er mit dem Läufer
+zurück, weil die Dame auf d2 besser steht und nicht angegriffen werden kann}
+Bb4 {Schwarz muss sich schleunigst weiterentwickeln und den Gegendruck
+aufrechterhalten} 13. O-O {Weiß bringt seinen König in Sicherheit und seine
+letzte Figur in das Spiel. Er hat auf jeden Fall mehr Entwicklungsvorsprung})
+9. Qd2 {Auch Weiß entwickelt sich logisch weiter und bereitet die lange
+Rochade vor} O-O {Schwarz vollendet vorerst seine Entwicklung auf dem
+Königsflügel und bringt seinen König in Sicherheit} ({Eine forcierte
+Endspielvariante entsteht nach} 9... Nxd4 {Schwarz kümmert sich nicht mehr um
+seine Entwicklung, sondern beseitigt zunächst einmal die Spannung im Zentrum.
+Jedenfalls verfügt diese Variante über beträchtliche Popularität, denn
+Schwarz kann schnell in ein Endspiel abtauschen. Aber das ist nicht unbedingt
+so günstig für ihn} 10. Bxd4 Bxd4 {Schwarz kann das weiße Läuferpaar auf
+keinen Fall auf dem Brett behalten} 11. Qxd4 {Hier steht die Dame sehr
+dominant und beherrscht das ganze Zentrum} Qb6 {Schwarz hofft auf ein Endspiel,
+indem er nur leicht schlechter steht. Das kann aber nicht empfohlen werden,
+sondern nur für Leute, die gerne lang anhaltende und langweilige Endspiele
+spielen wollen}) 10. O-O-O {Weiß bringt seinen König auf die
+entgegengesetzte Seite in Sicherheit} *
+

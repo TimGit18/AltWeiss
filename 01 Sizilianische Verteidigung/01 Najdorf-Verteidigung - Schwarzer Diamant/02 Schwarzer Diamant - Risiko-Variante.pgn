@@ -1,0 +1,87 @@
+[Event "The Sicilian Najdorf 6.Bg5"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Schwarzer Diamant"]
+[Black "Risiko-Variante"]
+[Result "*"]
+[ECO "B94"]
+[Annotator "Kevin Goh Wei Ming"]
+[PlyCount "55"]
+[EventDate "2011.09.27"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 {Das Najdorf-System ist
+das ambitionierteste System der Sizilianischen Verteidigung. Es steht auf
+solider positioneller Grundlage, denn a7-a6 ist ein sehr guter Abwartezug und
+Vorbote des Gegenschlags e7-e5. Wenn Weiß jetzt einen Standardzug wählt,
+erfolgt der Gegenschlag und Züge wie Le7, Sc6, b7-b5 nebst Lb7 oder Le6} 6.
+Bg5 {Das ist der aggressivste Versuch von Weiß den Najdorf zu bekämpfen.
+Weiß entwickelt den Läufer auf ein Angriffsfeld, denn er übt sofort Druck
+auf den Springer f6 aus, einen der wichtigen Verteidiger von Schwarz. Daher
+kann er jetzt nicht das typische Konzept umsetzen} Nbd7 {Dieser Zug ist eine
+alte Variante, die in der letzten Zeit weiterentwickelt wurde. Die
+vielversprechendste Antwort lautet} 7. Bc4 {Weiß nutzt aus, dass Schwarz noch
+nicht e7-e6 gespielt hat und kontrolliert das wichtige Feld d5. Später kann
+der Lufer dort nicht mehr gut platziert werden. Dieser Zug stellt eine
+wesentliche Alternative zum Zug f2-f4 dar, der sonst gerne gespielt wird. Der
+Zug} Qb6 {ist die prinzipiellste Antwort von Schwarz, die im Stil der
+Bauernraub-Variante gespielt wird} 8. Bb3 {[%csl Ye5][%cal Rd7e5] Man kann
+natürlich auch den Bauern opfern wie in der eigentlichen Bauernraubvariante,
+aber Schwarz steht doch etwas solider, da der Springerzug nach d7 nützlicher
+ist als der Bauernzug nach e6. Der Springer verstärkt die Kontrolle über das
+Feld e5 und ohne den Bauern auf e6 fehlt es Weiß an einer Angriffsmarke} e6 9.
+Qd2 {Die lange Rochade ist die natürliche Fortsetzung, aber Weiß hat auch
+andere Züge zur Verfügung} Be7 10. O-O-O Nc5 {Normalerweise ist es in der
+Sizilianischen Verteidigung nicht geboten, die c-Linie zu verstellen} 11. f3
+Qc7 ({(a)} 11... h6 12. Be3 h5 {ist eine typische Idee aus der
+Rauzer-Verteidigung, aber Weiß behält einen Vorteil nach} 13. a3 Qc7 14. Ba2)
+({(b) Eine häufig gewählte Zugumstellung laut den Doknjas ist} 11... Bd7 12.
+Kb1 Qc7 13. g4 b5 {Die Doknjas empfehlen direkt} 14. h4 {, um sich den
+Tempoverlust a2-a3 zu ersparen.} Rb8 {Die schwarze Idee ist es, den Vormarsch
+des b-Bauern zu verzögern, denn der weiße Damenspringer will ohnehin nach g3.
+} (14... O-O {führt in die Variante unten nach dem 16.Zug von Schwarz.} 15. a3
+Rfb8 16. h5 a5 17. h6) 15. Nf5 $5 {ist ein direkter Versuch, die Stellung des
+schwarzen Königs in der Brettmitte auszunutzen. Dies führt zu forciertem
+Spiel, indem Weiß nachweisen muss, dass er genügend Kompensation für die
+geopferte Figur besitzt. Und Schwarz muss sich akkurat verteidigen.} (15. Bxf6
+Bxf6 16. g5 Be7 17. h5 h6 18. g6 {führt in ein Abspiel der Modernen
+Hauptvariante.} O-O 19. Rhg1 Kh8 20. Nce2 f6 21. Nf4 Qc8) 15... exf5 {Die
+beste Antwort von Schwarz} 16. Bxf6 Nxb3 $1 (16... Bxf6 {führt zu einer
+gefährlichen Stellung für Schwarz.} 17. Nd5 Qd8 18. exf5 {Zumindest hat
+Weiß hier genügend Kompensation für die Figur.}) 17. axb3 Bxf6 18. Nd5 Qc6
+$1 {Das beste Feld für die Dame.} (18... Qd8 {ist nicht so gut, denn das Feld
+d8 soll als Rückzug für den Läufer dienen.}) 19. Nxf6+ gxf6 20. Qh6 fxg4 21.
+Qxf6 Rg8 22. Rxd6 Qc7 23. Rhd1 Rd8 24. fxg4 Rg6 {Hier sollte Weiß eine
+Zugwiederholung erzwingen} 25. Qe5+ Kf8 26. Qh8+ Ke7 27. Qe5+) 12. Kb1 {
+Das ist wahrscheinlich am besten. Weiß macht einen unverfänglichen
+Abwartezug, bevor er einen Bauernsturm lostritt} O-O {Dieser Zug erlaubt es
+dem Weißen, einen klaren und zweckorientierten Plan gegen den schwarzen
+Königsflügel durchzuführen. Vielleicht war die Läuferentwicklung nach d7
+mit dem Vormarsch der Damenflügelbauern eine bessere Idee. Laut den Brüdern
+Doknjas ist er viel zu riskant (sie geben dieselbe Variante an allerdings mit
+Zugumstellung).} 13. g4 b5 14. a3 Rb8 15. h4 Bd7 ({Anscheinend verliert der Zug
+} 15... b4 {Material nach} 16. axb4 Rxb4 17. Bxf6 Bxf6 18. Nd5 {, aber nach}
+exd5 19. Qxb4 dxe4 20. g5 Be5 21. fxe4 Bg4 22. Bd5 Rb8 23. Qa3 Bxd1 24. Rxd1
+Qd7 {ist die Stellung mehr oder weniger gleich}) 16. h5 $1 {Das ist der beste
+Zug hier} Rfc8 $1 {Dieser Zug scheint der beste Versuch von Schwarz zu sein,
+aber er muss einige genaue Züge finden} ({(a) Der Zug} 16... h6 {lädt nur
+nach Ärger ein und Schwarz verliert nach} 17. Bxh6 gxh6 18. Qxh6 Nh7 19. Nf5
+exf5 20. gxf5 Kh8 21. Rhg1 Rg8 22. Bxf7) ({(b) Der Zug} 16... a5 {tauchte auch
+schon auf und danach} 17. h6 g6 18. Nf5 {ist eigentlich gewonnen} exf5 (18...
+gxf5 19. Bh4 {ist ein wiederkehrendes Motiv, wie man so oft sieht und hier
+folgt} Kh8 20. Qg5 Rg8 21. Qxf6+ Bxf6 22. Bxf6+ Rg7 23. hxg7+ Kg8 24. Rxh7 Kxh7
+25. Rh1+ Kg8 26. Rh8# {mit einem schönen Ende für Weiß}) 19. Nd5 Nxd5 20.
+Bxe7 Nxb3 {Schwarz versucht erst einmal soviele Figuren wie möglich zu
+tauschen} 21. Qxd5 Rbc8 ({John & Joshua Doknjas} 21... Be6 22. Bxd6 $1 {
+mit großem Vorteil für Schwarz.}) 22. cxb3 Be6 23. Qd4 f6 {Und hier muss man
+noch einen genauen Zug finden} 24. gxf5 Qxe7 25. fxe6 Qxe6 26. Qxd6 Qxb3 27.
+Rc1 Rcd8 28. Qc7 Qd3+ 29. Ka1 Rd7 30. Qxa5 Qxf3 31. Qxb5 {Weiß hat einen
+schönen Endspielvorteil}) 17. h6 $1 g6 18. Nf5 $1 {ist direkt und gefährlich}
+exf5 ({Und nicht} 18... gxf5 19. Bh4 fxe4 20. Qg5+ Kf8 21. Qg7+ Ke8 22. Qh8+
+Bf8 23. Bxf6 {mit Gewinn für Weiß}) 19. Qd4 {Schwarz kann vielleicht noch
+ein gleiches Endspiel erreichen} Nxb3 20. cxb3 Qc5 21. Nd5 Qxd4 22. Nxe7+ Kf8
+23. Rxd4 Kxe7 24. exf5 Rc5 {Schwarz muss das Schach auf e1 abblocken, um den
+Springer f6 zu retten} 25. Re1+ Re5 26. Rxe5+ dxe5 {Jetzt geht trotzdem eine
+Figur verloren} 27. Bxf6+ Kxf6 28. Rxd7 {Das Endspiel wurde von Richard
+Palliser analysiert} *
+

@@ -1,0 +1,36 @@
+[Event "Experten vs. Sizilianisch"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Grivas-System"]
+[Black "Kveinys-Variante"]
+[Result "*"]
+[ECO "B40"]
+[Annotator "John Shaw"]
+[PlyCount "33"]
+[EventDate "2012.06.04"]
+[SourceDate "2012.06.04"]
+
+1. e4 c5 2. Nf3 e6 {Dieses Abspiel mit 4...Db6 führt zur Kveinys-Variante} 3.
+d4 cxd4 4. Nxd4 Qb6 {Die Idee besteht darin, den Springer d4 aus seiner
+ausgezeichneten Zentrallstellung zu vertreiben} 5. Nc3 {Gebräuchlicher ist
+der Rückzug nach b3} ({Mit dem Zug} 5. Nb3 {kann man in das eigentliche
+Grivas-System transponieren} Bc5 6. Nxc5 Qxc5 7. Be3 {ist eine für Schwarz
+ungünstige Möglichkeit, das Grivas-System zu vermeiden}) 5... Bc5 6. Na4 {
+Dieser aktive Zwischenzug ist aus der Französischen Verteidigung bekannt. Er
+zerstört die Koordination der schwarzen Figuren} Qa5+ 7. c3 Bxd4 {Schwarz
+muss seinen guten Läufer geben} ({Denn} 7... Be7 8. Nb5 d6 9. Bf4 e5 10. Be3 {
+ist einfach besser für Weiß}) 8. Qxd4 {Im Grunde hat Weiß erreicht, was er
+wollte: das Läuferpaar. Schwarz muss Kompensation nachweisen} Nf6 ({Nach} 8...
+e5 9. Qc5 {hat Weiß klaren Vorteil}) 9. Nc5 {Der Springer soll zurück in das
+Zentrum} Nc6 ({Mit} 9... O-O 10. Nb3 {gestattet es Weiß seine Stellung zu
+konsolidieren}) 10. Qd6 {Dieser Zug stellt ein positionelles Bauernopfer dar,
+denn der weiße Bauer e4 hinge, wenn der Springer c5 vertrieben wird} b6 11.
+Nb3 {Schwarz muss sich jetzt entscheiden, ob und wie er die Damen tauscht} Qe5
+({Nach} 11... Nxe4 12. Qxc6 dxc6 13. Nxa5 bxa5 14. Be3 {besitzt Schwarz einen
+gesunden Mehrbauern am Königsflügel, doch sein zerissener Damenflügel und
+das weiße Läuferpaar geben dem Anziehenden Kompensation}) 12. Qxe5 Nxe5 13.
+f4 Ng6 14. e5 Nd5 15. g3 Bb7 16. Bg2 O-O-O 17. O-O {Ohne irgendetwas
+Besonderes unternommen zu haben, besitzt Weiß ein kleines, aber nachhaltiges
+Plus} *
+

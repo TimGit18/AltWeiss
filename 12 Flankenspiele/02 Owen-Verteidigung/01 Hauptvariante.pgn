@@ -1,0 +1,46 @@
+[Event "Starting Out: 1e4!"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Owen-Verteidigung"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "B00"]
+[Annotator "Neil McDonald"]
+[PlyCount "24"]
+[EventDate "2018.??.??"]
+[SourceDate "2018.01.08"]
+
+1. e4 b6 ({Die Owen-Verteidigung kann auch aus der Französischen Verteidigung
+entstehen} 1... e6 2. d4 b6) 2. d4 Bb7 {Das ist die reine Form der
+Owen-Verteidigung, die vom Reverend John Owen 1858 benutzt wurde, um Paul
+Morphy zu schlagen. Später wurde sie von Tony Miles benutzt, allerdings um
+gegen die Englische Eröffnung 1.c4 die Englische Verteidigung 1...b6
+einzuführen} 3. Bd3 {Der Zug ist besser als Sb1-c3, denn der Springer könnte
+gefesselt werden} Nf6 {[%csl Ye4] Das ist die Hauptfortsetzung. Schwarz greift
+den Bauern e4 ein weiteres Mal an} 4. Qe2 {Weiß schützt den Bauern e4 mit
+der Dame} e6 {ist die solideste Antwort von Schwarz} 5. Nf3 d5 {Dieser
+logische Zug bildet einen Gegenschlag gegen das weiße Zentrum} 6. e5 Nfd7 {
+Das ist die Hauptvariante der Owen-Verteidigung. Weiß hält das Zentrum
+zunächst geschlossen. Die Stellung erinnert an das Steinitz-System der
+Französischen Verteidigung, aber mit dem für Schwarz ungünstigen Umstand,
+dass der schwarze Damenläufer zu früh entwickelt wurde} 7. O-O {Weiß
+entwickelt sich logisch weiter und bringt seinen König in Sicherheit} c5 {
+Das ist der logische Folgezug von Schwarz. Er muss Druck auf die Basis des
+weißen Zentrums auf d4 ausüben} ({Nicht so gut ist} 7... Nc6 8. c3 Be7 {
+und wenn Schwarz kurz rochieren muss, dann hat Weiß einfaches Spiel}) 8. c3 {
+Weiß schützt sein Zentrum und schafft ein Rückzugsfeld für den Läufer} Nc6
+{Schwarz möchte den Druck auf d4 weiter erhöhen und den Läufer auf d3 mit
+einem Angriff auf b4 belästigen} 9. a3 {[%csl Yb4][%cal Ga3b4] Weiß schützt
+seinen Läufer auf d3, indem er das Feld b4 überdeckt} ({Eine Alternative ist
+vielleicht} 9. Bg5 Be7 10. Bxe7 Qxe7 11. Nbd2 O-O 12. a3 {und in diesem
+Mittelspiel hat Weiß den besseren Läufer, aber sonst keine Vorteile}) 9...
+Be7 10. b4 $1 {Weiß hat mehr Raum am Damenflügel und ergreift sofort die
+Initiative} c4 {Schwarz schließt die Stellung, denn die Öffnung der b-Linie
+oder der c-Linie wäre für ihn unvorteilhaft} 11. Bc2 h6 {Das ist noch ein
+Abwartezug, um das Feld g5 zu sichern} 12. a4 {Weiß erobert noch mehr Raum
+auf dem Damenflügel. Er kann mit a4-a5 und danach mit b4-b5 durchbrechen} Qc7
+{Schwarz behält seine solide Stellung. Seine Figuren sind allerdings
+unbeweglich und eingeschränkt. Weiß hat ganz gute Aussichten auf beiden
+Flügeln, wohingegen Schwarz sehr vorsichtig spielen muss} *
+

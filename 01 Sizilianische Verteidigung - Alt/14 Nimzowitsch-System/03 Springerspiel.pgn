@@ -1,0 +1,54 @@
+[Event "Experten vs. Sizilianisch"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nimzowitsch-System"]
+[Black "Springerspiel"]
+[Result "*"]
+[ECO "B29"]
+[Annotator "Jacob Aargard"]
+[PlyCount "39"]
+[EventDate "2012.06.25"]
+[SourceDate "2012.06.25"]
+
+1. e4 c5 2. Nf3 Nf6 {Das ist ein provozierendes Abspiel, das an die
+Alekhine-Verteidigung erinnert. Schwarz gestattet den Bauernvorstoß nach e5
+und hofft, dass der Bauer auf e5 zur Schwäche neigt} 3. Nc3 {Dieser Zug ist
+die weniger prinzipielle Antwort. Weiß entwickelt eine Figur und hält die
+Spannung im Zentrum aufrecht. Schwarz hat jetzt im Prinzip drei Möglichkeiten:
+1) Mit d7-d5 im Zentrum zurückzuschlagen 2) Mit e7-e6 auf Abwarten und
+Provokation zu gehen 3) Mit Sb8-c6 in ein Sizilianisches Springerspiel zu gehen
+} Nc6 {Schwarz möchte eigentlich mit dem Damenbauern im Zentrum zuschlagen,
+will aber vorher noch eine Figur entwickeln.} 4. d4 {Weiß möchte mit diesem
+Vorstoß in dies Stellungen des Offenen Sizilianers überleiten.} d5 $5 {Ein
+erstaunlicher Konter. Je mehr man über diesen Zug nachdenkt, um so weniger
+dumm erscheint er.} 5. exd5 Nxd5 6. dxc5 $5 {Dieser Zug bildet die beste
+Möglichkeit, um Vorteil zu kämpfen. Grundsätzlich hat Schwarz immer die
+Möglichkeit, ein Remis zu erkämpfen, aber es bleibt dennoch eine traurige
+und langwierige Arbeit.} ({(a)} 6. Bb5 $6 Bg4 $1 {führt nicht zu Vorteil,
+sondern im Gegenteil zu Problemen für Weiß. Dieser Gegenzug sollte viel
+häufiger gezogen werden.}) ({(b)} 6. Nxd5 Qxd5 7. Be3 cxd4 8. Nxd4 a6 9. Be2
+e5 {erscheint ebenfalls recht vernünftig, wonach Stellungen aus der
+Alapin-Variante entstehen.}) 6... Nxc3 7. Qxd8+ {Natürlich tauscht Weiß die
+Damen mit dem Mehrbauer} Nxd8 (7... Kxd8 {ist die wichtigste Alternative. Das
+Gefühl sagt, dass Weiß in allen Varianten ein kleines Plus erreicht.} 8. bxc3
+f6 9. Be3 e5 10. Bc4 Kc7 11. Nd2 Bf5 12. O-O-O Be7 13. f3 Rad8 14. h4 Bc8 15.
+Ne4 h6 16. g4 h5 17. Rxd8 Nxd8 18. g5) 8. bxc3 f6 $1 {Der Aufbau eines starken
+Zentrums ist der beste Plan für Schwarz.} ({(a) Auf} 8... g6 {ist} 9. Bb5+ {
+scheinbar der beste Weg, um Fortschritte zu erzielen.} Nc6 10. Ne5 Bg7 11. Nxc6
+a6 12. Ba4 Bd7 13. Rb1 Bxc3+ 14. Bd2 Bxd2+ 15. Kxd2 bxc6 16. Rb7) ({(b)} 8...
+Bd7 9. Be3 $1 {ist als besser für Weiß bekannt} g6 10. O-O-O Bg7 11. Bd4 Bh6+
+12. Kb2 O-O 13. Ne5 Be6 14. Bb5 f6 15. Nd3 Bd5 16. f3 e5 17. Bf2) 9. Be3 e5 10.
+Nd2 {Am elatischsten. Die lange Rocade wurde ebenfalls schon gespielt, aber
+damit verliert Weiß die Option, auf der b-Linie einzudringen und gleichzeitig
+alle Chancen auf Vorteil.} Be6 ({Nach} 10... Ne6 11. Ne4 Bd7 12. Rb1 Bc6 {
+dürfte Weiß leicht im Vorteil sein, aber das ist keineswegs sicher.}) 11.
+Bb5+ Bd7 12. Rb1 {Weiß hat nur dann Aussicht auf Vorteil, wenn er seinen
+Entwicklungsvorsprung nutzt. Deshalb ist die richtige Wahl ein Entwicklungszug
+und kein Zug, der den gegnerischen König entwickelt. Dieser Zug garantiert
+dem Weißen einen leichten Vorteil.} Rc8 $1 (12... Bxb5 13. Rxb5 Kd7 14. Ke2
+Be7 15. Rhb1 Rb8 {ist eindeutig gut für Weiß}) 13. Bxd7+ Kxd7 14. Nb3 {Jetzt
+gibt es kein a7-a5, so dass Weiß wohl die besseren Aussichten hat. Eine
+Variante könnte sein:} Ne6 15. Ke2 Bxc5 16. Nxc5+ Nxc5 17. Bxc5 Rxc5 18. Rxb7+
+Ke6 19. Rxa7 Rxc3 20. Rc1 {mit weißem Endspielvorteil} *
+

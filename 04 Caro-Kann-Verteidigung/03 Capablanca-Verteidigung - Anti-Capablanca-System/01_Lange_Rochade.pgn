@@ -1,0 +1,99 @@
+[Event "Starting Out: Caro Kann"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Capablanca-System"]
+[Black "Lange Rochade-Variante"]
+[Result "*"]
+[ECO "B19"]
+[Annotator "Joe Gallagher"]
+[PlyCount "43"]
+[EventDate "2011.10.03"]
+[SourceDate "2011.10.03"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 {[%csl Yb1,Yc2,Yd3,Ye4,Yf5,Yg6,Yh7]
+Ein logischer Zug. Schwarz entwickelt seinen Läufer mit Tempogewinn auf die
+beste Diagonale. Mehr kann man von einem Zug nicht verlangen. Anschließend
+entwickelt er sich einfach so schnell wie möglich weiter. Sb8-d7, Sg8-f6,
+e7-e6 nebst Lf8-e7 und Dd8-c7 sind alles typische Züge, allerdings muss
+Schwarz meist h7-h6 spielen, wenn Weiß beginnt, den Läufer auf g6 zu
+belästigen. Schwarz kann sowohl lang als auch kurz rochieren und möchte seine
+Stellung mit c6-c5 befreien. In der Regel hat Schwarz weniger Raum, aber nur
+selten treten sich seine Figuren auf den Füßen} 5. Ng3 {Da Weiß keine
+Möglichkeit hat, den Springer im Zentrum zu halten, zieht er ihn zurück, um
+den Läufer anzugreifen} Bg6 {Der Läufer ist eine starke Figur und soll nicht
+einfach gegen einen Springer abgetauscht werden. Der Nachteil dieses Zuges ist,
+dass der Läufer ein Angriffsobjekt bleibt} 6. h4 {Normalerweise rückt Weiß
+seinen h-Bauern vor, um Raum am Königsflügel zu schaffen und die weißfeldrigen
+Läufer abzutauschen} h6 {Das ist der präventive Zug, um den Läufer zu schützen}
+7. Nf3 {Das wichtigste strategische Ziel von Weiß ist es, einen starken
+Springer auf e5 zu etablieren} Nd7 {Bis vor kurzem hatte man geglaubt, dass
+dieser Zug notwendig ist, um Weiß daran zu hindern Sf3-e5 zu spielen. Die
+moderne Hauptvariante beginnt mit Sg8-f6} 8. h5 {Dieser Zug dient nur der
+Vorbereitung des Abtauschs. Er hat mehr Vor- als Nachteile, denn er räumt das
+Feld h4 für den Turm, obwohl der Bauer h5 schwach werden kann} Bh7 {Dies ist
+der einzige Zug} 9. Bd3 {Das gehört zur Strategie von Weiß. Der Läufer soll
+abgetauscht werden} Bxd3 10. Qxd3 {Mit diesem Zug zentralisiert Weiß seine
+Dame und bereitet die lange Rochade vor} Qc7 {Dies zeigt die Absicht von
+Schwarz lang zu rochieren. Es wäre sinnlos für Schwarz ein Tempo mit diesem
+Zug zu vergeuden, wenn er kurz rochieren wollte. Wenn er dies vorhat, sollte
+er lieber e7-e6 oder Sg8-f6 spielen} 11. Bd2 {Das ist eindeutig der
+bekannteste Zug und die Hauptfortsetzung. Weiß will unverzüglich lang
+rochieren und hier steht der Läufer noch einigermaßen flexibel} e6 {Schwarz
+überdeckt noch einmal das wichtige Feld d5 und öffnet eine Diagonale für
+seinen Läufer} 12. O-O-O {Das war der Plan von Weiß. Alle Figuren sind jetzt
+entwickelt und bereit, in das Spiel einzugreifen} Ngf6 {Bevor sich Schwarz
+entschließt zu rochieren, entwickelt er zunächst seine Leichtfiguren} 13. Ne4 {
+Der Springer auf g3 ist die passivste Figur des Weißen und wird wieder in das
+Spiel gebracht. Normalerweise würde Weiß nicht so schnell seine Figuren
+tauschen, aber man kann nicht alles haben} O-O-O {In dieser Variante rochiert
+Schwarz lang und auf die vermeintlichen sicheren Seite} 14. g3 {Dies wurde von
+dem sowjetischen Spieler Jefim Geller in die Praxis eingeführt. Die Idee
+dahinter ist es einfach den Läufer nach f4 zu stellen} Nxe4 ({Schwarz kann
+auch versuchen, die Fesselung auf der d-Linie auszunutzen und} 14... Nc5 {
+spielen. Aber dann kann Weiß} 15. Nxc5 Bxc5 16. c4 {spielen mit der Idee} --
+17. Bc3 -- 18. Qe2 -- {und} 19. Ne5 {, während Schwarz einach nur dasitzt und
+darauf wartet, dass sich Weiß überreizt. Der einzige aktive Plan für Schwarz
+besteht darin, den Läufer nach d6 zu ziehen, mit dem König in das Eck zu
+wandern und dann b7-b5 spielen. Aber nach dem Durchbruch d4-d5 sind die
+meisten Schwarzspieler zum Nichtstun zurückgekehrt}) 15. Qxe4 Bd6 ({Der Zug} 
+15... Nf6 {sieht so offensichtlich aus, ist aber ein Zug, den viele
+Schwarzspieler nur widerstrebend spielen. Und zwar weil der Springer dann das
+Feld e5 nicht mehr länger deckt und Weiß dort meistens einen mächtigen
+Springer etablieren kann. Außerdem gibt es Situationen, in denen Schwarz c7-c5
+spielt, und dann wäre es besser, den Springer auf d7 statt auf f6 zu haben.
+Dennoch hat der Zug einen Vorteil, denn die Dame kann nicht nach c2 sich
+zurückziehen, was es Schwarz erlaubt der Hauptvariante auszuweichen, in der
+Weiß c6-c5 mit d4-d5 beantwortet. Nach} 16. Qe2 {sollte Schwarz nicht} c5 {
+spielen, da der weiße Turm nach} 17. dxc5 Bxc5 18. Rh4 {für eine Menge Ärger
+auf der vierten Reihe sorgen kann. So machte der Turm Schwarz in der berühmten
+Partie von Tal gegen Hübner nevös, weil sein König und seine Dame in der
+gleichen Reihe standen. Deshalb spielte er} Kb8 {, doch nach} 19. Bf4 Bd6 20.
+Rxd6 Rxd6 21. Ne5 {mit Ideen wie Sc4 und Sxf7 brachte ihn das nur in
+ernsthafte Schwierigkeiten}) 16. c4 {Weiß erobert Raum im Zentrum und will den
+oben skizzierten Plan ausführen} c5 {Schwarz muss und kann im Zentrum
+dagegenhalten. Jetzt kann Weiß bei seinem alten Plan bleiben oder etwas
+Schärferes probieren} 17. d5 {Vor einigen Jahren galt dieser Zug als bester
+Versuch in dieser Stellung} Nf6 {Schwarz vertreibt die weiße Dame und greift
+den Bauern auf d5 an} ({Nach} 17... Rhe8 {empfiehlt Gallagher} 18. Qg4) 18. Qc2
+{[%csl Ya4,Yb3,Yc2,Yd3,Ye4,Yf5,Yg6,Yh7] Hier steht die Dame besser als auf e2,
+denn sie kann nicht von einem Turm angegriffen werden und beschützt den
+eigenen König. Außerdem bleiben zwei wichtige Diagonalen im Blick} exd5 {
+Schwarz versucht das weiße Zentrum zu zerstören und die e-Linie für sich zu
+öffnen} 19. cxd5 {Dieser Damenbauer ist isoliert und bleibt schwach, aber im
+Moment ärgert er Schwarz} Rhe8 ({Das weiße Spiel beruht auf dem taktischen
+Kniff} 19... Nxd5 20. Qf5+ {und Weiß gewinnt den Springer}) 20. Bc3 {Mit einem
+Schlag positioniert Weiß seine schlechteste Figur auf der langen Diagonalen}
+Qd7 {Schwarz überdeckt seine schwachen weißen Felder und möchte mit der Dame
+gerne nach g4} 21. Bxf6 {Ein wohlbedachter Abtausch, um die schwarze
+Bauernstellung zu demolieren} gxf6 {Weiß steht jetzt strategisch auf Gewinn,
+weshalb Schwarz auf die Dynamik der Stellung vertrauen muss, um am Leben zu
+bleiben. Im Moment kann Schwarz noch hoffen, da er die offene Linie besetzt
+hält und die Dame potentiell aktiv steht. Aber wenn der weiße Springer nach f5
+kommt, würde Weiß auf Gewinn stehen} 22. Kb1 {Einen solchen Zug findet man nur,
+wenn man sich tief mit der Stellung beschäftigt. Weiß will eine bestimmte
+Variante spielen, aber kein Zwischenschach auf f4 zulassen} ({So würde nach} 
+22. Nh4 Re5 23. f4 Rxh5 24. Qe2 Rxd5 25. Rxd5 Bxf4+ 26. gxf4 Qxd5 27. Rd1 Qxa2
+28. Rxd8+ Kxd8 {eine Remisstellung entstehen, denn der weiße König steht viel
+zu exponiert, um ernsthafte Gewinnchancen zu erlauben}) *
+

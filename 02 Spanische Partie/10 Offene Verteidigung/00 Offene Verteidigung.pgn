@@ -1,0 +1,130 @@
+[Event "The Ruy Lopez Move by Move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Spanische Partie"]
+[Black "Offene Verteidigung"]
+[Result "*"]
+[ECO "C82"]
+[Annotator "Neil McDonald"]
+[PlyCount "26"]
+[EventDate "2011.08.28"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 {Mit diesem Zug beginnt
+die Offene Verteidigung, eine viel riskantere Variante als die Geschlossenen
+Verteidigungen. Schwarz erobert den Bauern e4, von dem er weiß, dass er ihn
+gleich wieder zurückgeben muss. Er erhält ein relatives freies Figurenspiel,
+muss aber entscheidende Schwächen in seiner Bauernstruktur in Kauf nehmen.} 6.
+d4 {Weiß versucht sofort, die e-Linie zu öffnen, um den Springer auf e4 zu
+fesseln} b5 {Bevor Schwarz im Zentrum Aktionen unternimmt, vertreibt er
+zunächst den lästigen Läufer auf a4} ({Die sogenannte Rigaer Variante
+beginnt mit dem überscharfen, aber leichtsinnigen Schlagen} 6... exd4 7. Re1
+d5 8. Bg5 f6 9. Nxd4 fxg5 10. Nxc6 Qf6 11. Nb4+ Bd7 12. Rxe4+ Be7 13. Nxd5 {
+Weiß steht deutlich besser.}) 7. Bb3 d5 {Das ist die einzige richtige Antwort.
+Schwarz unterbricht die Diagonale des Läufers und stützt seinen Springer.} ({
+Die Verzögerte Rigaer Variante beginnt mit dem nachträglichen Schlagen auf
+d4.} 7... exd4 8. Re1 d5 9. Nc3 {Diesen feinen Zug kennt man aus der
+Canal-Variante des Zweispringerspiels.} Be6 10. Nxe4 dxe4 11. Rxe4 Be7 12. Bxe6
+fxe6 13. Nxd4) 8. dxe5 Be6 {In der offenen Verteidigung besitzt Weiß die
+Königsflügelmehrheit und einen vorgerückten Bauern auf e5. Schwarz hat als
+Kompensation einen starken d-Bauern und die Mehrheit auf dem Damenflügel.
+Schwarz hat einen starken Springer auf e4, der aber mit Sb1-d2 und f2-f3
+angegriffen werden kann. Außerdem muss er sich noch um die Sicherheit seines
+Königs kümmern.} 9. Nbd2 {Die Hauptvorteile für Weiß in dieser Stellung
+liegen in seinem vorgerückten e-Bauern auf e5, der ihm Raumvorteil verschafft.
+Außederm ist der schwarze Bauer auf c7 zurückhängend und schwach und kann
+nicht ohne weiteres nach c5 vorrücken, um das Feld d4 unter seine Kontrolle
+zu nehmen. Im Prinzip hat hier Schwarz drei Möglichkeiten. (1) Er kann mit
+dem Königsläufer nach e7, um die schwarzen Felder in Königsnähe zu
+überdecken und zu rochieren. (2) Er kann mit dem Königsläufer nach c5, um
+das Feld d4 zu kontrollieren und f2 anzugreifen. (3) Er kann mit dem Springer
+nach c5, um den weißen Königsläufer anzugreifen und den Bauernvorstoß
+d5-d4 vorbereiten} Be7 {Schwarz entwickelt sich und bereitet die kurze Rochade
+vor. Er bietet eine Transposition in die Hauptvariante an} ({(a) Die
+Dilworth-Variante beginnt mit} 9... Bc5 {Schwarz würde gerne in diese
+Variante transponieren, in der er nach der eigenen Rochade auf f2 seinen
+Springer und Läufer gegen Turm und Bauern für einen interessanten Angriff
+opfert. Aber Weiß kann seinerseits in eine vorteilhafte Version der
+Keres-Variante transponieren:} 10. Qe2 $1 {Das ist der beste weiße Zug. Weiß
+will endlich den starken Springer auf e4 unterminieren. Das direkte Schlagen
+würde in ein mehr oder weniger ausgeglichenem Endspiel enden.} Nxd2 {Schwarz
+merkt, dass der Druck auf e4 zu groß wird. Einen zweiten Schwachpunkt (neben
+d5) kann er sich nicht erlauben.} 11. Bxd2 O-O 12. Rad1 {[%csl Yb3,Yd1,Yd5]
+[%cal Gb3d5,Gd1d5] Das ist die große Idee der Keres-Variante. Weiß will auf
+der d-Linie Druck ausüben und den schwachen d-Bauern attackieren.} Bg4 {
+[%csl Yc6,Ye5][%cal Gc6e5] Schwarz muss seinerseits ein Druckspiel gegen den
+schwachen weißen e-Bauern organisieren.} 13. Qd3 {Weiß opfert den e-Bauern
+für freies Spiel und Läuferpaar.} Bxf3 14. Qxf3 Nxe5 15. Qf5 {Die weiße
+Dame bleibt zentral und attackiert den Springer.} Re8 {Schwarz deckt den guten
+Springer und entwickelt sich.} 16. Bg5 {Mit diesem Zug erobert Weiß den
+Bauern zurück, denn der Bauer d5 ist nun nicht mehr zu halten.} Qc8 17. Qxc8
+Raxc8 {Weiß steht etwas freier dank des Läuferpaares und kann sich auf d5
+bedienen.}) ({(b) Die Vorstoßvariante der Bauern wird zunächst durch einen
+Rückzug eingeleitet:} 9... Nc5 10. c3 d4 {Mit diesem Zug entscheidet sich
+Schwarz für die schärfste Variante. Er will die etwas ungünstige Stellung
+der weißen Figuren ausnützen und hofft darauf, dass Weiß auf d4 schlägt}
+11. Bxe6 {Die populäre Opfervariante Sf3-g5 führt aber nur zu einem
+ungünstigem Endspiel für Weiß, sofern Schwarz die besten Züge kennt. Daher
+ist dieser Zug prinzipieller. Es entsteht eine scharfe und unbalancierte
+Stellung, in der Schwarz sich präzise verteidigen muss} Nxe6 {Schwarz
+verteidigt seinen vorgerückten Bauern d4 und behält eine gute Bauernstruktur.
+Weiß hofft darauf, dass er das Feld e4 für Manöver gegen den schwarzen
+König nutzen kann} 12. cxd4 {Weiß beseitigt den störenden Vorstoßbauern
+und versucht sich harmonisch weiter zu entwickeln} Ncxd4 {Schwarz stellt einen
+der Springer auf ein schönes Zentralfeld. Er muss noch seinen Königsläufer
+entwickeln und den König in Sicherheit bringen} 13. a4 $1) 10. c3 {Weiß
+schafft ein Rückzugsfeld für seinen Läufer und überdeckt das wichtige
+Schlüsselfeld d4. Auch diese Stellung hätte wieder über Zugumstellung
+erreicht werden können (erst c2-c3 und dann erst Sb1-d2), aber dann hätte
+man mit der gefährlichen Dilworth-Variante rechnen müssen.} Nc5 {Der
+Springer stand auf e4 schon etwas instabil und zieht nach c5, um den weißen
+Königsläufer zu befragen. In der Regel folgt in Kürze die Fesselung mit dem
+schwarzen Damenläufer auf g4, um die weißen Handlungen auf dem
+Köngisflügel zu verlangsamen. Diese Stellung kann auch aus Zugumstellung
+erfolgen, wenn Schwarz zunächst den Springer zurückzieht und erst dann den
+Läufer nach e7 entwickelt.} ({Die Zentralvariante beginnt mit} 10... O-O {
+Anders als in der Hauptvariante, in der Schwarz sofort mit Se4-c5 und Le6-g4
+die Initiative ergreift, bringt er hier erst einmal seinen König in
+Sicherheit. Der Springer soll im Zentrum bleiben und dort mit f7-f5 betoniert
+werden.} 11. Bc2 {Weiß zentralisiert trotzdem seine Figuren. Er will
+unbedingt den starken und thematischen Springer auf e4 attackieren} f5 {
+Schwarz kämpft um das Zentrum. Dieser Zug verankert den Springer als starke
+Figur, schwächt allerdings auch die schwarzen Felder rund um den König und
+im Zentrum} 12. Nb3 {Natürlich schlägt Weiß nicht auf e4 und gibt dem
+Gegner ein Traumzentrum und die offene f-Linie. Statt dessen soll der weiße
+Damenspringer nach d4 gebracht werden und die Löcher in der schwarzen
+Stellung ausnutzen} Qd7 {Schwarz überdeckt sicherheitshalber die
+neuralgischen Punkte e6 und c6 und verbindet die Türme} 13. Nbd4 {Eigentlich
+ist es egal, mit welchem Springer man nach d4 geht, aber es ist instruktiver
+mit dem Damenspringer, da der Bauer e5 gedeckt bleibt} Nxd4 {Schwarz möchte
+tauschen, damit seine Damenflügelmehrheit in Bewegung kommt. Dafür gibt er
+auch das Läuferpaar} 14. Nxd4 {Hiernach kann Weiß auch einmal seinen
+f-Bauern in Bewegung setzen} c5 {Natürlich muss Schwarz um das Zentrum
+kämpfen} 15. Nxe6 Qxe6 16. f3 {Endlich kann der starke schwarze Springer
+vertrieben werden} Ng5 {Das Tabiya der offenen Verteidigung ist entstanden.
+Schwarz hat für das Läuferpaar schon einen vorgerückten Flügelangriff. Die
+weißen Figuren haben momentan wenig Raum} 17. a4 {Weiß muss um jeden Preis
+Linien für seine Läufer öffnen}) 11. Bc2 {Weiß behält natürlich den
+weißen Königsläufer und besetzt die wichtige Diagonale b1-h7} Bg4 {Schwarz
+ergreift sofort Initiative und bedroht den weißen Bauern auf e5} 12. Re1 {
+Weiß deckt den Bauern und räumt f1 für den Damenspringer} Qd7 {Das ist die
+moderne Fortsetzung in dieser Hauptvariante. Schwarz überdeckt die weißen
+Felder im Zentrum und räumt das Feld d8 für seinen Turm.} ({Früher wurde
+fast ausschließlich} 12... O-O {gespielt. Schwarz bringt seinen König in
+Sicherheit.} 13. Nf1 {Der Springer soll über e3 oder g3 wieder in das Spiel
+gebracht werden und räumt die Diagonale für den anderen weißen Läufer} Re8
+{Schwarz muss im Zentrum dagegen halten und übt Druck gegen den weißen
+Vorposten auf e5 aus} 14. h3 {Der Läufer wird befragt. Außerdem wird h2 zum
+Rangieren für einen der beiden Springer frei} Bh5 {Schwarz möchte den
+Läufer noch nicht geben, da dann seine weißen Felder schwach werden könnten}
+15. Ng3 {Der wirkungslose Springer wird unter Tempogewinn in das Spiel gebracht
+} Bg6 16. Nf5 {Hier hat der Springer ein aggressives Feld erobert} Bf8 {
+Das ist der sicherste Zug für Schwarz. Er rettet den Läufer vor Abtausch und
+droht mit Bauerngewinn auf e5} 17. Bf4 {Der Läufer musste ohnehin hierhin} Ne6
+{Schwarz greift die Deckungfigur an und droht beizeiten mit d5-d4} 18. Bh2 {
+Der Läufer steht jetzt auf h2 sehr sicher. Weiß kann jetzt entweder auf dem
+Königsflügel mit Sf3-h4 oder im Zentrum mit Sf5-e3 versuchen anzugreifen})
+13. Nf1 {Weiß beginnt das typische Umgruppierungsmanöver für den schlecht
+platzierten weißen Damenspringer.} Rd8 {Schwarz hat es geschafft, den Bauern
+auf d5 und die Situation im Zentrum zu stabilisieren.} *
+

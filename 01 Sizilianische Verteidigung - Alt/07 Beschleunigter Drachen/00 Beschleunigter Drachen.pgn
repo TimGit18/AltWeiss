@@ -1,0 +1,53 @@
+[Event "1.e4 vs The Sicilian II"]
+[Site "?"]
+[Date "2017.03.12"]
+[Round "?"]
+[White "Sizilianische Verteidigung"]
+[Black "Beschleunigter Drachen"]
+[Result "*"]
+[ECO "B35"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "27"]
+[EventDate "2017.??.??"]
+[SourceDate "2017.03.12"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 {Diese Zugfolge leitet den
+Beschleunigten Drachen ein. Schwarz möchte ein Druckspiel gegen den weißen
+Springer auf d4 einleiten. Weiß kann natürlich mit c2-c4 den Maroczy-Aufbau
+einleiten} 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O {Das ist der Hauptzug} ({(a) Der
+Damenausfall} 7... Qa5 {ist ein trickreicher Versuch. Daher muss Weiß} 8. O-O
+{spielen} ({Auf} 8. f3 {hofft Schwarz, denn dann gewinnt er mit} Qb4 9. Bb3
+Nxe4 {Material}) 8... O-O 9. Bb3 d6 10. h3 Bd7 11. Re1 Rfc8 12. Nd5) ({(b)
+Klassisch ist der Zug} 7... Na5 $2 {in einer Partie von Fischer} 8. Bxf7+ Kxf7
+9. e5 Ne8 $2 10. Ne6 {Weiß gewinnt die Dame oder setzt matt}) ({(c) Ein
+anderer Trick ist} 7... d6 8. f3 Qb6 9. Nf5 Qxb2 10. Nxg7+ Kf8 11. Nd5 Nxd5 12.
+Bxd5 Kxg7 13. O-O {mit Spiel für den geopferten Bauern}) 8. Bb3 {Das ist ein
+ganz wichtiger und notwendiger Zug. Aber er kostet ein Tempo, das Schwarz für
+sich nutzen kann} ({Nach dem fehlerhaften} 8. f3 $2 {folgt} Qb6 {mit besserem
+Spiel für Schwarz. Denn der Trick mit Sd4-f5 funktioniert nicht mehr, da der
+schwarze König bereits rochiert hat}) 8... d6 {Das ist die Hauptfortsetzung,
+die in eine Art Jugoslawischen Angriff führt. Der Hauptunterschied zum
+Standard-Drachen besteht allerdings darin, dass Weiß bereits den Läufer nach
+b3 zurückgezogen hat, ohne dass ihn Schwarz mit Ta8-c8 dazu gewzungen hat} ({
+(a) Die früher beliebteste Forstezung lautete} 8... a5 9. O-O a4 10. Nxa4 Nxe4
+11. Nb5 d5 12. Bb6) ({(b) Die moderne IDB-Forsetzung wird eingeleitet mit} 8...
+e6 9. O-O d5 10. exd5 exd5 11. Qd2) ({(c) Eine Art Dragondorf entsteht nach} 
+8... a6 9. f3 e6 10. Nxc6 bxc6) ({(d) Der Zentrumsgegenstoß} 8... d5 {ist ein
+wiederkehrendes Motiv im Beschleunigten Drachen} 9. exd5 Na5 10. O-O Nxb3 11.
+Nxb3) ({(e) Eine subtile Fortsetzung ist} 8... Re8 {, um nach f2-f3 den
+Gegenstoß d7-d5 durchzuführen}) 9. f3 Bd7 ({(a) Der Springerausfall} 9... Na5
+{soll den Läufer auf b3 abtauschen} 10. Qd2 Bd7 11. g4 Nxb3 12. cxb3) ({
+(b) Von Nakamura stammt die Idee} 9... Nxd4 10. Bxd4 Be6 11. Qd2 Qa5 12. O-O-O
+Rfc8) 10. Qd2 {Wenn sich jetzt beide Seiten normal entwickeln, dann erhält
+man wieder den Standard-Drachen} Nxd4 11. Bxd4 b5 {Das ist die große Idee im
+Beschleunigten Drachen. Schwarz kommt schnell zu b7-b5.} 12. a4 {Jetzt ist das
+optimale Timing für diesen Bauernzug} bxa4 {Das ist die gebräuchlichste
+Fortsetzung zur Zeit. Schwarz möchte nach vorne spielen und Weiß den
+schwachen schwarzen a-Bauern attackieren} ({In den letzten Jahren ist das
+zweischneidige} 12... b4 {populär geworden} 13. Nd5 Nxd5 14. exd5 Bxd4 15.
+Qxd4 {Weiß vermeidet die Vereinfachung und verhindert Pläne mit Dd8-b6}) 13.
+Bxa4 {Eigentlich möchte Weiß lieber mit dem Springer nehmen, aber dann zieht
+Schwarz seinen Damenläufer nach e6 und transformiert die Bauernstruktur} Bxa4
+14. Rxa4 {Weiß hat definitiv die bessere Struktur, aber die schwarzen Figuren
+sind gut platziert} *
+

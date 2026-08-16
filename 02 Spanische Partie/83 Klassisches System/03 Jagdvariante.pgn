@@ -1,0 +1,89 @@
+[Event "The Ruy Lopez Revisited"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassische Verteidigung"]
+[Black "Jagdvariante"]
+[Result "*"]
+[ECO "C65"]
+[Annotator "Ivan Sokolov"]
+[PlyCount "36"]
+[EventDate "2011.08.24"]
+[SourceDate "2011.08.24"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 {Damit geht Schwarz in die
+sogenannte Klassische Verteidigung über, in der er Figurendruck auf das
+Zentrum ausüben will. Die Klassische Verteidigung ist ein Hybrid aus Berliner
+Verteidigung und Cordel-Verteidigung. Schwarz hofft auf Gegenspiel im Zentrum.
+Weiß kann entweder eine Bauernfront im Zentrum aufbauen oder nach taktischen
+Verwicklungen suchen. Wahrscheinlich ist es stellungsgerecht, eine ruhige und
+zentralisierende Form der Entwicklung anzustreben. Weiß hat immer etwas mehr
+Raum im Zentrum, aber Schwarz ist gut entwickelt und wird sich nicht einfach
+überrennen lassen.} 5. c3 {[%csl Yc5,Rd4][%cal Gd2d4] Weiß entscheidet sich
+dafür ein großes Bauernzentrum aufzubauen. Der schwarze Königsläufer wird
+früher oder später zurückgedrängt werden. Die Hauptidee hinter diesem Zug
+ist wie in der Italienischen Partie, die Stellung des schwarzen
+Königsläufers auszunutzen und mindestens ein Tempo zu gewinnen.} O-O {Dieser
+Zug bringt den König in Sicherheit und entwickelt Schwarz sinnvoll weiter. Er
+ist taktisch gerechtfertigt, denn wenn Weiß auf c6 schlägt und sich danach
+auf e5 bedient, dann kann Schwarz auf e4 den Königsbauern zurücknehmen.} 6.
+d4 {Weiß muss konsistent spielen und baut das breite Bauernzentrum auf.
+Zurückhaltendes Spiel mit Tf1-e1 oder sogar d2-d3 wie in der Italienischen
+Partie würde gar keinen Sinn ergeben, denn Schwarz kann ganz entsprechend
+reagieren ohne Nachteile zu befürchten.} Bb6 {Schwarz könnte auch erst mit
+dem Königsbauern schlagen. Aber das wäre eine Konzession an Weiß. Das
+weiße Zentrum wird dynamisch und kann nach vorne rücken.} 7. Bg5 {Dieser Zug
+bildet die Hauptvariante. Weiß entwickelt seinen Damenläufer und fesselt
+erst einmal den gegnerischen Springer. Jetzt ist auch der Bauer auf e5 ein
+weiteres Mal bedroht, denn Schwarz kann ja nicht auf e4 zurückschlagen, wenn
+Weiß auf c6 tauscht und auf e5 weggnimmt.} h6 {Schwarz sollte den
+Fesselläufer sofort befragen, damit er auch immer die Option auf den Hebel
+g7-g5 hat.} 8. Bh4 {Der Läufer sollte nicht den Springer schlagen, sondern
+weiter Druck ausüben. Schwarz kann mit der Dame zurückschlagen. Sie steht
+auf f6 optimal und kontrolliert Teile des Zentrums. Wenn Weiß auf c6 schlägt,
+dann nimmt er mit der Dame zurück und schlägt dann auf e4.} d6 {Schwarz muss
+den e-Bauern verteidigen. Weiß sollte hier nicht versuchen auf Bauerngewinn
+zu spielen, denn er müsste Schwarz das Läuferpaar geben und nach Damentausch
+und Te8 hinge auch der weiße e-Bauer} 9. Qd3 {Das ist ein zentralisierender
+Entwicklungszug. Die Dame macht Platz frei für die weißen Türme und
+verteidigt die Bauern auf e4 und d4. Danach kann der Springer nach d2
+entwickelt werden, ohne dass der Bauer auf d4 seine Deckung verliert.} g5 $5 {
+Dieses direkte Vorgehen wurde auch schon gespielt. Schwarz geht sehr aggressiv
+am Königsflügel vor. Eine direkte Widerlegung existiert nicht.} 10. Bg3 {
+Wenn man sich nicht auf Komplikationen einlassen will, dann muss man den
+Läufer zurückziehen.} ({Die Konsequenzen von} 10. Nxg5 {sind nicht klar.}
+hxg5 11. Bxg5 Kg7 {Weiß hat zwar zwei Bauern für die geopferte Figur
+erhalten, aber sonst keine besondere Kompensation. Möglicherweise steht
+Schwarz hier in Ordnung. Topalov hat daher auf das Figurenopfer verzichtet.})
+10... Nh5 {[%csl Rf4,Rg3][%cal Gh5g3,Gh5f4] Schwarz setzt sein aktives Spiel
+am Königsflügel sinngemäß fort. Er greift den Läufer auf g3 und droht
+gleichzeitig mit dem Einnisten des Springers auf f4.} 11. Bxc6 {Das ganze
+folgende weiße Spiel ist gegen das Zentrum auf e5 gerichtet. Weiß wird
+weniger versuchen, den Bauern auf e5 zu gewinnen, als den schwarzen
+Damenflügel zu ruinieren.} ({Der Zug} 11. Na3 {[%csl Yc4][%cal Ga3c4] stammt
+von Caruana. Er ist ein guter Entwicklungszug und führt zu scharfem Spiel nach
+} exd4 12. cxd4 f5) 11... bxc6 {Der schwarze Damenflügel ist zerstört. Jetzt
+muss Weiß in ein Endspiel abwickeln und versuchen, die bessere Bauernstruktur
+zur Geltung zu bringen.} 12. dxe5 {Der Abtausch auf e5 bereitet den
+Damentausch vor. Anschließend kann Weiß auf e5 nehmen.} dxe5 {Schwarz will
+in das Endspiel einlenken. Er hofft genügend Druck auf der offenen e-Linie
+auszuüben.} 13. Qxd8 {Weiß hat keinen Grund, dem Endspiel auszuweichen.} Rxd8
+14. Bxe5 {Weiß hat einen Bauern gewonnen, wird diesen aber nicht halten
+können. Andererseits wird die Wirkdiagonale des Damenläufers erhöht.} Re8 {
+[%csl Ye4,Ye8][%cal Ge8e4] Der Turm geht sofort zum Gegenangriff über. Der
+Läufer ist zwar noch gedeckt, aber seine Deckungsfigur (der Springer auf f3)
+kann angegriffen werden.} ({Eine schärfere Vorgehensweise ist} 14... g4 $5 15.
+Nfd2 Re8 16. Bd4 {Die Stellung ist zweischneidig. Weiß hat einen Mehrbauern,
+aber die schwarzen Figuren können besser manövrieren}) 15. h3 {Weiß
+verhindert den Vorstoß g5-g4 halbmechanisch. Außerdem schafft der Zug ein
+Fluchtfeld für den Läufer auf e5, falls dieser angegriffen wird.} f6 {
+Schwarz vertreibt den Läufer von der e-Linie, um dann auf e4 selbst zugreifen
+zu können} 16. Bh2 {Der Läfuer zieht sich auf das zuvor geschaffene
+Fluchtfeld zurück} Rxe4 {Schwarz aktiviert den Turm und stellt das materielle
+Gleichgewicht wieder her.} 17. Nbd2 {Weiß entwickelt seine letzte Leichtfigur
+und vertreibt den Turm aus der aktiven Stellung im Zentrum.} Re8 {Schwarz
+beordert den Turm wieder auf die Grundreihe zurück} 18. a4 {Weiß eröffnet
+eine zweite Front und greift dort an, wo Schwarz am verwundbarsten ist, auf
+dem Damenflügel} ({Ein Fehler wäre} 18. Nc4 {wegen} Ba6) 18... a5 {Schwarz
+verhindert mechanisch den Vormarsch des weißen Bauern} *
+

@@ -1,0 +1,75 @@
+[Event "The Wonderful Winawer"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Winawer-System"]
+[Black "Springer-Variante"]
+[Result "*"]
+[ECO "C18"]
+[Annotator "Viktor Moskalenko"]
+[PlyCount "30"]
+[EventDate "2011.10.01"]
+[SourceDate "2011.10.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 {Weiß verteidigt den angegriffenen Bauern e4 und übt
+mit dem Springerzug Druck auf das schwarze Zentrum auf d5 aus} Bb4 {Neben der
+Drohung, die weißen Bauern mit dem Schlagen des Springers auf c3 zu verdoppeln,
+droht der Läuferzug einfach mit dem Bauerngewinn d5xe4} 4. e5 {Weiß trifft
+bereits eine weitreichende Entscheidung mit diesem Bauernvorstoß: Er sichert
+sich Raumvorteil im Zentrum und verwehrt dem schwarzen Springer das Feld f6.
+Natürlich hat der Zug auch Nachteile, das überdehnte weiße Zentrum ist
+anfällig für Flankenangriffe von der Seite.} c5 {Dieser Flankenangriff auf den
+weißen Basispunkt d4 ist das wesentliche Thema der Französischen
+Hauptvarianten. Schwarz beginnt sofort damit, die weiße Basis im Sinne von
+Nimzowitsch zu unterminieren. Im Gegensatz zur Tarrasch-Variante verfügt Weiß
+hier eben nicht über den Stützungszug c2-c3. Außerdem funktioniert dieser
+Gegenzug c7-c5 erst dann, wenn der weiße Königsbauer nach e5 vorgezogen ist,
+denn Weiß kann jetzt nicht mehr auf d5 ungezwungen schlagen} 5. a3 {Die
+Befragung des Läufers auf b4 ist die logische Fortsetzung des weißen Aufbaus.
+Wenn sich der Läufer zurückzieht, kann Weiß mit einem weiteren Gegenangriff
+und Spiel auf den schwarzen Feldern im Zentrum Vorteil erlangen.} Bxc3+ {
+Schwarz gibt seinen "guten" Läufer auf und erhält als Kompensation für die
+Aufgabe des Läuferpaars und der zustandegekommenen Schwäche auf den schwarzen
+Feldern folgenden Ausgleich: Die weiße Bauernstruktur ist irreparabal
+geschwächt. Weiß erhält schwache Bauerninseln auf der a- und der c-Linie. Der
+Bauer auf d4 gerät unter Beschuß und kann zum Angriffsziel der schwarzen
+Figuren werden.} 6. bxc3 {Weiß verfügt zwar über eine geschwächte
+Bauernstruktur, hat aber durch sein Läuferpaar dynamische
+Mittelspielmöglichkeiten im Zentrum und auf dem Königsflügel. Außerdem ist
+sein Zentrum sehr stark und er hat potentielles Spiel auf den schwarzen
+Feldern.} Ne7 {Schwarz entwickelt seinen Königsflügel, bevor dieser
+unweigerlich mit Dd1-g4 auf den schwachen schwarzen Feldern angegriffen wird.
+Auf e7 steht der Springer ideal, um einerseits auf f5 oder g6 defensive
+Aufgaben zu übernehmen, andererseits das weiße Zentrum auf d4 oder e5
+anzugreifen. Die eigentlichen Alternativen dazu bilden Damenzüge nach c7 oder
+nach a5} 7. Qg4 {Weiß spielt den naheliegenden Zug und greift sofort den
+schwarzen Königsflügel an seinem schwächsten Punkt, dem Bauern g7 an. Schwarz
+hat drei Möglichkeiten zu reagieren. Er kann versuchen, den Bauern wie in der
+Eingorn-Variante mit Ke8-f9 oder g7-g6 zu verteidigen. Oder er rochiert wie in
+der Warschauer Variante, wonach Weiß einen Königsangriff initiieren kann. Oder
+Schwarz opfert seine Königsflügelbauern, um seinerseits den geschwächten
+weißen Damenflügel anzugreifen} Nf5 {Dieser seltsame Zug beschützt den Bauern
+g7, ohne die Entwicklung und Koordination seiner Figuren zu beeinträchtigen.
+Schwarz plant mit dem Zug h7-h5 die weiße Dame zu vertreiben} ({Der andere
+Springerzug} 7... Ng6 {gilt eigentlich als nicht mehr so gut wegen der weißen
+Antwort} 8. h4 {Nach} h5 9. Qg3 Qa5 10. Bd2 Nc6 11. Bd3 Nce7 12. dxc5 Nf5 13.
+Bxf5 exf5 {entsteht eine Schlüsselposition in der Variante. Die schwarze
+Stellung ist immer noch sehgr solide}) 8. Bd3 {Es ist für Weiß ein Muss, den
+schwarzen Springer zu attackieren} h5 {Dieser Zug ist der Schlüsselzug der
+schwarzen Verteidigungsstrategie} (8... O-O 9. Bg5 Qa5 10. Ne2 Kh8 11. O-O Nc6
+12. Qh3 c4 13. Bxf5 exf5 14. Nf4 Be6 15. Rfe1 Qc7 16. Qh4 Rfe8 17. Re3) 9. Qf4
+{Dieser Zug stellt die beliebteste Antwort auf die schwarze Streategie dar.
+Vielleicht ist er der Grund, warum die Springer-Variante auf Großmeister-Ebene
+nie besonders beliebt wurde. Weiß behält mit seiner Dame seine Kontrolle über
+das Zentrum} Qc7 {Das typische Winawer-Manöver ist momentan die einzige
+schwarze Hoffnung in der Springer-Variante. Schwarz spielt hier nicht auf
+Remis, sondern will seine überlegene Bauernstruktur auszunutzen} ({(a)} 9...
+cxd4 10. cxd4 Qh4 11. Qxh4 Nxh4 12. Bg5 Nxg2+ 13. Kf1 f6 14. exf6 gxf6 15. Bxf6
+Rf8 16. Bg7 Rg8 17. Be5) ({(b)} 9... Qh4 10. Ne2 Qxf4 11. Nxf4 Ne7 12. Be2 h4
+13. Nh5 Kf8 14. Bg5 cxd4 15. cxd4 b6 16. O-O-O Ba6 17. Bxa6 Nxa6 18. g4) 10.
+Ne2 {Dieser Zug ist die flexibelste Entwicklung des Springers} Ne7 {Der
+Rückwärtsschritt des Springers ist eine einefache und starke Option. Schwarz
+verliert zwar ein Tempo, aber er droht damit, den weißen Läufer mit dem
+Vorstoß c5-c4 zu gewinnen} 11. dxc5 Nd7 12. O-O Qxe5 13. Bb5 Qxf4 14. Bxf4 a6
+15. Ba4 Kd8 *
+

@@ -1,0 +1,34 @@
+[Event "The Ruy Lopez Move by Move"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Möller-Angriff"]
+[Black "Endspielvariante"]
+[Result "*"]
+[ECO "C78"]
+[Annotator "Neil McDonald"]
+[PlyCount "61"]
+[EventDate "2011.08.30"]
+[SourceDate "2011.08.30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 {In der
+Möller-Verteidigung weicht Schwarz den theoretischen Hauptvarianten aus, ohne
+eine schlechte Verteidigung wählen zu müssen. Der Läuferzug auf c5 ist sehr
+aktiv und manchmal wirkt er zusammen mit dem anderen Läufer auf b7 zusammen} 7.
+a4 {Oft ist es für Weiß nützlich, diesen Zwischenzug zu schalten. Schwarz muss
+reagieren, da der a-Bauer gefesselt ist} Rb8 {Würde Schwarz den Damenläufer zu
+früh nach b7 ziehen, so könnte Weiß mit d2-d3 diesen Läufer auf Granit beißen
+lassen} 8. c3 {Weiß bereitet das übliche Zentrum vor. Das geht hier einfacher
+als in anderen Varianten, weil der Läufer auf c5 ein Angriffsobjekt ist. Weiß
+muss allederdings aufpassen, dass d4 nicht zu sehr unter Druck gerät} d6 {
+Schwarz stützt sein Zentrum und öffnet die Diagonale für den Damenläufer} 9. d4
+{Weiß führt konsequent seinen Plan durch zunächst einmal erobert er Raum im
+Zentrum} Bb6 {Schwarz muss auf dieses Feld, wo er den Einfluß des Turms auf b8
+allerdings etwas mindert} 10. Na3 {Dieser Zug ist ein mehrfunktionaler. Er
+greift b5 an und will auch das Feld d4 unterstützen} Bg4 11. axb5 axb5 12. Nxb5
+O-O 13. Re1 Bxf3 14. gxf3 Nh5 15. Kh1 Qf6 16. Rg1 exd4 17. Bg5 Qe5 18. Bd5 dxc3
+19. Bxc6 cxb2 20. Rb1 Bxf2 21. Rg2 Rxb5 22. Bxb5 Qxb5 23. Be7 Re8 (23... Qb6
+24. Qd5 Nf4 25. Rxg7+ Kxg7 26. Qg5+ Ng6 27. Bf6+ Kg8 28. Qh6) 24. Rxf2 Rxe7 25.
+Rfxb2 Qd7 26. Rb8+ Re8 27. Rxe8+ Qxe8 28. Qa4 Nf6 29. Qa7 Qd7 30. Rb8+ Ne8 31.
+Qxc7 *
+

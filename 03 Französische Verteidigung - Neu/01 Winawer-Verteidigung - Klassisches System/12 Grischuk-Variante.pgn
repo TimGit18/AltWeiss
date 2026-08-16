@@ -1,0 +1,83 @@
+[Event "1.e4 versus The French"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassisches Winawer-System"]
+[Black "Grischuk-Variante"]
+[Result "*"]
+[ECO "C18"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "41"]
+[EventDate "2011.10.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 {Weiß verteidigt den angegriffenen Bauern e4 und
+übt mit dem Springerzug Druck auf das schwarze Zentrum auf d5 aus} Bb4 {
+Neben der Drohung, die weißen Bauern mit dem Schlagen des Springers auf c3 zu
+verdoppeln, droht der Läuferzug einfach mit dem Bauerngewinn d5xe4} 4. e5 {
+Weiß trifft bereits eine weitreichende Entscheidung mit diesem Bauernvorstoß:
+Er sichert sich Raumvorteil im Zentrum und verwehrt dem schwarzen Springer das
+Feld f6. Natürlich hat der Zug auch Nachteile, das überdehnte weiße Zentrum
+ist anfällig für Flankenangriffe von der Seite.} c5 {Dieser Flankenangriff
+auf den weißen Basispunkt d4 ist das wesentliche Thema der Französischen
+Hauptvarianten. Schwarz beginnt sofort damit, die weiße Basis im Sinne von
+Nimzowitsch zu unterminieren. Im Gegensatz zur Tarrasch-Variante verfügt
+Weiß hier eben nicht über den Stützungszug c2-c3. Außerdem funktioniert
+dieser Gegenzug c7-c5 erst dann, wenn der weiße Königsbauer nach e5
+vorgezogen ist, denn Weiß kann jetzt nicht mehr auf d5 ungezwungen schlagen}
+5. a3 {Die Befragung des Läufers auf b4 ist die logische Fortsetzung des
+weißen Aufbaus. Wenn sich der Läufer zurückzieht, kann Weiß mit einem
+weiteren Gegenangriff und Spiel auf den schwarzen Feldern im Zentrum Vorteil
+erlangen.} Bxc3+ {Schwarz gibt seinen "guten" Läufer auf und erhält als
+Kompensation für die Aufgabe des Läuferpaars und der zustandegekommenen
+Schwäche auf den schwarzen Feldern folgenden Ausgleich: Die weiße
+Bauernstruktur ist irreparabal geschwächt. Weiß erhält schwache
+Bauerninseln auf der a- und der c-Linie. Der Bauer auf d4 gerät unter
+Beschuß und kann zum Angriffsziel der schwarzen Figuren werden.} 6. bxc3 {
+Weiß verfügt zwar über eine geschwächte Bauernstruktur, hat aber durch
+sein Läuferpaar dynamische Mittelspielmöglichkeiten im Zentrum und auf dem
+Königsflügel. Außerdem ist sein Zentrum sehr stark und er hat potentielles
+Spiel auf den schwarzen Feldern.} Ne7 {Schwarz entwickelt seinen
+Königsflügel, bevor dieser unweigerlich mit Dd1-g4 auf den schwachen
+schwarzen Feldern angegriffen wird. Auf e7 steht der Springer ideal, um
+einerseits auf f5 oder g6 defensive Aufgaben zu übernehmen, andererseits das
+weiße Zentrum auf d4 oder e5 anzugreifen. Die eigentlichen Alternativen dazu
+bilden Damenzüge nach c7 oder nach a5} 7. Qg4 {[%csl Yg7][%cal Gg4g7] Weiß
+spielt den naheliegenden Zug und greift sofort den schwarzen Königsflügel an
+seinem schwächsten Punkt, dem Bauern g7 an. Schwarz opfert seine
+Königsflügelbauern, um seinerseits den geschwächten weißen Damenflügel
+anzugreifen. Die Grischuk-Variante beginnt mit} cxd4 {[%csl Yc2,Yc3,Yc7][%cal
+Rd8c7,Rc7c3,Rc3c2] Dieser moderne Zug ist in erster Linie gegen den Läuferzug
+Lf1-d3 gerichtet. Wenn Weiß jetzt auf d4 schlagen würde, dann könnte
+Schwarz mit Dd8-c7 gleichzeitig die Felder c3 und c2 angreifen} 8. Bd3 {
+Weiß sollte besser auf das Schlagen verzichten und den Läufer auf sein
+Idealfeld entwickeln} Qa5 {Das ist die Idee von Schwarz und die Empfehlung von
+Berg und anderen. Jetzt kann Weiß nicht mit dem Bauern auf d4 schlagen, und
+das Schlagen mit der Dame würde den Springerzug Sb8-c6 erlauben} 9. Ne2 {
+[%csl Yc3,Ye2][%cal Ge2c3] Weiß deckt den Bauern c3 und entwickelt den
+Springer. Es ist bereits ein Scheideweg erreicht. Schwarz kann rochieren oder
+mit dem Springer den Königflügel blockieren.} Ng6 {Das ist ein Zug von
+Alexander Grischuk aus dem Jahr 2008, aber er erhielt eine unangenehme
+Stellung und spielt seitdem auch die Rochade.} 10. h4 $5 (10. Bd2 dxc3 11. Nxc3
+Qc7 12. f4 a6 13. h4 h5 14. Qg3 Nc6 15. O-O Nce7 16. Ne2 Nf5 17. Bxf5 exf5 18.
+Nd4 Qc5 19. Be3 Qe7 20. Bf2 {ließ Schwarz in einer unangenehmen Stellung in
+Al Modiahki,M - Grischuk,A Sochi 2008.}) 10... Nc6 11. f4 $1 (11. h5 Ncxe5 {
+führt zu wilden Komplikationen. Die bekannte Stammpartie verlief so} 12. Qxd4
+Nxd3+ 13. cxd3 e5 14. Qe3 d4 15. Qg3 Ne7 {mit besserem Ausgang für Schwarz in
+Tal,M-Bronstein,D Kiev 1964 URS-ch.}) 11... h5 $5 ({(a)} 11... dxc3 $6 12. h5
+Nge7 13. Qxg7 Rg8 14. Qxh7 Bd7 15. h6 {transponiert in eine Fernschachpartie,
+in der Weiß großen Vorteil hat.}) ({(b)} 11... Bd7 12. h5 (12. Rb1 $1 {
+behält sich den Bauernvorstoß vor} O-O-O 13. Bd2 {, wonach er etwas
+Initiative behält.}) 12... Nge7 13. Qxg7 O-O-O {war gut für Schwarz in
+Fossan,P-Galchenko,M Norway 2018}) 12. Qg3 dxc3 $5 {Das ist die
+interessanteste Fortsetzung, obwohl die meisten Spieler einen anderen Zug am
+Brett spielen würden.} (12... Nce7 13. Bd2 dxc3 14. Nxc3 {erinnert an die
+Grischuk-Stammpartie. Diese Version ist eine leichte Verbesserung für Weiß.})
+13. Bxg6 fxg6 14. Qxg6+ Kf8 15. a4 $1 (15. O-O Ne7 16. Qg5 Nf5 17. Ng3 {
+wird begegnet mit} Qc5+ $1 (17... Nxg3 18. Qxg3 {ist gut für Weiß, denn er
+hat starkes Angriffspotential trotz der ungleichfarbigen Läufer.}) 18. Kh2 Qe7
+{mit ausgezeichneten Remischancen.}) 15... b5 16. Be3 b4 (16... bxa4 17. O-O
+Ne7 18. Qg5 Nf5 19. Rf3 {mit exzellenter Kompensation für Weiß, der jetzt
+Se2-d4 spielt.}) 17. O-O Ne7 18. Qg5 Nf5 19. Rf3 Bd7 20. Nd4 Nxe3 21. Rxe3 {
+Weiß hat gute Angriffschancen, denn er hat die bessere Leichtfigur und
+bereitet f4-f5 vor.} *
+

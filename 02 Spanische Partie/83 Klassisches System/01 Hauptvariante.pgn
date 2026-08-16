@@ -1,0 +1,122 @@
+[Event "The Ruy Lopez Revisited"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Klassische Verteidigung"]
+[Black "Hauptvariante"]
+[Result "*"]
+[ECO "C65"]
+[Annotator "Ivan Sokolov"]
+[PlyCount "43"]
+[EventDate "2011.08.24"]
+[SourceDate "2011.08.24"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 {Damit geht Schwarz in die
+sogenannte Klassische Verteidigung über, in der er Figurendruck auf das
+Zentrum ausüben will. Die Klassische Verteidigung ist ein Hybrid aus Berliner
+Verteidigung und Cordel-Verteidigung. Schwarz hofft auf Gegenspiel im Zentrum.
+Weiß kann entweder eine Bauernfront im Zentrum aufbauen oder nach taktischen
+Verwicklungen suchen. Wahrscheinlich ist es stellungsgerecht, eine ruhige und
+zentralisierende Form der Entwicklung anzustreben. Weiß hat immer etwas mehr
+Raum im Zentrum, aber Schwarz ist gut entwickelt und wird sich nicht einfach
+überrennen lassen.} 5. c3 {[%csl Yc5,Rd4][%cal Gd2d4] Weiß entscheidet sich
+dafür ein großes Bauernzentrum aufzubauen. Der schwarze Königsläufer wird
+früher oder später zurückgedrängt werden. Die Hauptidee hinter diesem Zug
+ist wie in der Italienischen Partie, die Stellung des schwarzen
+Königsläufers auszunutzen und mindestens ein Tempo zu gewinnen.} O-O {Dieser
+Zug bringt den König in Sicherheit und entwickelt Schwarz sinnvoll weiter. Er
+ist taktisch gerechtfertigt, denn wenn Weiß auf c6 schlägt und sich danach
+auf e5 bedient, dann kann Schwarz auf e4 den Königsbauern zurücknehmen.} 6.
+d4 {Weiß muss konsistent spielen und baut das breite Bauernzentrum auf.
+Zurückhaltendes Spiel mit Tf1-e1 oder sogar d2-d3 wie in der Italienischen
+Partie würde gar keinen Sinn ergeben, denn Schwarz kann ganz entsprechend
+reagieren ohne Nachteile zu befürchten.} Bb6 {Schwarz könnte auch erst mit
+dem Königsbauern schlagen. Aber das wäre eine Konzession an Weiß. Das
+weiße Zentrum wird dynamisch und kann nach vorne rücken.} 7. Bg5 {Dieser Zug
+bildet die Hauptvariante. Weiß entwickelt seinen Damenläufer und fesselt
+erst einmal den gegnerischen Springer. Jetzt ist auch der Bauer auf e5 ein
+weiteres Mal bedroht, denn Schwarz kann ja nicht auf e4 zurückschlagen, wenn
+Weiß auf c6 tauscht und auf e5 weggnimmt.} h6 {Schwarz sollte den
+Fesselläufer sofort befragen, damit er auch immer die Option auf den Hebel
+g7-g5 hat.} 8. Bh4 {Der Läufer sollte nicht den Springer schlagen, sondern
+weiter Druck ausüben. Schwarz kann mit der Dame zurückschlagen. Sie steht
+auf f6 optimal und kontrolliert Teile des Zentrums. Wenn Weiß auf c6 schlägt,
+dann nimmt er mit der Dame zurück und schlägt dann auf e4.} d6 {Schwarz muss
+den e-Bauern verteidigen. Weiß sollte hier nicht versuchen auf Bauerngewinn
+zu spielen, denn er müsste Schwarz das Läuferpaar geben und nach Damentausch
+und Te8 hinge auch der weiße e-Bauer} 9. Qd3 {Das ist ein zentralisierender
+Entwicklungszug. Die Dame macht Platz frei für die weißen Türme und
+verteidigt die Bauern auf e4 und d4. Danach kann der Springer nach d2
+entwickelt werden, ohne dass der Bauer auf d4 seine Deckung verliert.} Qe7 {
+Dieser Zug ist der Beginn eines Umgruppierungsmanövers. Schwarz verstärkt
+die Deckung des e-Bauern, räumt d8 für den Turm und bereitet die
+Umgruppierung des Damenspringers vor. Da Weiß nicht Sc3-d5 spielen kann,
+steht die schwarze Dame hier gut. Ähnlich wie im Vierspringerspiel soll die
+Fesselung auf der Diagonalen h4-d8 aufgelöst werden.} 10. Nbd2 {Weiß
+entwickelt seinen Springer auf das Idealfeld. Er kann bei Bedarf auch nach c4,
+um den schwarzen Läufer auf b6 zu tauschen} Nb8 {Das ist der Beginn des
+Umgruppierungsmanövers. Der Springer soll nach d7, der Königsläufer nach c7
+und damit ist e5 zementiert} 11. Rfe1 {Der Turm deckt den Bauern e4 ein
+zweites Mal und räumt f1 für den Springer. Ein sofortiges Sd2-c4 erlaubt die
+schwarze Antwort c7-c6 mit Gegenspiel.} ({So wäre nach} 11. Nc4 c6 12. Nxb6
+axb6 13. Bc4 b5 14. Bb3 {nur akademischer Vorteil für Weiß übriggeblieben.
+Der Turm ist aktiv auf der a-Linie und die Bauernhebel von Schwarz sind
+unangenehm.}) 11... c6 {Der Bauernzug öffnet dem Läufer die Diagonale für
+den Rückzug und kontrolliert das Feld d5 im Zentrum} 12. Ba4 {[%csl Yb3,Yc2]
+[%cal Ga4b3,Gb3c2] Weiß will das Feld c4 für seinen Springer freihalten und
+zieht deswegen nicht den Läufer nach c4 zurück. Der Läufer steht zwar
+momentan ganz abseits, kann aber später über b3 oder c2 wieder in das Spiel
+gebracht werden} Bc7 {Mit diesem Zug stützt Schwarz das eigene Zentrum und
+macht seinen b-Bauern beweglich.} ({Leko spielte als Schwarz gegen Shirov} 
+12... Nbd7 13. Nc4 Bc7 14. Ne3 Re8 15. Nf5 Qf8 16. Rad1 Nh5 17. Bc2 Nb6 18. b3
+{Weiß hat zwar Raumvorteil, aber die schwarze Stellung ist sehr fest.}) 13.
+Nf1 {[%csl Yf1,Yf5,Yg3][%cal Gf1g3,Gg3f5] Weiß führt jetzt das typische
+spanische Springermanöver durch. Er hat mehr Raum im Zentrum und will die
+Initiative auf dem Königsflügel ergreifen. Der Läufer auf h4 hilft dabei
+den Druck auf die schwarze Dame aufrecht zuerhalten.} Nbd7 {Ein logischer und
+guter Entwicklungszug. Schwarz muss die Fesselung für seinen Springer
+befreien. Der Nachteil für Schwarz ist, dass er das Feld f5 blockiert} 14. Ng3
+{[%csl Ye7,Yf5,Yh5][%cal Gg3f5,Gf5e7,Gg3h5] Das ist die logische Antwort von
+Weiß. Er droht auf das Feld f5 zu gelangen und die Dame zu bedrängen.
+Außerdem hat er immer auch noch die andere Option nach h5 zu gehen, um den
+gefesselten Springer zu bedrohen} g6 {Schwarz muss die Felder f5 und h5
+kontrollieren. Er kann den König nach g7 stellen und den Bauern auf h6 decken.
+} ({Ein grober Unfug wäre der Zug} 14... g5 {Weiß gibt einen Springer für
+zwei Bauern und erhält eine starke Druckstellung} 15. Nxg5 hxg5 16. Bxg5 {
+[%csl Yf3,Rf6,Yh5][%cal Gd3f3,Gf3f6,Gg3h5,Gh5f6] Die weiße Dame kann nach f3
+gehen und der weiße Springer nach h5}) 15. Qd2 {[%csl Rh6][%cal Gd2h6] Ein
+weiterer logischer Zug von Weiß. Er greift den Bauern auf h6 an und
+verbessert die Stellung der weißen Dame.} Kh7 {Schwarz deckt den gefährdeten
+Bauern und räumt das Feld g8 für seinen Turm.} 16. h3 {Der Zug soll in
+erster Linie nicht das Feld g4 kontrollieren, sondern ein Fluchtfeld für den
+Läufer h4 schaffen. Dieser steht etwas ungünstig am Rand und sollte nicht
+gefangen werden.} Rg8 {Schwarz massiert seine Kräfte auf dem Königsflügel.
+Er bereitet den Vorstoß g6-g5-g4 vor und nutzt den Bauern auf h3 zum Aufriß
+der weißen Stellung.} 17. Nf1 {Dieser Rückzug schafft endlich Platz für den
+Läufer. Weiß kann den Springer auch über h2 in das Spiel zurückbringen.} g5
+{Schwarz führt seinen Plan durch. Er versucht, seine Stellung auf dem
+Königsflügel zu verbessern und die Initiative zu ergreifen.} 18. Bg3 {Weiß
+ist etwas zurückgedrängt worden, aber seine Stellung ist viel gesünder und
+die Figuren gut koordiniert.} Nh5 {[%csl Rf4][%cal Gh5f4] Schwarz versucht
+eine Art von Aktivität am Königsflügel zu erreichen. Vielleicht kann der
+Springer sich auf f4 einnisten. Denn Weiß kann ihn nicht schlagen ohne
+vorteilhaft für Schwarz die g-Linie zu öffnen.} 19. Ne3 {[%csl Yf5,Yg4][%cal
+Ge3g4,Ge3f5] Weiß rezentralisiert den Springer. Er visiert wieder das Feld f5
+und kontrolliert auch noch einmal g4. Er hat keine Angst vor dem Abtausch auf
+g3, denn danach kontrolliert er die schwarzen Felder auf dem Königsflügel.}
+Ndf6 {[%csl Ye4][%cal Gf6e4] Schwarz bringt den zweiten Springer in das Spiel
+und bedroht den Bauern auf e4} 20. Bc2 {Weiß bringt den Läufer zurück in
+das Zentrum und deckt den e-Bauern.} g4 {Das ist die ganze Idee von Schwarz,
+nämlich Gegenspiel auf der g-Linie zu organisieren.} 21. Nh4 {Weiß hat einen
+ähnlichen Plan, den er konsistent verfolgt. Er möchte einen Springer für
+immer auf f5 installieren.} gxh3 {Das bringt zwar nichts ein, aber so öffnet
+Schwarz wenigstens die g-Linie. Jetzt sollte Weiß nicht zurückschlagen, weil
+dann wirklich der Läufer auf g3 mit Schach fällt.} ({Ebenfalls
+unbefriedigend für Schwarz ist die Fortsetzung} 21... Nxg3 22. fxg3 gxh3 23.
+Nhf5 {Der Springer steht sehr stark auf f5 und deckt auch den Bauern auf g3.
+Wenn Schwarz den Springer mit dem Damenläufer schlägt, taucht einfach der
+nächste Springer auf f5 auf.}) 22. Nef5 {Weiß hat eine bessere Stellung in
+der Partie von Bacrot gegen Sokolov. Er drückt auf den Bauern h6. Der
+schwarze König steht schlecht und seine Läufer haben einen geringen
+Aktionsradius} *
+

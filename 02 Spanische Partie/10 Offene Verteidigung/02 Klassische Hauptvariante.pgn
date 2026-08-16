@@ -1,0 +1,76 @@
+[Event "Open Ruy Lopez"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Offene Verteidigung"]
+[Black "Klassische Hauptvariante"]
+[Result "*"]
+[ECO "C82"]
+[Annotator "Glenn Flear"]
+[PlyCount "37"]
+[EventDate "2011.08.28"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 {In der offenen Verteidigung besitzt Weiß die Königsflügelmehrheit und
+einen vorgerückten Bauern auf e5. Schwarz hat als Kompensation einen starken
+d-Bauern und die Mehrheit auf dem Damenflügel. Schwarz hat einen starken
+Springer auf e4, der aber mit Sb1-d2 und f2-f3 angegriffen werden kann.
+Außerdem muss er sich noch um die Sicherheit seines Königs kümmern.} 9. Nbd2
+{Der populärste weiße Zug. Weiß übt sofort Druck auf das gegnerische
+Zentrum und den starken Springer e4 aus. Außerdem vermeidet er den
+gefährlichen Dilworth-Angriff} Be7 {Schwarz entwickelt sich und bereitet die
+kurze Rochade vor. Er bietet eine Transposition in die Hauptvariante an} 10. c3
+{Weiß schafft ein Rückzugsfeld für seinen Läufer und überdeckt das
+wichtige Schlüsselfeld d4} Nc5 {Der Springer stand auf e4 schon etwas
+instabil und zieht nach c5, um den weißen Königsläufer zu befragen. In der
+Regel folgt in Kürze die Fesselung mit dem schwarzen Damenläufer auf g4, um
+die weißen Handlungen auf dem Köngisflügel zu verlangsamen} 11. Bc2 {
+Weiß behält natürlich den weißen Königsläufer und besetzt die wichtige
+Diagonale b1-h7} Bg4 {Schwarz ergreift sofort Initiative und bedroht den
+weißen Bauern auf e5} 12. Re1 {Weiß deckt den Bauern und räumt f1 für den
+Damenspringer} O-O {Das ist die Klassische Version der Hauptvariante in der
+Offenen Verteidigung. Schwarz bringt umgehend seinen König in Sicherheit.} ({
+Der Zug} 12... d4 $6 {ist hier zweifelhaft, denn nach} 13. Nb3 d3 14. Bb1 Nxb3
+15. axb3 Bf5 16. Be3 O-O 17. Bd4 Qd5 ({Oder} 17... Nxd4 18. Nxd4 Bg6 19. Bxd3
+Bxd3 20. Nc6 Qd7 21. Nxe7+ Qxe7 22. Qxd3 {mit einem klaren Vorteil für Weiß.}
+) 18. Re3 Rad8 19. Bxd3 Nxd4 20. cxd4 Bg4 21. Be4 Qe6 22. Qc2 {gibt es einen
+klaren Vorteil für Weiß in Geller,E-Anand,V New Delhi 1987}) 13. Nf1 {
+Der Springer soll über e3 oder g3 wieder in das Spiel gebracht werden und
+räumt die Diagonale für den anderen weißen Läufer} Re8 {Schwarz muss im
+Zentrum dagegen halten und übt Druck gegen den weißen Vorposten auf e5 aus.
+Der Zug wurde beliebt nach der Partie Wang Zili-Yusupov,1990.} ({Der Zug} 13...
+d4 {ist hier inadäquat.} 14. h3 Bh5 {Schwarz zieht sicherheitshalber den
+Läufer zurück. Aber das lädt Weiß ein} ({Nach} 14... Bxf3 15. Qxf3 d3 16.
+Bb1 {wird Weiß den d-Bauern einkesseln.}) 15. Ng3 Bxf3 {[%csl Yd2,Yd3][%cal
+Gd4d3,Gd3d2] Jetzt ist der Zug gerechtfertigt, denn Weiß hat keine Kontrolle
+mehr über d2.} 16. Qxf3 d3 17. b4 $1 {Das ist ein guter Konter, denn wenn der
+weiße Läufer zurückgeht, dann gewinnt d3-d2.} dxc2 18. bxc5 Qd7 19. Nf5 {
+Weiß hat hier zwei schlimme Drohungen in Timman-Korchnoj, Groningen 1996.})
+14. h3 {Der Läufer wird befragt. Außerdem wird h2 zum Rangieren für einen
+der beiden Springer frei} Bh5 {Schwarz möchte den Läufer noch nicht geben,
+da dann seine weißen Felder schwach werden könnten} 15. Ng3 {Der
+wirkungslose Springer wird unter Tempogewinn in das Spiel gebracht} Bg6 16. Nf5
+{Hier hat der Springer ein aggressives Feld erobert} Bf8 {[%csl Ye5][%cal
+Ge8e5,Gc6e5] Das ist der sicherste Zug für Schwarz. Er rettet den Läufer vor
+Abtausch und droht mit Bauerngewinn auf e5 Spraggett,K: '!?'} ({In der
+berühmten Partie Svidler,P - Adianto,U Groningen 1997 folgte der riskante Zug
+} 16... Ne4 $5 {, der eigentlich von Timman stammt.} 17. Nxe7+ Rxe7 18. Bf4 $14
+Qd7 19. Nh4 $1 Nc5 ({(a)} 19... Nxe5 $4 {verliert eine Figur nach} 20. Bxe5
+Rxe5 21. Nxg6 hxg6 22. Rxe4 $18) ({(b)} 19... Rae8 {verliert einen Bauern nach}
+20. Nxg6 hxg6 21. Bxe4 dxe4 22. Qxd7 Rxd7 23. Rxe4) 20. Nxg6 hxg6 {Der beste
+Zug in dieser Stellung ist laut Mikhalevski} 21. Qf3 $1 Rae8 22. Red1 $1 d4 $1
+{Ein thematischer Durchbruch für Schwarz und der stärkste Zug. Die folgenden
+Analysen stammen von Mikhalevski.} ({Zum glatten Vorteil für Weiß führt} 
+22... Nxe5 23. Qxd5 Qxd5 24. Rxd5 $16 {Weiß hat das Läuferpaar und die
+besser platzierten Figuren.}) 23. b4 Ne6 {Wie üblich greift dieser Rückzug
+die Deckungsfigur auf f4 an.} 24. Bh2 $1 Ng5 $140 {Schwarz strebt nach
+Gegenspiel.} 25. Qd3 $1 Nxe5 26. Qg3 $1 Qd5 27. f4) 17. Bf4 {Der Läufer
+musste ohnehin hierhin.} Ne6 {Schwarz greift die Deckungfigur an und droht
+beizeiten mit d5-d4} ({Weniger überzeugend ist} 17... Qd7 {, denn Weiß hat
+eine nützliche Initiative in Spraggett,K -Korneev,O San Sebastian 1999.} 18.
+N3h4 $1 Na4 $5 19. Rb1 Nb6 20. Qg4 $1 $36) 18. Bh2 {Der Läufer steht jetzt
+auf h2 sehr sicher. Weiß kann jetzt entweder auf dem Königsflügel mit
+Sf3-h4 oder im Zentrum mit Sf5-e3 versuchen anzugreifen} Na5 19. Ne3 {Wahls,
+M-Huebner,R/GER-CupT 1991} ({Besser ist vielleicht} 19. N3h4 $5 c5 20. Nxg6
+hxg6 21. Nd6 {mit unangenehmen Druck auf die schwarze Stellung.}) *
+

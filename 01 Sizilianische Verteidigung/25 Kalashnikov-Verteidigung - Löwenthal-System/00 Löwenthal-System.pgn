@@ -1,0 +1,51 @@
+[Event "1 e4 vs The Sicilian"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Kalashnikov-Verteidigung"]
+[Black "Löwenthal-System"]
+[Result "*"]
+[ECO "B99"]
+[Annotator "Parimarjan Negi"]
+[PlyCount "18"]
+
+1. e4 c5 {Die Sizilianische Verteidigung ist die beste und erfolgreichste
+Verteidigung gegen die Königsbauern-Eröffnung. Denn sie führt zu
+asymmetrischen Strukturen und Gegenspiel für Schwarz.} 2. Nf3 {[%csl Yd4]
+[%cal Rd2d4] Weiß möchte so schnell wie möglich das Zentrum öffnen und den
+Springer zentralisieren. Der Zug d2-d4 schafft etwas mehr Raum. Allerdings
+tauscht Weiß einen Zentrumsbauern gegen einen Flügelbauern. Ein weiterer
+universeller Zug ist} Nc6 {[%csl Yd4][%cal Rc6d4,Rc5d4] Schwarz legt sich noch
+nicht auf eine spezifische Bauernstruktur fest und entwickelt zunächst seine
+Figuren. Zugleich wird etwas mehr Druck auf das Feld d4 ausgeübt und der
+Gegenangriff auf den Bauern e4 mit Sg8-f6 vorbereitet. Insgesamt ist der Zug
+ein sehr guter Abwartezug, der die schwarze Aufstellung sehr flexibel hält.}
+3. d4 {Weiß öffnet die Stellung, da er weiß, dass ein doppelter Tausch auf
+d4 nur für ihn gut sein kann.} cxd4 4. Nxd4 {Eine Abwandlung und
+Beschleunigung zum Sveshnikov-System bildet das Kalashnikov-System nach} e5 {
+Schwarz beansprucht Raum im Zentrum und vertreibt den weißen Springer von
+seinem schönen Zentralfeld. Der Nachteil dieses Zuges ist, dass das wichtige
+Feld d5 für immer geschwächt wird, da es nicht mehr von einem schwarzen
+Bauern kontrolliert werden kann. Als Ausgleich erhält Schwarz dynamisches
+Spiel, genügend Raum für seine Figuren und eine schnelle Entwicklung.} 5. Nb5
+{[%csl Yd6][%cal Gb5d6] Wie in der Sveshnikov-Verteidigung muss der Springer
+auf dieses aktive Feld gehen, wenn er um Eröffnungsvorteil kämpfen will.
+Würde er fehlerhaft auf c6 tauschen, so hätte Schwarz bald mit seiner
+Zentrumsmehrheit einen Vorteil.} {Wenn Schwarz auf d7-d6 verzichtet, kann er}
+a6 {spielen, was die Löwenthal-Variante darstellt. Aber jetzt dringt der
+weiße Springer in die schwarze Stellung ein.} 6. Nd6+ Bxd6 7. Qxd6 {Weiß hat
+sich das Läuferpaar gesichert und seine Dame in eine dominante Stellung
+gebracht. Allerdings muss er darauf achten, dass er in der Entwicklung nicht
+zurückfällt.} Qf6 {Das ist die ganze Idee der Löwenthal-Verteidigung. Wenn
+Weiß die Damen tauscht, dann erhält Schwarz eine gute Entwicklung. Wenn
+Weiß die Dame zurückzieht, verliert er Zeit.} 8. Qxf6 {Auch wenn dieser Zug
+keinen großen Vorteil sichert, so ist er einfacher als der häufigere
+Damenrückzug nach d1.} Nxf6 9. Nc3 {[%csl Yd5] Obwohl Schwarz besser
+entwickelt ist, sind die strukturellen Vorteile auf der weißen Seite. Er
+besitzt das Läuferpaar, und Schwarz hat ein sehr großes Loch auf d5, das
+Weiß sehr gut kontrollieren. Schwarz muss also etwas unternehmen.} Nb4 {
+[%csl Yc2,Yd5][%cal Rb4c2,Gb4d5] Dieser Zug verfolgt zwei Ideen. Zum einen
+wird c2 angegriffen, um die weiße Entwicklung und Figurenkoordination zu
+erschweren, zum anderen das neuralgische Feld d5 ein weiteres Mal von einer
+Figur überdeckt. Allerdings steht der Springer auf b4 nicht stabil.} *
+

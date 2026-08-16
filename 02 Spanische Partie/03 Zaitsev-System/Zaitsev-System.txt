@@ -1,0 +1,22 @@
+======================================
+Spanische Partie: Zaitsev-System (C92)
+======================================
+1. e2-e4 	e7-e5 
+2. Sg1-f3	Sb8-c6 
+3. Lf1-b5	a6 
+4. La4 		Sf6 
+5. O-O 		Le7 
+6. Te1 		b5 
+7. Lb3		d6
+8. c3 		O-O 
+9. h3 		Lb7
+10.d4 		Te8
+11.Sbd2 	Lf8 
+12.a4 		h6 
+13.Lc2 		exd4 
+14.cxd4 	Sb4
+----------------------------------------------------------------------------------------- 
+15.Lb1		c5  	-->	15...	Dd7	Experimentelle Variante	(C92)	x	
+16.d5 		Sd7 
+17.Ta3 		f5	-->	17...	c4	Kritische_Variante	(C92)	x
+		 				Hauptvariante		(C92)

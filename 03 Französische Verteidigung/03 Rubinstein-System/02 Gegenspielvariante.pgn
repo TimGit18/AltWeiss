@@ -1,0 +1,62 @@
+[Event "French Defence"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Rubinstein-System"]
+[Black "Gegenspielvariante"]
+[Result "*"]
+[ECO "C11"]
+[Annotator "Lev Psakhis"]
+[PlyCount "34"]
+[EventDate "2011.10.02"]
+[SourceDate "2011.10.02"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 {Schwarz eliminiert sofort und für alle
+Zeiten den Vorstoß e4-e5 und fixiert die Bauernstruktur im Zentrum. Er wird
+gewöhnlicherweise den weißen Springer von dem dominanten Feld e4 vertreiben
+und den Befreiungsschlag c7-c5 vorbereiten. Sein weißfeldriger Läufer wird
+ausgezeichnet auf der langen Diagonalen a8-h1 platziert sein. Schwarz hofft
+darauf, die leichte Initiative seines Gegners zu neutralisieren. Weiß selbst
+setzt seine Hoffnungen in aktives Spiel auf dem Königsflügel} Nd7 {Vielleicht
+der logischste Zug. Schwarz bevorzugt den natürlichsten Abtausch des
+gegnerischen Springers auf f6} 5. Nf3 {Zweifelsohne der beliebteste Zug. Weiß
+entwicklet eine weitere Figur auf dem Königsflügel und bereitet die kurze
+Rochade vor} Ngf6 {Schwarz kann den Springer nicht so im Zentrum stehen lassen}
+6. Bd3 {Dieser Zug ist extrem multifunktional und viel komplexer als wenn Weiß
+den Springer abtauscht} c5 {Schwarz führt sofort einen Gegenschlag gegen das
+weiße Zentrum aus. Weiß kann jetzt nicht so wie in der Hauptvariante sich
+seelenruhig weiterentwickeln, sondern muss auf die schwarze Bedrohung reagieren
+} 7. O-O {Zunächst bringt Weiß erst einmal seinen König aus dem Zentrum hinaus}
+Nxe4 {Schwarz will wie so oft durch Abtausch den Figurendruck mildern. Er will
+die Stellung auf jeden Fall vereinfachen} (7... cxd4 8. Nxd4 Nxe4 9. Bxe4 Nf6
+10. Bf3 Be7 11. Nb5 O-O 12. Bf4 Bd7 13. c4 Bc6 14. Qe2 Bxf3 15. Qxf3 Qb6) 8.
+Bxe4 {Weiß hat zwar seinen schönen Springer im Zentrum verloren, aber er hat
+jetzt einen schönen Läufer im Zentrum platziert} Nf6 {Das ist der am
+häufigsten gespielte Zug. Schwarz kann es nicht tolerieren, dass Weiß sich im
+Zentrum ausbreitet} (8... Be7 9. c3 O-O 10. Qe2 Qc7 11. Re1 Nf6 12. Bg5 Nxe4
+13. Qxe4 Bd6 14. Rad1) 9. Bg5 {Mit diesem aggressiven Entwicklungszug
+unterbindet Weiß die freie Entwicklung der schwarzen Figuren} cxd4 {Schwarz
+zerstört das weiße Zentrum. Weiß muss jetzt entscheiden, ob er die Spannung im
+Zentrum aufläsen will oder weiter versuchen soll, auf Entwicklungsvorsprung zu
+spielen} (9... h6 10. Bxf6 Qxf6 11. Qd3) 10. Qe2 {Der Zug sieht überzeugender
+aus als das direkte Wiedernehmen mit dem Springer} Be7 {Die weiße Initiative
+auf dem Königsflügel würde Schwarz Probleme bereiten, falls er seine
+Entwicklung nicht beendet} (10... Qb6 11. Rfd1 Bc5 12. Bxf6 gxf6 13. b4 Qxb4
+14. Rab1 Qa4 15. Qd2 Qd7 16. c3) 11. Rad1 {Weiß erobert jetzt den Bauern
+zurück und zwar unter vorteilhaften Umständen} Nxe4 {Mit diesem Zug hofft
+Schwarz darauf, einen Massenabtausch in die Wege leiten zu können. Aber Weiß
+hat eine geschickte Antwort} (11... Qb6 12. Nxd4 Bd7 13. Bxf6 gxf6 14. Rfe1)
+12. Rxd4 $1 {Dieser Zwischenzug würde zwar kein Material gewinnen, aber Weiß
+die Herrschaft im Zentrum ermöglichen} Qxd4 {Schwarz hat keine große Wahl und
+muss bereits die Dame geben} ({(a)} 12... Bd7 13. Qxe4 Bxg5 14. Nxg5 Qxg5 15.
+Rxd7) ({(b)} 12... Nd6 13. Bxe7 Qxe7 14. Rfd1) 13. Nxd4 Nxg5 {Es sieht so aus,
+als hätte Schwarz mehr als genug Kompensation für die Dame, aber sein Springer
+hat kein Fluchtfeld mehr} 14. h4 {Nun wird der schwarze Springer gefangen} O-O
+{Schwarz tut gut daran, seine Entwicklung zu vervollständigen und den König in
+Sicherheit zu bringen} (14... e5 15. Qxe5 Ne6 16. Nf5 f6 17. Qb5+ Kf7 18. Nxe7
+Kxe7 19. f4) 15. hxg5 Bxg5 {Immerhin hat Schwarz noch einen Bauern für den
+Springer kassiert. Das Läfuerpaar gibt ihm sicher gewisse Chancen auf
+Gegenspiel} 16. Rd1 {Weiß besetzt sofort die offene d-Linie und hofft darauf,
+die Aktivitäten der gegnerischen Figuren einschränken zu können} Bf6 17. Nb5 a6
+*
+

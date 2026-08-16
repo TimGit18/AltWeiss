@@ -1,0 +1,14 @@
+[Event "The Modernized Ruy Lopez Volume 1"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Aronian-System"]
+[Black "Jagd-Variante"]
+[Result "*"]
+[ECO "C70"]
+[Annotator "Darius Swiercz"]
+[PlyCount "29"]
+[SourceVersionDate "2019.07.09"]
+
+{[%evp 0,29,25,14,10,15,11,8,21,-1,42,6,45,17,41,42,38,42,31,27,21,-12,46,51,51,51,51,45,32,30,32,23]} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nge7 {Die Empfehlung von Darius Swiercz lautet} 5. c3 g6 6. d4 exd4 7. cxd4 b5 8. Bc2 $1 {Ein wichtiger Zug. Früher hat man auch La4-b3 gespielt, aber dies ist viel genauer, da Schwarz jetzt mit dem Ausfall Sc6-a5 kein Tempo gewinnt. Die Jagdvariante beginnt mit dem unvorteilhaften Zug} Bg7 {, denn er erlaubt Weiß ein starkes Zentrum aufzubauen und einige praktische Probleme zu stellen.} 9. d5 Na5 ({Auch sehr unbequem für Schwarz ist} 9... Nb4 10. Bb3 a5 11. a3 Na6 12. O-O {und Weiß erfreut sich eines schönen Zentrums.}) 10. Bd2 $1 {Wieder einmal wird der schwarze Springer gejagt und, was noch wichtiger ist, der Damenläufer soll nach c3.} c5 {Dies ist die Hauptfortsetzung in dieser Stellung und wahrscheinlich die beste Option für Schwarz. Allerdings steht Weiß besser nach} ({Die Annahme des Qualitätsopfers} 10... Bxb2 $2 {ist bloß furchtbar für Schwarz. Weiß gewinnt hier immer.} 11. Bxa5 Bxa1 12. Nc3 Bb2 13. d6 Nc6 14. Nd5 O-O 15. dxc7 Qe8 16. Bd2 {mit riesigem Vorteil für Weiß. Der Bauer auf c7, gestützt vom mächtigen Springer auf d5 beengen das schwarze Spiel.}) ({Wenn jetzt der angegriffene Springer zieht, dann folgt} 10... Nc4 11. Bc3 Bxc3+ 12. Nxc3 d6 ({Weiß ist nach dem Bauernraub} 12... Nxb2 {auf viele Arten besser dran, zum Beispiel} 13. Qd4 O-O 14. Bb3 d6 15. Rb1 c5 16. Qd2 Nc4 17. Bxc4 bxc4 18. Qh6 $16) 13. Qc1 $1 {Weiß verfügt über diese Extra-Option.} c6 14. dxc6 Nxc6 15. Qh6 $16) 11. Bc3 O-O 12. O-O ({Aus der Partie Tiglon-Xiong, Philadelphia 2019, stammt} 12. Bxg7 Kxg7 13. b4 $6 {, aber es ist hier nicht notwendig die Dinge so zu forcieren.} cxb4 14. Qd4+ Kg8 15. Qxb4 Bb7 $132) 12... d6 13. b3 $1 {Es ist hier wichtig, den schwarzen Springer zu beschränken. Nun kann Schwarz nicht viel machen der einzige aktive Plan für ihn lautet} f5 {, aber nach} ({Denn auch} 13... Bg4 14. h3 Bxf3 15. Qxf3 {löst die schwarzen Probleme nicht.}) 14. Bxg7 Kxg7 15. Nc3 {bleibt er in einer sehr schlechten Stellung.} *
+
